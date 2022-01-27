@@ -1,5 +1,0 @@
-> shodan download --limit 10 results.json.gz port:1883 "MQTT connection code: 0"
-> shodan convert results.json.gz xlsx
-
-#Should add another filter for country
-#Setting the limit 10 seems to limit the number of results downloaded, not the number of results obtained from the scan. They still charged me 70,000 credits .___.

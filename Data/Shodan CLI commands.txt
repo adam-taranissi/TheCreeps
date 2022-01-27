@@ -1,0 +1,2 @@
+> shodan download --limit 10000 results.json.gz port:1883 "MQTT connection code: 0" "country:US"
+> shodan convert results.json.gz xlsx

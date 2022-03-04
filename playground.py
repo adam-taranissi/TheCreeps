@@ -1,6 +1,7 @@
 import pandas as pd
 import paho.mqtt.client as mqtt
-
+import json
+import time
 
 
 data = pd.read_excel("Data\shodan_query_results.xlsx")
@@ -17,13 +18,42 @@ def on_connect(client, userdata, flags, rc):
 
 # The callback for when a PUBLISH message is received from the server.
 def on_message(client, userdata, msg):
-    print(msg.topic+" "+str(msg.payload.decode("ASCII")))
+    result = {}
+    result["topic"] = msg.topic
+    result["msg"] = str(msg.payload.decode("ASCII"))
+    output = json.dumps(result)
+    global fname
+    f = open(fname, "a")
+    f.write(output)
+    f.close()
 
 client = mqtt.Client()
 client.on_connect = on_connect
 client.on_message = on_message
 
-#hardcoding a specific IP bc it looked juicy
-print(data['IP'][90])
-client.connect(data['IP'][90], 1883, 60)
-client.loop_forever()
+# #hardcoding a specific IP bc it looked juicy
+# print(data['IP'][90])
+# client.connect(data['IP'][90], 1883, 60)
+# client.loop_forever()
+
+fname = ""
+for i in range(50, 100):
+    fname = str(i) + ".txt"
+    try:
+        client.connect(data['IP'][i], 1883, 60)
+    except:
+        print("could not connect to ", data["IP"][i])
+        continue
+    starttime = time.time()
+    client.loop_start()
+    try:
+        while True:
+            if time.time() - starttime < 5:
+                continue
+            else:
+                break
+    except KeyboardInterrupt:
+        print('KeyboardInterrupt')
+        
+    client.loop_stop()
+

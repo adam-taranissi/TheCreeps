@@ -1,0 +1,3 @@
+{"IP": "35.185.20.13"}
+{"topic": "TestHulixTime", "msg": "1557571505270"}
+{"topic": "abc/123", "msg": "XYZ"}

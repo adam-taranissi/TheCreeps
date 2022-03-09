@@ -1,0 +1,16 @@
+{"IP": "165.227.186.237"}
+{"topic": "broadcast/to", "msg": "{\"type\": \"keepalive\", \"timestamp\": \"191009201301\"}"}
+{"topic": "NASA/placatest/from/info", "msg": "{\"cmd\":\"info\",\"timestamp\":\"200115200014\",\"boardid\":\"placatest\",\"version\":\"03.17\",\"media\":\"wireless\",\"capcards\":\"5056\",\"freecards\":\"5056\"}"}
+{"topic": "NASA/placatest/from/keepalive", "msg": "{\"cmd\":\"keepalive\",\"timestamp\":\"200115200854\"}"}
+{"topic": "NASA/aurum208F/from/info", "msg": "{\"cmd\":\"info\",\"timestamp\":\"200201220348\",\"boardid\":\"aurum208F\",\"version\":\"03.21\",\"media\":\"wireless\",\"capcards\":\"5056\",\"freecards\":\"5056\"}"}
+{"topic": "NASA/aurum208F/from/keepalive", "msg": "{\"cmd\":\"keepalive\",\"timestamp\":\"200201210417\"}"}
+{"topic": "NASA/aurum5C8A/from/info", "msg": "{\"cmd\":\"info\",\"timestamp\":\"200115201054\",\"boardid\":\"aurum5C8A\",\"version\":\"03.17\",\"media\":\"wireless\",\"capcards\":\"5056\",\"freecards\":\"5056\"}"}
+{"topic": "NASA/aurum5C8A/from/keepalive", "msg": "{\"cmd\":\"keepalive\",\"timestamp\":\"200115201143\"}"}
+{"topic": "NASA/aurumD474/from/info", "msg": "{\"cmd\":\"info\",\"timestamp\":\"200201211555\",\"boardid\":\"aurumD474\",\"version\":\"03.21\",\"media\":\"wireless\",\"capcards\":\"5056\",\"freecards\":\"5056\"}"}
+{"topic": "NASA/aurumD474/from/keepalive", "msg": "{\"cmd\":\"keepalive\",\"timestamp\":\"200201214347\"}"}
+{"topic": "NASA/aurum9CF9/from/info", "msg": "{\"cmd\":\"info\",\"timestamp\":\"200114081015\",\"boardid\":\"aurum9CF9\",\"version\":\"03.17\",\"media\":\"wireless\",\"capcards\":\"5056\",\"freecards\":\"5056\"}"}
+{"topic": "NASA/aurum9CF9/from/keepalive", "msg": "{\"cmd\":\"keepalive\",\"timestamp\":\"200114084805\"}"}
+{"topic": "NASA/aurum79BF208F/from/info", "msg": "{\"cmd\":\"info\",\"timestamp\":\"200201205657\",\"boardid\":\"aurum79BF208F\",\"version\":\"03.21\",\"media\":\"wireless\",\"capcards\":\"5056\",\"freecards\":\"5056\"}"}
+{"topic": "NASA/aurum79BF208F/from/keepalive", "msg": "{\"cmd\":\"keepalive\",\"timestamp\":\"200201205221\"}"}
+{"topic": "NASA2/IodineX/from/info", "msg": "{\"cmd\":\"info\",\"boardid\":\"IodineX\",\"version\":\"01.03\"}"}
+{"topic": "abc/123", "msg": "XYZ"}

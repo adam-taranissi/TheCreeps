@@ -1,0 +1,2 @@
+{"IP": "45.33.105.244"}
+{"topic": "spBv1.0/solarsite2/NCMD/btlesystem1", "msg": "\b\u066c\u02cb\u0006\u0012\u001f\n\u0014Node Control/Rebirth\u0018\u066c\u02cb\u0006z\u00011\u0018U"}

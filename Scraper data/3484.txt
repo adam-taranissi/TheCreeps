@@ -1,0 +1,5 @@
+{"IP": "167.172.137.99"}
+{"topic": "wled/48a23b", "msg": "0"}
+{"topic": "wled/48a23b/g", "msg": "0"}
+{"topic": "wled/48a23b/c", "msg": "#FFFFFF"}
+{"topic": "wled/48a23b/status", "msg": "online"}

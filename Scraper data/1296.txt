@@ -1,0 +1,2 @@
+{"IP": "34.214.34.71"}
+{"topic": "server/status", "msg": "{\"Connected\":true}"}

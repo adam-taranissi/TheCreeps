@@ -1,0 +1,7 @@
+{"IP": "3.133.90.117"}
+{"topic": "esp32/output1", "msg": "0"}
+{"topic": "esp32/output1", "msg": "0"}
+{"topic": "esp32/output1", "msg": "0"}
+{"topic": "esp32/output1", "msg": "0"}
+{"topic": "esp32/output1", "msg": "0"}
+{"topic": "esp32/output1", "msg": "0"}

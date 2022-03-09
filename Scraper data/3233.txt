@@ -1,0 +1,39 @@
+{"IP": "34.229.23.50"}
+{"topic": "kalyan", "msg": "30"}
+{"topic": "kalyan1", "msg": "sidd"}
+{"topic": "room/light", "msg": "on"}
+{"topic": "kalyan2", "msg": "on2"}
+{"topic": "kalyan3", "msg": "on3"}
+{"topic": "kalyan4", "msg": "on4"}
+{"topic": "kalyan5", "msg": "on5"}
+{"topic": "kalyan6", "msg": "on6"}
+{"topic": "kalyan7", "msg": "on7"}
+{"topic": "kalyan8", "msg": "on8"}
+{"topic": "kalyan9", "msg": "on9"}
+{"topic": "kevellcorp/12345", "msg": "balajibabu"}
+{"topic": "kevellcorp/12345/hall light", "msg": "babu1"}
+{"topic": "kevellcorp/12345/", "msg": "kalyanbabu"}
+{"topic": "kevellcorp/12345/bedroom light", "msg": "babu2"}
+{"topic": "kevellcorp/12345/bedroom_light", "msg": "kalyanbabu"}
+{"topic": "kevellcorp/12345/hall_light", "msg": "balababu"}
+{"topic": "kevellcorp/12345/bedroom_li", "msg": "kalyanbabu"}
+{"topic": "kevellcorp/12345/kitchen_light", "msg": "sidhhubabu"}
+{"topic": "kevellcorp/12345/live_status", "msg": "2"}
+{"topic": "kevellcorp/12345/kitchen light", "msg": "babu3"}
+{"topic": "N\u0003", "msg": "balajibabu"}
+{"topic": "\nh", "msg": "balajibabu"}
+{"topic": "gg", "msg": "balajibabu"}
+{"topic": "ff", "msg": "fgg"}
+{"topic": "/", "msg": "{\"temperature\":\"0.00\",\"humidity\":\"0.00\",\"power\":\"0.00\",\"gasleakage\":\"0\",\"livestatus\":\"offline\"}"}
+{"topic": "//", "msg": "sidhhubabu"}
+{"topic": "//live_status", "msg": "Offlne"}
+{"topic": "//allsensor", "msg": "{\"temperature\":32,\"humidity\":53,\"power\":0.096143}"}
+{"topic": "kalyan.ss@gmail.com/abc123/live_status", "msg": "Offlne"}
+{"topic": "kalyan.ss@gmail.com/abc123/power", "msg": "0.00"}
+{"topic": "kalyan.ss@gmail.com/abc123/temperature", "msg": "32.00"}
+{"topic": "kalyan.ss@gmail.com/abc123/humidity", "msg": "{\"temperature\":31,\"humidity\":48,\"power\":0}"}
+{"topic": "kalyan.ss@gmail.com/abc123/j0", "msg": "off"}
+{"topic": "kalyan.ss@gmail.com/abc123/jo", "msg": "off"}
+{"topic": "kalyan.ss@gmail.com/abc123/j5", "msg": "0"}
+{"topic": "kalyan.ss@gmail.com/abc123/j2", "msg": "off"}
+{"topic": "kalyan.ss@gmail.com/abc123/allsensor", "msg": "{\"temperature\":30,\"humidity\":52,\"power\":0.764984}"}

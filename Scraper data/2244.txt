@@ -1,0 +1,4 @@
+{"IP": "138.68.36.43"}
+{"topic": "STATE/ignition-makers1", "msg": "ONLINE"}
+{"topic": "STATE/mantle2", "msg": "ONLINE"}
+{"topic": "spBv1.0/JAR/DDATA/tentacle1/Codesys", "msg": "ONLINE"}

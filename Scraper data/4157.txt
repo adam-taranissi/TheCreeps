@@ -1,0 +1,2 @@
+{"IP": "35.166.123.182"}
+{"topic": "1GCGG29W1X0ADF5JL/request", "msg": "{\"cmd\":[{\"cmdType\":\"DoorLock\",\"FDL\":1,\"FDR\":1,\"RDL\":1,\"RDR\":1}],\"reqID\":\"089ac357-3fef-4afd-9501-56c0b8098bb3\",\"reqTO\":120,\"reqTS\":1642613053303,\"vin\":\"1GCGG29W1X0ADF5JL\"}"}

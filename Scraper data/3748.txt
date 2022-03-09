@@ -1,0 +1,2 @@
+{"IP": "18.211.14.243"}
+{"topic": "iot/telefonica", "msg": "{\"gatewayMessage\":{\"gatewayID\":\"D0374551D221\",\"gatewayName\":\"NPEX500-Telefonica\",\"messageType\":\"0\",\"power\":\"0\",\"date\":\"1/5/2021 13:47:21 PM\"},\"sensorMessages\":[{\"sensorID\":\"28EEC7F0131601\",\"sensorName\":\"DS18B20\",\"applicationID\":\"2\",\"state\":\"0\",\"messageDate\":\"1/5/2021 13:47:21 PM\",\"dataType\":\"TemperatureData\",\"dataValue\":\"20.375\"}]}"}

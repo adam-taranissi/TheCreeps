@@ -1,0 +1,34 @@
+{"IP": "24.179.145.78"}
+{"topic": "hs/fireplace/trigger", "msg": "100"}
+{"topic": "hs/kaia/temperature/set", "msg": "79.7"}
+{"topic": "hs/kaia/humidity/set", "msg": "49.8"}
+{"topic": "hs/chloe/temperature/set", "msg": "72.3"}
+{"topic": "hs/chloe/humidity/set", "msg": "45.5"}
+{"topic": "hs/master/temperature/set", "msg": "70.1"}
+{"topic": "hs/button/press", "msg": "1.0"}
+{"topic": "hs/office/temperature/set", "msg": "53.7"}
+{"topic": "hs/office/humidity/set", "msg": "3312.0"}
+{"topic": "hs/storageroom/powermonitor", "msg": "0"}
+{"topic": "tele/sonoff1/LWT", "msg": "Online"}
+{"topic": "tele/sonoff2/LWT", "msg": "Online"}
+{"topic": "tele/sonoff3/LWT", "msg": "Online"}
+{"topic": "tele/sonoff/LWT", "msg": "Online"}
+{"topic": "tele/sonoff4/LWT", "msg": "Offline"}
+{"topic": "tele/sonoff5/LWT", "msg": "Online"}
+{"topic": "tele/sonoff6/LWT", "msg": "Online"}
+{"topic": "tele/sonoff7/LWT", "msg": "Online"}
+{"topic": "tele/sonoff8/LWT", "msg": "Offline"}
+{"topic": "tele/sonoff9/LWT", "msg": "Online"}
+{"topic": "tele/sonoff10/LWT", "msg": "Online"}
+{"topic": "wyze_discovery/binary_sensor/778A7739/config", "msg": "{\"platform\":\"mqtt\",\"name\":\"778A7739\",\"unique_id\":\"778A7739\",\"payload_on\":\"1\",\"payload_off\":\"0\",\"state_topic\":\"wyze/778A7739\",\"value_template\":\"{{ value_json.properties.state }}\",\"json_attributes_topic\":\"wyze/778A7739\",\"json_attributes_template\":\"{{ value_json.properties | tojson }}\"}"}
+{"topic": "wyze_discovery/binary_sensor/778A76C2/config", "msg": "{\"platform\":\"mqtt\",\"name\":\"778A76C2\",\"unique_id\":\"778A76C2\",\"payload_on\":\"1\",\"payload_off\":\"0\",\"state_topic\":\"wyze/778A76C2\",\"value_template\":\"{{ value_json.properties.state }}\",\"json_attributes_topic\":\"wyze/778A76C2\",\"json_attributes_template\":\"{{ value_json.properties | tojson }}\"}"}
+{"topic": "wyze_discovery/binary_sensor/777F2846/config", "msg": "{\"platform\":\"mqtt\",\"name\":\"777F2846\",\"unique_id\":\"777F2846\",\"payload_on\":\"1\",\"payload_off\":\"0\",\"state_topic\":\"wyze/777F2846\",\"value_template\":\"{{ value_json.properties.state }}\",\"json_attributes_topic\":\"wyze/777F2846\",\"json_attributes_template\":\"{{ value_json.properties | tojson }}\"}"}
+{"topic": "wyze/778A76C2", "msg": "{\"metadata\":{\"name\":\"778A76C2\",\"mac\":\"778A76C2\",\"sensorType\":1,\"present\":true},\"properties\":{\"battery\":\"90\",\"signal\":\"79\",\"state\":\"1\",\"timeLastAlarm\":\"2020-09-22T17:57:37Z\"}}"}
+{"topic": "wyze/777F2846", "msg": "{\"metadata\":{\"name\":\"777F2846\",\"mac\":\"777F2846\",\"sensorType\":2,\"present\":true},\"properties\":{\"battery\":\"96\",\"signal\":\"72\",\"state\":\"0\",\"timeLastAlarm\":\"2020-09-22T18:36:46Z\"}}"}
+{"topic": "wyze/778A7739", "msg": "{\"metadata\":{\"name\":\"778A7739\",\"mac\":\"778A7739\",\"sensorType\":1,\"present\":true},\"properties\":{\"battery\":\"87\",\"signal\":\"75\",\"state\":\"1\",\"timeLastAlarm\":\"2020-09-22T18:36:06Z\"}}"}
+{"topic": "BlueIris/app", "msg": "unexpected stop"}
+{"topic": "abc/123", "msg": "XYZ"}
+{"topic": "tele/sonoff5/STATE", "msg": "{\"Time\":\"2022-03-09T01:41:42\",\"Uptime\":\"47T12:58:17\",\"UptimeSec\":4107497,\"Heap\":29,\"SleepMode\":\"Dynamic\",\"Sleep\":50,\"LoadAvg\":19,\"MqttCount\":59,\"POWER\":\"ON\",\"Wifi\":{\"AP\":1,\"SSId\":\"AndersonIOT\",\"BSSId\":\"E0:63:DA:71:F0:65\",\"Channel\":11,\"RSSI\":62,\"LinkCount\":1,\"Downtime\":\"0T00:02:50\"}}"}
+{"topic": "tele/sonoff5/SENSOR", "msg": "{\"Time\":\"2022-03-09T01:41:42\",\"ENERGY\":{\"TotalStartTime\":\"2019-11-16T01:23:11\",\"Total\":129.477,\"Yesterday\":0.302,\"Today\":0.003,\"Period\":0,\"Power\":1,\"ApparentPower\":8,\"ReactivePower\":8,\"Factor\":0.19,\"Voltage\":121,\"Current\":0.064}}"}
+{"topic": "tele/sonoff3/STATE", "msg": "{\"Time\":\"2022-03-09T01:41:43\",\"Uptime\":\"47T12:58:03\",\"Vcc\":3.226,\"POWER\":\"OFF\",\"Wifi\":{\"AP\":1,\"SSId\":\"AndersonIOT\",\"BSSId\":\"78:8A:20:8A:88:D8\",\"Channel\":6,\"RSSI\":94}}"}
+{"topic": "tele/sonoff3/SENSOR", "msg": "{\"Time\":\"2022-03-09T01:41:43\",\"ENERGY\":{\"TotalStartTime\":\"2018-11-29T22:11:53\",\"Total\":69.273,\"Yesterday\":0.000,\"Today\":0.000,\"Period\":0,\"Power\":0,\"ApparentPower\":0,\"ReactivePower\":0,\"Factor\":0.00,\"Voltage\":0,\"Current\":0.000}}"}

@@ -1,0 +1,2 @@
+{"IP": "45.82.75.229"}
+{"topic": "bxc8xc9xa3xfax051119/data", "msg": "{'x': 65.0, 'ext_temp': 24.92, 'z': 5.0, 'ext_target': 0.0, 'bed_target': 0.0, 'bed_temp': 24.3, 'printing': False, '%': None, 'y': 65.0}"}

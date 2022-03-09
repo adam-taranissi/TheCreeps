@@ -1,0 +1,3 @@
+{"IP": "67.225.227.172"}
+{"topic": "cheerlightsRGB", "msg": "#800080"}
+{"topic": "cheerlights", "msg": "purple"}

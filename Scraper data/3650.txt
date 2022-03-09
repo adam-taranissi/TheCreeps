@@ -1,0 +1,11 @@
+{"IP": "71.171.126.5"}
+{"topic": "home/weather/sensors", "msg": "{\"time\":\"2022-03-08 18:13:52\",\"model\":\"LaCrosse-TX\",\"id\":15,\"temperature_F\":73.58,\"mic\":\"PARITY\"}"}
+{"topic": "home/weather/sensors", "msg": "{\"time\":\"2022-03-08 18:13:52\",\"model\":\"LaCrosse-TX141Bv3\",\"id\":210,\"channel\":1,\"battery_ok\":1,\"temperature_F\":50.72,\"test\":\"No\"}"}
+{"topic": "home/weather/sensors", "msg": "{\"time\":\"2022-03-08 18:13:52\",\"model\":\"Acurite-5n1\",\"message_type\":56,\"id\":1997,\"channel\":\"A\",\"sequence_num\":2,\"battery_ok\":1,\"wind_avg_mi_h\":0,\"temperature_F\":48.0,\"humidity\":53,\"mic\":\"CHECKSUM\"}"}
+{"topic": "home/weather/sensors", "msg": "{\"time\":\"2022-03-08 18:13:52\",\"model\":\"LaCrosse-TX\",\"id\":15,\"humidity\":44.0,\"mic\":\"PARITY\"}"}
+{"topic": "home/weather/sensors", "msg": "{\"time\":\"2022-03-08 18:13:53\",\"model\":\"LaCrosse-TX\",\"id\":15,\"humidity\":44.0,\"mic\":\"PARITY\"}"}
+{"topic": "bus/weather/sensors", "msg": "{\"time\":\"2022-03-08 18:13:53\",\"model\":\"Acurite-Tower\",\"id\":13549,\"channel\":\"A\",\"battery_ok\":1,\"temperature_F\":54.86,\"humidity\":49,\"mic\":\"CHECKSUM\"}"}
+{"topic": "bus/weather/sensors", "msg": "{\"time\":\"2022-03-08 18:13:53\",\"model\":\"Acurite-Tower\",\"id\":13549,\"channel\":\"A\",\"battery_ok\":1,\"temperature_F\":54.86,\"humidity\":49,\"mic\":\"CHECKSUM\"}"}
+{"topic": "bus/weather/sensors", "msg": "{\"time\":\"2022-03-08 18:13:53\",\"model\":\"Acurite-Tower\",\"id\":13549,\"channel\":\"A\",\"battery_ok\":1,\"temperature_F\":54.86,\"humidity\":49,\"mic\":\"CHECKSUM\"}"}
+{"topic": "home/weather/sensors", "msg": "{\"time\":\"2022-03-08 18:13:55\",\"model\":\"Oregon-THGR122N\",\"id\":45,\"channel\":2,\"battery_ok\":1,\"temperature_F\":73.03999,\"humidity\":16}"}
+{"topic": "home/weather/sensors", "msg": "{\"time\":\"2022-03-08 18:13:55\",\"model\":\"Oregon-THGR122N\",\"id\":45,\"channel\":2,\"battery_ok\":1,\"temperature_F\":73.03999,\"humidity\":16}"}

@@ -1,0 +1,8 @@
+{"IP": "167.99.121.131"}
+{"topic": "abc/123", "msg": "XYZ"}
+{"topic": "ci_lt_single_transcoder/cpu", "msg": "0"}
+{"topic": "ci_lt_single_transcoder/mem", "msg": "78"}
+{"topic": "ci_lt_single_transcoder/connections", "msg": "1"}
+{"topic": "ci_lt_single_transcoder/cpu", "msg": "0"}
+{"topic": "ci_lt_single_transcoder/mem", "msg": "78"}
+{"topic": "ci_lt_single_transcoder/connections", "msg": "1"}

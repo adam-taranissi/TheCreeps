@@ -1,0 +1,34 @@
+{"IP": "40.121.94.247"}
+{"topic": "PickSystem/00001/483FDAAACD51/SC", "msg": "{\"comando\":71}"}
+{"topic": "PickSystem/00001/483FDAAA5144/SC", "msg": "{\"comando\":72}"}
+{"topic": "PickSystem/00001/24A1603AC14A/SC", "msg": "{\"comando\":72}"}
+{"topic": "PickSystem/00001/24A1603AC2BF/SC", "msg": "{\"comando\":72}"}
+{"topic": "PickSystem/00001/483FDA6BC522/SC", "msg": "{\"comando\":71}"}
+{"topic": "PickSystem/00001/24A1603B2FF3/SC", "msg": "{\"comando\":72}"}
+{"topic": "PickSystem/00001/24A1603B2FF6/SC", "msg": "{\"LED1\":0,\"LED2\":0,\"LED3\":0}"}
+{"topic": "PickSystem/00001/24A1603AC219/SC", "msg": "{\"comando\":71}"}
+{"topic": "PickSystem/00001/24A1603AC219/CS", "msg": "{ \n\"idNumber\":\"24A1603AC219\",\n\"ordem\":0,\n\"status\":0,\n\"pos\":[\n{ \"BSSID\":\"58d9d5390f19\", \"RSSI\":-90},\n{ \"BSSID\":\"e8de277939ec\", \"RSSI\":-80},\n{ \"BSSID\":\"b06ebf7997ba\", \"RSSI\":-39},\n{ \"BSSID\":\"a62bb003a8d9\", \"RSSI\":-35},\n{ \"BSSID\":\"fece9f5961e0\", \"RSSI\":-37},\n{ \"BSSID\":\"a42bb003a8d9\", \"RSSI\":-56},\n{ \"BSSID\":\"841ea39287fe\", \"RSSI\":-45}\n]\n,\n\"statusLogin\":0,\n\"acessos\":0,\n\"bateria\":793,\n\"timeStamp\":1646060365,\n\"version\":\"0.220225\" \n }"}
+{"topic": "PickSystem/00001/40F520296366/SC", "msg": "{\"comando\":72}"}
+{"topic": "PickSystem/00001/24A1603A4577/SC", "msg": "{\"LED1\":0,\"LED2\":0,\"LED3\":0}"}
+{"topic": "PickSystem/00001/483FDA572A80/SC", "msg": "{\"comando\":15,\"ordem\":59}"}
+{"topic": "PickSystem/00001/24A1603ABD1D/SC", "msg": "{\"comando\":72}"}
+{"topic": "PickSystem/00001/24A1603ABD1D/CS", "msg": "{ \n\"idNumber\":\"24A1603ABD1D\",\n\"ordem\":0,\n\"status\":0,\n\"pos\":[\n{ \"BSSID\":\"a62bb003a8d9\", \"RSSI\":-53},\n{ \"BSSID\":\"e8de277939ec\", \"RSSI\":-84},\n{ \"BSSID\":\"b06ebf7997b8\", \"RSSI\":-45},\n{ \"BSSID\":\"b06ebf7997b9\", \"RSSI\":-52},\n{ \"BSSID\":\"a42bb003a8d9\", \"RSSI\":-55},\n{ \"BSSID\":\"841ea39287fe\", \"RSSI\":-59}\n]\n,\n\"statusLogin\":0,\n\"acessos\":0,\n\"bateria\":776,\n\"timeStamp\":1646060365,\n\"version\":\"0.220225\" \n }"}
+{"topic": "PickSystem/00001/84CCA8A1D400/SC", "msg": "{\"comando\":72}"}
+{"topic": "PickSystem/00001/84CCA8A1D400/CS", "msg": "{ \n\"idNumber\":\"84CCA8A1D400\",\n\"ordem\":0,\n\"status\":0,\n\"pos\":[\n{ \"BSSID\":\"a42bb003a8d9\", \"RSSI\":-52},\n{ \"BSSID\":\"a62bb003a8d9\", \"RSSI\":-50},\n{ \"BSSID\":\"dcd9ae7abed9\", \"RSSI\":-86}\n]\n,\n\"statusLogin\":0,\n\"acessos\":0,\n\"bateria\":786,\n\"timeStamp\":1646060365,\n\"version\":\"0.220225\" \n }"}
+{"topic": "PickSystem/00001/40F5202968CC/SC", "msg": "{\"comando\":72}"}
+{"topic": "PickSystem/00001/483FDAAAFE33/SC", "msg": "{\"comando\":72}"}
+{"topic": "PickSystem/00001/483FDAAAFE33/CS", "msg": "{ \n\"idNumber\":\"483FDAAAFE33\",\n\"ordem\":0,\n\"status\":0,\n\"pos\":[\n{ \"BSSID\":\"a42bb003a8d9\", \"RSSI\":-50},\n{ \"BSSID\":\"b06ebf7997ba\", \"RSSI\":-40},\n{ \"BSSID\":\"b06ebf7997b8\", \"RSSI\":-40},\n{ \"BSSID\":\"f0686547fa59\", \"RSSI\":-74},\n{ \"BSSID\":\"841ea39287fe\", \"RSSI\":-47},\n{ \"BSSID\":\"a62bb003a8d9\", \"RSSI\":-51},\n{ \"BSSID\":\"dcd9ae7abed9\", \"RSSI\":-82}\n]\n,\n\"statusLogin\":0,\n\"acessos\":0,\n\"bateria\":783,\n\"timeStamp\":1646060365,\n\"version\":\"0.220225\" \n }"}
+{"topic": "PickSystem/00001/24A1603A464A/SC", "msg": "{\"comando\":72}"}
+{"topic": "PickSystem/00001/483FDAAA59D9/SC", "msg": "{\"comando\":72}"}
+{"topic": "PickSystem/00001/84CCA8A1DBE2/SC", "msg": "{\"comando\":72}"}
+{"topic": "PickSystem/00001/483FDAAACD5D/SC", "msg": "{\"comando\":72}"}
+{"topic": "PickSystem/00001/24A1603AA382/SC", "msg": "{\"comando\":72}"}
+{"topic": "gw/sendMsg", "msg": "{\"timestamp\":1635957867,\n\"clorine\":9.56,\n\"fluorine\":1.42,\n\"ph\":2.30,\n\"temperature\":3.57,\n\"stable\":false,\n\"battery\":0.96,\n\"mac\":\"017d8d76d782\",\n\"name\":\"noname\"\n}\n"}
+{"topic": "gw/C8C9A3E04880/send", "msg": "{ \"connectionType\":\"MQTT\",  \"gateway\":\"C8C9A3E04880\",  \"timestamp\":1645008872, \"message\":\"device start\"}"}
+{"topic": "/lics", "msg": "{\"timestamp\":\"1636505311\",\r\n\"gateway\":\"B4E62D861F8D\",\r\n\"clorine\":1.05,\r\n\"fluorine\":1.08,\r\n\"ph\":7.07,\r\n\"temperature\":23.08,\r\n\"stable\":false,\r\n\"battery\":12.08,\r\n\"mac\":\"082D53DF1204\",\r\n\"name\":\"Porto de Galinhas\"\r\n}\r\n"}
+{"topic": "/test", "msg": "..."}
+{"topic": "ECOT-0CBE81A2CFF4/status", "msg": "0"}
+{"topic": "ECOT-20BF81A2CFF4/status", "msg": "0"}
+{"topic": "ECOT-84BE81A2CFF4/status", "msg": "0"}
+{"topic": "lics/C8C9A3E04880/send", "msg": "{ \"connectionType\":\"MQTT\",  \"mac\":\"C8C9A3E04880\",  \"loRaRssi\":-1000,  \"gateway\":\"C8C9A3E04880\",  \"timestamp\":1645554861,  \"sequence\":5, \"glifosatoAmpa\":0.00, \"herb24d\":0.00, \"ddt\":0.00, \"parationMetil\":0.16, \"paraquate\":0.61, \"clorpirifos\":0.00, \"abamectina\":2.14, \"acefatoMetamidofos\":0.00, \"bifentrina\":0.00, \"carbaril\":0.00, \"cianamida\":0.00, \"cipermetrina\":0.48, \"ciproconazol\":0.57, \"cletodim\":0.00, \"clorimuromEtilico\":0.87, \"clorotalonil\":0.00, \"cresoximMetil\":0.00, \"diazinona\":0.00, \"difenoconazole\":0.00, \"diflubenzuron\":0.87, \"dimetoato\":0.00, \"ditianona\":0.00, \"epoxiconazol\":0.73, \"etoxisulfuron\":0.42, \"fenitrotiona\":0.00, \"fenoxapropPEtilico\":0.00, \"fentiona\":0.32, \"fipronil\":0.18, \"flutriafol\":0.64, \"folpet\":0.00, \"fomesafem\":0.00, \"gamaCialotrina\":0.00, \"hidrazidaMaleica\":0.00, \"imazetapir\":0.00, \"imidacloprido\":0.59, \"indoxacarbe\":0.00, \"iodosulfuromMetilico\":0.00, \"ioxinilOctanoato\":0.00, \"lambaCialotrina\":0.73, \"mesotriona\":0.48, \"metalaxilM\":1.43, \"metamitrona\":1.19, \"metidationa\":0.26, \"metiramMancozebe\":0.00, \"metsulfuronMetil\":1.27, \"picoxistrobina\":0.67, \"tembotriona\":0.64, \"tetraconazol\":0.00, \"tiametoxam\":0.46, \"tiodicarbe\":0.00, \"carbandazim\":0.06, \"triciclazol\":0.00}"}
+{"topic": "lics/3C71BF6EC5C4/send", "msg": ")\nu.ALEOsu:l:.fs54 'u6oN4NNtitf,..'u7oN4NNti\nne..'u8e 3 9.,..'u8CCoNNti6Ine..'u9CCoNNtiCaIne68+"}

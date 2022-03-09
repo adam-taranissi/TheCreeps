@@ -1,0 +1,8 @@
+{"IP": "75.101.240.239"}
+{"topic": "xbee/status/lwtDisconnected", "msg": "1"}
+{"topic": "xbee/status/connected", "msg": "0"}
+{"topic": "garage/status/connected", "msg": "0"}
+{"topic": "outdoor/status/connected", "msg": "0"}
+{"topic": "lucysroom/status/connected", "msg": "0"}
+{"topic": "owntracks/rick/rickandroid", "msg": "{\"_type\":\"location\",\"acc\":4,\"alt\":303,\"batt\":85,\"bs\":2,\"conn\":\"m\",\"created_at\":1641302988,\"lat\":43.3203723,\"lon\":-88.2653103,\"tid\":\"00\",\"tst\":1641302989,\"vac\":1,\"vel\":1}"}
+{"topic": "uppergarage/status/connected", "msg": "0"}

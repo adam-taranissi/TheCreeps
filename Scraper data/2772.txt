@@ -1,0 +1,5 @@
+{"IP": "35.225.56.68"}
+{"topic": "kitchen/light", "msg": "ClientID_01,hi all"}
+{"topic": "ketchen/light", "msg": "ClientID_01,m333"}
+{"topic": "abc/123", "msg": "XYZ"}
+{"topic": "farm/cow", "msg": "{\"DevID\":\"555\",\"AccelX\":\"0.612947\",\"AccelY\":\"0.134082\",\"AccelZ\":\"-10.42967\",\"GyroX\":\"0.000037\",\"GyroY\":\"-0.005695\",\"GyroZ\":\"0.000269\",\"MagX\":\"-29.26504\",\"MagY\":\"-12.69327\",\"MagZ\":\"1.704384\",\"Temp\":\"33.22931\"}\n"}

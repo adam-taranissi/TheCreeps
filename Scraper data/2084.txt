@@ -1,0 +1,39 @@
+{"IP": "3.230.22.179"}
+{"topic": "/a00273/stream", "msg": "[\"2e:48:94:d9:4a:3a\",-94]"}
+{"topic": "$SYS/brokers/emqx@127.0.0.1/sysdescr", "msg": "EMQ X Broker"}
+{"topic": "$SYS/brokers/emqx@127.0.0.1/version", "msg": "4.3.8"}
+{"topic": "$SYS/brokers", "msg": "emqx@127.0.0.1"}
+{"topic": "/a00012/stream", "msg": "[\"72:25:61:fd:eb:44\",-82]"}
+{"topic": "/a00342/stream", "msg": "[\"ae:a9:99:57:de:13\",-96]"}
+{"topic": "/a00249/stream", "msg": "[\"46:6b:3e:b9:66:ef\",-85]"}
+{"topic": "/a00328/stream", "msg": "[\"ca:e2:16:e2:df:ac\",-90]"}
+{"topic": "/a00158/stream", "msg": "[\"0a:da:d2:75:7e:44\",-84]"}
+{"topic": "/a00081/stream", "msg": "[\"24:da:9b:33:4b:b8\",-84]"}
+{"topic": "/a00081/stream", "msg": "[\"da:a1:19:c9:bc:4e\",-75]"}
+{"topic": "/a00065/stream", "msg": "[\"9a:a4:69:5b:04:ac\",-89]"}
+{"topic": "/a00282/stream", "msg": "[\"e6:ed:42:2f:d2:f5\",-84]"}
+{"topic": "/a00349/stream", "msg": "[\"dc:44:b6:7d:40:da\",-85]"}
+{"topic": "/a00223/stream", "msg": "[\"f0:d0:8c:4e:46:f0\",-79]"}
+{"topic": "/a00214/stream", "msg": "[\"a6:40:aa:8e:78:95\",-91]"}
+{"topic": "/a00360/stream", "msg": "[\"ee:eb:0d:2c:38:15\",-92]"}
+{"topic": "/a00060/stream", "msg": "[\"c6:50:a2:87:4d:35\",-90]"}
+{"topic": "/a00125/stream", "msg": "[\"1c:cc:d6:1d:cb:73\",-81]"}
+{"topic": "/a00125/stream", "msg": "[\"70:5f:a3:a7:a1:92\",-93]"}
+{"topic": "/b00308//log", "msg": "Stream frame=125121 fps=5.0 q=28.0 size=  900770kB time=06:57:33.20 bitrate= 294.5kbits/s speed=   1x    \r"}
+{"topic": "/a00235/stream", "msg": "[\"9c:a3:a9:3c:95:e2\",-72]"}
+{"topic": "/a00154/stream", "msg": "[\"06:1b:b8:6e:d2:6f\",-69]"}
+{"topic": "/a00317/stream", "msg": "[\"28:ad:18:7b:a7:cc\",-78]"}
+{"topic": "/a00130/stream", "msg": "[\"d0:04:01:15:df:1b\",-84]"}
+{"topic": "/a00185/stream", "msg": "[\"f6:b4:2b:49:9f:a9\",-95]"}
+{"topic": "/a00084/stream", "msg": "[\"da:a1:19:9e:18:6d\",-97]"}
+{"topic": "/a00126/stream", "msg": "[\"7e:5b:ef:73:b3:57\",-59]"}
+{"topic": "/a00126/stream", "msg": "[\"e2:e8:83:10:83:c6\",-87]"}
+{"topic": "/a00257/stream", "msg": "[\"da:a1:19:c8:db:6a\",-94]"}
+{"topic": "/a00252/stream", "msg": "[\"9c:a5:13:05:65:19\",-94]"}
+{"topic": "/a00252/stream", "msg": "[\"e4:e1:30:cd:10:29\",-91]"}
+{"topic": "/a00380/stream", "msg": "[\"6a:ed:0a:e9:ed:8e\",-92]"}
+{"topic": "/a00074/stream", "msg": "[\"c8:c7:50:6e:d6:e4\",-74]"}
+{"topic": "/a00161/stream", "msg": "[\"48:90:2f:b4:e2:81\",-92]"}
+{"topic": "/b00180/log", "msg": "2022-03-08 15:56:49;info;record;file_start;D:\\Grabaciones\\c00042\\2022-03-08\\video\\2022-03-08_15-56-49.mp4"}
+{"topic": "/b00180/log", "msg": "2022-03-08 15:56:49;info;record;file_start;D:\\Grabaciones\\c00043\\2022-03-08\\video\\2022-03-08_15-56-49.mp4"}
+{"topic": "/b00180/log", "msg": "2022-03-08 15:56:49;info;record;file_start;D:\\Grabaciones\\c00041\\2022-03-08\\video\\2022-03-08_15-56-49.mp4"}

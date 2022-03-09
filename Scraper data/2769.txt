@@ -1,0 +1,42 @@
+{"IP": "73.97.88.240"}
+{"topic": "wemos2/debug", "msg": "\u001b[0;37m[V][mqtt:372]: Publish(topic='wemos2/status' payload='offline' retain=1)\u001b[0m"}
+{"topic": "wemos2/light/wemos2_led_lights/state", "msg": "{\"state\":\"ON\",\"brightness\":253}"}
+{"topic": "wemos2/light/wemos2_led_lights_2/state", "msg": "{\"state\":\"ON\",\"brightness\":195}"}
+{"topic": "wemos2/light/wemos2_led_lights_3/state", "msg": "{\"state\":\"ON\",\"brightness\":255}"}
+{"topic": "wemos2/binary_sensor/wemos2_channel_1_local_switch/state", "msg": "OFF"}
+{"topic": "wemos2/binary_sensor/apple_remote_menu/state", "msg": "OFF"}
+{"topic": "wemos2/binary_sensor/apple_remote_select/state", "msg": "OFF"}
+{"topic": "wemos2/binary_sensor/apple_remote_up/state", "msg": "OFF"}
+{"topic": "wemos2/binary_sensor/apple_remote_down/state", "msg": "OFF"}
+{"topic": "wemos2/binary_sensor/apple_remote_left/state", "msg": "OFF"}
+{"topic": "wemos2/binary_sensor/apple_remote_right/state", "msg": "OFF"}
+{"topic": "wemos2/binary_sensor/apple_remote_playpause/state", "msg": "OFF"}
+{"topic": "wemos2/binary_sensor/tophers_room_motion_sensor/state", "msg": "OFF"}
+{"topic": "wemos2/status", "msg": "offline"}
+{"topic": "wemos2/sensor/bedroom_temperature/state", "msg": "nan"}
+{"topic": "wemos/debug", "msg": "\u001b[0;36m[D][light:303]:   Transition Length: 1.0s\u001b[0m"}
+{"topic": "wemos/light/wemos_dimmer_ch_1/state", "msg": "{\"state\":\"ON\",\"brightness\":102}"}
+{"topic": "wemos/light/wemos_dimmer_ch_2/state", "msg": "{\"state\":\"OFF\",\"brightness\":255}"}
+{"topic": "wemos/light/wemos_dimmer_ch_3/state", "msg": "{\"state\":\"OFF\",\"brightness\":204}"}
+{"topic": "wemos/status", "msg": "offline"}
+{"topic": "homeassistant/light/wemos/wemos_dimmer_ch_1/config", "msg": "{\"schema\":\"json\",\"brightness\":true,\"name\":\"Wemos Dimmer Ch 1\",\"state_topic\":\"wemos/light/wemos_dimmer_ch_1/state\",\"command_topic\":\"wemos/light/wemos_dimmer_ch_1/command\",\"availability_topic\":\"wemos/status\",\"unique_id\":\"ESPlightwemos_dimmer_ch_1\",\"device\":{\"identifiers\":\"bcddc22a4025\",\"name\":\"wemos\",\"sw_version\":\"esphome v1.14.3 Mar 20 2020, 14:15:01\",\"model\":\"PLATFORMIO_D1_MINI\",\"manufacturer\":\"espressif\"}}"}
+{"topic": "homeassistant/light/wemos/wemos_dimmer_ch_2/config", "msg": "{\"schema\":\"json\",\"brightness\":true,\"name\":\"Wemos Dimmer Ch 2\",\"state_topic\":\"wemos/light/wemos_dimmer_ch_2/state\",\"command_topic\":\"wemos/light/wemos_dimmer_ch_2/command\",\"availability_topic\":\"wemos/status\",\"unique_id\":\"ESPlightwemos_dimmer_ch_2\",\"device\":{\"identifiers\":\"bcddc22a4025\",\"name\":\"wemos\",\"sw_version\":\"esphome v1.14.3 Mar 20 2020, 14:15:01\",\"model\":\"PLATFORMIO_D1_MINI\",\"manufacturer\":\"espressif\"}}"}
+{"topic": "homeassistant/light/wemos/wemos_dimmer_ch_3/config", "msg": "{\"schema\":\"json\",\"brightness\":true,\"name\":\"Wemos Dimmer Ch 3\",\"state_topic\":\"wemos/light/wemos_dimmer_ch_3/state\",\"command_topic\":\"wemos/light/wemos_dimmer_ch_3/command\",\"availability_topic\":\"wemos/status\",\"unique_id\":\"ESPlightwemos_dimmer_ch_3\",\"device\":{\"identifiers\":\"bcddc22a4025\",\"name\":\"wemos\",\"sw_version\":\"esphome v1.14.3 Mar 20 2020, 14:15:01\",\"model\":\"PLATFORMIO_D1_MINI\",\"manufacturer\":\"espressif\"}}"}
+{"topic": "homeassistant/light/wemos3/wemos3_12vdc_dimmer_1/config", "msg": "{\"schema\":\"json\",\"brightness\":true,\"name\":\"Wemos3 12VDC Dimmer 1\",\"state_topic\":\"wemos3/light/wemos3_12vdc_dimmer_1/state\",\"command_topic\":\"wemos3/light/wemos3_12vdc_dimmer_1/command\",\"availability_topic\":\"wemos3/status\",\"unique_id\":\"ESPlightwemos3_12vdc_dimmer_1\",\"device\":{\"identifiers\":\"f4cfa2d3c7b7\",\"name\":\"wemos3\",\"sw_version\":\"esphome v1.14.3 Apr  9 2020, 09:41:14\",\"model\":\"PLATFORMIO_D1_MINI\",\"manufacturer\":\"espressif\"}}"}
+{"topic": "homeassistant/light/wemos3/wemos3_12vdc_dimmer_2/config", "msg": "{\"schema\":\"json\",\"brightness\":true,\"name\":\"Wemos3 12VDC Dimmer 2\",\"state_topic\":\"wemos3/light/wemos3_12vdc_dimmer_2/state\",\"command_topic\":\"wemos3/light/wemos3_12vdc_dimmer_2/command\",\"availability_topic\":\"wemos3/status\",\"unique_id\":\"ESPlightwemos3_12vdc_dimmer_2\",\"device\":{\"identifiers\":\"f4cfa2d3c7b7\",\"name\":\"wemos3\",\"sw_version\":\"esphome v1.14.3 Apr  9 2020, 09:41:14\",\"model\":\"PLATFORMIO_D1_MINI\",\"manufacturer\":\"espressif\"}}"}
+{"topic": "homeassistant/switch/wemos4/samsung_tv_power/config", "msg": "{\"name\":\"Samsung TV Power\",\"state_topic\":\"wemos4/switch/samsung_tv_power/state\",\"command_topic\":\"wemos4/switch/samsung_tv_power/command\",\"availability_topic\":\"wemos4/status\",\"unique_id\":\"ESPswitchsamsung_tv_power\",\"device\":{\"identifiers\":\"f4cfa2d44b8b\",\"name\":\"wemos4\",\"sw_version\":\"esphome v1.14.3 Apr 11 2020, 22:49:50\",\"model\":\"PLATFORMIO_D1_MINI\",\"manufacturer\":\"espressif\"}}"}
+{"topic": "homeassistant/switch/wemos4/samsung_tv_mute/config", "msg": "{\"name\":\"Samsung TV Mute\",\"state_topic\":\"wemos4/switch/samsung_tv_mute/state\",\"command_topic\":\"wemos4/switch/samsung_tv_mute/command\",\"availability_topic\":\"wemos4/status\",\"unique_id\":\"ESPswitchsamsung_tv_mute\",\"device\":{\"identifiers\":\"f4cfa2d44b8b\",\"name\":\"wemos4\",\"sw_version\":\"esphome v1.14.3 Apr 11 2020, 22:49:50\",\"model\":\"PLATFORMIO_D1_MINI\",\"manufacturer\":\"espressif\"}}"}
+{"topic": "homeassistant/switch/wemos4/samsung_tv_volume_up/config", "msg": "{\"name\":\"Samsung TV Volume Up\",\"state_topic\":\"wemos4/switch/samsung_tv_volume_up/state\",\"command_topic\":\"wemos4/switch/samsung_tv_volume_up/command\",\"availability_topic\":\"wemos4/status\",\"unique_id\":\"ESPswitchsamsung_tv_volume_up\",\"device\":{\"identifiers\":\"f4cfa2d44b8b\",\"name\":\"wemos4\",\"sw_version\":\"esphome v1.14.3 Apr 11 2020, 22:49:50\",\"model\":\"PLATFORMIO_D1_MINI\",\"manufacturer\":\"espressif\"}}"}
+{"topic": "homeassistant/switch/wemos4/samsung_tv_volume_down/config", "msg": "{\"name\":\"Samsung TV Volume Down\",\"state_topic\":\"wemos4/switch/samsung_tv_volume_down/state\",\"command_topic\":\"wemos4/switch/samsung_tv_volume_down/command\",\"availability_topic\":\"wemos4/status\",\"unique_id\":\"ESPswitchsamsung_tv_volume_down\",\"device\":{\"identifiers\":\"f4cfa2d44b8b\",\"name\":\"wemos4\",\"sw_version\":\"esphome v1.14.3 Apr 11 2020, 22:49:50\",\"model\":\"PLATFORMIO_D1_MINI\",\"manufacturer\":\"espressif\"}}"}
+{"topic": "homeassistant/switch/wemos4/stereo_select_computer_audio/config", "msg": "{\"name\":\"Stereo Select Computer Audio\",\"state_topic\":\"wemos4/switch/stereo_select_computer_audio/state\",\"command_topic\":\"wemos4/switch/stereo_select_computer_audio/command\",\"availability_topic\":\"wemos4/status\",\"unique_id\":\"ESPswitchstereo_select_computer_audio\",\"device\":{\"identifiers\":\"f4cfa2d44b8b\",\"name\":\"wemos4\",\"sw_version\":\"esphome v1.14.3 Apr 11 2020, 22:49:50\",\"model\":\"PLATFORMIO_D1_MINI\",\"manufacturer\":\"espressif\"}}"}
+{"topic": "homeassistant/switch/wemos4/stereo_select_tv_audio/config", "msg": "{\"name\":\"Stereo Select TV Audio\",\"state_topic\":\"wemos4/switch/stereo_select_tv_audio/state\",\"command_topic\":\"wemos4/switch/stereo_select_tv_audio/command\",\"availability_topic\":\"wemos4/status\",\"unique_id\":\"ESPswitchstereo_select_tv_audio\",\"device\":{\"identifiers\":\"f4cfa2d44b8b\",\"name\":\"wemos4\",\"sw_version\":\"esphome v1.14.3 Apr 11 2020, 22:49:50\",\"model\":\"PLATFORMIO_D1_MINI\",\"manufacturer\":\"espressif\"}}"}
+{"topic": "wemos3/debug", "msg": "\u001b[0;36m[D][light:303]:   Transition Length: 1.0s\u001b[0m"}
+{"topic": "wemos3/light/wemos3_12vdc_dimmer/state", "msg": "{\"state\":\"OFF\",\"brightness\":255}"}
+{"topic": "wemos3/light/wemos3_12vdc_dimmer_1/state", "msg": "{\"state\":\"OFF\",\"brightness\":153}"}
+{"topic": "wemos3/light/wemos3_12vdc_dimmer_2/state", "msg": "{\"state\":\"ON\",\"brightness\":166}"}
+{"topic": "wemos3/status", "msg": "online"}
+{"topic": "wemos4/debug", "msg": "\u001b[0;32m[I][ota:046]: Boot seems successful, resetting boot loop counter.\u001b[0m"}
+{"topic": "wemos4/switch/samsung_tv_power/state", "msg": "OFF"}
+{"topic": "wemos4/switch/samsung_tv_mute/state", "msg": "OFF"}
+{"topic": "wemos4/switch/samsung_tv_volume_up/state", "msg": "OFF"}
+{"topic": "wemos4/switch/samsung_tv_volume_down/state", "msg": "OFF"}

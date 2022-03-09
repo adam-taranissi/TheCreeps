@@ -1,0 +1,2 @@
+{"IP": "65.30.112.162"}
+{"topic": "owntracks/dsteves/S21", "msg": "{\"_type\":\"location\",\"BSSID\":\"84:3d:c6:90:8f:3c\",\"SSID\":\"AIWirelessGuest\",\"acc\":19,\"alt\":179,\"batt\":91,\"bs\":1,\"conn\":\"w\",\"created_at\":1644522884,\"lat\":44.3109521,\"lon\":-88.2489019,\"t\":\"u\",\"tid\":\"t1\",\"tst\":1644522883,\"vac\":1,\"vel\":2}"}

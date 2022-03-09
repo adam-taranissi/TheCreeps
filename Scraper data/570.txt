@@ -1,0 +1,36 @@
+{"IP": "69.243.222.15"}
+{"topic": "tele/office_switch/LWT", "msg": "Online"}
+{"topic": "tele/tasmota_F5C891/LWT", "msg": "Offline"}
+{"topic": "tele/bedroom_light/LWT", "msg": "Offline"}
+{"topic": "tele/bedside_lamp/LWT", "msg": "Online"}
+{"topic": "tele/tasmota_F98FAC/LWT", "msg": "Offline"}
+{"topic": "tele/bedroom_floor_lamp/LWT", "msg": "Offline"}
+{"topic": "tele/garage_lights/LWT", "msg": "Online"}
+{"topic": "tele/garage_switch_1/LWT", "msg": "Offline"}
+{"topic": "tele/tasmota_052B00/LWT", "msg": "Offline"}
+{"topic": "tele/th16/LWT", "msg": "Online"}
+{"topic": "tele/tasmota_580989/LWT", "msg": "Offline"}
+{"topic": "tele/Cable1/LWT", "msg": "Offline"}
+{"topic": "tele/tasmota_6A5D5E/LWT", "msg": "Offline"}
+{"topic": "tele/master_fan/LWT", "msg": "Offline"}
+{"topic": "tele/tasmota_47D659/LWT", "msg": "Offline"}
+{"topic": "tele/master_lights/LWT", "msg": "Offline"}
+{"topic": "tele/tasmota_B31000/LWT", "msg": "Offline"}
+{"topic": "tele/floorlamp/LWT", "msg": "Online"}
+{"topic": "tele/tasmota_B98256/LWT", "msg": "Offline"}
+{"topic": "tele/shelly1pm/LWT", "msg": "Offline"}
+{"topic": "tele/tas-mini-cord/LWT", "msg": "Offline"}
+{"topic": "tele/tasmota_BECDD0/LWT", "msg": "Offline"}
+{"topic": "tele/hose-controller/LWT", "msg": "Offline"}
+{"topic": "tasmota/discovery/D8F15BB31000/config", "msg": "{\"ip\":\"10.0.2.126\",\"dn\":\"Office Switch\",\"fn\":[\"Office Light\",\"Office Fan\",null,null,null,null,null,null],\"hn\":\"office_switch\",\"mac\":\"D8F15BB31000\",\"md\":\"Sonoff T1 2CH\",\"ty\":0,\"if\":0,\"ofln\":\"Offline\",\"onln\":\"Online\",\"state\":[\"OFF\",\"ON\",\"TOGGLE\",\"HOLD\"],\"sw\":\"9.4.0\",\"t\":\"office_switch\",\"ft\":\"%prefix%/%topic%/\",\"tp\":[\"cmnd\",\"stat\",\"tele\"],\"rl\":[1,1,0,0,0,0,0,0],\"swc\":[-1,-1,-1,-1,-1,-1,-1,-1],\"swn\":[null,null,null,null,null,null,null,null],\"btn\":[0,0,0,0,0,0,0,0],\"so\":{\"4\":0,\"11\":0,\"13\":0,\"17\":0,\"20\":0,\"30\":0,\"68\":0,\"73\":0,\"82\":0,\"114\":0,\"117\":0},\"lk\":1,\"lt_st\":0,\"sho\":[0,0,0,0],\"ver\":1}"}
+{"topic": "tasmota/discovery/D8F15BB31000/sensors", "msg": "{\"sn\":{\"Time\":\"2022-03-08T04:25:22\"},\"ver\":1}"}
+{"topic": "tasmota/discovery/DC4F22F5C891/config", "msg": "{\"ip\":\"10.0.2.112\",\"dn\":\"Bedside Lamp\",\"fn\":[\"Bedside Lamp\",null,null,null,null,null,null,null],\"hn\":\"bedside-lamp\",\"mac\":\"DC4F22F5C891\",\"md\":\"Sonoff Basic\",\"ty\":0,\"if\":0,\"ofln\":\"Offline\",\"onln\":\"Online\",\"state\":[\"OFF\",\"ON\",\"TOGGLE\",\"HOLD\"],\"sw\":\"9.4.0\",\"t\":\"bedside_lamp\",\"ft\":\"%prefix%/%topic%/\",\"tp\":[\"cmnd\",\"stat\",\"tele\"],\"rl\":[1,0,0,0,0,0,0,0],\"swc\":[-1,-1,-1,-1,-1,-1,-1,-1],\"swn\":[null,null,null,null,null,null,null,null],\"btn\":[1,0,0,0,0,0,0,0],\"so\":{\"4\":0,\"11\":0,\"13\":0,\"17\":0,\"20\":0,\"30\":0,\"68\":0,\"73\":1,\"82\":0,\"114\":0,\"117\":0},\"lk\":1,\"lt_st\":0,\"sho\":[0,0,0,0],\"ver\":1}"}
+{"topic": "tasmota/discovery/DC4F22F5C891/sensors", "msg": "{\"sn\":{\"Time\":\"1970-01-01T00:03:48\"},\"ver\":1}"}
+{"topic": "tasmota/discovery/DC4F22F98FAC/config", "msg": "{\"ip\":\"10.0.2.113\",\"dn\":\"Floor Lamp\",\"fn\":[\"Floor Lamp\",null,null,null,null,null,null,null],\"hn\":\"floor_lamp\",\"mac\":\"DC4F22F98FAC\",\"md\":\"Sonoff Basic\",\"ty\":0,\"if\":0,\"ofln\":\"Offline\",\"onln\":\"Online\",\"state\":[\"OFF\",\"ON\",\"TOGGLE\",\"HOLD\"],\"sw\":\"9.4.0\",\"t\":\"floorlamp\",\"ft\":\"%prefix%/%topic%/\",\"tp\":[\"cmnd\",\"stat\",\"tele\"],\"rl\":[1,0,0,0,0,0,0,0],\"swc\":[-1,-1,-1,-1,-1,-1,-1,-1],\"swn\":[null,null,null,null,null,null,null,null],\"btn\":[0,0,0,0,0,0,0,0],\"so\":{\"4\":0,\"11\":0,\"13\":0,\"17\":0,\"20\":0,\"30\":0,\"68\":0,\"73\":0,\"82\":0,\"114\":0,\"117\":0},\"lk\":1,\"lt_st\":0,\"sho\":[0,0,0,0],\"ver\":1}"}
+{"topic": "tasmota/discovery/DC4F22F98FAC/sensors", "msg": "{\"sn\":{\"Time\":\"2022-03-08T04:25:22\"},\"ver\":1}"}
+{"topic": "tasmota/discovery/84CCA89E738A/config", "msg": "{\"ip\":\"10.0.2.114\",\"dn\":\"Garage Lights\",\"fn\":[\"Garage Lights\",null,null,null,null,null,null,null],\"hn\":\"garage_lights\",\"mac\":\"84CCA89E738A\",\"md\":\"Sonoff S31\",\"ty\":0,\"if\":0,\"ofln\":\"Offline\",\"onln\":\"Online\",\"state\":[\"OFF\",\"ON\",\"TOGGLE\",\"HOLD\"],\"sw\":\"9.4.0\",\"t\":\"garage_lights\",\"ft\":\"%prefix%/%topic%/\",\"tp\":[\"cmnd\",\"stat\",\"tele\"],\"rl\":[1,0,0,0,0,0,0,0],\"swc\":[-1,-1,-1,-1,-1,-1,-1,-1],\"swn\":[null,null,null,null,null,null,null,null],\"btn\":[0,0,0,0,0,0,0,0],\"so\":{\"4\":0,\"11\":0,\"13\":0,\"17\":0,\"20\":0,\"30\":0,\"68\":0,\"73\":0,\"82\":0,\"114\":0,\"117\":0},\"lk\":1,\"lt_st\":0,\"sho\":[0,0,0,0],\"ver\":1}"}
+{"topic": "tasmota/discovery/84CCA89E738A/sensors", "msg": "{\"sn\":{\"Time\":\"2022-03-08T04:25:22\",\"ENERGY\":{\"TotalStartTime\":\"2021-06-04T23:13:36\",\"Total\":180.820,\"Yesterday\":1.939,\"Today\":0.006,\"Power\":80,\"ApparentPower\":83,\"ReactivePower\":20,\"Factor\":0.97,\"Voltage\":123,\"Current\":0.672}},\"ver\":1}"}
+{"topic": "tasmota/discovery/84CCA89E6FB5/config", "msg": "{\"ip\":\"10.0.2.198\",\"dn\":\"garage_switch_1\",\"fn\":[\"Garage Switch 1\",null,null,null,null,null,null,null],\"hn\":\"garage_switch_1-4021\",\"mac\":\"84CCA89E6FB5\",\"md\":\"Sonoff S31\",\"ty\":0,\"if\":0,\"ofln\":\"Offline\",\"onln\":\"Online\",\"state\":[\"OFF\",\"ON\",\"TOGGLE\",\"HOLD\"],\"sw\":\"9.4.0\",\"t\":\"garage_switch_1\",\"ft\":\"%prefix%/%topic%/\",\"tp\":[\"cmnd\",\"stat\",\"tele\"],\"rl\":[1,0,0,0,0,0,0,0],\"swc\":[-1,-1,-1,-1,-1,-1,-1,-1],\"swn\":[null,null,null,null,null,null,null,null],\"btn\":[1,0,0,0,0,0,0,0],\"so\":{\"4\":0,\"11\":0,\"13\":0,\"17\":0,\"20\":0,\"30\":0,\"68\":0,\"73\":1,\"82\":0,\"114\":0,\"117\":0},\"lk\":1,\"lt_st\":0,\"sho\":[0,0,0,0],\"ver\":1}"}
+{"topic": "tasmota/discovery/84CCA89E6FB5/sensors", "msg": "{\"sn\":{\"Time\":\"2021-12-12T08:02:26\",\"ENERGY\":{\"TotalStartTime\":\"2021-05-27T16:22:38\",\"Total\":22.445,\"Yesterday\":0.000,\"Today\":0.000,\"Power\":0,\"ApparentPower\":0,\"ReactivePower\":0,\"Factor\":0.00,\"Voltage\":0,\"Current\":0.000}},\"ver\":1}"}
+{"topic": "tasmota/discovery/C82B96052B00/config", "msg": "{\"ip\":\"10.0.2.120\",\"dn\":\"Charlie Plug\",\"fn\":[\"charlie_plug\",null,null,null,null,null,null,null],\"hn\":\"th16\",\"mac\":\"C82B96052B00\",\"md\":\"Sonoff TH\",\"ty\":0,\"if\":0,\"ofln\":\"Offline\",\"onln\":\"Online\",\"state\":[\"OFF\",\"ON\",\"TOGGLE\",\"HOLD\"],\"sw\":\"11.0.0\",\"t\":\"th16\",\"ft\":\"%prefix%/%topic%/\",\"tp\":[\"cmnd\",\"stat\",\"tele\"],\"rl\":[1,0,0,0,0,0,0,0],\"swc\":[-1,-1,-1,-1,-1,-1,-1,-1],\"swn\":[null,null,null,null,null,null,null,null],\"btn\":[1,0,0,0,0,0,0,0],\"so\":{\"4\":0,\"11\":0,\"13\":0,\"17\":0,\"20\":0,\"30\":0,\"68\":0,\"73\":1,\"82\":0,\"114\":0,\"117\":0},\"lk\":0,\"lt_st\":0,\"sho\":[0,0,0,0],\"ver\":1}"}
+{"topic": "tasmota/discovery/C82B96052B00/sensors", "msg": "{\"sn\":{\"Time\":\"2022-03-08T10:17:26\",\"SI7021\":{\"Temperature\":71.8,\"Humidity\":47.7,\"DewPoint\":50.8},\"TempUnit\":\"F\"},\"ver\":1}"}

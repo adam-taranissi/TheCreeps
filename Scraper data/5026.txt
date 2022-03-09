@@ -1,0 +1,13 @@
+{"IP": "209.200.39.16"}
+{"topic": "ActiveMQ/Advisory/MasterBroker", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Consumer/Topic/#", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Connection", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Consumer/Queue/taskProxyANPR", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Connection", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Consumer/Queue/taskANPRTrackMTC", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Consumer/Queue/taskSMS", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Connection", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Consumer/Queue/taskProxyANPR", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Connection", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Consumer/Queue/taskANPRTrackMTC", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Connection", "msg": ""}

@@ -1,0 +1,38 @@
+{"IP": "104.236.104.165"}
+{"topic": "homie/600194070b25/$homie", "msg": "2.0.1"}
+{"topic": "homie/600194070b25/$name", "msg": "Roller Shutter"}
+{"topic": "homie/600194070b25/$mac", "msg": "60:01:94:07:0B:25"}
+{"topic": "homie/600194070b25/$localip", "msg": "192.168.2.110"}
+{"topic": "homie/600194070b25/$nodes", "msg": "shutters"}
+{"topic": "homie/600194070b25/$stats/interval", "msg": "0"}
+{"topic": "homie/600194070b25/$stats/signal", "msg": "44"}
+{"topic": "homie/600194070b25/$stats/uptime", "msg": "264661"}
+{"topic": "homie/600194070b25/$fw/name", "msg": "sonoff-dual-shutters"}
+{"topic": "homie/600194070b25/$fw/version", "msg": "1.0.0"}
+{"topic": "homie/600194070b25/$fw/checksum", "msg": "40a8f3bc368bbaaa851ad492215492cc"}
+{"topic": "homie/600194070b25/$implementation", "msg": "esp8266"}
+{"topic": "homie/600194070b25/$implementation/config", "msg": "{\"wifi\":{\"ssid\":\"DOCTORKLUB\"},\"mqtt\":{\"host\":\"iot.gibraltarsf.com\",\"port\":1883,\"auth\":false},\"name\":\"Roller Shutter\",\"ota\":{\"enabled\":true},\"settings\":{\"upcourseTime\":13,\"downcourseTime\":13}}"}
+{"topic": "homie/600194070b25/$implementation/version", "msg": "2.0.0"}
+{"topic": "homie/600194070b25/$implementation/ota/enabled", "msg": "true"}
+{"topic": "homie/600194070b25/shutters/$type", "msg": "shutters"}
+{"topic": "homie/600194070b25/shutters/$properties", "msg": "level:settable"}
+{"topic": "homie/600194070b25/shutters/level", "msg": "80"}
+{"topic": "homie/600194070b25/$online", "msg": "true"}
+{"topic": "homie/840d8e4074bb/$homie", "msg": "2.0.0"}
+{"topic": "homie/840d8e4074bb/$mac", "msg": "84:0D:8E:40:74:BB"}
+{"topic": "homie/840d8e4074bb/$name", "msg": "Luz del Hall y el Frente"}
+{"topic": "homie/840d8e4074bb/$localip", "msg": "192.168.2.107"}
+{"topic": "homie/840d8e4074bb/$stats/interval", "msg": "0"}
+{"topic": "homie/840d8e4074bb/$stats/signal", "msg": "90"}
+{"topic": "homie/840d8e4074bb/$stats/uptime", "msg": "59813"}
+{"topic": "homie/840d8e4074bb/$fw/name", "msg": "itead-sonoff-touch"}
+{"topic": "homie/840d8e4074bb/$fw/version", "msg": "2.0.1"}
+{"topic": "homie/840d8e4074bb/$fw/checksum", "msg": "4618d5e1886435b904ccd22ce812f8e9"}
+{"topic": "homie/840d8e4074bb/$implementation", "msg": "esp8266"}
+{"topic": "homie/840d8e4074bb/$implementation/config", "msg": "{\"wifi\":{\"ssid\":\"DOCTORKLUB\"},\"mqtt\":{\"host\":\"iot.gibraltarsf.com\",\"port\":1883,\"auth\":false},\"name\":\"Luz del Hall y el Frente\",\"ota\":{\"enabled\":true}}"}
+{"topic": "homie/840d8e4074bb/$implementation/version", "msg": "2.0.0"}
+{"topic": "homie/840d8e4074bb/$implementation/ota/enabled", "msg": "true"}
+{"topic": "homie/840d8e4074bb/light/$type", "msg": "switch"}
+{"topic": "homie/840d8e4074bb/light/$properties", "msg": "on[1-2]:settable"}
+{"topic": "homie/840d8e4074bb/light/on_2", "msg": "false"}
+{"topic": "homie/840d8e4074bb/light/on", "msg": "true"}

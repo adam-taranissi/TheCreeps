@@ -1,0 +1,2 @@
+{"IP": "34.202.231.129"}
+{"topic": "drones/gaia/connected", "msg": "1"}

@@ -1,0 +1,3 @@
+{"IP": "169.63.7.147"}
+{"topic": "kbeacon/subaction/TEST", "msg": "\n\n{\n\"msg\":\"dData\", \"mac\":\"DD350000513F\", \"seq\":77, \"auth1\":\"0000000000000000\", \"dType\":\"json\",\n\"data\":{\n\"msg\":\"cfg\",\"stype\":64,\"trAPrd\":500,\"nAlWin\":25,\"trAType\":4,\"nAlTvl\":30,\"trType\":4,\"nRdDly\":15,\"nAdPwr\":-20,\"trAct\":4,\"trAMode\":1,\"nAlDly\":3,\"nSTvl\":1400,\"nAlFt\":20,\"nSTm\":16780800,\"trATm\":20,\"trPara\":0,\"nAlDs\":13,\"nSWin\":52.5,\"nAdTvl\":40}\n}\n\n\n\n\n"}
+{"topic": "abc/123", "msg": "XYZ"}

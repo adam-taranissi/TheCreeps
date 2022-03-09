@@ -1,0 +1,2 @@
+{"IP": "159.65.164.9"}
+{"topic": "serkanin-odasi/status", "msg": "off,off"}

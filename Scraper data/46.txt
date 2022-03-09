@@ -1,0 +1,2 @@
+{"IP": "206.207.50.83"}
+{"topic": "status/wizard_of_oz/heartbeats", "msg": "{\"header\": {\"timestamp\": \"2022-03-08T17:57:48.930945Z\", \"message_type\": \"status\", \"version\": \"0.1\"}, \"msg\": {\"component\": \"wizard_of_oz\", \"status\": \"OK\"}}"}

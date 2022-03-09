@@ -1,0 +1,4 @@
+{"IP": "104.248.116.184"}
+{"topic": "/casamto/NR-01/out1", "msg": "Offack"}
+{"topic": "/casamto/NR-01/out2", "msg": "Offack"}
+{"topic": "/casamto/NR-01/out3", "msg": "Onack"}

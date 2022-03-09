@@ -1,0 +1,13 @@
+{"IP": "3.142.156.129"}
+{"topic": "Sakata_kuro_02/SakataMH/pvmonitor/Sakata/ss02/inverter/primary", "msg": "{\"InverterId\": 3, \"Vgrid\": 292.89, \"Vin2\": 698.83, \"DEnergy\": 142200.0, \"Wgrid\": 476.85, \"timestamp\": 1646789136, \"Fgrid\": 59.97, \"DataCategory\": \"Inverter\", \"site\": \"Sakata-B\", \"Igrid\": 0.67, \"TempInv\": 37.44, \"ModbusPort\": \"502\", \"Vin1\": 674.58, \"Pin2\": 211.66, \"Pin1\": 279.94, \"DEnergy3\": 142200.0, \"Iin1\": 0.53, \"Iin2\": 0.38}"}
+{"topic": "Sakata_kuro_02/SakataMH/pvmonitor/Sakata/ss02/inverter/primary", "msg": "{\"InverterId\": 4, \"Vin2\": 715.79, \"DEnergy\": 149300.0, \"Wgrid\": 546.28, \"timestamp\": 1646789138, \"Fgrid\": 59.97, \"DataCategory\": \"Inverter\", \"site\": \"Sakata-B\", \"Igrid\": 0.82, \"TempInv\": 37.85, \"ModbusPort\": \"502\", \"Vin1\": 711.92, \"Pin2\": 236.06, \"Pin1\": 327.12, \"Vgrid\": 281.16, \"DEnergy4\": 149300.0, \"Iin1\": 0.58, \"Iin2\": 0.41}"}
+{"topic": "Sakata_kuro_01/SakataMH/pvmonitor/Sakata/ss01/inverter/primary", "msg": "{\"InverterId\": 6, \"Vin2\": 640.84, \"DEnergy\": 148600.0, \"Wgrid\": 597.28, \"timestamp\": 1646789141, \"Fgrid\": 59.97, \"DataCategory\": \"Inverter\", \"site\": \"Sakata-A\", \"Iin2\": 0.54, \"Igrid\": 0.67, \"TempInv\": 33.85, \"ModbusPort\": \"502\", \"Vin1\": 627.65, \"Pin2\": 295.66, \"Pin1\": 320.1, \"Vgrid\": 279.0, \"Iin1\": 0.6, \"DEnergy6\": 148600.0}"}
+{"topic": "local/node-red/nanogrid/readData", "msg": "{\"id\": \"011\", \"input power\": 15.9765625, \"timestamp\": 1646789137.857}"}
+{"topic": "local/node-red/nanogrid/readData", "msg": "{\"VMP\": 147.125, \"id\": \"014\", \"timestamp\": 1646789137.869}"}
+{"topic": "local/node-red/nanogrid/readData", "msg": "{\"heatsink temp\": 31.71875, \"id\": \"007\", \"timestamp\": 1646789137.872}"}
+{"topic": "local/node-red/nanogrid/readData", "msg": "{\"id\": \"015\", \"VOC\": 196.125, \"timestamp\": 1646789138.835}"}
+{"topic": "local/node-red/nanogrid/readData", "msg": "{\"id\": \"012\", \"output power\": 12.4296875, \"timestamp\": 1646789138.847}"}
+{"topic": "local/node-red/nanogrid/readData", "msg": "{\"id\": \"002\", \"timestamp\": 1646789138.867, \"battery voltage\": 28.5}"}
+{"topic": "local/node-red/nanogrid/readData", "msg": "{\"MPS\": 158.5, \"id\": \"013\", \"timestamp\": 1646789138.878}"}
+{"topic": "local/node-red/nanogrid/readData", "msg": "{\"battery current\": 0.435791015625, \"id\": \"004\", \"timestamp\": 1646789139.139}"}
+{"topic": "local/node-red/nanogrid/readData", "msg": "{\"id\": \"011\", \"input power\": 15.8359375, \"timestamp\": 1646789139.859}"}

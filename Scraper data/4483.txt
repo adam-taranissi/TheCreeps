@@ -1,0 +1,3 @@
+{"IP": "173.255.203.182"}
+{"topic": "tele/sonoff/LWT", "msg": "Offline"}
+{"topic": "cmnd/DVES_95FAC6/POWER", "msg": "1"}

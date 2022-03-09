@@ -1,0 +1,41 @@
+{"IP": "54.152.40.251"}
+{"topic": "sensor/00124b0008680281/status", "msg": "{\"time\":1448384523,\"dist\":300,\"temp\":23.58,\"humi\":26.16,\"volt\":2.87,\"rssi\":-58}"}
+{"topic": "sensor/00124b0008680281/interval", "msg": "30"}
+{"topic": "sensor/00124b0008680281/static_status", "msg": "{\"time\":1448384393,\"model\":\"BR-PH-LEVEL-001\",\"hardware\":\"BR-RFX-100 Rev 1.0\",\"software\":\"0.0.0.3c96b4\"}"}
+{"topic": "sensor/00124b0008680281/reset", "msg": "1"}
+{"topic": "sensor/40/interval", "msg": "1"}
+{"topic": "sensor/00124b000868013a/static_status", "msg": "{\"time\":1448904354,\"model\":\"BR-PH-LEVEL-001\",\"hardware\":\"BR-RFX-100 Rev 1.0\",\"software\":\"0.0.0.237d2\"}"}
+{"topic": "sensor/00124b000868013a/status", "msg": "{\"time\":1448909662,\"dist\":300,\"temp\":24.32,\"humi\":28.89,\"volt\":2.70,\"rssi\":-65}"}
+{"topic": "sensor/00124b000868013a/config/interval", "msg": "35"}
+{"topic": "sensor/00124b0008680290/static_status", "msg": "{\"time\":1448910924,\"model\":\"BR-PH-LEVEL-001\",\"hardware\":\"BR-RFX-100 Rev 1.0\",\"software\":\"0.0.0.237d2\"}"}
+{"topic": "sensor/00124b0008680290/status", "msg": "{\"time\":1448912364,\"dist\":5000,\"temp\":23.09,\"humi\":29.62,\"volt\":2.83,\"rssi\":-67}"}
+{"topic": "sensor/00124b0008680290/config/interval", "msg": "90"}
+{"topic": "sensor/00124b000868014f/static_status", "msg": "{\"time\":1448903078,\"model\":\"BR-PH-LEVEL-001\",\"hardware\":\"BR-RFX-100 Rev 1.0\",\"software\":\"0.0.0.237d2\"}"}
+{"topic": "sensor/00124b000868014f/status", "msg": "{\"time\":1448907587,\"dist\":5000,\"temp\":23.63,\"humi\":27.70,\"volt\":2.87,\"rssi\":-64}"}
+{"topic": "sensor/00124b000868014f/config/reset", "msg": "0"}
+{"topic": "sensor/00124b000868017a/static_status", "msg": "{\"time\":1448900683,\"model\":\"BR-PH-LEVEL-001\",\"hardware\":\"BR-RFX-100 Rev 1.0\",\"software\":\"0.0.0.237d2\"}"}
+{"topic": "sensor/00124b000868017a/status", "msg": "{\"time\":1448900354,\"temp\":-21474836.48,\"humi\":-21474836.-48,\"volt\":2.33,\"rssi\":-56}"}
+{"topic": "sensor/00124b00086802d2/static_status", "msg": "{\"time\":1458487346,\"model\":\"BR-PH-LEVEL-001\",\"hardware\":\"BR-RFX-100 Rev 1.0\",\"software\":\"0.0.0.d3d7a\"}"}
+{"topic": "sensor/00124b00086802d2/status", "msg": "{\"time\":1458522988,\"temp\":7.18,\"humi\":59.90,\"sw\":0,\"volt\":3.54,\"rssi\":-74}"}
+{"topic": "sensor/00124b000867fdd8/static_status", "msg": "{\"time\":1458220857,\"model\":\"BR-PH-TEMP-001\",\"hardware\":\"BR-RFX100 Rev 1.0\",\"software\":\"1.0.0.35a95\",\"text1\":\"\"}"}
+{"topic": "sensor/00124b000867fdd8/status", "msg": "{\"time\":1458220861,\"temp\":22.18,\"humi\":42.41,\"sw\":0,\"volt\":3.58,\"rssi\":-43}"}
+{"topic": "sensor/00124b000867fdd8/config/interval", "msg": "15"}
+{"topic": "sensor/00124b000867fdd8/config/text1", "msg": "1234"}
+{"topic": "sensor/00124b000867fdd8/config/text2", "msg": "1234"}
+{"topic": "sensor/00124b0008680291/static_status", "msg": "{\"time\":1458234580,\"model\":\"BR-PH-TEMP-001\",\"hardware\":\"BR-RFX100 Rev 1.0\",\"software\":\"1.0.0.35a95\",\"text1\":\"\"}"}
+{"topic": "sensor/00124b0008680291/status", "msg": "{\"time\":1458235023,\"temp\":-15.13,\"humi\":60.61,\"sw\":0,\"volt\":3.47,\"rssi\":-73}"}
+{"topic": "sensor/00124b0008680291/config/interval", "msg": "60"}
+{"topic": "sensor/00124b0008680114/static_status", "msg": "{\"time\":1469124497,\"model\":\"BR-PH-LEVEL-001\",\"hardware\":\"BR-RFX-100 Rev 1.0\",\"software\":\"0.0.0.d3d7a\"}"}
+{"topic": "sensor/00124b0008680114/status", "msg": "{\"time\":1469135022,\"temp\":31.96,\"humi\":62.06,\"sw\":1,\"volt\":3.41,\"rssi\":-75}"}
+{"topic": "sensor/00124b0008680114/config/interval", "msg": "600"}
+{"topic": "sensor/00124b0008680114/config/software_update", "msg": "BR-PH-LEVEL-001/0"}
+{"topic": "sensor/00124b0008680102/static_status", "msg": "{\"time\":1458233665,\"model\":\"BR-PH-TEMP-001\",\"hardware\":\"BR-RFX100 Rev 1.0\",\"software\":\"1.0.0.35a95\",\"text1\":\"\"}"}
+{"topic": "sensor/00124b0008680102/status", "msg": "{\"time\":1458233674,\"temp\":23.16,\"humi\":34.25,\"sw\":0,\"volt\":2.87,\"rssi\":-48}"}
+{"topic": "sensor/00124b0008680102/config/reset", "msg": "0"}
+{"topic": "sensor/00124b0008680102/config/interval", "msg": "60"}
+{"topic": "sensor/00124b0008680102/config/software_update", "msg": "BR-PH-LEVEL-001/0"}
+{"topic": "sensor/00124b0008680102/config/options", "msg": "0"}
+{"topic": "sensor/00124b0008680102/config/text1", "msg": "test1"}
+{"topic": "sensor/00124b0008680102/config/text2", "msg": "test2"}
+{"topic": "sensor/008680102/config/reset", "msg": "1"}
+{"topic": "sensor/00124b00086802e2/static_status", "msg": "{\"time\":1461634753,\"model\":\"BR-PH-LEVEL-001\",\"hardware\":\"BR-RFX-100 Rev 1.0\",\"software\":\"0.0.0.d3d7a\"}"}

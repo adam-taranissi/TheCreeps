@@ -1,0 +1,38 @@
+{"IP": "3.14.38.195"}
+{"topic": "210412491100008/LWT", "msg": "Online"}
+{"topic": "ActiveMQ/Advisory/MasterBroker", "msg": ""}
+{"topic": "180408010001/LWT", "msg": "Online"}
+{"topic": "180521000001/LWT", "msg": "Online"}
+{"topic": "210921463000001/LWT", "msg": "Online"}
+{"topic": "ActiveMQ/Advisory/Consumer/Topic/#", "msg": ""}
+{"topic": "180521000001/SENSOR", "msg": "{\"Time\":\"2022-03-08T21:20:55\", \"Voltage\":0.00, \"Current\":0.2569, \"Power\":0.00, \"DS18B20\":{\"Temperature\":24.4}, \"TempUnit\":\"C\"}"}
+{"topic": "210412491100008/NMEA", "msg": "{\"Time\":\"2022-03-08T17:20:52\", \"Message\":\"$GPHDT,220.8,T*3D\"}"}
+{"topic": "210412491100008/NMEA", "msg": "{\"Time\":\"2022-03-08T17:20:52\", \"Message\":\"$GPVBW,0.2,,A,-0.1,0.5,A,,,,*51\"}"}
+{"topic": "210921463000001/STATE", "msg": "{\"Time\":\"2022-03-08T17:20:55\", \"Uptime\":7, \"Vcc\":3.571, \"POWER\":\"OFF\", \"Wifi\":{\"AP\":1, \"SSID\":\"Extrom\", \"RSSI\":100, \"APMac\":\"14:22:33:EC:95:78\"}}"}
+{"topic": "210412491100008/NMEA", "msg": "{\"Time\":\"2022-03-08T17:20:52\", \"Message\":\"$GPVTG,324.5,T,,,0.5,N,0.9,K,D*49\"}"}
+{"topic": "210921463000001/SENSOR", "msg": "{\"Time\":\"2022-03-08T17:20:55\", \"Counter1\":0.00, \"Flow\":0.00, \"Unit\":\"Liters per minute (L/min)\", \"FlowTotalizer\":12.74, \"Count\":0.00, \"Calibration\":5.50, \"OffsetInitial\":0.00, \"OffsetFinal\":0.00, \"Distance1\":42.93, \"Distance2\":23.56}"}
+{"topic": "210412491100008/NMEA", "msg": "{\"Time\":\"2022-03-08T17:20:52\", \"Message\":\"$GPZDA,202051.00,08,03,2022,-03,00*45\"}"}
+{"topic": "210412491100008/NMEA", "msg": "{\"Time\":\"2022-03-08T17:20:53\", \"Message\":\"$GPGGA,202052.80,2225.8590,S,03957.9140,W,2,,,13.3,M,,,,*24\"}"}
+{"topic": "180408010001/STATE", "msg": "{\"Time\":\"2022-03-08T21:20:55\", \"Uptime\":20, \"Vcc\":3.310, \"POWER\":\"OFF\", \"Wifi\":{\"AP\":1, \"SSID\":\"Extrom\", \"RSSI\":84, \"APMac\":\"14:22:33:EC:95:78\"}}"}
+{"topic": "180408010001/SENSOR", "msg": "{\"Time\":\"2022-03-08T21:20:55\", \"Counter1\":0}"}
+{"topic": "210921463000001/STATE", "msg": "{\"Time\":\"2022-03-08T17:20:56\", \"Uptime\":7, \"Vcc\":3.570, \"POWER\":\"OFF\", \"Wifi\":{\"AP\":1, \"SSID\":\"Extrom\", \"RSSI\":100, \"APMac\":\"14:22:33:EC:95:78\"}}"}
+{"topic": "210921463000001/SENSOR", "msg": "{\"Time\":\"2022-03-08T17:20:56\", \"Counter1\":0.00, \"Flow\":0.00, \"Unit\":\"Liters per minute (L/min)\", \"FlowTotalizer\":12.74, \"Count\":0.00, \"Calibration\":5.50, \"OffsetInitial\":0.00, \"OffsetFinal\":0.00, \"Distance1\":42.93, \"Distance2\":23.56}"}
+{"topic": "210412491100008/NMEA", "msg": "{\"Time\":\"2022-03-08T17:20:54\", \"Message\":\"$GPHDT,220.9,T*3C\"}"}
+{"topic": "210412491100008/NMEA", "msg": "{\"Time\":\"2022-03-08T17:20:55\", \"Message\":\"$GPVBW,0.1,,A,0.1,-0.3,A,,,,*54\"}"}
+{"topic": "210412491100008/NMEA", "msg": "{\"Time\":\"2022-03-08T17:20:55\", \"Message\":\"$GPVTG,148.0,T,,,0.3,N,0.5,K,D*4E\"}"}
+{"topic": "210412491100008/NMEA", "msg": "{\"Time\":\"2022-03-08T17:20:55\", \"Message\":\"$GPZDA,202053.00,08,03,2022,-03,00*47\"}"}
+{"topic": "180408010001/STATE", "msg": "{\"Time\":\"2022-03-08T21:20:56\", \"Uptime\":20, \"Vcc\":3.312, \"POWER\":\"OFF\", \"Wifi\":{\"AP\":1, \"SSID\":\"Extrom\", \"RSSI\":84, \"APMac\":\"14:22:33:EC:95:78\"}}"}
+{"topic": "210412491100008/NMEA", "msg": "{\"Time\":\"2022-03-08T17:20:55\", \"Message\":\"$GPGGA,202054.82,2225.8590,S,03957.9140,W,2,,,12.7,M,,,,*25\"}"}
+{"topic": "180408010001/SENSOR", "msg": "{\"Time\":\"2022-03-08T21:20:56\", \"Counter1\":0}"}
+{"topic": "210412491100008/NMEA", "msg": "{\"Time\":\"2022-03-08T17:20:55\", \"Message\":\"$GPHDT,220.9,T*3C\"}"}
+{"topic": "210412491100008/NMEA", "msg": "{\"Time\":\"2022-03-08T17:20:55\", \"Message\":\"$GPVBW,0.1,,A,0.4,-0.7,A,,,,*55\"}"}
+{"topic": "210412491100008/NMEA", "msg": "{\"Time\":\"2022-03-08T17:20:55\", \"Message\":\"$GPVTG,162.5,T,,,0.8,N,1.4,K,D*48\"}"}
+{"topic": "210921463000001/STATE", "msg": "{\"Time\":\"2022-03-08T17:20:57\", \"Uptime\":7, \"Vcc\":3.571, \"POWER\":\"OFF\", \"Wifi\":{\"AP\":1, \"SSID\":\"Extrom\", \"RSSI\":100, \"APMac\":\"14:22:33:EC:95:78\"}}"}
+{"topic": "210921463000001/SENSOR", "msg": "{\"Time\":\"2022-03-08T17:20:57\", \"Counter1\":0.00, \"Flow\":0.00, \"Unit\":\"Liters per minute (L/min)\", \"FlowTotalizer\":12.74, \"Count\":0.00, \"Calibration\":5.50, \"OffsetInitial\":0.00, \"OffsetFinal\":0.00, \"Distance1\":42.93, \"Distance2\":23.56}"}
+{"topic": "210412491100008/NMEA", "msg": "{\"Time\":\"2022-03-08T17:20:55\", \"Message\":\"$GPZDA,202054.00,08,03,2022,-03,00*40\"}"}
+{"topic": "210412491100008/NMEA", "msg": "{\"Time\":\"2022-03-08T17:20:56\", \"Message\":\"$GPGGA,202055.84,2225.8600,S,03957.9140,W,2,,,12.3,M,,,,*2C\"}"}
+{"topic": "180408010001/STATE", "msg": "{\"Time\":\"2022-03-08T21:20:57\", \"Uptime\":20, \"Vcc\":3.309, \"POWER\":\"OFF\", \"Wifi\":{\"AP\":1, \"SSID\":\"Extrom\", \"RSSI\":82, \"APMac\":\"14:22:33:EC:95:78\"}}"}
+{"topic": "210921463000001/STATE", "msg": "{\"Time\":\"2022-03-08T17:20:58\", \"Uptime\":7, \"Vcc\":3.572, \"POWER\":\"OFF\", \"Wifi\":{\"AP\":1, \"SSID\":\"Extrom\", \"RSSI\":100, \"APMac\":\"14:22:33:EC:95:78\"}}"}
+{"topic": "180408010001/SENSOR", "msg": "{\"Time\":\"2022-03-08T21:20:58\", \"Counter1\":0}"}
+{"topic": "210921463000001/SENSOR", "msg": "{\"Time\":\"2022-03-08T17:20:58\", \"Counter1\":0.00, \"Flow\":0.00, \"Unit\":\"Liters per minute (L/min)\", \"FlowTotalizer\":12.74, \"Count\":0.00, \"Calibration\":5.50, \"OffsetInitial\":0.00, \"OffsetFinal\":0.00, \"Distance1\":42.93, \"Distance2\":23.56}"}
+{"topic": "210921463000001/STATE", "msg": "{\"Time\":\"2022-03-08T17:20:59\", \"Uptime\":7, \"Vcc\":3.570, \"POWER\":\"OFF\", \"Wifi\":{\"AP\":1, \"SSID\":\"Extrom\", \"RSSI\":100, \"APMac\":\"14:22:33:EC:95:78\"}}"}

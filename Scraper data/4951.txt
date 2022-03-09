@@ -1,0 +1,43 @@
+{"IP": "67.205.155.146"}
+{"topic": "command", "msg": "red"}
+{"topic": "688218428", "msg": "blue"}
+{"topic": "68821842", "msg": "blue"}
+{"topic": "688218", "msg": "red"}
+{"topic": "688218427", "msg": "blue"}
+{"topic": "68821842833", "msg": "blue"}
+{"topic": "6901528", "msg": "Q"}
+{"topic": "688218428 ", "msg": "blue"}
+{"topic": "13910086", "msg": "Q"}
+{"topic": "1391008", "msg": "Q"}
+{"topic": "11990380", "msg": "Q"}
+{"topic": "1990380", "msg": "8A0101119B"}
+{"topic": "6324697", "msg": "Q"}
+{"topic": "11991208", "msg": "Q"}
+{"topic": "chart:13910086", "msg": "Q"}
+{"topic": "chart:6901528", "msg": "Q"}
+{"topic": "chart:11991208", "msg": "Q"}
+{"topic": "chart:6324697", "msg": "Q"}
+{"topic": "[object HTMLSelectElement]", "msg": "Q"}
+{"topic": "F13910086", "msg": "temp: 10.0"}
+{"topic": "F6324697", "msg": "Q"}
+{"topic": "F1391008", "msg": "Q"}
+{"topic": "13910032", "msg": "Q"}
+{"topic": "11685959", "msg": "Q"}
+{"topic": "13911096", "msg": "Q"}
+{"topic": "11992448", "msg": "Q"}
+{"topic": "11687202", "msg": "Q"}
+{"topic": "11687158", "msg": "Q"}
+{"topic": "11989709", "msg": "Q"}
+{"topic": "13911572", "msg": "Q"}
+{"topic": "11989653", "msg": "Q"}
+{"topic": "11687481", "msg": "Q"}
+{"topic": "6323835", "msg": "Q"}
+{"topic": "11686774", "msg": "Q"}
+{"topic": "11685232", "msg": "Q"}
+{"topic": "11991507", "msg": "Q"}
+{"topic": "13910165", "msg": "Q"}
+{"topic": "13911825", "msg": "Q"}
+{"topic": "chart:13911096", "msg": "Q"}
+{"topic": "chart:11990380", "msg": "Q"}
+{"topic": "chart:13910032", "msg": "Q"}
+{"topic": "chart:11685959", "msg": "Q"}

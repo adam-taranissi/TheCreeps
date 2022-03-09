@@ -1,0 +1,3 @@
+{"IP": "8.39.123.42"}
+{"topic": "sensor/temperature", "msg": "69.80"}
+{"topic": "sensor/humidity", "msg": "25.40"}

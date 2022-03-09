@@ -1,0 +1,41 @@
+{"IP": "3.229.117.111"}
+{"topic": "apps/ex-c0c000000067", "msg": "{\"tagId\": \"ex-c0c000000067\"}"}
+{"topic": "mqtt/meraki", "msg": "{\"mrMac\":\"F8:9E:28:73:C6:57\",\"timestamp\":\"2021-07-22 00:33:22.263\",\"rawPayload\":\"\",\"rssi\":\"-57\"}"}
+{"topic": "/c2c/GW84CCA800A220", "msg": "{\"tagId\":00197, \"event\":HRTB_F}"}
+{"topic": "/c2c/GW84CCA800EA98", "msg": "{\"tagId\":ex-d1d1000f0374, \"event\":OCUP}"}
+{"topic": "/c2c/GW98F4AB14DB54", "msg": "{\"tagId\":(01)00850027865010(21)0009T1312, \"event\":RSSI}"}
+{"topic": "/c2c/GW84CCA800C2A4", "msg": "{\"tagId\":8-02343, \"event\":DCOE}"}
+{"topic": "/c2c/GW84CCA800A238", "msg": "{\"tagId\":12-00205, \"event\":RSSI}"}
+{"topic": "/c2c/GW98F4AB140D7C", "msg": "{\"tagId\":7-16198, \"event\":RSSI}"}
+{"topic": "/c2c/GW98F4AB140DBC", "msg": "{\"tagId\":7-16198, \"event\":DCOE}"}
+{"topic": "/c2c/GWCC50E381DBC0", "msg": "{\"tagId\":7-16198, \"event\":RSSI}"}
+{"topic": "c2c/GW98F4AB14DB54", "msg": "{\"tagId\":ex-000d1003019d, \"event\":OCUP2, \"timestamp\":1627205346668}"}
+{"topic": "c2c/GW84CCA800C2A4", "msg": "{\"tagId\":8-02351, \"event\":RSSI, \"timestamp\":1627205336077}"}
+{"topic": "c2c/GW84CCA800C244", "msg": "{\"tagId\":(01)00850027865010(21)001rT0403, \"event\":PLOC, \"timestamp\":1639031982892}"}
+{"topic": "c2c/GW98F4AB14D9AC", "msg": "{\"tagId\":null, \"event\":NTWK, \"timestamp\":1634461299474}"}
+{"topic": "c2c/GW98F4AB141D08", "msg": "{\"tagId\":8-02351, \"event\":RSSI, \"timestamp\":1627205336077}"}
+{"topic": "c2c/GWCC50E382E1E0", "msg": "{\"tagId\":inl_087_p2_1_test_0013, \"event\":ACTV, \"timestamp\":1643934629654}"}
+{"topic": "c2c/GW84CCA800A290", "msg": "{\"tagId\":(01)00850027865010(21)0009T1779, \"event\":TEMP_C, \"timestamp\":1627205266937}"}
+{"topic": "c2c/F30BB91B-F5CE-4AB1-A1DA-9CF41FC9EC6E", "msg": "{\"tagId\":Lilly-2, \"event\":AWAY, \"timestamp\":1627203907318}"}
+{"topic": "c2c/GWC4DD57788E08", "msg": "{\"tagId\":(01)00850027865010(21)0020T0701, \"event\":TEMP_C, \"timestamp\":1627205242876}"}
+{"topic": "c2c/GW3C71BF6C33A0", "msg": "{\"tagId\":ex-c0c000000080, \"event\":OCUP2, \"timestamp\":1627205342222}"}
+{"topic": "c2c/GW98F4AB140C30", "msg": "{\"tagId\":null, \"event\":NTWK, \"timestamp\":1645450963898}"}
+{"topic": "c2c/GW3C71BF6C3690", "msg": "{\"tagId\":null, \"event\":NTWK, \"timestamp\":1646036898553}"}
+{"topic": "c2c/GW98F4AB140DCC", "msg": "{\"tagId\":(01)00850027865010(21)002bT0609, \"event\":NPKT, \"timestamp\":1644679877441}"}
+{"topic": "c2c/GW84CCA800B354", "msg": "{\"tagId\":null, \"event\":NTWK, \"timestamp\":1645633320346}"}
+{"topic": "c2c/GW84CCA800A254", "msg": "{\"tagId\":null, \"event\":NTWK, \"timestamp\":1643760647097}"}
+{"topic": "c2c/GW98F4AB140E94", "msg": "{\"tagId\":null, \"event\":NTWK, \"timestamp\":1645679533265}"}
+{"topic": "c2c/AutoTestGatewayID-KBAbl", "msg": "{\"tagId\":null, \"event\":NTWK, \"timestamp\":1627271363514}"}
+{"topic": "c2c/AutoTestGatewayID-gliWt", "msg": "{\"tagId\":null, \"event\":NTWK, \"timestamp\":1627271562967}"}
+{"topic": "c2c/AutoTestGatewayID-5oxac", "msg": "{\"tagId\":null, \"event\":NTWK, \"timestamp\":1627271562048}"}
+{"topic": "c2c/AutoTestGatewayID-1q3TH", "msg": "{\"tagId\":null, \"event\":NTWK, \"timestamp\":1627271564404}"}
+{"topic": "c2c/AutoTestGatewayID-BckVf", "msg": "{\"tagId\":null, \"event\":NTWK, \"timestamp\":1627271884015}"}
+{"topic": "c2c/AutoTestGatewayID-7L7Sw", "msg": "{\"tagId\":null, \"event\":NTWK, \"timestamp\":1627271793315}"}
+{"topic": "c2c/AutoTestGatewayID-Tvu15", "msg": "{\"tagId\":null, \"event\":NTWK, \"timestamp\":1627271794775}"}
+{"topic": "c2c/AutoTestGatewayID-Xkm5B", "msg": "{\"tagId\":null, \"event\":NTWK, \"timestamp\":1627271795195}"}
+{"topic": "c2c/AutoTestGatewayID-B4Am9", "msg": "{\"tagId\":null, \"event\":NTWK, \"timestamp\":1627271816132}"}
+{"topic": "c2c/AutoTestGatewayID-E1Ixk", "msg": "{\"tagId\":null, \"event\":NTWK, \"timestamp\":1627271838512}"}
+{"topic": "c2c/AutoTestGatewayID-y0hp1", "msg": "{\"tagId\":null, \"event\":NTWK, \"timestamp\":1627271843534}"}
+{"topic": "c2c/AutoTestGatewayID-IXhhl", "msg": "{\"tagId\":null, \"event\":NTWK, \"timestamp\":1627271855985}"}
+{"topic": "c2c/AutoTestGatewayID-xw2XA", "msg": "{\"tagId\":null, \"event\":NTWK, \"timestamp\":1627271859506}"}
+{"topic": "c2c/AutoTestGatewayID-J1INa", "msg": "{\"tagId\":ex-e2efe000014d, \"event\":AWAY, \"timestamp\":1627284403010}"}

@@ -1,0 +1,3 @@
+{"IP": "35.167.76.35"}
+{"topic": "default cli test", "msg": "<2016-12-20 : 1234567890 >"}
+{"topic": "abc/123", "msg": "XYZ"}

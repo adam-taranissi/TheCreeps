@@ -1,0 +1,5 @@
+{"IP": "20.88.30.217"}
+{"topic": "FIT_200", "msg": "-24.7280388"}
+{"topic": "FIT_200", "msg": "-24.7280388"}
+{"topic": "Pump_Status", "msg": "1"}
+{"topic": "Pump_Status", "msg": "1"}

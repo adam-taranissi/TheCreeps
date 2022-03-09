@@ -1,0 +1,7 @@
+{"IP": "137.184.28.200"}
+{"topic": "stations/30:AE:A4:9D:55:08/samples", "msg": "{\"airt\":25.59,\"airh\":80.75195,\"uvi\":3.981164,\"lux\":0,\"atmp\":92916.8,\"alt\":724.8088,\"soilt\":26,\"rainf\":0,\"soilh\":62.12454,\"wdsp\":0.125664,\"wdd\":\"Sul0.00\"}"}
+{"topic": "stations/30:AE:A4:9D:55:08/conditions", "msg": "{\"ip\":\"192.168.4.1\",\"volt\":6.81436,\"curr\":69.9,\"blv\":85.1}"}
+{"topic": "stations/30:AE:A4:98:52:AC/samples", "msg": "{\"airt\":23.58,\"airh\":94.5957,\"uvi\":3.85274,\"lux\":2,\"atmp\":92892.34,\"alt\":726.9929,\"soilt\":24,\"rainf\":0,\"soilh\":59.70696,\"wdsp\":0.125664,\"wdd\":\"Sul0.00\"}"}
+{"topic": "stations/30:AE:A4:98:52:AC/conditions", "msg": "{\"ip\":\"192.168.4.1\",\"volt\":6.92591,\"curr\":66.4,\"blv\":76.88889}"}
+{"topic": "stations/30:AE:A4:96:C4:84/samples", "msg": "{\"airt\":28.02,\"airh\":71.25586,\"uvi\":20.66667,\"lux\":45,\"atmp\":934.8071,\"alt\":719.1024,\"soilt\":-127,\"rainf\":0,\"soilh\":52.11233,\"wdsp\":0.125664,\"wdd\":\"Sul0.00\"}"}
+{"topic": "stations/30:AE:A4:96:C4:84/conditions", "msg": "{\"ip\":\"192.168.4.1\",\"volt\":0,\"curr\":0,\"blv\":0}"}

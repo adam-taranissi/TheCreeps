@@ -1,0 +1,4 @@
+{"IP": "155.138.233.47"}
+{"topic": "dvswitch/DVSwitch/Analog_Reflector/log", "msg": "E: 22-03-08 22:58:20 AMI Error: connect ECONNREFUSED 127.0.0.1:5038"}
+{"topic": "dvswitch/DVSwitch/Analog_Reflector/log", "msg": "E: 22-03-08 22:58:20 Turning off tune rights for AllStar Node 1999"}
+{"topic": "dvswitch/DVSwitch/Analog_Reflector/log", "msg": "E: 22-03-08 22:58:20 Turning off tune rights for AllStar Node 1999"}

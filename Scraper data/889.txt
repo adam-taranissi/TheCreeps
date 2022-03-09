@@ -1,0 +1,3 @@
+{"IP": "3.12.224.236"}
+{"topic": "wavelengths/video_analytics", "msg": "{\"device_id\": \"bdb99920356cc0778b7e171a74584098\", \"video_name\": \"pexels-anna-tarazevich-6550972.mp4\", \"duration\": 8.84, \"timestamp\": \"2022-03-08 19:11:12.848175\", \"analytics\": [[0.137785, 0, 0], [1.845517, 0, 0], [3.426955, 0, 0], [4.960484, 0, 0], [6.532013, 0, 0], [8.082659, 0, 0]]}"}
+{"topic": "wavelengths/video_analytics", "msg": "{\"device_id\": \"bdb99920356cc0778b7e171a74584098\", \"video_name\": \"pexels-serkan-bayraktar-8214649.mp4\", \"duration\": 2.218, \"timestamp\": \"2022-03-08 19:11:22.291658\", \"analytics\": [[0.0, 0, 0], [1.440652, 0, 0]]}"}

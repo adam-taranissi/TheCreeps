@@ -1,0 +1,10 @@
+{"IP": "3.16.214.173"}
+{"topic": "tecelagem", "msg": "{\"Ligadas\":69,\"Falha\":11,\"nulo\":0}"}
+{"topic": "abc/123", "msg": "XYZ"}
+{"topic": "laser", "msg": "{\"maquina_ligada\":1,\"laser_ligado\":1,\"ITEM3\":10,\"tempo_producao\":6821}"}
+{"topic": "tecelagem", "msg": "{\"Ligadas\":69,\"Falha\":11,\"nulo\":0}"}
+{"topic": "tecelagem", "msg": "{\"Ligadas\":69,\"Falha\":11,\"nulo\":0}"}
+{"topic": "tecelagem", "msg": "{\"Ligadas\":69,\"Falha\":11,\"nulo\":0}"}
+{"topic": "tecelagem", "msg": "{\"Ligadas\":69,\"Falha\":11,\"nulo\":0}"}
+{"topic": "tecelagem", "msg": "{\"Ligadas\":69,\"Falha\":11,\"nulo\":0}"}
+{"topic": "tecelagem", "msg": "{\"Ligadas\":69,\"Falha\":11,\"nulo\":0}"}

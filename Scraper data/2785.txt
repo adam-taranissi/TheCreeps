@@ -1,0 +1,8 @@
+{"IP": "20.40.209.140"}
+{"topic": "/event", "msg": "{\"msgid\":508,\"criticalalarm\":[0,0,0,0,0,0,0],\"triggeralarm\":[0,0,0,0,0,0,0],\"notificationalarm\":[0,0,0,0,0,0,0],\"time\":1646776660}"}
+{"topic": "/event", "msg": "{\"msgid\":508,\"criticalalarm\":[0,0,0,0,0,0,0],\"triggeralarm\":[0,0,0,0,0,0,0],\"notificationalarm\":[0,0,0,0,0,0,0],\"time\":1646776661}"}
+{"topic": "/event", "msg": "{\"msgid\":508,\"criticalalarm\":[0,0,0,0,0,0,0],\"triggeralarm\":[0,0,0,0,0,0,0],\"notificationalarm\":[0,0,0,0,0,0,0],\"time\":1646776662}"}
+{"topic": "/event", "msg": "{\"msgid\":8000,\"module\":\"da_service\",\"version\":\"3.6.0\",\"etype\":1,\"time\":1646776663}"}
+{"topic": "/modesout", "msg": "{\"msgid\":7101,\"mode\":5,\"time\":1646776663}"}
+{"topic": "/event", "msg": "{\"msgid\":508,\"criticalalarm\":[0,0,0,0,0,0,0],\"triggeralarm\":[0,0,0,0,0,0,0],\"notificationalarm\":[0,0,0,0,0,0,0],\"time\":1646776663}"}
+{"topic": "/event", "msg": "{\"msgid\":508,\"criticalalarm\":[0,0,0,0,0,0,0],\"triggeralarm\":[0,0,0,0,0,0,0],\"notificationalarm\":[0,0,0,0,0,0,0],\"time\":1646776664}"}

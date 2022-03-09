@@ -1,0 +1,39 @@
+{"IP": "128.59.145.2"}
+{"topic": "tele/tasmota_41B677/LWT", "msg": "Offline"}
+{"topic": "tele/tasmota_23FB81/LWT", "msg": "Offline"}
+{"topic": "tele/21CLR/LWT", "msg": "Offline"}
+{"topic": "tele/21_claremont_kitchen/LWT", "msg": "Offline"}
+{"topic": "tele/21CKI/LWT", "msg": "Offline"}
+{"topic": "tele/21COF/LWT", "msg": "Offline"}
+{"topic": "tele/21CST/LWT", "msg": "Offline"}
+{"topic": "tele/21CFR/LWT", "msg": "Offline"}
+{"topic": "tele/21CMB/LWT", "msg": "Offline"}
+{"topic": "tele/26ND1/LWT", "msg": "Offline"}
+{"topic": "tele/26ND2/LWT", "msg": "Offline"}
+{"topic": "tele/dan_desk_test/LWT", "msg": "Offline"}
+{"topic": "tele/tasmota_793D62/LWT", "msg": "Offline"}
+{"topic": "tele/926E_Tasmota/LWT", "msg": "Offline"}
+{"topic": "tele/tasmota_794683/LWT", "msg": "Offline"}
+{"topic": "tele/Mudd_934_Tasmota_BME/LWT", "msg": "Offline"}
+{"topic": "tele/934_Tasmota_BME/LWT", "msg": "Offline"}
+{"topic": "tele/934_Tasmota_BME280/LWT", "msg": "Offline"}
+{"topic": "tele/926E_Tasmota_BME280/LWT", "msg": "Offline"}
+{"topic": "tele/tasmota_843008/LWT", "msg": "Offline"}
+{"topic": "tele/MAX31865_01/LWT", "msg": "Offline"}
+{"topic": "tele/tasmota_AB7398/LWT", "msg": "Offline"}
+{"topic": "tele/wifikit_01/LWT", "msg": "Offline"}
+{"topic": "tele/842C_Tasmota_BME280/LWT", "msg": "Offline"}
+{"topic": "tele/tasmota_A92570/LWT", "msg": "Offline"}
+{"topic": "tele/ESPCAM_01/LWT", "msg": "Offline"}
+{"topic": "tele/tasmota_smoker_TC_01/LWT", "msg": "Offline"}
+{"topic": "tele/test_face_mcgee/LWT", "msg": "Offline"}
+{"topic": "octoPrint/mqtt", "msg": "disconnected"}
+{"topic": "octoPrint/temperature/tool0", "msg": "{\"actual\": 41.83, \"target\": 0.0, \"_timestamp\": 1595560776}"}
+{"topic": "octoPrint/temperature/bed", "msg": "{\"actual\": 38.46, \"target\": 0.0, \"_timestamp\": 1595560768}"}
+{"topic": "octoPrint/event/SettingsUpdated", "msg": "{\"config_hash\": \"e5ce646e1b565bc6d7d23f9ebfc18936\", \"effective_hash\": \"50098d7a450ce5cf3d9651a50ac332d5\", \"_event\": \"SettingsUpdated\", \"_timestamp\": 1595513482}"}
+{"topic": "octoPrint/event/FileAdded", "msg": "{\"storage\": \"local\", \"path\": \"Led-brace_0.2mm_PLA_ENDER3_31m.gcode\", \"name\": \"Led-brace_0.2mm_PLA_ENDER3_31m.gcode\", \"type\": [\"machinecode\", \"gcode\"], \"_event\": \"FileAdded\", \"_timestamp\": 1646596625}"}
+{"topic": "octoPrint/event/UpdatedFiles", "msg": "{\"type\": \"printables\", \"_event\": \"UpdatedFiles\", \"_timestamp\": 1646596625}"}
+{"topic": "octoPrint/event/MetadataAnalysisStarted", "msg": "{\"name\": \"Led-brace_0.2mm_PLA_ENDER3_31m.gcode\", \"path\": \"Led-brace_0.2mm_PLA_ENDER3_31m.gcode\", \"origin\": \"local\", \"type\": \"gcode\", \"_event\": \"MetadataAnalysisStarted\", \"_timestamp\": 1646597114}"}
+{"topic": "octoPrint/event/FileSelected", "msg": "{\"name\": \"100_mL_brace_0.2mm_PLA_ENDER3_1h10m.gcode\", \"path\": \"100_mL_brace_0.2mm_PLA_ENDER3_1h10m.gcode\", \"origin\": \"local\", \"size\": null, \"owner\": \"pi\", \"user\": \"pi\", \"_event\": \"FileSelected\", \"_timestamp\": 1646604542}"}
+{"topic": "octoPrint/event/PrinterStateChanged", "msg": "{\"state_id\": \"OPERATIONAL\", \"state_string\": \"Operational\", \"_event\": \"PrinterStateChanged\", \"_timestamp\": 1646627282}"}
+{"topic": "octoPrint/event/PrintStarted", "msg": "{\"name\": \"100_mL_brace_0.2mm_PLA_ENDER3_1h10m.gcode\", \"path\": \"100_mL_brace_0.2mm_PLA_ENDER3_1h10m.gcode\", \"origin\": \"local\", \"size\": 907541, \"owner\": \"pi\", \"user\": \"pi\", \"_event\": \"PrintStarted\", \"_timestamp\": 1646626974}"}

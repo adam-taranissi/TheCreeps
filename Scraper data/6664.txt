@@ -1,0 +1,41 @@
+{"IP": "52.170.152.31"}
+{"topic": "/sls/cort/00:16:25:11:a2:ac/tagread", "msg": "{\"Reader\":{\"Name\":\"FD1FCAD1-86E8-43|840C9F09-C7CC-4B|1|17\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/herdx/00:16:25:11:a2:ac/tagread", "msg": "{\"Reader\":{\"Name\":\"2A01CA73-67C4-4F|4A5CD20B-0833-4E|1|17\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:13:C3:67/tagread", "msg": "{\"Reader\":{\"Name\":\"UCKzZQWIHNDu4ANveBWNW3I30Ot/bOMQ80FPeUDqsdPavnnJ818GKnelSfzI\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:13:A5:5D/tagread", "msg": "{\"Reader\":{\"Name\":\"58BAF7BD-D15D-45|2A5DA5BC-BC17-4C|12|31\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:13:BE:9A/tagread", "msg": "{\"Reader\":{\"Name\":\"58BAF7BD-D15D-45|2A5DA5BC-BC17-4C|13|31\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:13:BE:9B/tagread", "msg": "{\"Reader\":{\"Name\":\"58BAF7BD-D15D-45|2A5DA5BC-BC17-4C|14|31\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:13:A5:64/tagread", "msg": "{\"Reader\":{\"Name\":\"58BAF7BD-D15D-45|2A5DA5BC-BC17-4C|15|31\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:13:BE:92/tagread", "msg": "{\"Type\":\"Tag Read\",\"Reader\":{\"Name\":\"58BAF7BD-D15D-45|2A5DA5BC-BC17-4C|11|31\"},\"Tag\":{\"Antenna\":3,\"RSSI\":-62,\"TID\":\"\",\"EPC\":\"31508E5D53814FEFEE000000\",\"UTCTime\":\"2022-03-09 03:34:10\"}}"}
+{"topic": "/sls/00:16:25:13:A5:32/tagread", "msg": "{\"Type\":\"Tag Read\",\"Reader\":{\"Name\":\"58BAF7BD-D15D-45|2A5DA5BC-BC17-4C|1|31\"},\"Tag\":{\"Antenna\":2,\"RSSI\":-60,\"TID\":\"\",\"EPC\":\"31508E5D53814FEF91000000\",\"UTCTime\":\"2022-03-09 03:33:39\"}}"}
+{"topic": "/sls/stevesdoors/00:16:25:13:BE:9E/tagread", "msg": "{\"Reader\":{\"Name\":\"00:16:25:13:be:9e\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/stevesdoors/00:16:25:13:C3:67/tagread", "msg": "{\"Reader\":{\"Name\":\"00:16:25:13:c3:67\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/bgr/00:16:25:12:9B:6B/tagread", "msg": "{\"Type\":\"Tag Read\",\"Reader\":{\"Name\":\"72ACEC0A-7015-42|3E65AEE4-ABC7-4F|143|4\"},\"Tag\":{\"Antenna\":3,\"RSSI\":-53,\"TID\":\"\",\"EPC\":\"E280116060000213D80B524A\",\"UTCTime\":\"2021-07-30 13:55:12\"}}"}
+{"topic": "/sls/bgr/00:16:25:13:8A:F3/tagread", "msg": "{\"Reader\":{\"Name\":\"00:16:25:13:8A:F3\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/bgr/00:16:25:13:94:1D/tagread", "msg": "{\"Reader\":{\"Name\":\"00:16:25:13:94:1D\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/bgr/00:16:25:13:34:7B/tagread", "msg": "{\"Type\":\"Tag Read\",\"Reader\":{\"Name\":\"00:16:25:13:34:7B\"},\"Tag\":{\"Antenna\":4,\"RSSI\":-62,\"TID\":\"\",\"EPC\":\"30199ECC009B7B4000000470\",\"UTCTime\":\"2022-03-09 04:10:06\"}}"}
+{"topic": "/sls/bgr/00:16:25:13:AE:9B/tagread", "msg": "{\"Reader\":{\"Name\":\"00:16:25:13:AE:9B\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/bgr/00:16:25:13:AE:94/tagread", "msg": "{\"Reader\":{\"Name\":\"00:16:25:13:AE:94\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/bgr/00:16:25:13:AE:9D", "msg": "{\"Type\":\"Tag Read\",\"Reader\":{\"Name\":\"00:16:25:13:AE:9D\"},\"Tag\":{\"Antenna\":2,\"RSSI\":-62,\"TID\":\"\",\"EPC\":\"34C99ECC060CC30008030204\",\"UTCTime\":\"2021-11-16 19:48:57\"}}"}
+{"topic": "/sls/bgr/00:16:25:13:AE:9D/tagread", "msg": "{\"Reader\":{\"Name\":\"00:16:25:13:AE:9D\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/bgr/00:16:25:13:70:A3/tagread", "msg": "{\"Reader\":{\"Name\":\"00:16:25:13:70:A3\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/bgr/00:16:25:13:85:AA/tagread", "msg": "{\"Reader\":{\"Name\":\"00:16:25:13:85:AA\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/bgr/00:16:25:13:5B:81/tagread", "msg": "{\"Reader\":{\"Name\":\"00:16:25:13:5B:81\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/bgr/00:16:25:12:9B:A8", "msg": "{\"Type\":\"Tag Read\",\"Reader\":{\"Name\":\"00:16:25:12:9B:A8\"},\"Tag\":{\"Antenna\":2,\"RSSI\":-62,\"TID\":\"\",\"EPC\":\"30199ECC009C93000000000A\",\"UTCTime\":\"2021-08-02 19:10:17\"}}"}
+{"topic": "/sls/bgr/00:16:25:12:9B:A8/tagread", "msg": "{\"Type\":\"Tag Read\",\"Reader\":{\"Name\":\"00:16:25:12:9B:A8\"},\"Tag\":{\"Antenna\":2,\"RSSI\":-64,\"TID\":\"\",\"EPC\":\"30199ECC006AA48000000D17\",\"UTCTime\":\"2022-03-09 03:16:45\"}}"}
+{"topic": "/sls/bgr/00:16:25:13:8A:F2/tagread", "msg": "{\"Reader\":{\"Name\":\"00:16:25:13:8A:F2\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/bgr/00:16:25:13:8A:CD/tagread", "msg": "{\"Reader\":{\"Name\":\"00:16:25:13:8A:CD\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/bgr/00:16:25:13:8B:D9/tagread", "msg": "{\"Reader\":{\"Name\":\"00:16:25:13:8B:D9\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/bgr/00:16:25:13:92:3B/tagread", "msg": "{\"Reader\":{\"Name\":\"00:16:25:13:92:3B\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/bgr/00:16:25:13:70:A5/tagread", "msg": "{\"Reader\":{\"Name\":\"00:16:25:13:70:A5\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/bgr/00:16:25:13:70:A4/tagread", "msg": "{\"Reader\":{\"Name\":\"00:16:25:13:70:A4\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/bgr/00:16:25:13:8B:DB/tagread", "msg": "{\"Reader\":{\"Name\":\"00:16:25:13:8B:DB\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/bgr/00:16:25:13:84:A9/tagread", "msg": "{\"Reader\":{\"Name\":\"00:16:25:13:84:A9\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/bgr/00:16:25:13:8B:32/tagread", "msg": "{\"Reader\":{\"Name\":\"00:16:25:13:8B:32\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/bgr/00:16:25:13:70:DB/tagread", "msg": "{\"Reader\":{\"Name\":\"00:16:25:13:70:DB\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/bgr/00:16:25:13:70:E2/tagread", "msg": "{\"Reader\":{\"Name\":\"00:16:25:13:70:E2\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/bgr/00:16:25:13:70:CC/tagread", "msg": "{\"Reader\":{\"Name\":\"00:16:25:13:70:CC\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/bgr/00:16:25:13:7D:AF/tagread", "msg": "{\"Reader\":{\"Name\":\"00:16:25:13:7D:AF\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/bgr/00:16:25:13:AE:88/tagread", "msg": "{\"Reader\":{\"Name\":\"00:16:25:13:AE:88\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/bgr/00:16:25:13:AE:84/tagread", "msg": "{\"Reader\":{\"Name\":\"00:16:25:13:AE:84\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/bgr/00:16:25:12:97:AE/tagread", "msg": "{\"Reader\":{\"Name\":\"00:16:25:12:97:AE\"\n},\"Type\":\"Heartbeat\"}"}

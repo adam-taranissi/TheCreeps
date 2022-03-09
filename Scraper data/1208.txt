@@ -1,0 +1,3 @@
+{"IP": "13.82.45.48"}
+{"topic": "Lock/status", "msg": "{\"lock\":1,\"is_opened\":true}"}
+{"topic": "shadow/status", "msg": "{\"lock\":1,\"is_opened\":true}"}

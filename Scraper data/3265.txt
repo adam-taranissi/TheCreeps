@@ -1,0 +1,19 @@
+{"IP": "52.254.22.61"}
+{"topic": "CC_VEHICLEWORK_APC", "msg": "{\"VehicleNumber\":\"1252      \",\"Latitude\":41.751865,\"Longitude\":-87.55306,\"DirID\":3,\"LastRecRcvdDTS\":1646779197000,\"CurrentStopID\":12470,\"NextStopID\":3776,\"TripID\":20825020,\"TripStartDTS\":1646774808907,\"APCOn\":0,\"APCOff\":0,\"APCCount\":0,\"RunID\":980,\"DateUpdated\":1646757597773,\"DateQueried\":1646779198620}"}
+{"topic": "Thermo", "msg": "{\r\n    temp:  24.1421356235518\r\n}"}
+{"topic": "Counter", "msg": "{\r\n    count:  21\r\n}"}
+{"topic": "Water", "msg": "{\r\n    water:  28\r\n}"}
+{"topic": "trafficlight", "msg": "{\r\n    status:  \"Normal\",\r\n    timer:  13,\r\n    state:  \"Green\"\r\n}"}
+{"topic": "Thermo", "msg": "{\r\n    temp:  22.8557521940839\r\n}"}
+{"topic": "Counter", "msg": "{\r\n    count:  29\r\n}"}
+{"topic": "Water", "msg": "{\r\n    water:  29\r\n}"}
+{"topic": "trafficlight", "msg": "{\r\n    status:  \"Normal\",\r\n    timer:  12,\r\n    state:  \"Green\"\r\n}"}
+{"topic": "CC_VEHICLEWORK_APC", "msg": "{\"VehicleNumber\":\"1289      \",\"Latitude\":41.75064,\"Longitude\":-87.64348,\"DirID\":4,\"LastRecRcvdDTS\":1646779200000,\"CurrentStopID\":13478,\"NextStopID\":22870,\"TripID\":27989020,\"TripStartDTS\":1646778789927,\"APCOn\":0,\"APCOff\":0,\"APCCount\":43,\"RunID\":563,\"DateUpdated\":1646757601587,\"DateQueried\":1646779203790}"}
+{"topic": "CC_VEHICLEWORK_APC", "msg": "{\"VehicleNumber\":\"7989      \",\"Latitude\":41.751957,\"Longitude\":-87.5482,\"DirID\":3,\"LastRecRcvdDTS\":1646779202000,\"CurrentStopID\":3698,\"NextStopID\":11305,\"TripID\":13029020,\"TripStartDTS\":1646776235250,\"APCOn\":0,\"APCOff\":0,\"APCCount\":0,\"RunID\":832,\"DateUpdated\":1646757602667,\"DateQueried\":1646779203790}"}
+{"topic": "CC_VEHICLEWORK_APC", "msg": "{\"VehicleNumber\":\"7947      \",\"Latitude\":41.752,\"Longitude\":-87.545685,\"DirID\":4,\"LastRecRcvdDTS\":1646779202000,\"CurrentStopID\":9310,\"NextStopID\":9553,\"TripID\":1205020,\"TripStartDTS\":1646774348380,\"APCOn\":0,\"APCOff\":2,\"APCCount\":3,\"RunID\":1499,\"DateUpdated\":1646757603167,\"DateQueried\":1646779203790}"}
+{"topic": "Thermo", "msg": "{\r\n    temp:  21.4715287275068\r\n}"}
+{"topic": "Counter", "msg": "{\r\n    count:  29\r\n}"}
+{"topic": "Water", "msg": "{\r\n    water:  30\r\n}"}
+{"topic": "trafficlight", "msg": "{\r\n    status:  \"Normal\",\r\n    timer:  11,\r\n    state:  \"Green\"\r\n}"}
+{"topic": "criticalincidents", "msg": "{\r\n    criticalinc:  8\r\n}"}
+{"topic": "Thermo", "msg": "{\r\n    temp:  20.0000000001241\r\n}"}

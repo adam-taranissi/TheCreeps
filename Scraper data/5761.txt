@@ -1,0 +1,2 @@
+{"IP": "66.253.158.97"}
+{"topic": "/skycam/info", "msg": "{\"timestamp\": \"2021-08-17T21:16:41\", \"space\": 7988723712, \"message\": \"Remaining space = 7.99e+09 Bytes\"}"}

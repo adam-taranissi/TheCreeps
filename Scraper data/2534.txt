@@ -1,0 +1,2 @@
+{"IP": "50.47.109.77"}
+{"topic": "Wellpump/info", "msg": "Wellpump WiFi signal RSSI: -74"}

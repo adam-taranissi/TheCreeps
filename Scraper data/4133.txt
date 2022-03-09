@@ -1,0 +1,4 @@
+{"IP": "159.223.158.94"}
+{"topic": "condensacion/AAAC/envio", "msg": "{\"id\":3,\"sensorValue\":1024,\"sensorValueD\":1}"}
+{"topic": "condensacion/AAAA/envio", "msg": "{\"id\":1,\"sensorValue\":1024,\"sensorValueD\":1}"}
+{"topic": "condensacion/AAAB/envio", "msg": "{\"id\":2,\"sensorValue\":1024,\"sensorValueD\":1}"}

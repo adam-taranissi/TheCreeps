@@ -1,0 +1,39 @@
+{"IP": "157.230.234.166"}
+{"topic": "Juliano/Configuration", "msg": "[{\"nick\":\"Casa Temperatura\",\"topic\":\"\",\"group\": [ {\"nick\":\"\",\"topic\":\"Juliano/5C:CF:7F:05:FF:80/Status\",\"id\":1,\"btn\":[ {\"btnText\":\"Status\",\"publish\":\"\",\"btnClass\":\"btn1 btn3\"} ] }, {\"nick\":\"Boiller temp\",\"topic\":\"Juliano/5C:CF:7F:05:FF:80/Servico\",\"id\":2,\"btn\":[ {\"btnText\":\"\",\"publish\":\"\",\"btnClass\":\"btn1 btn3\"}, {\"btnText\":\"\",\"publish\":\"\",\"btnClass\":\"btn1 btn3\"}, {\"btnText\":\"\",\"publish\":\"\",\"btnClass\":\"btn1 btn3\"}, {\"btnText\":\"\",\"publish\":\"\",\"btnClass\":\"btn1 btn3\"}, {\"btnText\":\"\",\"publish\":\"\",\"btnClass\":\"btn1 btn3\"}, {\"btnText\":\"\",\"publish\":\"\",\"btnClass\":\"btn1 btn3\"}, {\"btnText\":\"\",\"publish\":\"\",\"btnClass\":\"btn1 btn3\"} ] }, {\"nick\":\"\",\"topic\":\"Juliano/5C:CF:7F:05:FF:80/Sala\",\"id\":3,\"btn\":[ {\"btnText\":\"LIGA\",\"publish\":{\"action\":\"on\"},\"btnClass\":\"btn1\"}, {\"btnText\":\"DESLIGA\",\"publish\":{\"action\":\"off\"},\"btnClass\":\"btn1 btn2\"} ] } ] }, {\"nick\":\"Casa 1\",\"topic\":\"\",\"group\":[ {\"nick\":\"Sala\",\"topic\":\"5C:CF:7F:06:01:08\",\"id\":4,\"btn\":[ {\"btnText\":\"LIGA\",\"publish\":{\"action\":\"on\"},\"btnClass\":\"btn1\"}, {\"btnText\":\"DESLIGA\",\"publish\":{\"action\":\"off\"},\"btnClass\":\"btn1 btn2\"}, {\"btnText\":\"\",\"publish\":{\"action\":\"offf\"},\"btnClass\":\"btn1 btn3\"}, {\"btnText\":\"\",\"publish\":{\"action\":\"offf\"},\"btnClass\":\"btn1 btn4\"} ] } ] }, {\"nick\":\"Casa 2\",\"topic\":\"\",\"group\": [ {\"nick\":\"Sala1\",\"topic\":\"Juliano/5C:CF:7F:06:01:E4/Sala\",\"id\":5,\"btn\":[ {\"btnText\":\"LIGA\",\"publish\":{\"action\":\"on\"},\"btnClass\":\"btn1\"}, {\"btnText\":\"DESLIGA\",\"publish\":{\"action\":\"off\"},\"btnClass\":\"btn1 btn2\"} ] } ] }, {\"nick\":\"Escritorio Temperatura\",\"topic\":\"\",\"group\": [ {\"nick\":\"\",\"topic\":\"Juliano/5C:CF:7F:06:70:7B/Status\",\"id\":6,\"btn\":[ {\"btnText\":\"Status\",\"publish\":\"\",\"btnClass\":\"btn1 btn3\"} ] }, {\"nick\":\"Boiller temp\",\"topic\":\"Juliano/5C:CF:7F:06:70:7B/Servico\",\"id\":7,\"btn\":[ {\"btnText\":\"\",\"publish\":\"\",\"btnClass\":\"btn1 btn3\"}, {\"btnText\":\"\",\"publish\":\"\",\"btnClass\":\"btn1 btn3\"}, {\"btnText\":\"\",\"publish\":\"\",\"btnClass\":\"btn1 btn3\"}, {\"btnText\":\"\",\"publish\":\"\",\"btnClass\":\"btn1 btn3\"}, {\"btnText\":\"\",\"publish\":\"\",\"btnClass\":\"btn1 btn3\"}, {\"btnText\":\"\",\"publish\":\"\",\"btnClass\":\"btn1 btn3\"}, {\"btnText\":\"\",\"publish\":\"\",\"btnClass\":\"btn1 btn3\"} ] }, {\"nick\":\"\",\"topic\":\"Juliano/5C:CF:7F:06:70:7B/Sala\",\"id\":8,\"btn\":[ {\"btnText\":\"LIGA\",\"publish\":{\"action\":\"on\"},\"btnClass\":\"btn1\"}, {\"btnText\":\"DESLIGA\",\"publish\":{\"action\":\"off\"},\"btnClass\":\"btn1 btn2\"} ] } ] } ,      {\"nick\":\"Caixa d agua\",\"topic\":\"\",\"group\": [ {\"nick\":\"\",\"topic\":\"Juliano/CC:50:E3:28:F8:C2/Status\",\"id\":9,\"btn\":[ {\"btnText\":\"Status\",\"publish\":\"\",\"btnClass\":\"btn1 btn3\"} ] }, {\"nick\":\"Leitura \",\"topic\":\"Juliano/CC:50:E3:28:F8:C2/Sala\",\"id\":10,\"btn\":[ {\"btnText\":\"\",\"publish\":\"\",\"btnClass\":\"btn1 btn3\"}, {\"btnText\":\"\",\"publish\":\"\",\"btnClass\":\"btn1 btn3\"}] } ] } ]"}
+{"topic": "Juliano/Configuration/Servo", "msg": "[{\"nick\":\"Status Servo\",\"topic\":\"\",\"group\":[{\"nick\":\"\",\"topic\":\"Juliano/A4:CF:12:BC:EE:21/Status\",\"id\":\"\",\"btn\":\"\",\"srv\":\"\"},{\"nick\":\"Move Servo\",\"topic\":\"Juliano/A4:CF:12:BC:EE:21/Sala\",\"id\":\"\",\"srv\":[{\"srvText\":\"+\",\"publish\":{\"action\":\"P\"},\"srvClass\":\"slider\",\"srvMin\":\"0\",\"srvMax\":\"180\",\"srvValor\":\"0\"}],\"btn\":[{\"btnText\":\"+\",\"publish\":{\"action\":\"Servo+\"},\"btnClass\":\"btn1 btn3\"},{\"btnText\":\"-\",\"publish\":{\"action\":\"Servo-\"},\"btnClass\":\"btn1 btn3\"}]}]}]"}
+{"topic": "Juliano/JCG/5C:CF:7F:06:01:BB", "msg": "0"}
+{"topic": "Juliano/JCG/Status", "msg": "0"}
+{"topic": "Juliano/JCG/18:FE:34:FC:5D:75", "msg": "0"}
+{"topic": "Juliano/JCG/5C:CF:7F:06:00:C0", "msg": "0"}
+{"topic": "Juliano/casa10/Status", "msg": "0"}
+{"topic": "Juliano/5C:CF:7F:06:00:C0/Status", "msg": "0"}
+{"topic": "Juliano/5C:CF:7F:06:01:E4/Status", "msg": "0"}
+{"topic": "Juliano/5C:CF:7F:06:01:E4/Sala", "msg": "0"}
+{"topic": "Juliano/18:FE:34:F5:0A:39/Status", "msg": "{\"report\":\"off\"}"}
+{"topic": "Juliano/18:FE:34:F5:0A:39/Sala", "msg": "{\"report\":\"on\"}"}
+{"topic": "Juliano/5C:CF:7F:05:FF:3B/Status", "msg": "0"}
+{"topic": "Juliano/5C:CF:7F:05:FF:3B/Sala", "msg": "0"}
+{"topic": "Juliano/5C:CF:7F:06:70:7B/Status", "msg": "{\"report\":\"off\"}"}
+{"topic": "Juliano/5C:CF:7F:06:70:7B/Sala", "msg": "{\"report\":\"off\"}"}
+{"topic": "Juliano/5C:CF:7F:05:FF:80/Status", "msg": "{\"report\":\"on\"}"}
+{"topic": "Juliano/5C:CF:7F:05:FF:80/Sala", "msg": "{\"report\":\"off\"}"}
+{"topic": "Juliano/18:FE:34:FE:03:7A/Status", "msg": "0"}
+{"topic": "Juliano/18:FE:34:FE:03:7A/Sala", "msg": "0"}
+{"topic": "Juliano/3C:71:BF:EE:EC:68/Status", "msg": "{\"report\":\"on\"}"}
+{"topic": "Juliano/Onfiguration/Servo", "msg": "0"}
+{"topic": "Juliano/A4:CF:12:BC:EE:21/Status", "msg": "{\"report\":\"on\"}"}
+{"topic": "Juliano/A4:CF:12:BC:EE:21/Sala", "msg": "{\"report\":\"on\"}"}
+{"topic": "Juliano/80:7D:3A:C7:3F:BC/Home/Status", "msg": "0"}
+{"topic": "Juliano/80:7D:3A:C7:3F:BC/Configuration", "msg": "[{\"nick\":\"Home\",\"topic\":\"Home\",\"group\":[{\"nick\":\"Room\",\"topic\":\"Room\",\"id\":2,\"btn\":[{\"btnText\":\"ON\",\"publish\":{\"action\":\"on\"},\"btnClass\":\"btn1\"},{\"btnText\":\"OFF\",\"publish\":{\"action\":\"off\"},\"btnClass\":\"btn1 btn2\"}]}]}]"}
+{"topic": "Juliano/A4:CF:12:BE:6C:30/Status", "msg": "0"}
+{"topic": "Juliano/A4:CF:12:BE:6C:30/Sala", "msg": "0"}
+{"topic": "Juliano/5C:CF:7F:06:6F:4D/Status", "msg": "{\"report\":\"off\"}"}
+{"topic": "Juliano/5C:CF:7F:06:6F:4D/Sala", "msg": "{\"report\":\"on\"}"}
+{"topic": "Juliano/CC:50:E3:28:F8:C2/Status", "msg": "{\"report\":\"on\"}"}
+{"topic": "Juliano/CC:50:E3:28:F8:C2/Sala", "msg": "{\"report\":\"on\"}"}
+{"topic": "Juliano/24:0A:C4:A2:A6:DC/Status", "msg": "{\"report\":\"off\"}"}
+{"topic": "5C:CF:7F:06:6F:4D", "msg": "0"}
+{"topic": "5C:CF:7F:06:00:C0", "msg": "0"}
+{"topic": "5C:CF:7F:06:01:E4", "msg": "0"}
+{"topic": "5C:CF:7F:06:01:08", "msg": "0"}
+{"topic": "18:FE:34:9B:9B:33", "msg": "0"}

@@ -1,0 +1,22 @@
+{"IP": "24.173.37.90"}
+{"topic": "esp/dhtdown/temperature", "msg": "21.90"}
+{"topic": "esp/dhtdown/humidity", "msg": "26.10"}
+{"topic": "esp/dhtattic/temperature", "msg": "20.30"}
+{"topic": "esp/dhtattic/humidity", "msg": "30.00"}
+{"topic": "esp/dhtback/temperature", "msg": "10.60"}
+{"topic": "esp/dhtback/humidity", "msg": "54.70"}
+{"topic": "esp/dhtback/temperature", "msg": "10.60"}
+{"topic": "esp/dhtback/humidity", "msg": "54.60"}
+{"topic": "RoverControlS", "msg": "The Rover is Shut Down"}
+{"topic": "MainEvent/4", "msg": "Input status: Open"}
+{"topic": "MainEvent/5", "msg": "Input status: Open"}
+{"topic": "MainEvent/1", "msg": "Input status: Open"}
+{"topic": "MainEvent/2", "msg": "Input status: Open"}
+{"topic": "MainEvent/3", "msg": "Input status: Open"}
+{"topic": "esp/dhtattic/humidity", "msg": "30.00"}
+{"topic": "RoverControlS", "msg": "The Rover is Shut Down"}
+{"topic": "MainEvent/4", "msg": "Input status: Open"}
+{"topic": "MainEvent/5", "msg": "Input status: Open"}
+{"topic": "MainEvent/1", "msg": "Input status: Open"}
+{"topic": "MainEvent/2", "msg": "Input status: Open"}
+{"topic": "MainEvent/3", "msg": "Input status: Open"}

@@ -1,0 +1,17 @@
+{"IP": "18.216.64.219"}
+{"topic": "Seis_Bool_1", "msg": "1"}
+{"topic": "Cuadrada_Real_2", "msg": "                    17.00"}
+{"topic": "Planta_Real_1", "msg": "                    63.03"}
+{"topic": "Seis_Real_1", "msg": "                    93.66"}
+{"topic": "Planta_Real_2", "msg": "                    36.00"}
+{"topic": "Caboviejo_Bool_1", "msg": "1"}
+{"topic": "Caboviejo_Bool_2", "msg": "0"}
+{"topic": "Caboviejo_Bool_3", "msg": "0"}
+{"topic": "Caboviejo_Bool_4", "msg": "1"}
+{"topic": "Falcone_Bool_1", "msg": "1"}
+{"topic": "Caboviejo_Bool_5", "msg": "0"}
+{"topic": "Caboviejo_Bool_6", "msg": "0"}
+{"topic": "Marilu_Bool_1", "msg": "1"}
+{"topic": "Caboviejo_Bool_7", "msg": "1"}
+{"topic": "Caboviejo_Bool_8", "msg": "0"}
+{"topic": "Caboviejo_Bool_9", "msg": "0"}

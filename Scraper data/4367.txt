@@ -1,0 +1,2 @@
+{"IP": "3.128.25.66"}
+{"topic": "fec6eeaa170b/event/user", "msg": "{\n  \"@type\" : \"event/user/logout\",\n  \"@id\" : \"539ef5b8-742f-471b-a48a-cc9c997b7c4c\",\n  \"username\" : \"soldes\",\n  \"creationDateTime\" : \"2022-03-04T17:13:57.033416Z\",\n  \"processId\" : \"1\",\n  \"systemId\" : \"fec6eeaa170b\"\n}"}

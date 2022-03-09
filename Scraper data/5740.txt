@@ -1,0 +1,6 @@
+{"IP": "24.116.164.60"}
+{"topic": "BlueIris/app", "msg": "running"}
+{"topic": "BlueIris/status", "msg": "signal=1\nprofile=1\nlock=0\nschedule=Default\n"}
+{"topic": "abc/123", "msg": "XYZ"}
+{"topic": "basement/temperature", "msg": " 62.17"}
+{"topic": "basement/humidity", "msg": " 39.47"}

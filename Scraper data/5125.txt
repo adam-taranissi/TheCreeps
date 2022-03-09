@@ -1,0 +1,9 @@
+{"IP": "54.153.104.114"}
+{"topic": "pms/madurasteels/gsm_status", "msg": "Connected"}
+{"topic": "pms/PMS-Latest/wifi_status", "msg": "dis-connected"}
+{"topic": "pms/PMS-Latest/ELmeter_status", "msg": "Connected"}
+{"topic": "pms/MADURA-COLLEGE-EB/ELmeter_status", "msg": "Connected"}
+{"topic": "pms/MADURA-COLLEGE-EB/wifi_status", "msg": "dis-connected"}
+{"topic": "pms/FB-OFFICE/wifi_status", "msg": "dis-connected"}
+{"topic": "pms/FB-OFFICE/FBmeter_status", "msg": "Connected"}
+{"topic": "pms/FB-OFFICE/ELTrac_status", "msg": "Connected"}

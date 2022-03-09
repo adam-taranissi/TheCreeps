@@ -1,0 +1,2 @@
+{"IP": "3.143.104.1"}
+{"topic": "esp32/test1", "msg": "hi from alb"}

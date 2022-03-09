@@ -1,0 +1,2 @@
+{"IP": "3.133.174.91"}
+{"topic": "STATE/AVEVA-MQTT", "msg": "ONLINE"}

@@ -1,0 +1,18 @@
+{"IP": "167.99.151.132"}
+{"topic": "api/v1/ZZZNYgIF06WwKYp8T1TV/telemetry", "msg": "[{\"gateway\":\"99ab10a303a84760d\",\"stamp\":\"3/8/2022, 6:50:37 PM\",\"batt\":0.97,\"rssi\":-98,\"temp_int\":7,\"temp_ext\":2,\"humidity\":23},{\"device\":\"a8610a303a84760d\"}]"}
+{"topic": "api/v1/tomike/telemetry", "msg": "{\"iv\":\"My32charPassword\",\"encryptedData\":\"f700379508d5bb205149f9e7cf39656cf152ac13b51e0983d0a253abd5cec1d4129245c91acf1fda4e1289190781c6e6443e30a44f8e2256facedf7431f53e75df932f0da06dc9ede4ae5357a8324b722ee3dcf269811e47ae6acd58da907833f2ff7c51ff7c3d124d6521a7a608cf93ee2d4ce3526084912d0714932c88a709c54c2efdc5827555e360fe873d2b2840923b89e8e11c600458cab80fe6c84bf5\"}"}
+{"topic": "commands/boards/motor01", "msg": "Motor On"}
+{"topic": "EUDzirQPWU/garden/simslider/temperature", "msg": "19.2"}
+{"topic": "test/message/On", "msg": "Motor Off"}
+{"topic": "test/message/Humidity", "msg": "-5.00 "}
+{"topic": "test/message/dewpoint", "msg": " -5.00 "}
+{"topic": "test/message/Temperature", "msg": " -5.00 "}
+{"topic": "appData/Data/0106", "msg": "0"}
+{"topic": "appData/Data/0120", "msg": "5"}
+{"topic": "appData/Data/0107", "msg": "436"}
+{"topic": "appData/Data/0103", "msg": "42"}
+{"topic": "appData/Data/0101", "msg": "285"}
+{"topic": "appData/Data/0109", "msg": "2"}
+{"topic": "appData/Data/0102", "msg": "5"}
+{"topic": "appData/Data/0100", "msg": "0100,100"}
+{"topic": "msg.topic", "msg": "msg.payload"}

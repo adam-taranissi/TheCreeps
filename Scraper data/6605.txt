@@ -1,0 +1,5 @@
+{"IP": "34.219.185.203"}
+{"topic": "Pig/ChangHua/DaYi/sensordata", "msg": "{\"location\":\"DaYi\", \"ohgasensor\":{\"TEMP\":\"25.5\",\"HUM\":\"51\",\"CO2\":\"751\",\"NH3\":\"98\"},\"es107\":{\"WDIR\":\"1\",\"WSPEED\":\"4\",\"TEMP\":\"30\",\"HUM\":\"65\",\"NOISE\":\"143\"},\"tags\":[{\"id\":\"09001616\",\"temp\":\"38\",\"rssi\":\"0\"},{\"id\":\"09001617\",\"temp\":\"38\",\"rssi\":\"0\"}]}"}
+{"topic": "Pig/TaoYuan/HuaXin/sensordata", "msg": "{\"location\":\"HuaXin\",\"es106\":{\"TEMP\":\"20.3\",\"HUM\":\"55.9\",\"PM2_5\":\"29\",\"PM10\":\"48\",\"WSPEED\":\"0\",\"WDIR\":\"184\"}}"}
+{"topic": "Pig/ChiaYi/XinGang/sensordata", "msg": "{\"location\":\"XinGang\",\"es106\":{\"TEMP\":\"25.2\",\"HUM\":\"52.3\",\"PM2_5\":\"27\",\"PM10\":\"36\",\"WSPEED\":\"0\",\"WDIR\":\"68\"}}"}
+{"topic": "Pig/Changhua/DaYi/sensordata", "msg": "{\"location\":\"DaYi\",\"ohgasensor\":{\"TEMP\":\"27.673730420284276\",\"HUM\":\"78.13609850709705\",\"CO2\":\"959.536005806654\",\"NH3\":\"964.6932794430563\"},\"es107\":{\"TEMP\":\"21.6\",\"HUM\":\"65\",\"CO2\":\"564\",\"WDIR\":\"0\",\"WSPEED\":\"0\",\"NOISE\":\"58.3\"},\"tags\":[]}"}

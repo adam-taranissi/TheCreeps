@@ -1,0 +1,6 @@
+{"IP": "50.30.40.200"}
+{"topic": "ActiveMQ/Advisory/MasterBroker", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Consumer/Topic/#", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Consumer/Queue/erp-dmk13122021", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Connection", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Connection", "msg": ""}

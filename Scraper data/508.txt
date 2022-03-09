@@ -1,0 +1,5 @@
+{"IP": "138.197.73.119"}
+{"topic": "abc/123", "msg": "XYZ"}
+{"topic": "digiac/status", "msg": "{'2C:F4:32:4A:7C:DD':0}"}
+{"topic": "digiac/status", "msg": "{'DC:4F:22:5F:44:12':0}"}
+{"topic": "sada/sada_mg/save", "msg": "{\"NB2_InputA_Current\": {\"timestamp\": \"2022-03-08 15:37:25\", \"ue\": \"A\", \"value\": 13.0, \"area\": \"DATACENTER_SADA\"}, \"NB2_OutputA_Current\": {\"timestamp\": \"2022-03-08 15:37:26\", \"ue\": \"A\", \"value\": 7.0, \"area\": \"DATACENTER_SADA\"}, \"NB2_InputB_Current\": {\"timestamp\": \"2022-03-08 15:37:25\", \"ue\": \"A\", \"value\": 9.0, \"area\": \"DATACENTER_SADA\"}, \"NB2_InputAB_Voltage\": {\"timestamp\": \"2022-03-08 15:37:26\", \"ue\": \"V\", \"value\": 380.0, \"area\": \"DATACENTER_SADA\"}, \"NB2_Battery_TimeRemaining\": {\"timestamp\": \"2022-03-08 15:37:25\", \"ue\": \"Min\", \"value\": 312.0, \"area\": \"DATACENTER_SADA\"}}"}

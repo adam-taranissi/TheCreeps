@@ -1,0 +1,24 @@
+{"IP": "54.90.201.56"}
+{"topic": "gw/0024460000153f43/status", "msg": "{\"status\":\"OFFLINE\"}"}
+{"topic": "gw/0024460000156d98/status", "msg": "{\"status\":\"OFFLINE\"}"}
+{"topic": "gw/0024460000156ec6/status", "msg": "{\"status\":\"ONLINE\"}"}
+{"topic": "gw/0024460000156f04/status", "msg": "{\"status\":\"OFFLINE\"}"}
+{"topic": "gw/0024460000157052/status", "msg": "{\"status\":\"OFFLINE\"}"}
+{"topic": "gw/0024460000157054/status", "msg": "{\"status\":\"OFFLINE\"}"}
+{"topic": "gw/0024460000156d36/status", "msg": "{\"status\":\"OFFLINE\"}"}
+{"topic": "gw/0024460000156f1a/status", "msg": "{\"status\":\"OFFLINE\"}"}
+{"topic": "gw/0024460000156f1a/zcl/broadcast/request", "msg": "{\n                            \"broadcastAddress\": 255,\n                            \"destinationEndpointId\": 1,\n                            \"clusterId\": 3,\n                            \"commandId\": 1,\n                            \"isClusterSpecific\": true,\n                            \"clusterSide\": \"SERVER\",\n                            \"payload\": \"\",\n                            \"additionalOptions\": {\n                                \"gatewayEndpointId\": 1,\n                                \"radius\": 0,\n                                \"enableAPSAck\": true,\n                                \"customSequenceNumber\": 33,\n                                \"manufacturerCode\": 8256,\n                                \"manufacturerSpecific\": false\n                            }\n                        }"}
+{"topic": "gw/0024460000156f1a/network", "msg": "{\n   \"command\": \"STEERING\"\n}"}
+{"topic": "gw/0024460000156f1a/config", "msg": "{\n   \"command\": \"STEERING\"\n}"}
+{"topic": "gw/0024460000156f1a/", "msg": "{\n  \"command\": \"STEERING\"\n}"}
+{"topic": "gw/0024460000153f3b/status", "msg": "{\"status\":\"OFFLINE\"}"}
+{"topic": "gw/", "msg": "{\n  \"command\": \"STEERING\"\n}"}
+{"topic": "gw/0024460000153f4b/status", "msg": "{\"status\":\"OFFLINE\"}"}
+{"topic": "gw/0024460000156d0a/status", "msg": "{\"status\":\"OFFLINE\"}"}
+{"topic": "gw/0024460000156d20/status", "msg": "{\"status\":\"OFFLINE\"}"}
+{"topic": "gw/0024460000153692/status", "msg": "{\"status\":\"OFFLINE\"}"}
+{"topic": "gw/0024460000156ef5/status", "msg": "{\"status\":\"OFFLINE\"}"}
+{"topic": "gw/0024460000156eec/status", "msg": "{\"status\":\"OFFLINE\"}"}
+{"topic": " ", "msg": "{\n  \"command\": \"STEERING\"\n}"}
+{"topic": "LWT ", "msg": "{\n  \"command\": \"STEERING\"\n}"}
+{"topic": "Online/Offline", "msg": "{\n  \"command\": \"STEERING\"\n}"}

@@ -1,0 +1,2 @@
+{"IP": "162.214.168.231"}
+{"topic": "average/1163856", "msg": "{\"error\": false, \"message\": \"Channel average current\", \"displayValue\": 0.6318809565217406}"}

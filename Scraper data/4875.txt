@@ -1,0 +1,3 @@
+{"IP": "194.195.208.90"}
+{"topic": "brokerstatus/timestamp", "msg": "1646787609"}
+{"topic": "brokerstatus/timestamp", "msg": "1646787619"}

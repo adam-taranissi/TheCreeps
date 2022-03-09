@@ -1,0 +1,39 @@
+{"IP": "72.0.180.145"}
+{"topic": "corbeauController/Lynd and Annes Cabinsecret/temp/Temp/", "msg": "68"}
+{"topic": "corbeauController/Lynd and Annes Cabinsecret/temp/Remote Temp/", "msg": "53"}
+{"topic": "corbeauController/Lynd and Annes Cabinsecret/SSRcount/", "msg": "3"}
+{"topic": "corbeauController/Lynd and Annes Cabinsecret/SSRnames/1/", "msg": "Living Room East"}
+{"topic": "corbeauController/Lynd and Annes Cabinsecret/SSRnames/2/", "msg": "Living Room West"}
+{"topic": "corbeauController/Lynd and Annes Cabinsecret/SSRnames/3/", "msg": "Bathroom"}
+{"topic": "corbeauController/Lynd and Annes Cabinsecret/ssrState/Living Room East/", "msg": "1"}
+{"topic": "corbeauController/Lynd and Annes Cabinsecret/ssrState/Living Room West/", "msg": "1"}
+{"topic": "corbeauController/Lynd and Annes Cabinsecret/ssrState/Bathroom/", "msg": "1"}
+{"topic": "corbeauController/Lynd and Annes Cabinsecret/humidity/", "msg": "45"}
+{"topic": "corbeauController/Cabinsecret/temp/Temp/", "msg": "81"}
+{"topic": "corbeauController/Cabinsecret/temp/Remote Temp/", "msg": "71"}
+{"topic": "corbeauController/Cabinsecret/SSRcount/", "msg": "3"}
+{"topic": "corbeauController/Cabinsecret/SSRnames/1/", "msg": "Living Room East"}
+{"topic": "corbeauController/Cabinsecret/SSRnames/2/", "msg": "Living Room West "}
+{"topic": "corbeauController/Cabinsecret/SSRnames/3/", "msg": "Bathroom"}
+{"topic": "corbeauController/Cabinsecret/ssrState/Living Room East/", "msg": "0"}
+{"topic": "corbeauController/Cabinsecret/ssrState/Living Room West /", "msg": "0"}
+{"topic": "corbeauController/Cabinsecret/ssrState/Bathroom/", "msg": "0"}
+{"topic": "corbeauController/Cabinsecret/humidity/", "msg": "20"}
+{"topic": "corbeauController/cc1mycc/temp/Temp/", "msg": "86"}
+{"topic": "corbeauController/cc1mycc/temp/Remote Temp/", "msg": "75"}
+{"topic": "corbeauController/cc1mycc/SSRcount/", "msg": "3"}
+{"topic": "corbeauController/cc1mycc/SSRnames/1/", "msg": "sw1"}
+{"topic": "corbeauController/cc1mycc/SSRnames/2/", "msg": "sw2"}
+{"topic": "corbeauController/cc1mycc/SSRnames/3/", "msg": "sw3"}
+{"topic": "corbeauController/cc1mycc/ssrState/sw1/", "msg": "0"}
+{"topic": "corbeauController/cc1mycc/ssrState/sw2/", "msg": "0"}
+{"topic": "corbeauController/cc1mycc/ssrState/sw3/", "msg": "0"}
+{"topic": "corbeauController/cc1mycc/humidity/", "msg": "25"}
+{"topic": "corbeauController/JimKdraft61range/temp/Temp/", "msg": "73"}
+{"topic": "corbeauController/JimKdraft61range/temp/Remote Temp/", "msg": "65"}
+{"topic": "corbeauController/Le corbeau de Jeansecret/SSRcount/", "msg": "3"}
+{"topic": "corbeauController/Le corbeau de Jeansecret/SSRnames/1/", "msg": "Switch 1"}
+{"topic": "corbeauController/Le corbeau de Jeansecret/SSRnames/2/", "msg": "Switch 2"}
+{"topic": "corbeauController/Le corbeau de Jeansecret/SSRnames/3/", "msg": "Switch 3"}
+{"topic": "corbeauController/Le corbeau de Jeansecret/ssrState/Switch 1/", "msg": "0"}
+{"topic": "corbeauController/Le corbeau de Jeansecret/ssrState/Switch 2/", "msg": "0"}

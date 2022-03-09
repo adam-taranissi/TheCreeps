@@ -1,0 +1,35 @@
+{"IP": "67.176.221.97"}
+{"topic": "home/dafang1", "msg": "{\"uptime\":\" 17:22:53 up 15 min,  0 users,  load average: 4.23, 3.62, 2.27\",  \"ssid\":\"Home\", \"bitrate\":\"72.2 Mb/s\", \"signal_level\":\"92%\", \"link_quality\":\"71%\", \"noise_level\":\"0%\" }"}
+{"topic": "home/dafang1/leds/blue", "msg": "OFF"}
+{"topic": "home/dafang1/leds/yellow", "msg": "OFF"}
+{"topic": "home/dafang1/leds/ir", "msg": "OFF"}
+{"topic": "home/dafang1/ir_cut", "msg": "ON"}
+{"topic": "home/dafang1/rtsp_server", "msg": "OFF"}
+{"topic": "home/dafang1/night_mode", "msg": "OFF"}
+{"topic": "home/dafang1/night_mode/auto", "msg": "ON"}
+{"topic": "home/dafang1/motion/detection", "msg": "ON"}
+{"topic": "home/dafang1/motion/send_telegram", "msg": "ON"}
+{"topic": "home/dafang1/motion/tracking", "msg": "OFF"}
+{"topic": "home/dafang1/motion/led", "msg": "ON"}
+{"topic": "home/dafang1/motion/snapshot", "msg": "ON"}
+{"topic": "home/dafang1/motion/send_mail", "msg": "ON"}
+{"topic": "home/dafang1/recording", "msg": "OFF"}
+{"topic": "home/dafang1/timelapse", "msg": "OFF"}
+{"topic": "home/dafang1/motors/vertical", "msg": "1"}
+{"topic": "home/dafang1/motors/horizontal", "msg": "0"}
+{"topic": "home/dafang1/rtsp_h264_server", "msg": "OFF"}
+{"topic": "home/dafang1/rtsp_mjpeg_server", "msg": "OFF"}
+{"topic": "home/dafang2", "msg": "{\"uptime\":\" 23:15:07 up 20 days,  1:12,  0 users,  load average: 3.81, 3.28, 3.33\",  \"ssid\":\"Home\", \"bitrate\":\"72.2 Mb/s\", \"signal_level\":\"100%\", \"link_quality\":\"75%\", \"noise_level\":\"0%\" }"}
+{"topic": "home/dafang2/leds/blue", "msg": "OFF"}
+{"topic": "home/dafang2/leds/yellow", "msg": "OFF"}
+{"topic": "home/dafang2/leds/ir", "msg": "OFF"}
+{"topic": "home/dafang2/ir_cut", "msg": "ON"}
+{"topic": "home/dafang2/rtsp_server", "msg": "OFF"}
+{"topic": "home/dafang2/night_mode", "msg": "OFF"}
+{"topic": "home/dafang2/night_mode/auto", "msg": "OFF"}
+{"topic": "home/dafang2/motion/detection", "msg": "ON"}
+{"topic": "home/dafang2/motion/send_telegram", "msg": "ON"}
+{"topic": "home/dafang2/motion/tracking", "msg": "OFF"}
+{"topic": "home/dafang2/motion/led", "msg": "ON"}
+{"topic": "home/dafang2/motion/video", "msg": "ON"}
+{"topic": "home/dafang2/motion/mqtt_publish", "msg": "ON"}

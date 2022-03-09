@@ -1,0 +1,7 @@
+{"IP": "3.94.56.4"}
+{"topic": "application/1/device/343137326536920f/tx", "msg": "{\n\"confirmed\": true,\n\"data\": \"MTExMQ==\",\n\"fPort\": 2,\n\"reference\": \"1111\"\n}"}
+{"topic": "application/1/device/3431373261367e0f\t/tx", "msg": "{\n\"confirmed\": true,\n\"data\": \"MTExMQ==\",\n\"fPort\": 2,\n\"reference\": \"1111\"\n}"}
+{"topic": "application/1/device/3431373261367e0f/tx", "msg": "{\n\"confirmed\": true,\n\"data\": \"MTExMQ==\",\n\"fPort\": 2,\n\"reference\": \"1111\"\n}"}
+{"topic": "application/1/device/393435374a377105/tx", "msg": "{\n\"confirmed\": true,\n\"data\": \"MTExMQ==\",\n\"fPort\": 2,\n\"reference\": \"1111\"\n}"}
+{"topic": "application/7/device/3930323562378803/tx", "msg": "{\n\"confirmed\": true,\n\"data\": \"AQEgAAAAZwEsAfQM\",\n\"fPort\": 2,\n\"reference\": \"1111\"\n}"}
+{"topic": "abc/123", "msg": "XYZ"}

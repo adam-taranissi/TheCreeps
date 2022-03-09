@@ -1,0 +1,26 @@
+{"IP": "44.198.149.244"}
+{"topic": "$SYS/brokers/emqx@172.31.91.190/sysdescr", "msg": "EMQ X Broker"}
+{"topic": "$SYS/brokers/emqx@172.31.91.190/version", "msg": "4.3.5"}
+{"topic": "$SYS/brokers/emqx@172.31.5.138/version", "msg": "4.3.5"}
+{"topic": "$SYS/brokers", "msg": "emqx@172.31.91.190,emqx@172.31.5.138"}
+{"topic": "$SYS/brokers/emqx@172.31.5.138/sysdescr", "msg": "EMQ X Broker"}
+{"topic": "/device/init", "msg": "{\"uuid\":\"50c478fdf516e74c7920e88ea39085b2\",\"uid\":\"163e947ac10b0251\"}"}
+{"topic": "/device/init", "msg": "{\"uuid\":\"17b2f79a848f74e9b2f71c616aa90ce1\",\"uid\":\"1ffccf4d283d99d5\"}"}
+{"topic": "/device/init", "msg": "{\"uuid\":\"8f5d19f1c2147c26c56f66e1fac80082\",\"uid\":\"abbae3555d7480e5\"}"}
+{"topic": "/device/quit", "msg": "{\"uuid\":\"53ea1e5fe9cc06a2c7915f3de3849741\",\"uid\":\"dfe023606418558a\"}"}
+{"topic": "/device/init", "msg": "{\"uuid\":\"d3246229ef7e28442db9f5025e7f4183\",\"uid\":\"d5984c8bd5cc57d3\"}"}
+{"topic": "/device/quit", "msg": "{\"uuid\":\"e0edf4c07b7e9476a6b46608c8da3db8\",\"uid\":\"77d54f3ebefefcb5\"}"}
+{"topic": "/device/quit", "msg": "{\"uuid\":\"461491355252d6078e4523776b6a9e4c\",\"uid\":\"7b7099dfef597971\"}"}
+{"topic": "/device/init", "msg": "{\"uuid\":\"28a0aa9d61983a10be211c2a0b9c5d6a\",\"uid\":\"7400924a607c0416\"}"}
+{"topic": "/device/init", "msg": "{\"uuid\":\"7b303a08ebcbc13cc3b37a2fe119b1f6\",\"uid\":\"484401da24809cd5\"}"}
+{"topic": "/device/init", "msg": "{\"uuid\":\"de3cfbfcc4d30b90726fadbbf0a6e00c\",\"uid\":\"4f55fb046870c240\"}"}
+{"topic": "/device/init", "msg": "{\"uuid\":\"51b3a93a8ebe32564d571fdbaf541121\",\"uid\":\"8bc456a1e2114563\"}"}
+{"topic": "/device/init", "msg": "{\"uuid\":\"0e571c4fbf7db6c214b56d2d0d8dfd32\",\"uid\":\"5652133bd116f620\"}"}
+{"topic": "/device/init", "msg": "{\"uuid\":\"7ed1f0f170d4be5ba586aa0636e9c948\",\"uid\":\"5da9414036e966d1\"}"}
+{"topic": "/device/quit", "msg": "{\"uuid\":\"4c786af075ec3f499ffb2c965a2e6b98\",\"uid\":\"6f3b039b62aea008\"}"}
+{"topic": "/device/quit", "msg": "{\"uuid\":\"3bd95e00f906c8495aed8ec9bf67a007\",\"uid\":\"cc58f5e881e89f87\"}"}
+{"topic": "/device/quit", "msg": "{\"uuid\":\"e444442784ab50f0f85e028bfa831d6a\",\"uid\":\"880019cf18cf526a\"}"}
+{"topic": "/device/init", "msg": "{\"uuid\":\"4a68f638a7aa9b3494f3d532395cfcb0\",\"uid\":\"922550b3a202c24c\"}"}
+{"topic": "/device/init", "msg": "{\"uuid\":\"bfdda4d1fca1add6d77034a5e3e12ade\",\"uid\":\"587da8bf6ed314c6\"}"}
+{"topic": "/device/quit", "msg": "{\"uuid\":\"bf75f32fb623ed11ad77b5933f4804db\",\"uid\":\"fc6bdb092bbd83c3\"}"}
+{"topic": "/device/quit", "msg": "{\"uuid\":\"4128a5ce340311801148a0d841a24d8d\",\"uid\":\"15cac8142a9d1011\"}"}

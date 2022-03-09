@@ -1,0 +1,2 @@
+{"IP": "69.55.60.161"}
+{"topic": "tcc-notification", "msg": "{\"userId\":\"78e088b3-8992-486a-baf1-3412e1e1784b\",\"to\":\"78e088b3-8992-486a-baf1-3412e1e1784b\",\"description\":\"New publicacion\",\"type\":\"user-new-crane\",\"url\":\"\"}"}

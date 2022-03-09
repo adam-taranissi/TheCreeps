@@ -1,0 +1,7 @@
+{"IP": "206.174.44.106"}
+{"topic": "micrometer", "msg": "-005.0432"}
+{"topic": "micrometer", "msg": "-005.0432"}
+{"topic": "micrometer", "msg": "-005.0432"}
+{"topic": "micrometer", "msg": "-005.0432"}
+{"topic": "micrometer", "msg": "-005.0432"}
+{"topic": "micrometer", "msg": "-005.0432"}

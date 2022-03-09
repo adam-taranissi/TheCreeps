@@ -1,0 +1,36 @@
+{"IP": "18.190.120.47"}
+{"topic": "tasmota/discovery/C45BBE55DDA7/config", "msg": "{\"ip\":\"192.168.0.44\",\"dn\":\"Modulo de teste\",\"fn\":[\"m\u00f3dulo de teste\",null,null,null,null,null,null,null],\"hn\":\"teste_55DDA7-7591\",\"mac\":\"C45BBE55DDA7\",\"md\":\"Generic\",\"ty\":0,\"if\":0,\"ofln\":\"Offline\",\"onln\":\"Online\",\"state\":[\"OFF\",\"ON\",\"TOGGLE\",\"HOLD\"],\"sw\":\"9.2.0.7\",\"t\":\"teste_55DDA7\",\"ft\":\"%prefix%/%topic%/\",\"tp\":[\"cmnd\",\"stat\",\"tele\"],\"rl\":[1,0,0,0,0,0,0,0],\"swc\":[-1,-1,-1,-1,-1,-1,-1,-1],\"swn\":[null,null,null,null,null,null,null,null],\"btn\":[0,0,0,0,0,0,0,0],\"so\":{\"4\":0,\"11\":0,\"13\":0,\"17\":0,\"20\":0,\"30\":0,\"68\":0,\"73\":0,\"82\":0,\"114\":0,\"117\":0},\"lk\":1,\"lt_st\":0,\"sho\":[0,0,0,0],\"ver\":1}"}
+{"topic": "tasmota/discovery/C45BBE55DDA7/sensors", "msg": "{\"sn\":{\"Time\":\"2021-10-11T18:50:18\",\"Switch1\":\"OFF\"},\"ver\":1}"}
+{"topic": "tele/teste_55DDA7/LWT", "msg": "Offline"}
+{"topic": "tele/PH_SM_5624FE/LWT", "msg": "Conectado"}
+{"topic": "tele/PH_SM_5D8B1F/LWT", "msg": "Conectado"}
+{"topic": "tele/PH_SM_55CA56/LWT", "msg": "Conectado"}
+{"topic": "tele/PH_SM_997E5F/LWT", "msg": "Conectado"}
+{"topic": "tele/PH_SM_9C40F4/LWT", "msg": "Conectado"}
+{"topic": "tele/PH_SM_5555DD/LWT", "msg": "Desconectado"}
+{"topic": "tele/PH_SM_55C2E4/LWT", "msg": "Desconectado"}
+{"topic": "tele/PH_SM_551BFF/LWT", "msg": "Conectado"}
+{"topic": "tele/PH_SM_55E20D/LWT", "msg": "Conectado"}
+{"topic": "tele/PH_SM_A923BE/LWT", "msg": "Desconectado"}
+{"topic": "tele/PH_SM_75B33F/LWT", "msg": "Conectado"}
+{"topic": "tele/PH_SM_759FD6/LWT", "msg": "Conectado"}
+{"topic": "tele/PH_SM_2F98F1/LWT", "msg": "Conectado"}
+{"topic": "tele/PH_SM_E3C988/LWT", "msg": "Desconectado"}
+{"topic": "tele/PH_SM_2FDEA8/LWT", "msg": "Conectado"}
+{"topic": "tele/PH_SM_557929/LWT", "msg": "Desconectado"}
+{"topic": "tele/PH_SM_30426D/LWT", "msg": "Desconectado"}
+{"topic": "tele/PH_SM_9C1BED/LWT", "msg": "Conectado"}
+{"topic": "tele/PH_SM_2386A9/LWT", "msg": "Desconectado"}
+{"topic": "tele/PH_SM_304292/LWT", "msg": "Desconectado"}
+{"topic": "tele/PH_SM_55DDA7/LWT", "msg": "Desconectado"}
+{"topic": "tele/PH_SM_3621B4/LWT", "msg": "Offline"}
+{"topic": "tele/PH_SM_18E1B4/LWT", "msg": "Offline"}
+{"topic": "tele/PH_SM_9BC7C0/LWT", "msg": "Conectado"}
+{"topic": "tele/PH_SM_A070F3/LWT", "msg": "Conectado"}
+{"topic": "homeassistant/sensor/5624FE_ANALOG_Current/config", "msg": "{\"name\":\"PH_SM_5624FE-1278 ANALOG Current\",\"stat_t\":\"tele/PH_SM_5624FE/SENSOR\",\"avty_t\":\"tele/PH_SM_5624FE/LWT\",\"pl_avail\":\"Conectado\",\"pl_not_avail\":\"Desconectado\",\"uniq_id\":\"5624FE_ANALOG_Current\",\"dev\":{\"ids\":[\"5624FE\"]},\"unit_of_meas\":\"A\",\"ic\":\"mdi:alpha-a-circle-outline\",\"frc_upd\":true,\"val_tpl\":\"{{value_json['ANALOG']['Current']}}\"}"}
+{"topic": "homeassistant/sensor/5624FE_DS18B20_Id/config", "msg": "{\"name\":\"PH_SM_5624FE-1278 DS18B20 Id\",\"stat_t\":\"tele/PH_SM_5624FE/SENSOR\",\"avty_t\":\"tele/PH_SM_5624FE/LWT\",\"pl_avail\":\"Conectado\",\"pl_not_avail\":\"Desconectado\",\"uniq_id\":\"5624FE_DS18B20_Id\",\"dev\":{\"ids\":[\"5624FE\"]},\"unit_of_meas\":\" \",\"ic\":\"mdi:eye\",\"frc_upd\":true,\"val_tpl\":\"{{value_json['DS18B20']['Id']}}\"}"}
+{"topic": "homeassistant/sensor/5624FE_DS18B20_Temperature/config", "msg": "{\"name\":\"PH_SM_5624FE-1278 DS18B20 Temperature\",\"stat_t\":\"tele/PH_SM_5624FE/SENSOR\",\"avty_t\":\"tele/PH_SM_5624FE/LWT\",\"pl_avail\":\"Conectado\",\"pl_not_avail\":\"Desconectado\",\"uniq_id\":\"5624FE_DS18B20_Temperature\",\"dev\":{\"ids\":[\"5624FE\"]},\"unit_of_meas\":\"\u00b0C\",\"dev_cla\":\"temperature\",\"frc_upd\":true,\"val_tpl\":\"{{value_json['DS18B20']['Temperature']}}\"}"}
+{"topic": "homeassistant/sensor/5624FE_sys_status_ActivePower/config", "msg": "{\"name\":\"PH_SM_5624FE-1278 sys_status ActivePower\",\"stat_t\":\"tele/PH_SM_5624FE/SENSOR\",\"avty_t\":\"tele/PH_SM_5624FE/LWT\",\"pl_avail\":\"Conectado\",\"pl_not_avail\":\"Desconectado\",\"uniq_id\":\"5624FE_sys_status_ActivePower\",\"dev\":{\"ids\":[\"5624FE\"]},\"unit_of_meas\":\" \",\"ic\":\"mdi:eye\",\"frc_upd\":true,\"val_tpl\":\"{{value_json['sys_status']['ActivePower']}}\"}"}
+{"topic": "homeassistant/sensor/5624FE_sys_oper_Mode/config", "msg": "{\"name\":\"PH_SM_5624FE-1278 sys_oper Mode\",\"stat_t\":\"tele/PH_SM_5624FE/SENSOR\",\"avty_t\":\"tele/PH_SM_5624FE/LWT\",\"pl_avail\":\"Conectado\",\"pl_not_avail\":\"Desconectado\",\"uniq_id\":\"5624FE_sys_oper_Mode\",\"dev\":{\"ids\":[\"5624FE\"]},\"unit_of_meas\":\" \",\"ic\":\"mdi:eye\",\"frc_upd\":true,\"val_tpl\":\"{{value_json['sys_oper']['Mode']}}\"}"}
+{"topic": "homeassistant/sensor/5624FE_oper_time_TotalUsage/config", "msg": "{\"name\":\"PH_SM_5624FE-1278 oper_time TotalUsage\",\"stat_t\":\"tele/PH_SM_5624FE/SENSOR\",\"avty_t\":\"tele/PH_SM_5624FE/LWT\",\"pl_avail\":\"Conectado\",\"pl_not_avail\":\"Desconectado\",\"uniq_id\":\"5624FE_oper_time_TotalUsage\",\"dev\":{\"ids\":[\"5624FE\"]},\"unit_of_meas\":\" \",\"ic\":\"mdi:eye\",\"frc_upd\":true,\"val_tpl\":\"{{value_json['oper_time']['TotalUsage']}}\"}"}
+{"topic": "homeassistant/sensor/5624FE_accu_consumption_Total/config", "msg": "{\"name\":\"PH_SM_5624FE-1278 accu_consumption TotalUsage\",\"stat_t\":\"tele/PH_SM_5624FE/SENSOR\",\"avty_t\":\"tele/PH_SM_5624FE/LWT\",\"pl_avail\":\"Conectado\",\"pl_not_avail\":\"Desconectado\",\"uniq_id\":\"5624FE_accu_consumption_Total\",\"dev\":{\"ids\":[\"5624FE\"]},\"unit_of_meas\":\" \",\"ic\":\"mdi:eye\",\"frc_upd\":true,\"val_tpl\":\"{{value_json['accu_consumption']['TotalUsage']}}\"}"}

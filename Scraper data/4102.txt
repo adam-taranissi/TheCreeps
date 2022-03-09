@@ -1,0 +1,2 @@
+{"IP": "146.148.36.45"}
+{"topic": "solar/suryodya/observer/status", "msg": "{\"topic\": \"solar/suryodya/observer/status\", \"client\": \"observer\", \"type\": \"alert\", \"payload\": {\"status\": \"online\"}}"}

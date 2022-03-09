@@ -1,0 +1,2 @@
+{"IP": "136.37.143.157"}
+{"topic": "/Tuffduino/Brian/Temp", "msg": "65.19"}

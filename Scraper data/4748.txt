@@ -1,0 +1,3 @@
+{"IP": "72.74.240.88"}
+{"topic": "/CSI Data/", "msg": "me"}
+{"topic": "abc/123", "msg": "XYZ"}

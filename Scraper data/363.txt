@@ -1,0 +1,4 @@
+{"IP": "157.245.119.168"}
+{"topic": "ActiveMQ/Advisory/MasterBroker", "msg": ""}
+{"topic": "abc/123", "msg": "XYZ"}
+{"topic": "ActiveMQ/Advisory/Consumer/Topic/#", "msg": ""}

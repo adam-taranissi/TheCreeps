@@ -1,0 +1,17 @@
+{"IP": "192.169.199.146"}
+{"topic": "casalino/entrancebuzzer", "msg": "0"}
+{"topic": "casalino/entrance", "msg": "0"}
+{"topic": "BB/00170D000059AF29/cfg/dust", "msg": "{\"jd\":25,\"lp\":false,\"id\":1987,\"prov\":true,\"isAP\":false,\"isRouting\":true}"}
+{"topic": "BB/00170D000059AF29/cfg/sensor/ain/1", "msg": "{\"en\":true,\"typ\":\"C\",\"mu\":\"mA\"}"}
+{"topic": "BB/00170D000059AF29/cfg/sensor/ain/2", "msg": "{\"en\":true,\"typ\":\"V\",\"mu\":\"V\"}"}
+{"topic": "BB/00170D000059AF29/cfg/sensor/din/1", "msg": "{\"tsc\":{\"inv\":false},\"en\":true,\"mu\":\"bool\",\"typ\":\"bool\"}"}
+{"topic": "BB/00170D000059AF29/cfg/sensor/dout/1", "msg": "{\"en\":true,\"inv\":false,\"typ\":\"false\"}"}
+{"topic": "BB/00170D000059AF29/cfg/sensor/temp/1", "msg": "{\"en\":true,\"mu\":\"C\"}"}
+{"topic": "BB/00170D000059AF29/cfg/sensor/temp/2", "msg": "{\"en\":true,\"mu\":\"C\"}"}
+{"topic": "BB/00170D000059AF29/cfg/sensor/temp/3", "msg": "{\"en\":true,\"mu\":\"C\",\"typ\":\"K\"}"}
+{"topic": "BB/00170D000059AF29/cfg/sensor/temp/4", "msg": "{\"en\":true,\"mu\":\"C\",\"typ\":\"K\"}"}
+{"topic": "BB/00170D000059AF29/cfg/sensor/temp/int", "msg": "{\"en\":true,\"mu\":\"C\"}"}
+{"topic": "BB/00170D000059AF29/cfg/sensor/vbatt", "msg": "{\"en\":true,\"mu\":\"V\"}"}
+{"topic": "BB/00170D000059AF29/cfg/sys", "msg": "{\"fw\":\"1.2.1\",\"md\":\"2018-04-19\",\"mn\":\"WSD2C21150\",\"sn\":\"BII300440033\",\"hw\":3,\"mi\":10}"}
+{"topic": "BB/00170D000059AF29/cfg/sensor_list", "msg": "[\"ain/1\",\"ain/2\",\"din/1\",\"dout/1\",\"temp/1\",\"temp/2\",\"temp/3\",\"temp/4\",\"temp/int\",\"vbatt\"]"}
+{"topic": "abc/123", "msg": "XYZ"}

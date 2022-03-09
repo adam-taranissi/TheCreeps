@@ -1,0 +1,44 @@
+{"IP": "174.104.243.221"}
+{"topic": "octoPrint_002/mqtt", "msg": "connected"}
+{"topic": "octoPrint_002/temperature/soc", "msg": "{\"temperature\": 48.312, \"_timestamp\": 1646775954}"}
+{"topic": "octoPrint_002/event/ConnectivityChanged", "msg": "{\"old\": false, \"new\": true, \"connection\": true, \"resolution\": true, \"_event\": \"ConnectivityChanged\", \"_timestamp\": 1646049522}"}
+{"topic": "octoPrint_002/event/UserLoggedIn", "msg": "{\"username\": null, \"_event\": \"UserLoggedIn\", \"_timestamp\": 1643478556}"}
+{"topic": "octoPrint_002/event/ClientOpened", "msg": "{\"remoteAddress\": \"::ffff:192.168.1.20\", \"_event\": \"ClientOpened\", \"_timestamp\": 1643478559}"}
+{"topic": "octoPrint_002/event/ClientClosed", "msg": "{\"remoteAddress\": \"::ffff:192.168.1.20\", \"_event\": \"ClientClosed\", \"_timestamp\": 1643478559}"}
+{"topic": "octoPrint_001/mqtt", "msg": "connected"}
+{"topic": "octoPrint_001/temperature/soc", "msg": "{\"temperature\": 44.546, \"_timestamp\": 1646775954}"}
+{"topic": "octoPrint_001/temperature/tool0", "msg": "{\"actual\": 17.97, \"target\": 0.0, \"_timestamp\": 1646282396}"}
+{"topic": "octoPrint_001/temperature/bed", "msg": "{\"actual\": 16.41, \"target\": 0.0, \"_timestamp\": 1646282396}"}
+{"topic": "octoPrint_001/event/UserLoggedIn", "msg": "{\"username\": null, \"_event\": \"UserLoggedIn\", \"_timestamp\": 1646356609}"}
+{"topic": "octoPrint_001/event/ClientOpened", "msg": "{\"remoteAddress\": \"::ffff:192.168.1.23\", \"_event\": \"ClientOpened\", \"_timestamp\": 1646356611}"}
+{"topic": "octoPrint_001/event/ClientClosed", "msg": "{\"remoteAddress\": \"::ffff:192.168.1.23\", \"_event\": \"ClientClosed\", \"_timestamp\": 1646356612}"}
+{"topic": "octoPrint_001/event/ClientAuthed", "msg": "{\"username\": \"Bassna\", \"remoteAddress\": \"::ffff:192.168.1.23\", \"_event\": \"ClientAuthed\", \"_timestamp\": 1646233506}"}
+{"topic": "octoPrint_001/event/Connecting", "msg": "{\"_event\": \"Connecting\", \"_timestamp\": 1646232817}"}
+{"topic": "octoPrint_001/event/PrinterStateChanged", "msg": "{\"state_id\": \"OFFLINE\", \"state_string\": \"Offline\", \"_event\": \"PrinterStateChanged\", \"_timestamp\": 1646282397}"}
+{"topic": "octoPrint_001/event/Connected", "msg": "{\"port\": null, \"baudrate\": 0, \"_event\": \"Connected\", \"_timestamp\": 1646232819}"}
+{"topic": "octoPrint_001/event/plugin_firmware_check_warning", "msg": "{\"check_name\": \"creality_tfcard\", \"warning_type\": \"firmware-broken\", \"severity\": \"warning\", \"url\": \"https://faq.octoprint.org/warning-firmware-broken-creality-tfcard\", \"_event\": \"plugin_firmware_check_warning\", \"_timestamp\": 1646232824}"}
+{"topic": "octoPrint_001/event/FirmwareData", "msg": "{\"name\": \"Marlin Creality 3D\", \"data\": {\"FIRMWARE_NAME\": \"Marlin Creality 3D\", \"SOURCE_CODE_URL\": \"https://github.com/MarlinFirmware/Marlin\", \"PROTOCOL_VERSION\": \"1.0\", \"MACHINE_TYPE\": \"CR-10 V3\", \"EXTRUDER_COUNT\": \"1\", \"UUID\": \"cede2a2f-41a2-4748-9b12-c55c62f367ff\"}, \"_event\": \"FirmwareData\", \"_timestamp\": 1646232824}"}
+{"topic": "octoPrint_001/event/Disconnecting", "msg": "{\"_event\": \"Disconnecting\", \"_timestamp\": 1641911940}"}
+{"topic": "octoPrint_001/event/UpdatedFiles", "msg": "{\"type\": \"printables\", \"_event\": \"UpdatedFiles\", \"_timestamp\": 1646282397}"}
+{"topic": "octoPrint_001/event/Disconnected", "msg": "{\"_event\": \"Disconnected\", \"_timestamp\": 1646282397}"}
+{"topic": "octoPrint_001/event/Shutdown", "msg": "{\"_event\": \"Shutdown\", \"_timestamp\": 1638802290}"}
+{"topic": "octoPrint_001/event/FileAdded", "msg": "{\"storage\": \"local\", \"path\": \"FU_Fly_Flyswatter_8mm.gcode\", \"name\": \"FU_Fly_Flyswatter_8mm.gcode\", \"type\": [\"machinecode\", \"gcode\"], \"_event\": \"FileAdded\", \"_timestamp\": 1644932366}"}
+{"topic": "octoPrint_001/event/Upload", "msg": "{\"name\": \"FU_Fly_Flyswatter_8mm.gcode\", \"path\": \"FU_Fly_Flyswatter_8mm.gcode\", \"target\": \"local\", \"select\": false, \"print\": false, \"_event\": \"Upload\", \"_timestamp\": 1644932366}"}
+{"topic": "octoPrint_001/event/MetadataAnalysisStarted", "msg": "{\"name\": \"FU_Fly_Flyswatter_8mm.gcode\", \"path\": \"FU_Fly_Flyswatter_8mm.gcode\", \"origin\": \"local\", \"type\": \"gcode\", \"_event\": \"MetadataAnalysisStarted\", \"_timestamp\": 1644942398}"}
+{"topic": "octoPrint_001/event/FileSelected", "msg": "{\"name\": \"Bladex1CR10v3.gcode\", \"path\": \"Bladex1CR10v3.gcode\", \"origin\": \"local\", \"size\": null, \"owner\": \"Bassna\", \"user\": \"Bassna\", \"_event\": \"FileSelected\", \"_timestamp\": 1646233589}"}
+{"topic": "octoPrint_001/event/PrintStarted", "msg": "{\"name\": \"Bladex1CR10v3.gcode\", \"path\": \"Bladex1CR10v3.gcode\", \"origin\": \"local\", \"size\": 939629, \"owner\": \"Bassna\", \"user\": \"Bassna\", \"_event\": \"PrintStarted\", \"_timestamp\": 1646233589}"}
+{"topic": "octoPrint_001/event/GcodeScriptBeforePrintStartedRunning", "msg": "{\"name\": \"Bladex1CR10v3.gcode\", \"path\": \"Bladex1CR10v3.gcode\", \"origin\": \"local\", \"size\": 939629, \"owner\": \"Bassna\", \"user\": \"Bassna\", \"_event\": \"GcodeScriptBeforePrintStartedRunning\", \"_timestamp\": 1646233589}"}
+{"topic": "octoPrint_001/event/GcodeScriptBeforePrintStartedFinished", "msg": "{\"name\": \"Bladex1CR10v3.gcode\", \"path\": \"Bladex1CR10v3.gcode\", \"origin\": \"local\", \"size\": 939629, \"owner\": \"Bassna\", \"user\": \"Bassna\", \"_event\": \"GcodeScriptBeforePrintStartedFinished\", \"_timestamp\": 1646233589}"}
+{"topic": "octoPrint_001/event/Home", "msg": "{\"_event\": \"Home\", \"_timestamp\": 1646237189}"}
+{"topic": "octoPrint_001/event/PositionUpdate", "msg": "{\"reason\": null, \"y\": 149.88, \"x\": 0.0, \"z\": 10.59, \"e\": -5.0, \"f\": 1800.0, \"t\": 0, \"_event\": \"PositionUpdate\", \"_timestamp\": 1646237195}"}
+{"topic": "octoPrint_001/event/ZChange", "msg": "{\"new\": 10.8, \"old\": 10.6, \"_event\": \"ZChange\", \"_timestamp\": 1646237188}"}
+{"topic": "octoPrint_001/event/ToolChange", "msg": "{\"old\": 0, \"new\": 0, \"_event\": \"ToolChange\", \"_timestamp\": 1646233658}"}
+{"topic": "octoPrint_001/event/PrintDone", "msg": "{\"name\": \"Bladex1CR10v3.gcode\", \"path\": \"Bladex1CR10v3.gcode\", \"origin\": \"local\", \"size\": 939629, \"owner\": \"Bassna\", \"time\": 3605.967927883845, \"_event\": \"PrintDone\", \"_timestamp\": 1646237195}"}
+{"topic": "octoPrint_001/event/GcodeScriptAfterPrintDoneRunning", "msg": "{\"name\": \"Bladex1CR10v3.gcode\", \"path\": \"Bladex1CR10v3.gcode\", \"origin\": \"local\", \"size\": 939629, \"owner\": \"Bassna\", \"time\": 3605.967927883845, \"_event\": \"GcodeScriptAfterPrintDoneRunning\", \"_timestamp\": 1646237195}"}
+{"topic": "octoPrint_001/event/GcodeScriptAfterPrintDoneFinished", "msg": "{\"name\": \"Bladex1CR10v3.gcode\", \"path\": \"Bladex1CR10v3.gcode\", \"origin\": \"local\", \"size\": 939629, \"owner\": \"Bassna\", \"time\": 3605.967927883845, \"_event\": \"GcodeScriptAfterPrintDoneFinished\", \"_timestamp\": 1646237195}"}
+{"topic": "octoPrint_001/event/MetadataStatisticsUpdated", "msg": "{\"storage\": \"local\", \"path\": \"Bladex1CR10v3.gcode\", \"_event\": \"MetadataStatisticsUpdated\", \"_timestamp\": 1646237195}"}
+{"topic": "octoPrint_001/event/MetadataAnalysisFinished", "msg": "{\"name\": \"FU_Fly_Flyswatter_8mm.gcode\", \"path\": \"FU_Fly_Flyswatter_8mm.gcode\", \"origin\": \"local\", \"result\": {\"printingArea\": {\"maxX\": 217.021, \"maxY\": 242.433, \"maxZ\": 13.0, \"minX\": 5.0, \"minY\": 10.0, \"minZ\": 0.0}, \"dimensions\": {\"depth\": 232.433, \"height\": 13.0, \"width\": 212.021}, \"estimatedPrintTime\": 7020.555158435734, \"filament\": {\"tool0\": {\"length\": 5075.00700000055, \"volume\": 0.0}}}, \"_event\": \"MetadataAnalysisFinished\", \"_timestamp\": 1644942429}"}
+{"topic": "octoPrint_001/event/ConnectivityChanged", "msg": "{\"old\": false, \"new\": true, \"connection\": true, \"resolution\": true, \"_event\": \"ConnectivityChanged\", \"_timestamp\": 1646365652}"}
+{"topic": "octoPrint_001/event/FileRemoved", "msg": "{\"storage\": \"local\", \"path\": \"FlySwat3mmCR10v3.gcode\", \"name\": \"FlySwat3mmCR10v3.gcode\", \"type\": [\"machinecode\", \"gcode\"], \"_event\": \"FileRemoved\", \"_timestamp\": 1639675739}"}
+{"topic": "octoPrint_001/event/PrintCancelling", "msg": "{\"name\": \"QuestBeatSaber.gcode\", \"path\": \"QuestBeatSaber.gcode\", \"origin\": \"local\", \"size\": 35450274, \"owner\": \"Bassna\", \"user\": \"Bassna\", \"_event\": \"PrintCancelling\", \"_timestamp\": 1641334082}"}
+{"topic": "octoPrint_001/event/PrintCancelled", "msg": "{\"name\": \"QuestBeatSaber.gcode\", \"path\": \"QuestBeatSaber.gcode\", \"origin\": \"local\", \"size\": 35450274, \"position\": {\"y\": null, \"t\": null, \"x\": null, \"e\": null, \"z\": null, \"f\": null}, \"owner\": \"Bassna\", \"user\": \"Bassna\", \"time\": 12269.911900227075, \"_event\": \"PrintCancelled\", \"_timestamp\": 1641334082}"}

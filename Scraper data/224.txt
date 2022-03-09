@@ -1,0 +1,37 @@
+{"IP": "97.106.51.91"}
+{"topic": "tele/aquarium-pump/LWT", "msg": "Online"}
+{"topic": "tele/laundry-light/LWT", "msg": "Online"}
+{"topic": "tele/masterb-fan/LWT", "msg": "Online"}
+{"topic": "tele/xavir-fan/LWT", "msg": "Online"}
+{"topic": "tele/bathroom-lights/LWT", "msg": "Online"}
+{"topic": "tele/theater-lights-t3/LWT", "msg": "Online"}
+{"topic": "tele/Patio-light-fan/LWT", "msg": "Offline"}
+{"topic": "tele/closet-light/LWT", "msg": "Online"}
+{"topic": "tele/tasmota_F96A64/LWT", "msg": "Offline"}
+{"topic": "tele/tasmota_9856E7/LWT", "msg": "Offline"}
+{"topic": "tele/tasmota_168B47/LWT", "msg": "Offline"}
+{"topic": "tele/kitchen-bar-lights/LWT", "msg": "Online"}
+{"topic": "tele/kitchen-center-light/LWT", "msg": "Offline"}
+{"topic": "tele/tasmota_F957B0/LWT", "msg": "Offline"}
+{"topic": "tele/hallway-light/LWT", "msg": "Online"}
+{"topic": "tele/bedroom-switch/LWT", "msg": "Online"}
+{"topic": "tele/tasmota_BFBC01/LWT", "msg": "Offline"}
+{"topic": "tele/xavi-switch/LWT", "msg": "Online"}
+{"topic": "tele/tasmota_C2FB98/LWT", "msg": "Offline"}
+{"topic": "tele/patio-fans-switch/LWT", "msg": "Offline"}
+{"topic": "tele/tasmota_FD8E4B/LWT", "msg": "Offline"}
+{"topic": "tele/tasmota_FBD7F5/LWT", "msg": "Offline"}
+{"topic": "tele/wireless-outlet/LWT", "msg": "Offline"}
+{"topic": "tele/sonoff-outlet/LWT", "msg": "Online"}
+{"topic": "tele/kitchen-bar-light/LWT", "msg": "Offline"}
+{"topic": "tele/tasmota_DFE598/LWT", "msg": "Offline"}
+{"topic": "tele/kitchen-center-lights/LWT", "msg": "Online"}
+{"topic": "tele/tasmota_F967B2/LWT", "msg": "Offline"}
+{"topic": "tele/patio-switch/LWT", "msg": "Online"}
+{"topic": "homeassistant/switch/F9666E_RL_1/config", "msg": "{\"name\":\"Laundry Light\",\"stat_t\":\"tele/laundry-light/STATE\",\"avty_t\":\"tele/laundry-light/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"cmd_t\":\"cmnd/laundry-light/POWER\",\"val_tpl\":\"{{value_json.POWER}}\",\"pl_off\":\"OFF\",\"pl_on\":\"ON\",\"uniq_id\":\"F9666E_RL_1\",\"dev\":{\"ids\":[\"F9666E\"]}}"}
+{"topic": "homeassistant/switch/C71B7A_RL_1/config", "msg": "{\"name\":\"Master Bedroom Light\",\"stat_t\":\"tele/masterb-fan/STATE\",\"avty_t\":\"tele/masterb-fan/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"cmd_t\":\"cmnd/masterb-fan/POWER1\",\"val_tpl\":\"{{value_json.POWER1}}\",\"pl_off\":\"OFF\",\"pl_on\":\"ON\",\"uniq_id\":\"C71B7A_RL_1\",\"dev\":{\"ids\":[\"C71B7A\"]}}"}
+{"topic": "homeassistant/switch/C71B7A_RL_2/config", "msg": "{\"name\":\"Tasmota2\",\"stat_t\":\"tele/masterb-fan/STATE\",\"avty_t\":\"tele/masterb-fan/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"cmd_t\":\"cmnd/masterb-fan/POWER2\",\"val_tpl\":\"{{value_json.POWER2}}\",\"pl_off\":\"OFF\",\"pl_on\":\"ON\",\"uniq_id\":\"C71B7A_RL_2\",\"dev\":{\"ids\":[\"C71B7A\"]}}"}
+{"topic": "homeassistant/switch/C71B7A_RL_3/config", "msg": "{\"name\":\"Tasmota3\",\"stat_t\":\"tele/masterb-fan/STATE\",\"avty_t\":\"tele/masterb-fan/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"cmd_t\":\"cmnd/masterb-fan/POWER3\",\"val_tpl\":\"{{value_json.POWER3}}\",\"pl_off\":\"OFF\",\"pl_on\":\"ON\",\"uniq_id\":\"C71B7A_RL_3\",\"dev\":{\"ids\":[\"C71B7A\"]}}"}
+{"topic": "homeassistant/switch/C71B7A_RL_4/config", "msg": "{\"name\":\"Tasmota4\",\"stat_t\":\"tele/masterb-fan/STATE\",\"avty_t\":\"tele/masterb-fan/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"cmd_t\":\"cmnd/masterb-fan/POWER4\",\"val_tpl\":\"{{value_json.POWER4}}\",\"pl_off\":\"OFF\",\"pl_on\":\"ON\",\"uniq_id\":\"C71B7A_RL_4\",\"dev\":{\"ids\":[\"C71B7A\"]}}"}
+{"topic": "homeassistant/switch/C16CEF_RL_1/config", "msg": "{\"name\":\"Bathroom - Mirror Lights\",\"stat_t\":\"tele/bathroom-lights/STATE\",\"avty_t\":\"tele/bathroom-lights/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"cmd_t\":\"cmnd/bathroom-lights/POWER1\",\"val_tpl\":\"{{value_json.POWER1}}\",\"pl_off\":\"OFF\",\"pl_on\":\"ON\",\"uniq_id\":\"C16CEF_RL_1\",\"dev\":{\"ids\":[\"C16CEF\"]}}"}
+{"topic": "homeassistant/switch/C16CEF_RL_2/config", "msg": "{\"name\":\"Extractor Light\",\"stat_t\":\"tele/bathroom-lights/STATE\",\"avty_t\":\"tele/bathroom-lights/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"cmd_t\":\"cmnd/bathroom-lights/POWER2\",\"val_tpl\":\"{{value_json.POWER2}}\",\"pl_off\":\"OFF\",\"pl_on\":\"ON\",\"uniq_id\":\"C16CEF_RL_2\",\"dev\":{\"ids\":[\"C16CEF\"]}}"}

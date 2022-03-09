@@ -1,0 +1,4 @@
+{"IP": "64.184.186.13"}
+{"topic": "chat", "msg": "This is a test"}
+{"topic": "esp/msg", "msg": "bob: test"}
+{"topic": "test/lol", "msg": "test 2"}

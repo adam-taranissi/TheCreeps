@@ -1,0 +1,12 @@
+{"IP": "35.226.251.100"}
+{"topic": "CLEVER/CENDIS", "msg": "{\"tag\":\"DI0\",\"value\":\"true\"}"}
+{"topic": "CLEVER/CENDIS", "msg": "{\"tag\":\"DI1\",\"value\":\"false\"}"}
+{"topic": "CLEVER/CENDIS", "msg": "{\"tag\":\"DI2\",\"value\":\"false\"}"}
+{"topic": "CLEVER/CENDIS", "msg": "{\"tag\":\"DI3\",\"value\":\"true\"}"}
+{"topic": "CLEVER/CENDIS", "msg": "{\"tag\":\"DI4\",\"value\":\"false\"}"}
+{"topic": "CLEVER/CENDIS", "msg": "{\"tag\":\"DI5\",\"value\":\"false\"}"}
+{"topic": "CLEVER/CENDIS", "msg": "{\"tag\":\"DI6\",\"value\":\"true\"}"}
+{"topic": "CLEVER/CENDIS", "msg": "{\"tag\":\"DI7\",\"value\":\"false\"}"}
+{"topic": "CLEVER/CENDIS", "msg": "{\"tag\":\"DI8\",\"value\":\"false\"}"}
+{"topic": "CLEVER/CENDIS", "msg": "{\"tag\":\"VAV2\",\"value\":\"false\"}"}
+{"topic": "CLEVER/CENDIS", "msg": "{\"tag\":\"VAV1\",\"value\":\"true\"}"}

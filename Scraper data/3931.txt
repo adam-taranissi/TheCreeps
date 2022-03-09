@@ -1,0 +1,34 @@
+{"IP": "45.32.213.207"}
+{"topic": "ESP8266-Brew1", "msg": "brewhouse offline"}
+{"topic": "ESP8266-Brew", "msg": "brewhouse offline"}
+{"topic": "tele/sonoff/LWT", "msg": "Offline"}
+{"topic": "tele/tasmota_DD05EA/LWT", "msg": "Offline"}
+{"topic": "tele/TAS_DD05EA/LWT", "msg": "Offline"}
+{"topic": "tele/tasmota_DD443D/LWT", "msg": "Offline"}
+{"topic": "tele/TAS_DD443D/LWT", "msg": "Offline"}
+{"topic": "tele/tasmota_A5C826/LWT", "msg": "Offline"}
+{"topic": "tele/TAS_A5C826/LWT", "msg": "Online"}
+{"topic": "tele/tasmota_DC7797/LWT", "msg": "Offline"}
+{"topic": "tele/tas_DC7797/LWT", "msg": "Offline"}
+{"topic": "tele/tas_DCD7C9/LWT", "msg": "Offline"}
+{"topic": "tele/TAS/LWT", "msg": "Offline"}
+{"topic": "tele/tas_B46398/LWT", "msg": "Online"}
+{"topic": "tele/tas_BC7847/LWT", "msg": "Offline"}
+{"topic": "tele/tasmota_B4639D/LWT", "msg": "Offline"}
+{"topic": "tele/tas_B4639D/LWT", "msg": "Offline"}
+{"topic": "tele/tasmota_DCD6C6/LWT", "msg": "Offline"}
+{"topic": "tele/tasmota_118BF2/LWT", "msg": "Offline"}
+{"topic": "tele/tas_118BF2/LWT", "msg": "Offline"}
+{"topic": "tele/tasmota_259A4F/LWT", "msg": "Offline"}
+{"topic": "tele/tas_AbbyFish/LWT", "msg": "Online"}
+{"topic": "tele/tasmota_25E4E0/LWT", "msg": "Offline"}
+{"topic": "tele/tas_AnnabelleFish/LWT", "msg": "Online"}
+{"topic": "tele/tasmota_8BB291/LWT", "msg": "Online"}
+{"topic": "tele/tasmota_B9B51C/LWT", "msg": "Online"}
+{"topic": "tele/tasmota_53A108/LWT", "msg": "Offline"}
+{"topic": "tele/tas_FF2B97/LWT", "msg": "Online"}
+{"topic": "heartbeat", "msg": "11:38:51 10/07/20"}
+{"topic": "HLT", "msg": "168.00"}
+{"topic": "MLT", "msg": "150.00"}
+{"topic": "Boil Kettle", "msg": "0.00"}
+{"topic": "ESP8266-Battery-WOL", "msg": "10"}

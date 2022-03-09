@@ -1,0 +1,4 @@
+{"IP": "35.160.172.190"}
+{"topic": "teleira/test", "msg": "{\"message\":\"Hello91\"}"}
+{"topic": "vctest/test", "msg": "{\"message\":\"Hello 173 mqtt\"}"}
+{"topic": "abc/123", "msg": "XYZ"}

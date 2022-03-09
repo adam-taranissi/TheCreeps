@@ -1,0 +1,2 @@
+{"IP": "132.236.19.134"}
+{"topic": "smarthome/room1/led", "msg": "0"}

@@ -1,0 +1,38 @@
+{"IP": "52.168.124.198"}
+{"topic": "/sls/370-20-08-5273/tagread", "msg": "{\"Reader\":{\"Name\":\"CB89758D-E418-42|46B51547-40C9-46|7|32\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/370-20-08-5183/tagread", "msg": "{\"Reader\":{\"Name\":\"CB89758D-E418-42|46B51547-40C9-46|8|17\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/370-19-49-0583/tagread", "msg": "{\"Reader\":{\"Name\":\"CB89758D-E418-42|46B51547-40C9-46|9|15\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/37020100302/tagread", "msg": "{\"Reader\":{\"Name\":\"DF31A3FD-1589-43|73A9586E-924B-4B|11|32\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/37020100220/tagread", "msg": "{\"Reader\":{\"Name\":\"DF31A3FD-1589-43|73A9586E-924B-4B|3|32\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/37020100294/tagread", "msg": "{\"Type\":\"Tag Read\",\"Reader\":{\"Name\":\"\"},\"Tag\":{\"Antenna\":1,\"RSSI\":-57,\"TID\":\"\",\"EPC\":\"3F103E20A70134200900D064\",\"UTCTime\":\"2020-09-23 18:35:46\"}}"}
+{"topic": "/sls/37020100272/tagread", "msg": "{\"Reader\":{\"Name\":\"DF31A3FD-1589-43|73A9586E-924B-4B|16|32\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:13:bb:18/tagread", "msg": "{\"Reader\":{\"Name\":\"DF31A3FD-1589-43|73A9586E-924B-4B|14|32\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00162513bb18/tagread", "msg": "{\"Type\":\"Tag Read\",\"Reader\":{\"Name\":\"DF31A3FD-1589-43|73A9586E-924B-4B|14|32\"},\"Tag\":{\"Antenna\":1,\"RSSI\":-65,\"TID\":\"\",\"EPC\":\"E2801190A502006016C4CB1F\",\"UTCTime\":\"2020-09-23 19:14:55\"}}"}
+{"topic": "/sls/37020100198/tagread", "msg": "{\"Reader\":{\"Name\":\"DF31A3FD-1589-43|73A9586E-924B-4B|12|32\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:13:bc:51/tagread", "msg": "{\"Type\":\"Tag Read\",\"Reader\":{\"Name\":\"DF31A3FD-1589-43|73A9586E-924B-4B|3|22\"},\"Tag\":{\"Antenna\":1,\"RSSI\":-62,\"TID\":\"\",\"EPC\":\"AD4901054BD9217A480000DC\",\"UTCTime\":\"2020-09-24 12:58:39\"}}"}
+{"topic": "/sls/00:16:25:13:ba:96/tagread", "msg": "{\"Reader\":{\"Name\":\"A2675E24-F4A3-48|71CEFC24-329D-48|5|31\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:13:ba:98/tagread", "msg": "{\"Reader\":{\"Name\":\"A2675E24-F4A3-48|71CEFC24-329D-48|4|32\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/370-16-28-0139/tagread", "msg": "{\"Reader\":{\"Name\":\"A7A12C83-B1C7-42|712FBA7E-8976-40|33|13\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/370-16-28-0268/tagread", "msg": "{\"Reader\":{\"Name\":\"A7A12C83-B1C7-42|712FBA7E-8976-40|35|13\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/370-16-39-0263/tagread", "msg": "{\"Reader\":{\"Name\":\"A7A12C83-B1C7-42|712FBA7E-8976-40|34|13\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/A7A12C83-B1C7-42|712FBA7E-8976-40|42|6/tagread", "msg": "{\"Type\":\"Tag Read\",\"Reader\":{\"Name\":\"A7A12C83-B1C7-42|712FBA7E-8976-40|42|6\"},\"Tag\":{\"Antenna\":3,\"RSSI\":-65,\"TID\":\"\",\"EPC\":\"30340BB074154E4000012111\",\"UTCTime\":\"2020-10-15 03:27:19\"}}"}
+{"topic": "/sls/A7A12C83-B1C7-42|712FBA7E-8976-40|40|6/tagread", "msg": "{\"Type\":\"Tag Read\",\"Reader\":{\"Name\":\"A7A12C83-B1C7-42|712FBA7E-8976-40|40|6\"},\"Tag\":{\"Antenna\":2,\"RSSI\":-61,\"TID\":\"\",\"EPC\":\"30340BB07452D3000000AF81\",\"UTCTime\":\"2020-10-15 03:14:27\"}}"}
+{"topic": "/sls/A7A12C83-B1C7-42|712FBA7E-8976-40|41|6/tagread", "msg": "{\"Reader\":{\"Name\":\"A7A12C83-B1C7-42|712FBA7E-8976-40|41|6\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/A7A12C83-B1C7-42|712FBA7E-8976-40|43|6/tagread", "msg": "{\"Type\":\"Tag Read\",\"Reader\":{\"Name\":\"A7A12C83-B1C7-42|712FBA7E-8976-40|43|6\"},\"Tag\":{\"Antenna\":3,\"RSSI\":-63,\"TID\":\"\",\"EPC\":\"30340BB074154E4000018026\",\"UTCTime\":\"2020-10-15 03:17:16\"}}"}
+{"topic": "/sls/A7A12C83-B1C7-42|712FBA7E-8976-40|39|6/tagread", "msg": "{\"Type\":\"Tag Read\",\"Reader\":{\"Name\":\"A7A12C83-B1C7-42|712FBA7E-8976-40|39|6\"},\"Tag\":{\"Antenna\":1,\"RSSI\":-59,\"TID\":\"\",\"EPC\":\"30340BB074154E4000012111\",\"UTCTime\":\"2020-10-15 03:07:03\"}}"}
+{"topic": "/sls/370-16-49-1304/tagread", "msg": "{\"Type\":\"Tag Read\",\"Reader\":{\"Name\":\"A7A12C83-B1C7-42|712FBA7E-8976-40|40|6\"},\"Tag\":{\"Antenna\":3,\"RSSI\":-65,\"TID\":\"\",\"EPC\":\"330C2E66BB40005754631A5F\",\"UTCTime\":\"2021-03-08 15:59:04\"}}"}
+{"topic": "/sls/370-16-49-1187/tagread", "msg": "{\"Reader\":{\"Name\":\"A7A12C83-B1C7-42|712FBA7E-8976-40|42|6\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/370-16-49-1239/tagread", "msg": "{\"Reader\":{\"Name\":\"A7A12C83-B1C7-42|712FBA7E-8976-40|41|6\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/370-16-49-1266/tagread", "msg": "{\"Reader\":{\"Name\":\"A7A12C83-B1C7-42|712FBA7E-8976-40|43|6\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/370-16-49-1274/tagread", "msg": "{\"Reader\":{\"Name\":\"A7A12C83-B1C7-42|712FBA7E-8976-40|39|6\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/16:25:13:bb:26/tagread", "msg": "{\"Reader\":{\"Name\":\"A2675E24-F4A3-48|71CEFC24-329D-48|55|31\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:13:d8:73/tagread", "msg": "{\"Reader\":{\"Name\":\"A2675E24-F4A3-48|71CEFC24-329D-48|12|31\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:13:d8:74/tagread", "msg": "{\"Reader\":{\"Name\":\"A2675E24-F4A3-48|71CEFC24-329D-48|14|31\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:13:d8:6f/tagread", "msg": "{\"Reader\":{\"Name\":\"A2675E24-F4A3-48|71CEFC24-329D-48|21|31\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:13:d8:68/tagread", "msg": "{\"Reader\":{\"Name\":\"A2675E24-F4A3-48|71CEFC24-329D-48|27|31\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:13:d8:6e/tagread", "msg": "{\"Reader\":{\"Name\":\"A2675E24-F4A3-48|71CEFC24-329D-48|35|31\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:13:d8:7f/tagread", "msg": "{\"Reader\":{\"Name\":\"A2675E24-F4A3-48|71CEFC24-329D-48|41|31\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:13:d8:6b/tagread", "msg": "{\"Reader\":{\"Name\":\"A2675E24-F4A3-48|71CEFC24-329D-48|53|31\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:13:bb:07/tagread", "msg": "{\"Type\":\"Tag Read\",\"Reader\":{\"Name\":\"A2675E24-F4A3-48|71CEFC24-329D-48|59|24\"},\"Tag\":{\"Antenna\":4,\"RSSI\":-65,\"TID\":\"\",\"EPC\":\"303428FEA41411C00754C120\",\"UTCTime\":\"2021-03-01 16:16:53\"}}"}
+{"topic": "/sls/00:16:25:13:BB:04/tagread", "msg": "{\"Reader\":{\"Name\":\"Spare 2\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:13:ba:09/tagread", "msg": "{\"Reader\":{\"Name\":\"DF31A3FD-1589-43|73A9586E-924B-4B|16|32\"\n},\"Type\":\"Heartbeat\"}"}

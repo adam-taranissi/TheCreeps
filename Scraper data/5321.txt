@@ -1,0 +1,44 @@
+{"IP": "172.89.103.68"}
+{"topic": "tele/Bike_Switch/LWT", "msg": "Online"}
+{"topic": "tele/tasmota_ACE79F/LWT", "msg": "Offline"}
+{"topic": "tele/Keira_Switch/LWT", "msg": "Online"}
+{"topic": "tele/tasmota_C29F2E/LWT", "msg": "Offline"}
+{"topic": "tele/KMC_Switch_1/LWT", "msg": "Online"}
+{"topic": "tele/tasmota_BCAFA7/LWT", "msg": "Offline"}
+{"topic": "tele/KMC_Switch_2/LWT", "msg": "Offline"}
+{"topic": "tele/tasmota_C22F2E/LWT", "msg": "Offline"}
+{"topic": "tele/Garage_Door_Light/LWT", "msg": "Online"}
+{"topic": "tele/tasmota_C228CB/LWT", "msg": "Offline"}
+{"topic": "tele/Tandem_Garage_Light_Switch/LWT", "msg": "Offline"}
+{"topic": "tele/tasmota_CD1A97/LWT", "msg": "Offline"}
+{"topic": "tele/Entryway_Light_Switch/LWT", "msg": "Offline"}
+{"topic": "tele/tasmota_CD0FC5/LWT", "msg": "Offline"}
+{"topic": "tele/Porch_Light_Switch/LWT", "msg": "Offline"}
+{"topic": "tele/tasmota_405A30/LWT", "msg": "Offline"}
+{"topic": "tele/Keira_String_Lights/LWT", "msg": "Online"}
+{"topic": "tele/tasmota_405E1F/LWT", "msg": "Offline"}
+{"topic": "tele/Gazebo_Lights/LWT", "msg": "Online"}
+{"topic": "tele/tasmota_A6EED2/LWT", "msg": "Offline"}
+{"topic": "tele/Dino_Nightlight/LWT", "msg": "Online"}
+{"topic": "tele/Laundry_Room_Switch/LWT", "msg": "Offline"}
+{"topic": "tele/tasmota_8590A2/LWT", "msg": "Offline"}
+{"topic": "tele/Washing_Machine/LWT", "msg": "Online"}
+{"topic": "tele/Dryer/LWT", "msg": "Online"}
+{"topic": "tele/Keira's_Fan_Light_Switch/LWT", "msg": "Online"}
+{"topic": "tele/Carson's_Fan_Light_Switch/LWT", "msg": "Online"}
+{"topic": "homeassistant/switch/23EC60_RL_1/config", "msg": "{\"name\":\"Bike Charger\",\"stat_t\":\"tele/Bike_Switch/STATE\",\"avty_t\":\"tele/Bike_Switch/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"cmd_t\":\"cmnd/Bike_Switch/POWER\",\"val_tpl\":\"{{value_json.POWER}}\",\"pl_off\":\"OFF\",\"pl_on\":\"ON\",\"uniq_id\":\"23EC60_RL_1\",\"dev\":{\"ids\":[\"23EC60\"]}}"}
+{"topic": "homeassistant/switch/C29F2E_RL_1/config", "msg": "{\"name\":\"Switch 1\",\"stat_t\":\"tele/KMC_Switch_1/STATE\",\"avty_t\":\"tele/KMC_Switch_1/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"cmd_t\":\"cmnd/KMC_Switch_1/POWER1\",\"val_tpl\":\"{{value_json.POWER1}}\",\"pl_off\":\"OFF\",\"pl_on\":\"ON\",\"uniq_id\":\"C29F2E_RL_1\",\"dev\":{\"ids\":[\"C29F2E\"]}}"}
+{"topic": "homeassistant/switch/C29F2E_RL_2/config", "msg": "{\"name\":\"Switch 2\",\"stat_t\":\"tele/KMC_Switch_1/STATE\",\"avty_t\":\"tele/KMC_Switch_1/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"cmd_t\":\"cmnd/KMC_Switch_1/POWER2\",\"val_tpl\":\"{{value_json.POWER2}}\",\"pl_off\":\"OFF\",\"pl_on\":\"ON\",\"uniq_id\":\"C29F2E_RL_2\",\"dev\":{\"ids\":[\"C29F2E\"]}}"}
+{"topic": "homeassistant/switch/C29F2E_RL_3/config", "msg": "{\"name\":\"Switch 3\",\"stat_t\":\"tele/KMC_Switch_1/STATE\",\"avty_t\":\"tele/KMC_Switch_1/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"cmd_t\":\"cmnd/KMC_Switch_1/POWER3\",\"val_tpl\":\"{{value_json.POWER3}}\",\"pl_off\":\"OFF\",\"pl_on\":\"ON\",\"uniq_id\":\"C29F2E_RL_3\",\"dev\":{\"ids\":[\"C29F2E\"]}}"}
+{"topic": "homeassistant/switch/BCAFA7_RL_1/config", "msg": "{\"name\":\"KMC Switch 2 Outlet 1\",\"stat_t\":\"tele/KMC_Switch_2/STATE\",\"avty_t\":\"tele/KMC_Switch_2/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"cmd_t\":\"cmnd/KMC_Switch_2/POWER1\",\"val_tpl\":\"{{value_json.POWER1}}\",\"pl_off\":\"OFF\",\"pl_on\":\"ON\",\"uniq_id\":\"BCAFA7_RL_1\",\"dev\":{\"ids\":[\"BCAFA7\"]}}"}
+{"topic": "homeassistant/switch/BCAFA7_RL_2/config", "msg": "{\"name\":\"KMC Switch 2 Outlet 2\",\"stat_t\":\"tele/KMC_Switch_2/STATE\",\"avty_t\":\"tele/KMC_Switch_2/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"cmd_t\":\"cmnd/KMC_Switch_2/POWER2\",\"val_tpl\":\"{{value_json.POWER2}}\",\"pl_off\":\"OFF\",\"pl_on\":\"ON\",\"uniq_id\":\"BCAFA7_RL_2\",\"dev\":{\"ids\":[\"BCAFA7\"]}}"}
+{"topic": "homeassistant/switch/BCAFA7_RL_3/config", "msg": "{\"name\":\"KMC Switch 2 Outlet 3\",\"stat_t\":\"tele/KMC_Switch_2/STATE\",\"avty_t\":\"tele/KMC_Switch_2/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"cmd_t\":\"cmnd/KMC_Switch_2/POWER3\",\"val_tpl\":\"{{value_json.POWER3}}\",\"pl_off\":\"OFF\",\"pl_on\":\"ON\",\"uniq_id\":\"BCAFA7_RL_3\",\"dev\":{\"ids\":[\"BCAFA7\"]}}"}
+{"topic": "homeassistant/switch/C22F2E_RL_1/config", "msg": "{\"name\":\"Garage Light Switch\",\"stat_t\":\"tele/Garage_Door_Light/STATE\",\"avty_t\":\"tele/Garage_Door_Light/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"cmd_t\":\"cmnd/Garage_Door_Light/POWER\",\"val_tpl\":\"{{value_json.POWER}}\",\"pl_off\":\"OFF\",\"pl_on\":\"ON\",\"uniq_id\":\"C22F2E_RL_1\",\"dev\":{\"ids\":[\"C22F2E\"]}}"}
+{"topic": "homeassistant/switch/C228CB_RL_1/config", "msg": "{\"name\":\"Keira's Fan_Light Switch\",\"stat_t\":\"tele/Keira's_Fan_Light_Switch/STATE\",\"avty_t\":\"tele/Keira's_Fan_Light_Switch/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"cmd_t\":\"cmnd/Keira's_Fan_Light_Switch/POWER\",\"val_tpl\":\"{{value_json.POWER}}\",\"pl_off\":\"OFF\",\"pl_on\":\"ON\",\"uniq_id\":\"C228CB_RL_1\",\"dev\":{\"ids\":[\"C228CB\"]}}"}
+{"topic": "homeassistant/switch/CD1A97_RL_1/config", "msg": "{\"name\":\"Carson's Fan_Light Switch\",\"stat_t\":\"tele/Carson's_Fan_Light_Switch/STATE\",\"avty_t\":\"tele/Carson's_Fan_Light_Switch/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"cmd_t\":\"cmnd/Carson's_Fan_Light_Switch/POWER\",\"val_tpl\":\"{{value_json.POWER}}\",\"pl_off\":\"OFF\",\"pl_on\":\"ON\",\"uniq_id\":\"CD1A97_RL_1\",\"dev\":{\"ids\":[\"CD1A97\"]}}"}
+{"topic": "homeassistant/switch/CD0FC5_RL_1/config", "msg": "{\"name\":\"Porch Light Switch\",\"stat_t\":\"tele/Porch_Light_Switch/STATE\",\"avty_t\":\"tele/Porch_Light_Switch/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"cmd_t\":\"cmnd/Porch_Light_Switch/POWER\",\"val_tpl\":\"{{value_json.POWER}}\",\"pl_off\":\"OFF\",\"pl_on\":\"ON\",\"uniq_id\":\"CD0FC5_RL_1\",\"dev\":{\"ids\":[\"CD0FC5\"]}}"}
+{"topic": "homeassistant/switch/405A30_RL_1/config", "msg": "{\"name\":\"Keira String Lights\",\"stat_t\":\"tele/Keira_String_Lights/STATE\",\"avty_t\":\"tele/Keira_String_Lights/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"cmd_t\":\"cmnd/Keira_String_Lights/POWER\",\"val_tpl\":\"{{value_json.POWER}}\",\"pl_off\":\"OFF\",\"pl_on\":\"ON\",\"uniq_id\":\"405A30_RL_1\",\"dev\":{\"ids\":[\"405A30\"]}}"}
+{"topic": "homeassistant/switch/405E1F_RL_1/config", "msg": "{\"name\":\"Gazebo Lights\",\"stat_t\":\"tele/Gazebo_Lights/STATE\",\"avty_t\":\"tele/Gazebo_Lights/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"cmd_t\":\"cmnd/Gazebo_Lights/POWER\",\"val_tpl\":\"{{value_json.POWER}}\",\"pl_off\":\"OFF\",\"pl_on\":\"ON\",\"uniq_id\":\"405E1F_RL_1\",\"dev\":{\"ids\":[\"405E1F\"]}}"}
+{"topic": "homeassistant/switch/A6EED2_RL_1/config", "msg": "{\"name\":\"Dino Nightlight\",\"stat_t\":\"tele/Dino_Nightlight/STATE\",\"avty_t\":\"tele/Dino_Nightlight/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"cmd_t\":\"cmnd/Dino_Nightlight/POWER\",\"val_tpl\":\"{{value_json.POWER}}\",\"pl_off\":\"OFF\",\"pl_on\":\"ON\",\"uniq_id\":\"A6EED2_RL_1\",\"dev\":{\"ids\":[\"A6EED2\"]}}"}
+{"topic": "homeassistant/switch/8590A2_RL_1/config", "msg": "{\"name\":\"Washing Machine\",\"stat_t\":\"tele/Washing_Machine/STATE\",\"avty_t\":\"tele/Washing_Machine/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"cmd_t\":\"cmnd/Washing_Machine/POWER\",\"val_tpl\":\"{{value_json.POWER}}\",\"pl_off\":\"OFF\",\"pl_on\":\"ON\",\"uniq_id\":\"8590A2_RL_1\",\"dev\":{\"ids\":[\"8590A2\"]}}"}
+{"topic": "homeassistant/switch/CA23FC_RL_1/config", "msg": "{\"name\":\"Dryer\",\"stat_t\":\"tele/Dryer/STATE\",\"avty_t\":\"tele/Dryer/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"cmd_t\":\"cmnd/Dryer/POWER\",\"val_tpl\":\"{{value_json.POWER}}\",\"pl_off\":\"OFF\",\"pl_on\":\"ON\",\"uniq_id\":\"CA23FC_RL_1\",\"dev\":{\"ids\":[\"CA23FC\"]}}"}

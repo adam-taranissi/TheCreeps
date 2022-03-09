@@ -1,0 +1,5 @@
+{"IP": "74.208.203.245"}
+{"topic": "/rechargepoint_1/status", "msg": "under maintenance"}
+{"topic": "/rechargepoint_2/status", "msg": "available"}
+{"topic": "/rechargepoint_3/status", "msg": "available"}
+{"topic": "/io/off", "msg": "1"}

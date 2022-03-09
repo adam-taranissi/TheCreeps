@@ -1,0 +1,39 @@
+{"IP": "52.10.7.74"}
+{"topic": "abc/123", "msg": "XYZ"}
+{"topic": "/merakimv/Q2JV-EC7H-BZW3/light", "msg": "{\"lux\": 11230.6}"}
+{"topic": "/merakimv/Q2JV-EC7H-BZW3/0", "msg": "{\"ts\":1646775097329, \"counts\":{\"vehicle\":0, \"person\":0}}"}
+{"topic": "/merakimv/Q2JV-EC7H-BZW3/711005791171117197", "msg": "{\"ts\":1646775097329, \"counts\":{\"vehicle\":0, \"person\":0}}"}
+{"topic": "/merakimv/Q2JV-EC7H-BZW3/711005791171117198", "msg": "{\"ts\":1646775097329, \"counts\":{\"vehicle\":0, \"person\":0}}"}
+{"topic": "/merakimv/Q2JV-EC7H-BZW3/711005791171117199", "msg": "{\"ts\":1646775097329, \"counts\":{\"vehicle\":0, \"person\":0}}"}
+{"topic": "/merakimv/Q2JV-EC7H-BZW3/light", "msg": "{\"lux\": 11230.6}"}
+{"topic": "/merakimv/Q2JV-EC7H-BZW3/0", "msg": "{\"ts\":1646775097530, \"counts\":{\"vehicle\":0, \"person\":0}}"}
+{"topic": "/merakimv/Q2JV-EC7H-BZW3/711005791171117197", "msg": "{\"ts\":1646775097530, \"counts\":{\"vehicle\":0, \"person\":0}}"}
+{"topic": "/merakimv/Q2JV-EC7H-BZW3/711005791171117198", "msg": "{\"ts\":1646775097530, \"counts\":{\"vehicle\":0, \"person\":0}}"}
+{"topic": "/merakimv/Q2JV-EC7H-BZW3/711005791171117199", "msg": "{\"ts\":1646775097530, \"counts\":{\"vehicle\":0, \"person\":0}}"}
+{"topic": "/merakimv/Q2JV-EC7H-BZW3/light", "msg": "{\"lux\": 11230.6}"}
+{"topic": "/merakimv/Q2JV-EC7H-BZW3/0", "msg": "{\"ts\":1646775097721, \"counts\":{\"vehicle\":0, \"person\":0}}"}
+{"topic": "/merakimv/Q2JV-EC7H-BZW3/711005791171117197", "msg": "{\"ts\":1646775097721, \"counts\":{\"vehicle\":0, \"person\":0}}"}
+{"topic": "/merakimv/Q2JV-EC7H-BZW3/711005791171117198", "msg": "{\"ts\":1646775097721, \"counts\":{\"vehicle\":0, \"person\":0}}"}
+{"topic": "/merakimv/Q2JV-EC7H-BZW3/711005791171117199", "msg": "{\"ts\":1646775097721, \"counts\":{\"vehicle\":0, \"person\":0}}"}
+{"topic": "/merakimv/Q2JV-EC7H-BZW3/light", "msg": "{\"lux\": 11230.6}"}
+{"topic": "/merakimv/Q2JV-EC7H-BZW3/raw_detections", "msg": "{\n\t\"objects\" : [],\n\t\"ts\" : 1646775097930\n}"}
+{"topic": "/merakimv/Q2JV-EC7H-BZW3/0", "msg": "{\"ts\":1646775097930, \"counts\":{\"vehicle\":0, \"person\":0}}"}
+{"topic": "/merakimv/Q2JV-EC7H-BZW3/711005791171117197", "msg": "{\"ts\":1646775097930, \"counts\":{\"vehicle\":0, \"person\":0}}"}
+{"topic": "/merakimv/Q2JV-EC7H-BZW3/711005791171117198", "msg": "{\"ts\":1646775097930, \"counts\":{\"vehicle\":0, \"person\":0}}"}
+{"topic": "/merakimv/Q2JV-EC7H-BZW3/711005791171117199", "msg": "{\"ts\":1646775097930, \"counts\":{\"vehicle\":0, \"person\":0}}"}
+{"topic": "/merakimv/Q2JV-EC7H-BZW3/light", "msg": "{\"lux\": 11230.6}"}
+{"topic": "/merakimv/Q2JV-EC7H-BZW3/0", "msg": "{\"ts\":1646775098128, \"counts\":{\"vehicle\":0, \"person\":0}}"}
+{"topic": "/merakimv/Q2JV-EC7H-BZW3/711005791171117197", "msg": "{\"ts\":1646775098128, \"counts\":{\"vehicle\":0, \"person\":0}}"}
+{"topic": "/merakimv/Q2JV-EC7H-BZW3/711005791171117198", "msg": "{\"ts\":1646775098128, \"counts\":{\"vehicle\":0, \"person\":0}}"}
+{"topic": "/merakimv/Q2JV-EC7H-BZW3/711005791171117199", "msg": "{\"ts\":1646775098128, \"counts\":{\"vehicle\":0, \"person\":0}}"}
+{"topic": "/merakimv/Q2JV-EC7H-BZW3/light", "msg": "{\"lux\": 11230.6}"}
+{"topic": "/merakimv/Q2JV-EC7H-BZW3/0", "msg": "{\"ts\":1646775098329, \"counts\":{\"vehicle\":0, \"person\":0}}"}
+{"topic": "/merakimv/Q2JV-EC7H-BZW3/711005791171117197", "msg": "{\"ts\":1646775098329, \"counts\":{\"vehicle\":0, \"person\":0}}"}
+{"topic": "/merakimv/Q2JV-EC7H-BZW3/711005791171117198", "msg": "{\"ts\":1646775098329, \"counts\":{\"vehicle\":0, \"person\":0}}"}
+{"topic": "/merakimv/Q2JV-EC7H-BZW3/711005791171117199", "msg": "{\"ts\":1646775098329, \"counts\":{\"vehicle\":0, \"person\":0}}"}
+{"topic": "/merakimv/Q2JV-EC7H-BZW3/light", "msg": "{\"lux\": 11230.6}"}
+{"topic": "/merakimv/Q2JV-EC7H-BZW3/0", "msg": "{\"ts\":1646775098527, \"counts\":{\"vehicle\":0, \"person\":0}}"}
+{"topic": "/merakimv/Q2JV-EC7H-BZW3/711005791171117197", "msg": "{\"ts\":1646775098527, \"counts\":{\"vehicle\":0, \"person\":0}}"}
+{"topic": "/merakimv/Q2JV-EC7H-BZW3/711005791171117198", "msg": "{\"ts\":1646775098527, \"counts\":{\"vehicle\":0, \"person\":0}}"}
+{"topic": "/merakimv/Q2JV-EC7H-BZW3/711005791171117199", "msg": "{\"ts\":1646775098527, \"counts\":{\"vehicle\":0, \"person\":0}}"}
+{"topic": "/merakimv/Q2JV-EC7H-BZW3/light", "msg": "{\"lux\": 11230.6}"}

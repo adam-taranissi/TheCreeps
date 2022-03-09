@@ -1,0 +1,9 @@
+{"IP": "138.197.106.238"}
+{"topic": "powergrid2/info/98946D49", "msg": "{\"sn\":\"98946D49\", \"ver\":\"PG 2.0.34 TS\", \"msg\":\"poweron\"}"}
+{"topic": "powergrid2/info/38C25E24", "msg": "{\"ver\":\"PG 2.0.34 TS\",\"stat\":{\"sv\":18.73,\"cc\":0.00,\"bv\":4.16,\"tc\":0},\"chan\":{\"1\":1,\"2\":1,\"3\":1,\"4\":1}}"}
+{"topic": "powergrid2/info/9B6984B7", "msg": "{\"sn\":\"9B6984B7\", \"ver\":\"PG 2.0.34 TS\", \"msg\":\"poweron\"}"}
+{"topic": "powergrid2/info/8E40E0DC", "msg": "{\"sn\":\"8E40E0DC\", \"ver\":\"PowerGrid 2.0.33\", \"msg\":\"poweron\"}"}
+{"topic": "powergrid2/info/D7283734", "msg": "{\"sn\":\"D7283734\", \"ver\":\"PG 3.0.0 TS\", \"msg\":\"poweron\"}"}
+{"topic": "powergrid2/info/B3BC71F8", "msg": "{\"sn\":\"B3BC71F8\", \"ver\":\"PG 2.0.34 TS\", \"msg\":\"poweron\"}"}
+{"topic": "sync/from/scanner/8f4476f0-10a0-44d4-b380-80f896d80966", "msg": "{\"Part\":0,\"PartCount\":0,\"ContractorID\":\"9e2b4569-9431-4839-8066-149b445c1a99\",\"Payloads\":{},\"SyncTime\":1527145407}"}
+{"topic": "abc/123", "msg": "XYZ"}

@@ -1,0 +1,6 @@
+{"IP": "199.73.55.103"}
+{"topic": "tele/tasmota_195FB8/LWT", "msg": "Online"}
+{"topic": "tasmota/discovery/BCFF4D195FB8/config", "msg": "{\"ip\":\"10.10.40.6\",\"dn\":\"Tasmota\",\"fn\":[\"Tasmota\",null,null,null,null,null,null,null],\"hn\":\"tasmota-195FB8-8120\",\"mac\":\"BCFF4D195FB8\",\"md\":\"Generic\",\"ty\":0,\"if\":0,\"ofln\":\"Offline\",\"onln\":\"Online\",\"state\":[\"OFF\",\"ON\",\"TOGGLE\",\"HOLD\"],\"sw\":\"9.5.0.8\",\"t\":\"tasmota_195FB8\",\"ft\":\"%prefix%/%topic%/\",\"tp\":[\"cmnd\",\"stat\",\"tele\"],\"rl\":[0,0,0,0,0,0,0,0],\"swc\":[-1,-1,-1,-1,-1,-1,-1,-1],\"swn\":[null,null,null,null,null,null,null,null],\"btn\":[0,0,0,0,0,0,0,0],\"so\":{\"4\":0,\"11\":0,\"13\":0,\"17\":0,\"20\":0,\"30\":0,\"68\":0,\"73\":0,\"82\":0,\"114\":0,\"117\":0},\"lk\":0,\"lt_st\":0,\"sho\":[0,0,0,0],\"ver\":1}"}
+{"topic": "tasmota/discovery/BCFF4D195FB8/sensors", "msg": "{\"sn\":{\"Time\":\"2022-03-08T06:43:42\",\"BME280\":{\"Temperature\":80.0,\"Humidity\":25.3,\"DewPoint\":41.3,\"Pressure\":1014.3},\"VINDRIKTNING\":{\"PM2.5\":4},\"PressureUnit\":\"hPa\",\"TempUnit\":\"F\"},\"ver\":1}"}
+{"topic": "CNDL/sensor/power/eagle200", "msg": "{\"watts\": 451, \"name\": \"Energy Meter\", \"service\": \"eagle200\", \"timestamp\": 1646776033, \"host\": \"eagle200.northpb.com\", \"id\": \"centron\"}"}
+{"topic": "RSF/00017B29/Flow/Volume/", "msg": "      0.00"}

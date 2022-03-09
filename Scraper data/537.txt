@@ -1,0 +1,4 @@
+{"IP": "216.167.162.58"}
+{"topic": "ActiveMQ/Advisory/MasterBroker", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Consumer/Topic/#", "msg": ""}
+{"topic": "mq/event/msg/topic/3", "msg": "{\"method\":\"vms.notifyDevChannelStatus\",\"info\":{\"channelId\":\"1000006$1$0$14\",\"onlineStatus\":\"0\"},\"id\":\"892123\"}"}

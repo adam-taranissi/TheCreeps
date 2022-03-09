@@ -1,0 +1,2 @@
+{"IP": "136.36.103.34"}
+{"topic": "plex/alert", "msg": "{\"subject\": \"Tautulli (TheBoyd's Plex Server)\", \"body\": \"TheBoyd78 (TV 2017) has stopped CSI: Crime Scene Investigation - Death and the Maiden.\", \"topic\": \"plex/alert\"}"}

@@ -1,0 +1,4 @@
+{"IP": "52.87.126.219"}
+{"topic": "clemons/commission", "msg": "<?xml version=\"1.0\"?><Event><Type>Heartbeat</Type><Reader><Name>PORTAL2361</Name></Reader></Event>"}
+{"topic": "clemons/commission", "msg": "<?xml version=\"1.0\"?><Event><Type>Heartbeat</Type><Reader><Name>PORTAL2361</Name></Reader></Event>"}
+{"topic": "clemons/commission", "msg": "<?xml version=\"1.0\"?><Event><Type>Heartbeat</Type><Reader><Name>PORTAL2361</Name></Reader></Event>"}

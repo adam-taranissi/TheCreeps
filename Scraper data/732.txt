@@ -1,0 +1,27 @@
+{"IP": "166.211.145.10"}
+{"topic": "xbee/response", "msg": "{\"DID\": \"A037730120\", \"macID\": \"0013A200419ADA8E\", \"TS\": \"1646765617\", \"CMD\": \"DACK\", \"STATUS\": \"00\"}"}
+{"topic": "changeEvent/rover/spa", "msg": "\"A037730120\""}
+{"topic": "sensorReadings/wind", "msg": "{\"mpv\": \"--\", \"direction\": 272.0, \"speed\": 6.98, \"mpvSelected\": false}"}
+{"topic": "sensorReadings/snow", "msg": "{\"reading\": 0.0}"}
+{"topic": "xbee/command", "msg": "{\"source\": \"periodic-requests\", \"CMD\": \"QCNS\", \"requestReceivedTS\": 1646765816.006433, \"DID\": \"A037740121\", \"expiryTS\": 1646767615.9936888, \"macID\": \"0013A200419AC928\"}"}
+{"topic": "xbee/response", "msg": "{\"DID\": \"A037950142\", \"MODE\": \"AUTO\", \"CANGLE\": \"-29.7\", \"STATUS\": \"0\", \"BTEMP\": \"11.83\", \"PANGLE\": \"-31.5\", \"BATV\": \"25.53\", \"TS\": \"1646765852\", \"CMD\": \"DSTU\", \"macID\": \"0013A200419A8271\"}"}
+{"topic": "xbee/response", "msg": "{\"DID\": \"A037740121\", \"macID\": \"0013A200419AC928\", \"SPASTATUS\": \"COMPLETED\", \"VALUES\": \"[[104002,-32.00],[104607,-30.00]]\", \"TS\": \"1646765613\", \"CMD\": \"QCNS\"}"}
+{"topic": "sensorReadings/wind", "msg": "{\"mpv\": \"--\", \"direction\": 273.0, \"speed\": 7.38, \"mpvSelected\": false}"}
+{"topic": "xbee/response", "msg": "{\"DID\": \"A037740121\", \"macID\": \"0013A200419AC928\", \"TS\": \"1646765614\", \"CMD\": \"DACK\", \"STATUS\": \"00\"}"}
+{"topic": "sensorReadings/snow", "msg": "{\"reading\": 0.0}"}
+{"topic": "changeEvent/rover/spa", "msg": "\"A037740121\""}
+{"topic": "xbee/command", "msg": "{\"source\": \"periodic-requests\", \"CMD\": \"QCNS\", \"requestReceivedTS\": 1646765815.8848565, \"DID\": \"A037750122\", \"expiryTS\": 1646767615.8728151, \"macID\": \"0013A200419AC923\"}"}
+{"topic": "sensorReadings/wind", "msg": "{\"mpv\": \"--\", \"direction\": 270.0, \"speed\": 7.72, \"mpvSelected\": false}"}
+{"topic": "xbee/response", "msg": "{\"DID\": \"A037750122\", \"macID\": \"0013A200419AC923\", \"SPASTATUS\": \"COMPLETED\", \"VALUES\": \"[[104002,-32.00],[104607,-30.00]]\", \"TS\": \"1646765616\", \"CMD\": \"QCNS\"}"}
+{"topic": "sensorReadings/snow", "msg": "{\"reading\": 0.0}"}
+{"topic": "xbee/response", "msg": "{\"DID\": \"A037750122\", \"macID\": \"0013A200419AC923\", \"TS\": \"1646765617\", \"CMD\": \"DACK\", \"STATUS\": \"00\"}"}
+{"topic": "changeEvent/rover/spa", "msg": "\"A037750122\""}
+{"topic": "xbee/command", "msg": "{\"source\": \"periodic-requests\", \"CMD\": \"QCNS\", \"requestReceivedTS\": 1646765816.018558, \"DID\": \"A037760123\", \"expiryTS\": 1646767616.0061667, \"macID\": \"0013A200419ADEC1\"}"}
+{"topic": "sensorReadings/wind", "msg": "{\"mpv\": \"--\", \"direction\": 271.0, \"speed\": 7.68, \"mpvSelected\": false}"}
+{"topic": "xbee/response", "msg": "{\"DID\": \"A037760123\", \"macID\": \"0013A200419ADEC1\", \"SPASTATUS\": \"COMPLETED\", \"VALUES\": \"[[104002,-32.00],[104607,-30.00]]\", \"TS\": \"1646765617\", \"CMD\": \"QCNS\"}"}
+{"topic": "sensorReadings/snow", "msg": "{\"reading\": 0.0}"}
+{"topic": "xbee/response", "msg": "{\"DID\": \"A037760123\", \"macID\": \"0013A200419ADEC1\", \"TS\": \"1646765617\", \"CMD\": \"DACK\", \"STATUS\": \"00\"}"}
+{"topic": "changeEvent/rover/spa", "msg": "\"A037760123\""}
+{"topic": "sensorReadings/wind", "msg": "{\"mpv\": \"--\", \"direction\": 273.0, \"speed\": 7.57, \"mpvSelected\": false}"}
+{"topic": "xbee/command", "msg": "{\"source\": \"periodic-requests\", \"CMD\": \"QCNS\", \"requestReceivedTS\": 1646765815.8996663, \"DID\": \"A037770124\", \"expiryTS\": 1646767615.8846836, \"macID\": \"0013A20041084D7A\"}"}
+{"topic": "sensorReadings/snow", "msg": "{\"reading\": 0.0}"}

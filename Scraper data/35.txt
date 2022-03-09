@@ -1,0 +1,2 @@
+{"IP": "3.17.43.30"}
+{"topic": "/areoponia/inventario", "msg": "maiz"}

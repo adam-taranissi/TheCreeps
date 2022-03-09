@@ -1,0 +1,4 @@
+{"IP": "54.241.221.90"}
+{"topic": "ActiveMQ/Advisory/MasterBroker", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Consumer/Topic/#", "msg": ""}
+{"topic": "server7", "msg": "{\"msgId\":\"1aa529d3-7bb0-4ee0-bad9-6da585046722\",\"routing\":\"server7/grp_054219018168\",\"intent\":\"SYNC\",\"payload\":{\"command\":32,\"imei\":\"166f0631bbee\",\"data\":{\"imei\":\"166f0631bbee\",\"deviceId\":40,\"zoneId\":0,\"openClose\":false,\"tamper\":false,\"superisory\":false,\"lowBattery\":false,\"inAlarm\":false,\"isBypassed\":false,\"enabled\":true,\"zoneSignal\":204}}}"}

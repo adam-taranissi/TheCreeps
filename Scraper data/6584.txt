@@ -1,0 +1,2 @@
+{"IP": "54.202.124.194"}
+{"topic": "gateway/647fdafffe009c1b/state/conn", "msg": "{\"gatewayID\":\"ZH/a//4AnBs=\",\"state\":\"ONLINE\"}"}

@@ -1,0 +1,3 @@
+{"IP": "64.225.52.133"}
+{"topic": "gpcpharma/bogota/bodega/micro_B03/data.json", "msg": "{\"temperatura\":\"3.56\"}"}
+{"topic": "gpcpharma/bogota/bodega/micro_B02/data.json", "msg": "{\"temperatura\":\"5.25\"}"}

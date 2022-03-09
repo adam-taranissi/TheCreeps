@@ -1,0 +1,9 @@
+{"IP": "173.63.124.170"}
+{"topic": "frigate/events", "msg": "{\"before\": {\"id\": \"1646793725.122684-9fazpt\", \"camera\": \"backyard\", \"frame_time\": 1646794010.554319, \"snapshot_time\": 1646794007.146522, \"label\": \"person\", \"top_score\": 0.79296875, \"false_positive\": false, \"start_time\": 1646793725.122684, \"end_time\": null, \"score\": 0.68359375, \"box\": [1592, 260, 1781, 587], \"area\": 61803, \"region\": [1388, 203, 1828, 643], \"current_zones\": [], \"entered_zones\": [], \"has_clip\": false, \"has_snapshot\": true}, \"after\": {\"id\": \"1646793725.122684-9fazpt\", \"camera\": \"backyard\", \"frame_time\": 1646794015.561028, \"snapshot_time\": 1646794012.548601, \"label\": \"person\", \"top_score\": 0.79296875, \"false_positive\": false, \"start_time\": 1646793725.122684, \"end_time\": null, \"score\": 0.70703125, \"box\": [1588, 300, 1775, 587], \"area\": 53669, \"region\": [1494, 227, 1882, 615], \"current_zones\": [], \"entered_zones\": [], \"has_clip\": false, \"has_snapshot\": true}, \"type\": \"update\"}"}
+{"topic": "homeassistant/ups_cyberpower_01/battery_level", "msg": "{ \"value\": \"100.00\" }"}
+{"topic": "homeassistant/ups_cyberpower_01/time_left", "msg": "{ \"value\": \"50.7\" }"}
+{"topic": "homeassistant/ups_cyberpower_01/transfers", "msg": "{ \"value\": \"3\" }"}
+{"topic": "homeassistant/ups_cyberpower_01/status", "msg": "{ \"value\": \"ONLINE\" }"}
+{"topic": "homeassistant/ups_cyberpower_02/battery_level", "msg": "{ \"value\": \"100.00\" }"}
+{"topic": "homeassistant/ups_cyberpower_02/time_left", "msg": "{ \"value\": \"120.5\" }"}
+{"topic": "homeassistant/ups_cyberpower_02/transfers", "msg": "{ \"value\": \"1\" }"}

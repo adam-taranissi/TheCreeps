@@ -1,0 +1,4 @@
+{"IP": "3.13.69.182"}
+{"topic": "SONO_OUT006/DATA", "msg": "{\"ruido\":53.79}"}
+{"topic": "SONO_OUT006/DATA", "msg": "{\"ruido\":68.82}"}
+{"topic": "SONO_OUT006/DATA", "msg": "{\"ruido\":48.35}"}

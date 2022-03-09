@@ -1,0 +1,44 @@
+{"IP": "165.22.133.94"}
+{"topic": "AW06cef0/command/config:channel", "msg": "{\"channel\":\"dse27fbe\",\"variable\":\"temperature\",\"offset\":0,\"ts\":1640601003407}"}
+{"topic": "AW06d053/command/config:channel", "msg": "{\"channel\":\"dsff2e61\",\"variable\":\"temperature\",\"offset\":-3.4,\"ts\":1642261357875}"}
+{"topic": "AW06d7ed/command/config:channel", "msg": "{\"channel\":\"ds8cb909\",\"variable\":\"temperature\",\"offset\":0,\"ts\":1638746435616}"}
+{"topic": "AW06d98e/command/config:channel", "msg": "{\"channel\":\"dsff0dff\",\"variable\":\"temperature\",\"offset\":-6.4,\"ts\":1642261888089}"}
+{"topic": "AW06d9be/command/config:channel", "msg": "{\"channel\":\"ds4974bd\",\"variable\":\"temperature\",\"offset\":0,\"ts\":1640803565327}"}
+{"topic": "AW095a12/command/config:channel", "msg": "{\"channel\":\"d2\",\"variable\":\"temperature\",\"offset\":0,\"ts\":1639840574150}"}
+{"topic": "AW095a1c/command/config:channel", "msg": "{\"channel\":\"d2\",\"variable\":\"temperature\",\"offset\":-0.3,\"ts\":1642519552657}"}
+{"topic": "AW095a1f/command/config:channel", "msg": "{\"channel\":\"d2\",\"variable\":\"temperature\",\"offset\":-0.7,\"ts\":1642519694298}"}
+{"topic": "AW095a20/command/config:channel", "msg": "{\"channel\":\"d2\",\"variable\":\"temperature\",\"offset\":0,\"ts\":1642519443877}"}
+{"topic": "AW095a23/command/config:channel", "msg": "{\"channel\":\"d2\",\"variable\":\"temperature\",\"offset\":0,\"ts\":1642519103375}"}
+{"topic": "AW095a30/command/config:channel", "msg": "{\"channel\":\"d2\",\"variable\":\"temperature\",\"offset\":0,\"ts\":1638016982203}"}
+{"topic": "AW095a31/command/config:channel", "msg": "{\"channel\":\"d2\",\"variable\":\"temperature\",\"offset\":0.5,\"ts\":1642519297619}"}
+{"topic": "AW095a63/command/config:channel", "msg": "{\"channel\":\"d2\",\"variable\":\"temperature\",\"offset\":0,\"ts\":1642607632621}"}
+{"topic": "AW095a6b/command/config:channel", "msg": "{\"channel\":\"d1\",\"variable\":\"temperature\",\"offset\":0,\"ts\":1646678533796}"}
+{"topic": "AW095a81/command/config:channel", "msg": "{\"channel\":\"d2\",\"variable\":\"temperature\",\"offset\":0,\"ts\":1639487707031}"}
+{"topic": "AW095ad4/command/config:channel", "msg": "{\"channel\":\"d1\",\"variable\":\"temperature\",\"offset\":0,\"ts\":1639483771578}"}
+{"topic": "AW095b0b/command/config:channel", "msg": "{\"channel\":\"d2\",\"variable\":\"temperature\",\"offset\":-20,\"ts\":1640492761459}"}
+{"topic": "AW095b10/command/config:channel", "msg": "{\"channel\":\"d2\",\"variable\":\"temperature\",\"offset\":-4.7,\"ts\":1639132510757}"}
+{"topic": "AW095b37/command/config:channel", "msg": "{\"channel\":\"d2\",\"variable\":\"temperature\",\"offset\":0,\"ts\":1637857962930}"}
+{"topic": "AW095b56/command/config:channel", "msg": "{\"channel\":\"d2\",\"variable\":\"temperature\",\"offset\":0,\"ts\":1639009282275}"}
+{"topic": "AW144f9a/command/config:channel", "msg": "{\"channel\":\"d2\",\"variable\":\"temperature\",\"offset\":0,\"ts\":1643931690729}"}
+{"topic": "AW144fb4/command/config:channel", "msg": "{\"channel\":\"d2\",\"variable\":\"temperature\",\"offset\":9,\"ts\":1645846294376}"}
+{"topic": "AW144fcd/command/config:channel", "msg": "{\"channel\":\"d1\",\"variable\":\"temperature\",\"offset\":0,\"ts\":1646316251749}"}
+{"topic": "w/AW06c6fe/current/PZ06c6fe", "msg": "{\"v\":1.0,\"ts\":1646779219, \"tok\":0}"}
+{"topic": "w/AW06c6fe/energy/PZ06c6fe", "msg": "{\"v\":2572023.0,\"ts\":1646779221, \"tok\":0}"}
+{"topic": "w/AW06c6fe/power/PZ06c6fe", "msg": "{\"v\":150.0,\"ts\":1646779220, \"tok\":0}"}
+{"topic": "w/AW06c6fe/voltage/PZ06c6fe", "msg": "{\"v\":230.3,\"ts\":1646779218, \"tok\":0}"}
+{"topic": "w/AW06ced5/temperature/DSff79ed", "msg": "{\"v\":21.9,\"ts\":1646779227, \"tok\":1}"}
+{"topic": "w/AW06cef0/temperature/DS8f5ebf", "msg": "{\"v\":4.1,\"ts\":1646779188, \"tok\":1}"}
+{"topic": "w/AW06cef0/temperature/DSe27fbe", "msg": "{\"v\":-18.7,\"ts\":1646779188, \"tok\":1}"}
+{"topic": "w/AW06cf5b/temperature/DS7adbc7", "msg": "{\"v\":6.8,\"ts\":1645104239, \"tok\":1}"}
+{"topic": "w/AW06cf5b/temperature/DSf38f1e", "msg": "{\"v\":14.7,\"ts\":1645104239, \"tok\":1}"}
+{"topic": "w/AW06d053/temperature/DS9fee1e", "msg": "{\"v\":2.2,\"ts\":1646779187, \"tok\":1}"}
+{"topic": "w/AW06d053/temperature/DSff2e61", "msg": "{\"v\":8.3,\"ts\":1646779187, \"tok\":1}"}
+{"topic": "w/AW06d118/temperature/DS8bf9c0", "msg": "{\"v\":-25.2,\"ts\":1646779211, \"tok\":1}"}
+{"topic": "w/AW06d267/temperature/DSa4f1c0", "msg": "{\"v\":-23.8,\"ts\":1646779187, \"tok\":1}"}
+{"topic": "w/AW06d291/temperature/DS3e1ac8", "msg": "{\"v\":27.3,\"ts\":1646779174, \"tok\":1}"}
+{"topic": "w/AW06d291/temperature/DS502ec7", "msg": "{\"v\":25.4,\"ts\":1646779174, \"tok\":1}"}
+{"topic": "w/AW06d36a/temperature/DSc44ebe", "msg": "{\"v\":13.0,\"ts\":1646779175, \"tok\":1}"}
+{"topic": "w/AW06d372/temperature/DSc5b3e8", "msg": "{\"v\":0.5,\"ts\":1646779225, \"tok\":1}"}
+{"topic": "w/AW06d372/temperature/DSf3c709", "msg": "{\"v\":-19.4,\"ts\":1646779225, \"tok\":1}"}
+{"topic": "w/AW06d3c8/temperature/DS8085bf", "msg": "{\"v\":2.7,\"ts\":1646779214, \"tok\":1}"}
+{"topic": "w/AW06d3fc/temperature/DS2d70bf", "msg": "{\"v\":2.1,\"ts\":1646779170, \"tok\":1}"}

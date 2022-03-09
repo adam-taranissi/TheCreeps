@@ -1,0 +1,2 @@
+{"IP": "45.76.239.120"}
+{"topic": "iiot-kopar-dev/KOPAR/Queretaro/Laboratory/IPC127Windows/Edge", "msg": "{\n\"ModuleName\":\"IPC-127e-Lab-i40\",\n\"ModuleStatus\":\"Running\",\n\"OS\":\"Windows-x64\", \n\"SysType\":\"DW-Enterprise.Windows\",\n\"LicenseDaysRemmain\":68,\n\"CPU\" : {\n\"CPUUsed\":6,\n\"CPUFree\":5\n},\n\"SystemMemory\" : {\n\"MemoryUsed\":2084,\n\"MemoryFree\":747,\n\"MemoryTotal\":2832\n},\n\"Drives\" : {\n\"DrivesUsed\":50,\n\"DrivesFree\":20892648,\n\"DrivesTotal\":41943036\n}\n}"}

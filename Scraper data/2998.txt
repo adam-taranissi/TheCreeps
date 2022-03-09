@@ -1,0 +1,41 @@
+{"IP": "68.202.26.117"}
+{"topic": "waterman/timers/status", "msg": "online"}
+{"topic": "waterman/timers/MBHotWater/hours", "msg": "6-9,17-20"}
+{"topic": "waterman/timers/MBHotWater/setpoint", "msg": "102"}
+{"topic": "waterman/timers/MBHotWater/hysteresis", "msg": "3.0"}
+{"topic": "waterman/timers/MBHotWater/relaychip", "msg": "9783161"}
+{"topic": "waterman/timers/MBHotWater/cmd", "msg": "off"}
+{"topic": "waterman/timers/MBHotWater/chip", "msg": "13626392"}
+{"topic": "waterman/timers/MBHotWater/enabled", "msg": "true"}
+{"topic": "waterman/timers/HotPlate/hours", "msg": "0,20-24"}
+{"topic": "waterman/timers/HotPlate/setpoint", "msg": "95"}
+{"topic": "waterman/timers/HotPlate/chip", "msg": "488369"}
+{"topic": "waterman/timers/HotPlate/enabled", "msg": "false"}
+{"topic": "waterman/timers/TZoffset", "msg": "-5"}
+{"topic": "waterman/9783161/status", "msg": "online"}
+{"topic": "waterman/9783161/time", "msg": "1646777768.294"}
+{"topic": "waterman/9783161/relay", "msg": "off"}
+{"topic": "waterman/488369/status", "msg": "offline"}
+{"topic": "waterman/488369/time", "msg": "1549126199.905"}
+{"topic": "waterman/488369/temp", "msg": "74.3000"}
+{"topic": "waterman/488369/relay", "msg": "disabled"}
+{"topic": "waterman/13626392/status", "msg": "online"}
+{"topic": "waterman/13626392/time", "msg": "1646777789.422"}
+{"topic": "waterman/13626392/temp", "msg": "102.5375"}
+{"topic": "waterman/13845505/status", "msg": "offline"}
+{"topic": "waterman/13845505/time", "msg": "1537988887.230"}
+{"topic": "waterman/13845505/uptime", "msg": "4568"}
+{"topic": "waterman/13845505/json", "msg": "{\"status\": \"offline\"}"}
+{"topic": "waterman/13845151/json", "msg": "{\"status\": \"offline\"}"}
+{"topic": "waterman/13845151//pin3", "msg": "click*1@1582688538.584"}
+{"topic": "waterman/13845151//pwm/current", "msg": "0"}
+{"topic": "waterman/13845151//pwm/target", "msg": "0"}
+{"topic": "waterman/13845151/button/3", "msg": "click*1@1596657002.308"}
+{"topic": "waterman/13845151/temp/1/1", "msg": "26.6875@1596710671.666"}
+{"topic": "waterman/13845151/adc/", "msg": "0.015@1596710671.637"}
+{"topic": "waterman/3880370/json", "msg": "{\"status\": \"offline\"}"}
+{"topic": "waterman/3880370//pin3", "msg": "click*1@1582349305.821"}
+{"topic": "waterman/3880370//pwm/target", "msg": "0"}
+{"topic": "waterman/3880370//pwm/current", "msg": "0"}
+{"topic": "waterman/13625840/json", "msg": "{\"status\": \"offline\"}"}
+{"topic": "waterman/13625840/temp/4/1", "msg": "26.1250@1584197386.920"}

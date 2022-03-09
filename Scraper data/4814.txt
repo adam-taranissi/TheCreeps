@@ -1,0 +1,2 @@
+{"IP": "3.138.187.247"}
+{"topic": "STATE/IgnitionCentral", "msg": "ONLINE"}

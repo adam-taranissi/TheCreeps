@@ -1,0 +1,2 @@
+{"IP": "34.193.236.12"}
+{"topic": "POWER-WAKEUP", "msg": "da"}

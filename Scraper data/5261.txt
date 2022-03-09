@@ -1,0 +1,9 @@
+{"IP": "157.245.82.191"}
+{"topic": "inicializa\\RN\\www", "msg": "00000004NN"}
+{"topic": "inicializa/RN/www", "msg": "00000004NN"}
+{"topic": "inicializar\\RN\\www", "msg": "00000004NN"}
+{"topic": "abc/123", "msg": "XYZ"}
+{"topic": "arduino/status", "msg": "OFF_LINE"}
+{"topic": "rn/status", "msg": "ON_LINE"}
+{"topic": "rn/status/", "msg": "O7"}
+{"topic": "rn/status/loja", "msg": "ON7"}

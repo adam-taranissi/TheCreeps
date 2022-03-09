@@ -1,0 +1,2 @@
+{"IP": "45.33.89.179"}
+{"topic": "verdafarm/pod/id1/channel/lights", "msg": "{\u201ccommand\":\u201dON\u201d}"}

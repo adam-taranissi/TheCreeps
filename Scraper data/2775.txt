@@ -1,0 +1,2 @@
+{"IP": "166.163.205.14"}
+{"topic": "iot-2/type/dtu/id/355284081063043/evt/bridge-notification/fmt/int", "msg": "1"}

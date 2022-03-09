@@ -1,0 +1,9 @@
+{"IP": "35.232.206.8"}
+{"topic": "nadir/cisterna_A", "msg": "41.63299"}
+{"topic": "nadir/app/cisterna_A", "msg": "78041.92177121772"}
+{"topic": "atlantico/cisterna_B", "msg": "26207.64"}
+{"topic": "atlantico/app/cisterna_B", "msg": "26208.77166666667"}
+{"topic": "atlantico/cisterna_A", "msg": "24909.474"}
+{"topic": "atlantico/app/cisterna_A", "msg": "24916.67120833333"}
+{"topic": "nadir/caixa", "msg": "57.00099"}
+{"topic": "nadir/app/caixa", "msg": "38451.35741935484"}

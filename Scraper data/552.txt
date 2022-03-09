@@ -1,0 +1,3 @@
+{"IP": "173.23.225.40"}
+{"topic": "out/wcs/v0", "msg": "0"}
+{"topic": "Appliances/Grill", "msg": "r"}

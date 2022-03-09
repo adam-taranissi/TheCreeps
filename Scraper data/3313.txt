@@ -1,0 +1,7 @@
+{"IP": "54.87.40.141"}
+{"topic": "SENSORS/PRESSURE/press_01/current", "msg": "{\"i_0\":\" 11.4500\",\"i_1\":\" 11.6900\",\"i_2\":\"  0.0000\",\"i_3\":\"  0.0000\"}"}
+{"topic": "SENSORS/PRESSURE/lab/current", "msg": "{\"i_0\":\"  0.0000\",\"i_1\":\"  0.0000\",\"i_2\":\"  0.0000\",\"i_3\":\"  0.0000\"}"}
+{"topic": "SENSORS/PRESSURE/zs26/current", "msg": "{\"i_0\":\"  3.9800\",\"i_1\":\"  9.4700\",\"i_2\":\" 10.7600\",\"i_3\":\"  6.8200\"}"}
+{"topic": "SENSORS/ENERGY/lab/current", "msg": "{\"ia\":\"13.19\",\"ib\":\"13.21\",\"ic\":\"16.06\"}"}
+{"topic": "SENSORS/ENERGY/02/current", "msg": "{\"ia\":null,\"ib\":null,\"ic\":null}"}
+{"topic": "SENSORS/ENERGY/zs26/current", "msg": "{\"ia\":\"31.52\",\"ib\":\" 0.00\",\"ic\":\"17.97\"}"}

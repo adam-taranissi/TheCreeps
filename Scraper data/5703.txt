@@ -1,0 +1,37 @@
+{"IP": "34.230.74.136"}
+{"topic": "abc/123", "msg": "XYZ"}
+{"topic": "/merakimv/Q2EV-S5Q7-8JS8/0", "msg": "{\"ts\":1646791931072, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2EV-S5Q7-8JS8/0", "msg": "{\"ts\":1646791931272, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2EV-S5Q7-8JS8/light", "msg": "{\"lux\": 28.3}"}
+{"topic": "/merakimv/Q2EV-S5Q7-8JS8/0", "msg": "{\"ts\":1646791931403, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2EV-S5Q7-8JS8/light", "msg": "{\"lux\": 28.1}"}
+{"topic": "/merakimv/Q2EV-S5Q7-8JS8/0", "msg": "{\"ts\":1646791931469, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2EV-S5Q7-8JS8/audio_analytics", "msg": "{\n\t\"audioLevel\" : -62,\n\t\"ts\" : 1646791931621\n}\n"}
+{"topic": "/merakimv/Q2EV-S5Q7-8JS8/0", "msg": "{\"ts\":1646791931602, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2EV-S5Q7-8JS8/0", "msg": "{\"ts\":1646791931674, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2EV-S5Q7-8JS8/light", "msg": "{\"lux\": 28.1}"}
+{"topic": "/merakimv/Q2EV-S5Q7-8JS8/0", "msg": "{\"ts\":1646791931803, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2EV-S5Q7-8JS8/light", "msg": "{\"lux\": 27.4}"}
+{"topic": "/merakimv/Q2EV-S5Q7-8JS8/raw_detections", "msg": "{\n\t\"objects\" : [],\n\t\"ts\" : 1646791931874\n}"}
+{"topic": "/merakimv/Q2EV-S5Q7-8JS8/0", "msg": "{\"ts\":1646791931874, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2EV-S5Q7-8JS8/0", "msg": "{\"ts\":1646791932071, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2EV-S5Q7-8JS8/light", "msg": "{\"lux\": 27.2}"}
+{"topic": "/merakimv/Q2EV-S5Q7-8JS8/0", "msg": "{\"ts\":1646791932206, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2EV-S5Q7-8JS8/0", "msg": "{\"ts\":1646791932270, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2EV-S5Q7-8JS8/light", "msg": "{\"lux\": 27.4}"}
+{"topic": "/merakimv/Q2EV-S5Q7-8JS8/0", "msg": "{\"ts\":1646791932405, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2EV-S5Q7-8JS8/light", "msg": "{\"lux\": 28.1}"}
+{"topic": "/merakimv/Q2EV-S5Q7-8JS8/0", "msg": "{\"ts\":1646791932470, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2EV-S5Q7-8JS8/audio_analytics", "msg": "{\n\t\"audioLevel\" : -63,\n\t\"ts\" : 1646791932650\n}\n"}
+{"topic": "/merakimv/Q2EV-S5Q7-8JS8/0", "msg": "{\"ts\":1646791932603, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2EV-S5Q7-8JS8/light", "msg": "{\"lux\": 28.3}"}
+{"topic": "/merakimv/Q2EV-S5Q7-8JS8/0", "msg": "{\"ts\":1646791932682, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2EV-S5Q7-8JS8/0", "msg": "{\"ts\":1646791932870, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2EV-S5Q7-8JS8/light", "msg": "{\"lux\": 28.1}"}
+{"topic": "/merakimv/Q2EV-S5Q7-8JS8/0", "msg": "{\"ts\":1646791933006, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2EV-S5Q7-8JS8/light", "msg": "{\"lux\": 27.4}"}
+{"topic": "/merakimv/Q2EV-S5Q7-8JS8/raw_detections", "msg": "{\n\t\"objects\" : [],\n\t\"ts\" : 1646791933068\n}"}
+{"topic": "/merakimv/Q2EV-S5Q7-8JS8/0", "msg": "{\"ts\":1646791933068, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2EV-S5Q7-8JS8/0", "msg": "{\"ts\":1646791933216, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2EV-S5Q7-8JS8/light", "msg": "{\"lux\": 27.2}"}
+{"topic": "/merakimv/Q2EV-S5Q7-8JS8/0", "msg": "{\"ts\":1646791933277, \"counts\":{\"person\":0}}"}

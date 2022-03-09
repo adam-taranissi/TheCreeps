@@ -1,0 +1,37 @@
+{"IP": "75.35.124.41"}
+{"topic": "tele/tasmota/LWT", "msg": "Offline"}
+{"topic": "tele/JamieDesklamp/LWT", "msg": "Online"}
+{"topic": "homeassistant/light/777E42_LI_1/config", "msg": "{\"name\":\"Merkury-Desklamp Desklamp\",\"stat_t\":\"tele/JamieDesklamp/STATE\",\"avty_t\":\"tele/JamieDesklamp/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"cmd_t\":\"cmnd/JamieDesklamp/POWER\",\"val_tpl\":\"{{value_json.POWER}}\",\"pl_off\":\"OFF\",\"pl_on\":\"ON\",\"uniq_id\":\"777E42_LI_1\",\"dev\":{\"ids\":[\"777E42\"]},\"bri_cmd_t\":\"cmnd/JamieDesklamp/Dimmer\",\"bri_stat_t\":\"tele/JamieDesklamp/STATE\",\"bri_scl\":100,\"on_cmd_type\":\"brightness\",\"bri_val_tpl\":\"{{value_json.Dimmer}}\",\"rgb_cmd_t\":\"cmnd/JamieDesklamp/Color2\",\"rgb_stat_t\":\"tele/JamieDesklamp/STATE\",\"rgb_val_tpl\":\"{{value_json.Color.split(',')[0:3]|join(',')}}\",\"fx_cmd_t\":\"cmnd/JamieDesklamp/Scheme\",\"fx_stat_t\":\"tele/JamieDesklamp/STATE\",\"fx_val_tpl\":\"{{value_json.Scheme}}\",\"fx_list\":[\"0\",\"1\",\"2\",\"3\",\"4\"],\"clr_temp_cmd_t\":\"cmnd/JamieDesklamp/CT\",\"clr_temp_stat_t\":\"tele/JamieDesklamp/STATE\",\"clr_temp_val_tpl\":\"{{value_json.CT}}\"}"}
+{"topic": "homeassistant/sensor/bathroom/IP", "msg": "192.168.2.141"}
+{"topic": "homeassistant/sensor/bathroom/temperature_celsius", "msg": "26.90"}
+{"topic": "homeassistant/sensor/bathroom/temperature_fehrenheit", "msg": "80.42"}
+{"topic": "homeassistant/sensor/bathroom/humidity", "msg": "25.40"}
+{"topic": "homeassistant/sensor/bathroom/heat_index", "msg": "79.15"}
+{"topic": "homeassistant/sensor/bathroom/pir", "msg": "false"}
+{"topic": "homeassistant/sensor/bathroom/temperature_f1/", "msg": "ssist"}
+{"topic": "homeassistant/sensor/bathroom/temperature1(", "msg": "istan"}
+{"topic": "homeassistant/sensor/bathroom/temperature1-", "msg": "istan"}
+{"topic": "homeassistant/sensor/bathroom/h1/", "msg": "eassi"}
+{"topic": "homeassistant/sensor/bathroom/temperature_f1-", "msg": "ssist"}
+{"topic": "homeassistant/sensor/bathroom/temperature_f1(", "msg": "ssist"}
+{"topic": "homeassistant/sensor/777E42_status/config", "msg": "{\"name\":\"Merkury-Desklamp status\",\"stat_t\":\"tele/JamieDesklamp/HASS_STATE\",\"avty_t\":\"tele/JamieDesklamp/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"json_attr_t\":\"tele/JamieDesklamp/HASS_STATE\",\"unit_of_meas\":\"%\",\"val_tpl\":\"{{value_json['RSSI']}}\",\"ic\":\"mdi:information-outline\",\"uniq_id\":\"777E42_status\",\"dev\":{\"ids\":[\"777E42\"],\"name\":\"Merkury-Desklamp\",\"mdl\":\"Generic\",\"sw\":\"8.3.1(tasmota)\",\"mf\":\"Tasmota\"}}"}
+{"topic": "homeassistant/sensor/Livingroom_SensorPod/IP", "msg": "192.168.2.142"}
+{"topic": "homeassistant/sensor/Livingroom_SensorPod/temperature_celsius", "msg": "24.50"}
+{"topic": "homeassistant/sensor/Livingroom_SensorPod/temperature_fehrenheit", "msg": "76.10"}
+{"topic": "homeassistant/sensor/Livingroom_SensorPod/heat_index", "msg": "74.89"}
+{"topic": "homeassistant/sensor/Livingroom_SensorPod/humidity", "msg": "31.50"}
+{"topic": "homeassistant/sensor/Livingroom_SensorPod/pir", "msg": "0"}
+{"topic": "homeassistant/sensor/Jamie_Bedroom_SensorPod/IP", "msg": "192.168.2.142"}
+{"topic": "homeassistant/sensor/Jamie_Bedroom_SensorPod/temperature_celsius", "msg": "27.50"}
+{"topic": "homeassistant/sensor/Jamie_Bedroom_SensorPod/temperature_fehrenheit", "msg": "81.50"}
+{"topic": "homeassistant/sensor/Jamie_Bedroom_SensorPod/heat_index", "msg": "82.73"}
+{"topic": "homeassistant/sensor/Jamie_Bedroom_SensorPod/humidity", "msg": "53.50"}
+{"topic": "homeassistant/sensor/Jamie_Bedroom_SensorPod/pir", "msg": "0"}
+{"topic": "homeassistant/sensor/bathroom1(", "msg": "ssist"}
+{"topic": "homeassistant/sensor/bathroom1/", "msg": "ssist"}
+{"topic": "abc/123", "msg": "XYZ"}
+{"topic": "\u201ccmnd/JamieDesklamp/POWER\u201d", "msg": "\u201cON\u201d"}
+{"topic": "\u201ccmnd/JamieDesklamp/DIMMER\u201d", "msg": "48"}
+{"topic": "homea13", "msg": "/pir0"}
+{"topic": "tele/JamieDesklamp/STATE", "msg": "{\"Time\":\"2022-03-08T22:49:09\",\"Uptime\":\"44T08:16:07\",\"UptimeSec\":3831367,\"Heap\":27,\"SleepMode\":\"Dynamic\",\"Sleep\":10,\"LoadAvg\":28,\"MqttCount\":3,\"POWER\":\"ON\",\"Dimmer\":75,\"Color\":\"0,0,0,6,185\",\"HSBColor\":\"0,0,0\",\"White\":75,\"CT\":489,\"Channel\":[0,0,0,2,73],\"Scheme\":0,\"Fade\":\"OFF\",\"Speed\":1,\"LedTable\":\"ON\",\"Wifi\":{\"AP\":1,\"SSId\":\"ATTWFgASys\",\"BSSId\":\"F4:17:B8:55:6D:CB\",\"Channel\":11,\"RSSI\":94,\"Signal\":-53,\"LinkCount\":2,\"Downtime\":\"0T00:00:14\"}}"}
+{"topic": "homeassistant/Presence/Bedroom/JamieNote10", "msg": "not home"}

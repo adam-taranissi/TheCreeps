@@ -1,0 +1,3 @@
+{"IP": "216.221.114.250"}
+{"topic": "spBv1.0", "msg": "hello"}
+{"topic": "jalopi", "msg": "hi ridge"}

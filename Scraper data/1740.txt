@@ -1,0 +1,2 @@
+{"IP": "68.132.103.123"}
+{"topic": "arduino/will", "msg": "oh no!"}

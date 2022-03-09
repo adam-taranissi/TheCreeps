@@ -1,0 +1,13 @@
+{"IP": "54.234.27.124"}
+{"topic": "out/wcs/v0", "msg": "1"}
+{"topic": "out/wcs/slider", "msg": "165"}
+{"topic": "out/wcs/rgbled_test", "msg": "ON"}
+{"topic": "test/topic1", "msg": "off"}
+{"topic": "home/indoor 1/luz", "msg": "on"}
+{"topic": "home/indoor 1/luz_on", "msg": "off"}
+{"topic": "home/indoor 1/ventilador", "msg": "off"}
+{"topic": "home/indoor 1/temperature", "msg": "34"}
+{"topic": "home/indoor 1/humedad", "msg": "85.5"}
+{"topic": "home/indoor 1/cooler1", "msg": "0"}
+{"topic": "home/indoor1/cooler1", "msg": "0"}
+{"topic": "abc/123", "msg": "XYZ"}

@@ -1,0 +1,3 @@
+{"IP": "192.241.155.56"}
+{"topic": "socket", "msg": "{\"event\":\"news/update\",\"payload\":{\"_id\":\"6227ae27857a821b51cb9355\",\"operator\":\"5f05dbc0025e5b002e5dcd0d\",\"supervisor\":\"5f05c845152ffe00210a3a0b\",\"customer\":\"5d76977d69b6021ddc86b112\",\"date\":\"2022-03-08T19:27:35.804Z\"}}"}
+{"topic": "news", "msg": "\"{\\\"event\\\":\\\"news/update\\\",\\\"payload\\\":{\\\"_id\\\":\\\"6227ae27857a821b51cb9355\\\",\\\"operator\\\":\\\"5f05dbc0025e5b002e5dcd0d\\\",\\\"supervisor\\\":\\\"5f05c845152ffe00210a3a0b\\\",\\\"customer\\\":\\\"5d76977d69b6021ddc86b112\\\",\\\"date\\\":\\\"2022-03-08T19:27:35.804Z\\\"}}\""}

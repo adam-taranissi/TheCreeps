@@ -1,0 +1,39 @@
+{"IP": "137.135.83.217"}
+{"topic": "ic/temp", "msg": "2147483647"}
+{"topic": "ic/humy", "msg": "2147483647"}
+{"topic": "shellies/ludipipo/online", "msg": "true"}
+{"topic": "shellies/ludipipo/roller/0", "msg": "stop"}
+{"topic": "shellies/ludipipo/roller/0/pos", "msg": "17"}
+{"topic": "shellies/ludipipo/roller/0/stop_reason", "msg": "normal"}
+{"topic": "shellies/ludipipo/roller/0/power", "msg": "0.00"}
+{"topic": "shellies/ludipipo/roller/0/energy", "msg": "1141"}
+{"topic": "shellies/ludipipo/relay/power", "msg": "0.00"}
+{"topic": "shellies/ludipipo/relay/energy", "msg": "1141"}
+{"topic": "shellies/ludipipo/input/1", "msg": "0"}
+{"topic": "shellies/ludipipo/input/0", "msg": "0"}
+{"topic": "shellies/ludipipo/temperature", "msg": "44.42"}
+{"topic": "shellies/ludipipo/temperature_f", "msg": "111.96"}
+{"topic": "shellies/ludipipo/overtemperature", "msg": "0"}
+{"topic": "shellies/ludipipo/temperature_status", "msg": "Normal"}
+{"topic": "shellies/ludipipo/voltage", "msg": "240.12"}
+{"topic": "rf-bridge-1/debug", "msg": "\u001b[0;36m[D][sensor:113]: 'RF Bridge 1 Uptime': Sending state 329.00000 h with 0 decimals of accuracy\u001b[0m"}
+{"topic": "rf-bridge-1/sensor/rf_bridge_1_wifi_signal/state", "msg": "-25"}
+{"topic": "rf-bridge-1/sensor/rf_bridge_1_uptime/state", "msg": "329"}
+{"topic": "rf-bridge-1/sensor/rf_bridge_1_mac_address/state", "msg": "60:01:94:B3:1B:1E"}
+{"topic": "rf-bridge-1/sensor/rf_bridge_1_topic/state", "msg": "xalarm/client1/location1/"}
+{"topic": "rf-bridge-1/sensor/rf_bridge_1_ip_address/state", "msg": "192.168.2.72"}
+{"topic": "rf-bridge-1/sensor/rf_bridge_1_connected_ssid/state", "msg": "SomewhereOutThere"}
+{"topic": "rf-bridge-1/sensor/rf_bridge_1_esphome_version/state", "msg": "2021.11.4 Dec  9 2021, 10:53:23"}
+{"topic": "rf-bridge-1/switch/rf_bridge_1_restart/state", "msg": "OFF"}
+{"topic": "rf-bridge-1/switch/rf_bridge_1_light/state", "msg": "OFF"}
+{"topic": "homeassistant/binary_sensor/rf-bridge-1/rf_bridge_1_network_status/config", "msg": "{\"dev_cla\":\"connectivity\",\"pl_on\":\"online\",\"pl_off\":\"offline\",\"name\":\"RF Bridge 1 network status\",\"entity_category\":\"diagnostic\",\"stat_t\":\"xalarm/client1/location1/rf_bridge\",\"avty_t\":\"xalarm/client1/location1/rf_bridge\",\"uniq_id\":\"ESPbinary_sensorrf_bridge_1_network_status\",\"dev\":{\"ids\":\"600194b31b1e\",\"name\":\"rf-bridge-1\",\"sw\":\"esphome v2021.11.4 Dec  9 2021, 10:53:23\",\"mdl\":\"esp01_1m\",\"mf\":\"espressif\"}}"}
+{"topic": "homeassistant/binary_sensor/rf-bridge-1/alarm_status/config", "msg": "{\"name\":\"Alarm Status\",\"stat_t\":\"rf-bridge-1/binary_sensor/alarm_status/state\",\"avty_t\":\"xalarm/client1/location1/rf_bridge\",\"uniq_id\":\"ESPbinary_sensoralarm_status\",\"dev\":{\"ids\":\"600194b31b1e\",\"name\":\"rf-bridge-1\",\"sw\":\"esphome v2021.11.4 Dec  9 2021, 10:53:23\",\"mdl\":\"esp01_1m\",\"mf\":\"espressif\"}}"}
+{"topic": "homeassistant/sensor/rf-bridge-1/rf_bridge_1_wifi_signal/config", "msg": "{\"dev_cla\":\"signal_strength\",\"unit_of_meas\":\"dBm\",\"stat_cla\":\"measurement\",\"name\":\"RF Bridge 1 WiFi Signal\",\"entity_category\":\"diagnostic\",\"stat_t\":\"rf-bridge-1/sensor/rf_bridge_1_wifi_signal/state\",\"avty_t\":\"xalarm/client1/location1/rf_bridge\",\"uniq_id\":\"600194b31b1e-wifisignal\",\"dev\":{\"ids\":\"600194b31b1e\",\"name\":\"rf-bridge-1\",\"sw\":\"esphome v2021.11.4 Dec  9 2021, 10:53:23\",\"mdl\":\"esp01_1m\",\"mf\":\"espressif\"}}"}
+{"topic": "homeassistant/sensor/rf-bridge-1/rf_bridge_1_uptime/config", "msg": "{\"unit_of_meas\":\"h\",\"stat_cla\":\"total_increasing\",\"name\":\"RF Bridge 1 Uptime\",\"ic\":\"mdi:timer-outline\",\"entity_category\":\"diagnostic\",\"stat_t\":\"rf-bridge-1/sensor/rf_bridge_1_uptime/state\",\"avty_t\":\"xalarm/client1/location1/rf_bridge\",\"uniq_id\":\"600194b31b1e-uptime\",\"dev\":{\"ids\":\"600194b31b1e\",\"name\":\"rf-bridge-1\",\"sw\":\"esphome v2021.11.4 Dec  9 2021, 10:53:23\",\"mdl\":\"esp01_1m\",\"mf\":\"espressif\"}}"}
+{"topic": "homeassistant/sensor/rf-bridge-1/rf_bridge_1_connected_ssid/config", "msg": "{\"name\":\"RF Bridge 1 Connected SSID\",\"entity_category\":\"diagnostic\",\"stat_t\":\"rf-bridge-1/sensor/rf_bridge_1_connected_ssid/state\",\"avty_t\":\"xalarm/client1/location1/rf_bridge\",\"uniq_id\":\"600194b31b1e-wifiinfo-ssid\",\"dev\":{\"ids\":\"600194b31b1e\",\"name\":\"rf-bridge-1\",\"sw\":\"esphome v2021.11.4 Dec  9 2021, 10:53:23\",\"mdl\":\"esp01_1m\",\"mf\":\"espressif\"}}"}
+{"topic": "homeassistant/sensor/rf-bridge-1/rf_bridge_1_mac_address/config", "msg": "{\"name\":\"RF Bridge 1 MAC Address\",\"ic\":\"mdi:fingerprint\",\"stat_t\":\"rf-bridge-1/sensor/rf_bridge_1_mac_address/state\",\"avty_t\":\"xalarm/client1/location1/rf_bridge\",\"uniq_id\":\"ESPsensorrf_bridge_1_mac_address\",\"dev\":{\"ids\":\"600194b31b1e\",\"name\":\"rf-bridge-1\",\"sw\":\"esphome v2021.11.4 Dec  9 2021, 10:53:23\",\"mdl\":\"esp01_1m\",\"mf\":\"espressif\"}}"}
+{"topic": "homeassistant/sensor/rf-bridge-1/rf_bridge_1_topic/config", "msg": "{\"name\":\"RF Bridge 1 Topic\",\"stat_t\":\"rf-bridge-1/sensor/rf_bridge_1_topic/state\",\"avty_t\":\"xalarm/client1/location1/rf_bridge\",\"uniq_id\":\"ESPsensorrf_bridge_1_topic\",\"dev\":{\"ids\":\"600194b31b1e\",\"name\":\"rf-bridge-1\",\"sw\":\"esphome v2021.11.4 Dec  9 2021, 10:53:23\",\"mdl\":\"esp01_1m\",\"mf\":\"espressif\"}}"}
+{"topic": "homeassistant/sensor/rf-bridge-1/rf_bridge_1_esphome_version/config", "msg": "{\"name\":\"RF Bridge 1 ESPHome version\",\"ic\":\"mdi:new-box\",\"entity_category\":\"diagnostic\",\"stat_t\":\"rf-bridge-1/sensor/rf_bridge_1_esphome_version/state\",\"avty_t\":\"xalarm/client1/location1/rf_bridge\",\"uniq_id\":\"600194b31b1e-version\",\"dev\":{\"ids\":\"600194b31b1e\",\"name\":\"rf-bridge-1\",\"sw\":\"esphome v2021.11.4 Dec  9 2021, 10:53:23\",\"mdl\":\"esp01_1m\",\"mf\":\"espressif\"}}"}
+{"topic": "homeassistant/sensor/rf-bridge-1/rf_bridge_1_ip_address/config", "msg": "{\"name\":\"RF Bridge 1 IP Address\",\"entity_category\":\"diagnostic\",\"stat_t\":\"rf-bridge-1/sensor/rf_bridge_1_ip_address/state\",\"avty_t\":\"xalarm/client1/location1/rf_bridge\",\"uniq_id\":\"600194b31b1e-wifiinfo-ip\",\"dev\":{\"ids\":\"600194b31b1e\",\"name\":\"rf-bridge-1\",\"sw\":\"esphome v2021.11.4 Dec  9 2021, 10:53:23\",\"mdl\":\"esp01_1m\",\"mf\":\"espressif\"}}"}
+{"topic": "homeassistant/switch/rf-bridge-1/rf_bridge_1_restart/config", "msg": "{\"name\":\"RF Bridge 1 Restart\",\"ic\":\"mdi:restart\",\"entity_category\":\"config\",\"stat_t\":\"rf-bridge-1/switch/rf_bridge_1_restart/state\",\"cmd_t\":\"rf-bridge-1/switch/rf_bridge_1_restart/command\",\"avty_t\":\"xalarm/client1/location1/rf_bridge\",\"uniq_id\":\"ESPswitchrf_bridge_1_restart\",\"dev\":{\"ids\":\"600194b31b1e\",\"name\":\"rf-bridge-1\",\"sw\":\"esphome v2021.11.4 Dec  9 2021, 10:53:23\",\"mdl\":\"esp01_1m\",\"mf\":\"espressif\"}}"}
+{"topic": "homeassistant/switch/rf-bridge-1/rf_bridge_1_light/config", "msg": "{\"name\":\"RF Bridge 1 Light\",\"stat_t\":\"rf-bridge-1/switch/rf_bridge_1_light/state\",\"cmd_t\":\"rf-bridge-1/switch/rf_bridge_1_light/command\",\"avty_t\":\"xalarm/client1/location1/rf_bridge\",\"uniq_id\":\"ESPswitchrf_bridge_1_light\",\"dev\":{\"ids\":\"600194b31b1e\",\"name\":\"rf-bridge-1\",\"sw\":\"esphome v2021.11.4 Dec  9 2021, 10:53:23\",\"mdl\":\"esp01_1m\",\"mf\":\"espressif\"}}"}

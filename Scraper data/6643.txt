@@ -1,0 +1,34 @@
+{"IP": "73.94.126.141"}
+{"topic": "homie/hubitat-hub/$fw/client", "msg": "beta 3d"}
+{"topic": "homie/hubitat-hub/$fw/version", "msg": "3"}
+{"topic": "homie/hubitat-hub/$fw/name", "msg": "beta"}
+{"topic": "homie/hubitat-hub/$implementation", "msg": "groovy:uk.co.ukusa.mqtt"}
+{"topic": "homie/hubitat-hub/$implementation/heartbeat", "msg": "3,none"}
+{"topic": "homie/hubitat-hub/$implementation/version", "msg": "beta 3d"}
+{"topic": "homie/hubitat-hub/$state", "msg": "init"}
+{"topic": "homie/hubitat-hub/$homie", "msg": "3.0.1"}
+{"topic": "homie/hubitat-hub/$name", "msg": "Hubitat hub"}
+{"topic": "homie/hubitat-hub/$mac", "msg": "BB:AA:DD:AA:55:55"}
+{"topic": "homie/hubitat-hub/$localip", "msg": "1.2.3.4"}
+{"topic": "homie/hubitat-hub/hub/$name", "msg": "Hubitat hub"}
+{"topic": "homie/hubitat-hub/hub/$properties", "msg": "sunset,sunrise,mode,hsm"}
+{"topic": "homie/hubitat-hub/hub/$type", "msg": "sensor"}
+{"topic": "homie/hubitat-hub/hub/mode", "msg": "Arm Home"}
+{"topic": "homie/hubitat-hub/hub/mode/$datatype", "msg": "enum"}
+{"topic": "homie/hubitat-hub/hub/mode/$retained", "msg": "true"}
+{"topic": "homie/hubitat-hub/hub/mode/$settable", "msg": "true"}
+{"topic": "homie/hubitat-hub/hub/mode/$format", "msg": "[Day, Evening, Night, Away, Arm Home]"}
+{"topic": "homie/hubitat-hub/hub/hsmStatus", "msg": "disarmed"}
+{"topic": "homie/hubitat-hub/hub/hsmStatus/$datatype", "msg": "enum"}
+{"topic": "homie/hubitat-hub/hub/hsmStatus/$retained", "msg": "true"}
+{"topic": "homie/hubitat-hub/hub/hsmStatus/$settable", "msg": "false"}
+{"topic": "homie/hubitat-hub/hub/hsmStatus/$format", "msg": "[armedAway, armingAway, armedHome, armingHome, armedNight, armingNight, disarmed, allDisarmed]"}
+{"topic": "homie/hubitat-hub/hub/hsmAlert", "msg": "none"}
+{"topic": "homie/hubitat-hub/hub/hsmAlert/$datatype", "msg": "enum"}
+{"topic": "homie/hubitat-hub/hub/hsmAlert/$retained", "msg": "true"}
+{"topic": "homie/hubitat-hub/hub/hsmAlert/$settable", "msg": "false"}
+{"topic": "homie/hubitat-hub/hub/hsmAlert/$format", "msg": "[intrusion, intrusion-home, intrusion-night,smoke, water, rule, cancel, arming, none]"}
+{"topic": "homie/hubitat-hub/hub/hsmArm/$datatype", "msg": "enum"}
+{"topic": "homie/hubitat-hub/hub/hsmArm/$retained", "msg": "true"}
+{"topic": "homie/hubitat-hub/hub/hsmArm/$settable", "msg": "false"}
+{"topic": "homie/hubitat-hub/hub/hsmArm/$format", "msg": "[armAway, armHome, armNight, armRules, armAll, cancelAlerts, unknown]"}

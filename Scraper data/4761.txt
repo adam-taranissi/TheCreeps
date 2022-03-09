@@ -1,0 +1,11 @@
+{"IP": "35.236.75.190"}
+{"topic": "emertech3/time/update", "msg": "{\n \"Timestamp\":\"2020-11-20 11:59:48\"\n}\n"}
+{"topic": "emertech3/update", "msg": "{\n  \"state\": {\n    \"UserConfig\": {\n      \"Channel1\": {\n        \"SetPoint\": 33,\n        \"AlarmHighSP\": 12,\n        \"AlarmLowSP\": 10,\n        \"SPANH\": 20,\n\t   \"SPANL\": 4\n\n      },\n      \"Channel2\": {\n        \"SetPoint\": 40,\n        \"AlarmHighSP\": 20,\n        \"AlarmLowSP\": 20,\n        \"SPANH\": 20,\n\t   \"SPANL\": 4\n      }\n    }\n  }\n}"}
+{"topic": "time/update", "msg": "{\n \"Timestamp\":\"2021-12-02 06:25:10\"\n}"}
+{"topic": "emertech5/update", "msg": "{\n  \"state\": {\n    \"UserConfig\": {\n      \"Channel1\": {\n        \"SetPoint\": 33,\n        \"AlarmHighSP\": 12,\n        \"AlarmLowSP\": 10,\n        \"SPANH\": 20,\n\t   \"SPANL\": 4\n\n      },\n      \"Channel2\": {\n        \"SetPoint\": 40,\n        \"AlarmHighSP\": 20,\n        \"AlarmLowSP\": 20,\n        \"SPANH\": 20,\n\t   \"SPANL\": 4\n      }\n    }\n  }\n}"}
+{"topic": "emertech4/update", "msg": "{\n  \"state\": {\n    \"UserConfig\": {\n      \"Channel1\": {\n        \"SetPoint\": 33,\n        \"AlarmHighSP\": 12,\n        \"AlarmLowSP\": 10,\n        \"SPANH\": 20,\n\t   \"SPANL\": 4\n\n      },\n      \"Channel2\": {\n        \"SetPoint\": 40,\n        \"AlarmHighSP\": 20,\n        \"AlarmLowSP\": 20,\n        \"SPANH\": 20,\n\t   \"SPANL\": 4\n      }\n    }\n  }\n}"}
+{"topic": "time/update", "msg": "{\"Timestamp\": \"2022-03-09 00:50:23\"}"}
+{"topic": "time/update", "msg": "{\"Timestamp\": \"2022-03-09 00:50:24\"}"}
+{"topic": "time/update", "msg": "{\"Timestamp\": \"2022-03-09 00:50:25\"}"}
+{"topic": "time/update", "msg": "{\"Timestamp\": \"2022-03-09 00:50:26\"}"}
+{"topic": "time/update", "msg": "{\"Timestamp\": \"2022-03-09 00:50:27\"}"}

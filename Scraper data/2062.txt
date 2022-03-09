@@ -1,0 +1,36 @@
+{"IP": "76.17.211.63"}
+{"topic": "homeassistant/light/603F21_LI_1/config", "msg": "{\"name\":\"Kitchen Light\",\"stat_t\":\"Kitchen/tele/STATE\",\"avty_t\":\"Kitchen/tele/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"cmd_t\":\"Kitchen/cmnd/POWER\",\"val_tpl\":\"{{value_json.POWER}}\",\"pl_off\":\"OFF\",\"pl_on\":\"ON\",\"uniq_id\":\"603F21_LI_1\",\"dev\":{\"ids\":[\"603F21\"]},\"bri_cmd_t\":\"Kitchen/cmnd/Dimmer\",\"bri_stat_t\":\"Kitchen/tele/STATE\",\"bri_scl\":100,\"on_cmd_type\":\"last\",\"bri_val_tpl\":\"{{value_json.Dimmer}}\"}"}
+{"topic": "homeassistant/switch/E39BEE_RL_1/config", "msg": "{\"name\":\"LaundryRoom\",\"stat_t\":\"LaundryRoom/tele/STATE\",\"avty_t\":\"LaundryRoom/tele/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"cmd_t\":\"LaundryRoom/cmnd/POWER\",\"val_tpl\":\"{{value_json.POWER}}\",\"pl_off\":\"OFF\",\"pl_on\":\"ON\",\"uniq_id\":\"E39BEE_RL_1\",\"dev\":{\"ids\":[\"E39BEE\"]}}"}
+{"topic": "homeassistant/switch/473468_RL_1/config", "msg": "{\"name\":\"Hallway\",\"stat_t\":\"Hallway/tele/STATE\",\"avty_t\":\"Hallway/tele/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"cmd_t\":\"Hallway/cmnd/POWER\",\"val_tpl\":\"{{value_json.POWER}}\",\"pl_off\":\"OFF\",\"pl_on\":\"ON\",\"uniq_id\":\"473468_RL_1\",\"dev\":{\"ids\":[\"473468\"]}}"}
+{"topic": "homeassistant/switch/C2127B_RL_1/config", "msg": "{\"name\":\"DiningRoom\",\"stat_t\":\"DiningRoom/tele/STATE\",\"avty_t\":\"DiningRoom/tele/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"cmd_t\":\"DiningRoom/cmnd/POWER\",\"val_tpl\":\"{{value_json.POWER}}\",\"pl_off\":\"OFF\",\"pl_on\":\"ON\",\"uniq_id\":\"C2127B_RL_1\",\"dev\":{\"ids\":[\"C2127B\"]}}"}
+{"topic": "homeassistant/switch/E44C54_RL_1/config", "msg": "{\"name\":\"TylerBedroom\",\"stat_t\":\"TylerBedroom/tele/STATE\",\"avty_t\":\"TylerBedroom/tele/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"cmd_t\":\"TylerBedroom/cmnd/POWER\",\"val_tpl\":\"{{value_json.POWER}}\",\"pl_off\":\"OFF\",\"pl_on\":\"ON\",\"uniq_id\":\"E44C54_RL_1\",\"dev\":{\"ids\":[\"E44C54\"]}}"}
+{"topic": "homeassistant/switch/E39D27_RL_1/config", "msg": "{\"name\":\"DownstairsSecondary\",\"stat_t\":\"DownstairsSecondary/tele/STATE\",\"avty_t\":\"DownstairsSecondary/tele/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"cmd_t\":\"DownstairsSecondary/cmnd/POWER\",\"val_tpl\":\"{{value_json.POWER}}\",\"pl_off\":\"OFF\",\"pl_on\":\"ON\",\"uniq_id\":\"E39D27_RL_1\",\"dev\":{\"ids\":[\"E39D27\"]}}"}
+{"topic": "homeassistant/sensor/E39BEE_status/config", "msg": "{\"name\":\"LaundryRoom status\",\"stat_t\":\"LaundryRoom/tele/HASS_STATE\",\"avty_t\":\"LaundryRoom/tele/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"json_attr_t\":\"LaundryRoom/tele/HASS_STATE\",\"unit_of_meas\":\"%\",\"val_tpl\":\"{{value_json['RSSI']}}\",\"ic\":\"mdi:information-outline\",\"uniq_id\":\"E39BEE_status\",\"dev\":{\"ids\":[\"E39BEE\"],\"name\":\"LaundryRoom\",\"mdl\":\"Sonoff Basic\",\"sw\":\"9.2.0(tasmota)\",\"mf\":\"Tasmota\"}}"}
+{"topic": "homeassistant/sensor/603F21_status/config", "msg": "{\"name\":\"Kitchen Light status\",\"stat_t\":\"Kitchen/tele/HASS_STATE\",\"avty_t\":\"Kitchen/tele/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"json_attr_t\":\"Kitchen/tele/HASS_STATE\",\"unit_of_meas\":\"%\",\"val_tpl\":\"{{value_json['RSSI']}}\",\"ic\":\"mdi:information-outline\",\"uniq_id\":\"603F21_status\",\"dev\":{\"ids\":[\"603F21\"],\"name\":\"Kitchen Light\",\"mdl\":\"DS02S Dimmer\",\"sw\":\"9.2.0(tasmota)\",\"mf\":\"Tasmota\"}}"}
+{"topic": "homeassistant/sensor/473468_status/config", "msg": "{\"name\":\"Hallway status\",\"stat_t\":\"Hallway/tele/HASS_STATE\",\"avty_t\":\"Hallway/tele/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"json_attr_t\":\"Hallway/tele/HASS_STATE\",\"unit_of_meas\":\"%\",\"val_tpl\":\"{{value_json['RSSI']}}\",\"ic\":\"mdi:information-outline\",\"uniq_id\":\"473468_status\",\"dev\":{\"ids\":[\"473468\"],\"name\":\"Hallway\",\"mdl\":\"TL SS01S Swtch\",\"sw\":\"9.2.0(tasmota)\",\"mf\":\"Tasmota\"}}"}
+{"topic": "homeassistant/sensor/C2127B_status/config", "msg": "{\"name\":\"DiningRoom status\",\"stat_t\":\"DiningRoom/tele/HASS_STATE\",\"avty_t\":\"DiningRoom/tele/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"json_attr_t\":\"DiningRoom/tele/HASS_STATE\",\"unit_of_meas\":\"%\",\"val_tpl\":\"{{value_json['RSSI']}}\",\"ic\":\"mdi:information-outline\",\"uniq_id\":\"C2127B_status\",\"dev\":{\"ids\":[\"C2127B\"],\"name\":\"DiningRoom\",\"mdl\":\"Sonoff T1 1CH\",\"sw\":\"9.2.0(tasmota)\",\"mf\":\"Tasmota\"}}"}
+{"topic": "homeassistant/sensor/E44C54_status/config", "msg": "{\"name\":\"TylerBedroom status\",\"stat_t\":\"TylerBedroom/tele/HASS_STATE\",\"avty_t\":\"TylerBedroom/tele/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"json_attr_t\":\"TylerBedroom/tele/HASS_STATE\",\"unit_of_meas\":\"%\",\"val_tpl\":\"{{value_json['RSSI']}}\",\"ic\":\"mdi:information-outline\",\"uniq_id\":\"E44C54_status\",\"dev\":{\"ids\":[\"E44C54\"],\"name\":\"TylerBedroom\",\"mdl\":\"Sonoff Basic\",\"sw\":\"9.2.0(tasmota)\",\"mf\":\"Tasmota\"}}"}
+{"topic": "homeassistant/sensor/E39D27_status/config", "msg": "{\"name\":\"DownstairsSecondary status\",\"stat_t\":\"DownstairsSecondary/tele/HASS_STATE\",\"avty_t\":\"DownstairsSecondary/tele/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"json_attr_t\":\"DownstairsSecondary/tele/HASS_STATE\",\"unit_of_meas\":\"%\",\"val_tpl\":\"{{value_json['RSSI']}}\",\"ic\":\"mdi:information-outline\",\"uniq_id\":\"E39D27_status\",\"dev\":{\"ids\":[\"E39D27\"],\"name\":\"DownstairsSecondary\",\"mdl\":\"Sonoff Basic\",\"sw\":\"9.2.0(tasmota)\",\"mf\":\"Tasmota\"}}"}
+{"topic": "homeassistant/binary_sensor/home-occupied/~", "msg": "ON"}
+{"topic": "sonoff/LaundryRoom/tele/LWT", "msg": "Online"}
+{"topic": "sonoff/LucasBedroom/tele/LWT", "msg": "Offline"}
+{"topic": "sonoff/Kitchen/tele/LWT", "msg": "Online"}
+{"topic": "sonoff/Hallway/tele/LWT", "msg": "Online"}
+{"topic": "sonoff/DiningRoom/tele/LWT", "msg": "Online"}
+{"topic": "sonoff/DiningRoom/stat/POWER", "msg": "OFF"}
+{"topic": "sonoff/TylerBedroom/tele/LWT", "msg": "Online"}
+{"topic": "sonoff/TylerBedroom/stat/POWER", "msg": "OFF"}
+{"topic": "sonoff/DownstairsSecondary/tele/LWT", "msg": "Online"}
+{"topic": "LaundryRoom/tele/LWT", "msg": "Online"}
+{"topic": "Kitchen/tele/LWT", "msg": "Online"}
+{"topic": "Hallway/tele/LWT", "msg": "Online"}
+{"topic": "DiningRoom/tele/LWT", "msg": "Online"}
+{"topic": "DiningRoom/stat/POWER", "msg": "OFF"}
+{"topic": "TylerBedroom/tele/LWT", "msg": "Offline"}
+{"topic": "TylerBedroom/stat/POWER", "msg": "OFF"}
+{"topic": "DownstairsSecondary/tele/LWT", "msg": "Online"}
+{"topic": "BlueIris/app", "msg": "unexpected stop"}
+{"topic": "BlueIris/status", "msg": "signal=1\nprofile=1\nlock=2\nschedule=Default\n"}
+{"topic": "security/home-occupied", "msg": "OFF"}
+{"topic": "security/all-home", "msg": "OFF"}
+{"topic": "home/pets/lastfed", "msg": "Tuesday, March 8th 8:02 AM"}

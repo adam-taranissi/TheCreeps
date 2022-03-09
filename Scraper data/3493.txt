@@ -1,0 +1,2 @@
+{"IP": "45.55.97.4"}
+{"topic": "gpcpharma/medellin/bodega/micro_A01/data.json", "msg": "{\"temperatura\":\"22.19\"}"}

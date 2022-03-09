@@ -1,0 +1,36 @@
+{"IP": "34.73.132.255"}
+{"topic": "311343/2", "msg": "{\"Status\": \"Off\", \"Origin\": \"RF\", \"CallType\": \"Group\", \"Destination\": \"3113\", \"Source\": \"7040042\", \"Mode\": \"Voice\"}"}
+{"topic": "311343/1", "msg": "{\"Status\": \"Off\", \"Origin\": \"Net\", \"CallType\": \"Group\", \"Destination\": \"31131\", \"Source\": \"W4RIN\", \"Mode\": \"Voice\"}"}
+{"topic": "311343/info", "msg": "{\"RxFreq\": \"449050000Hz\", \"Version\": \"MMDVMHost-20181107_Pi-Star\", \"Power\": \"100W\", \"ColorCode\": \"1\", \"Longitude\": \"-84.636826\", \"Height\": \"30m\", \"Callsign\": \"W4KIP\", \"TxFreq\": \"444050000Hz\", \"Location\": \"Waleska, GA\", \"Latitude\": \"34.321995\"}"}
+{"topic": "311344/2", "msg": "{\"Status\": \"Idle\", \"Origin\": \"Net\", \"Loss\": \"0%\", \"CallType\": \"Group\", \"Destination\": \"2\", \"Source\": \"W4MC\", \"Length\": \"0.5s\", \"Mode\": \"Voice\", \"BER\": \"0.0%\"}"}
+{"topic": "311344/1", "msg": "{\"Status\": \"Idle\", \"Origin\": \"Net\", \"Loss\": \"6%\", \"CallType\": \"Group\", \"Destination\": \"3113\", \"Source\": \"KO4UNB\", \"Length\": \"11.3s\", \"Mode\": \"Voice\", \"BER\": \"0.0%\"}"}
+{"topic": "311344/info", "msg": "{\"RxFreq\": \"449937500Hz\", \"Version\": \"MMDVMHost-20180916\", \"Power\": \"100W\", \"ColorCode\": \"1\", \"Longitude\": \"-84.406097\", \"Height\": \"100m\", \"Callsign\": \"W4KIP\", \"TxFreq\": \"444937500Hz\", \"Location\": \"Atlanta, GA\", \"Latitude\": \"33.778099\"}"}
+{"topic": "310124/2", "msg": "{\"Status\": \"RX\", \"Origin\": \"RF\"}"}
+{"topic": "310124/1", "msg": "{\"Status\": \"Idle\", \"Origin\": \"Net\", \"Loss\": \"0%\", \"CallType\": \"Group\", \"Destination\": \"3100\", \"Source\": \"KG2MS\", \"Length\": \"16.7s\", \"Mode\": \"Voice\", \"BER\": \"0.0%\"}"}
+{"topic": "310124/info", "msg": "{\"RxFreq\": \"449937500Hz\", \"Version\": \"MMDVMHost-20180916\", \"Power\": \"100W\", \"ColorCode\": \"1\", \"Longitude\": \"-84.406097\", \"Height\": \"100m\", \"Callsign\": \"W4KIP\", \"TxFreq\": \"444937500Hz\", \"Location\": \"Atlanta, GA\", \"Latitude\": \"33.778099\"}"}
+{"topic": "311340/1", "msg": "{\"Status\": \"Idle\", \"Origin\": \"Net\", \"Loss\": \"0%\", \"CallType\": \"Group\", \"Destination\": \"3113\", \"Source\": \"KW4JLB\", \"Length\": \"0.5s\", \"Mode\": \"Voice\", \"BER\": \"0.0%\"}"}
+{"topic": "311340/info", "msg": "{\"RxFreq\": \"449775000Hz\", \"Version\": \"MMDVMHost-20180916\", \"Power\": \"100W\", \"ColorCode\": \"1\", \"Longitude\": \"-84.458313\", \"Height\": \"25m\", \"Callsign\": \"W4KIP\", \"TxFreq\": \"444775000Hz\", \"Location\": \"Marietta, GA\", \"Latitude\": \"34.055588\"}"}
+{"topic": "311340/2", "msg": "{\"Status\": \"Idle\", \"Origin\": \"RF\", \"Loss\": \"\", \"CallType\": \"Private\", \"Destination\": \"310999\", \"Source\": \"KI4VQK\", \"Length\": \"0.4s\", \"Mode\": \"Voice\", \"BER\": \"1.4%,\"}"}
+{"topic": "310295/info", "msg": "{\"RxFreq\": \"146130000Hz\", \"Version\": \"MMDVMHost-20180916\", \"Power\": \"100W\", \"ColorCode\": \"1\", \"Longitude\": \"-84.458313\", \"Height\": \"25m\", \"Callsign\": \"W4KIP\", \"TxFreq\": \"146730000Hz\", \"Location\": \"Marietta, GA\", \"Latitude\": \"34.055786\"}"}
+{"topic": "310295/2", "msg": "{\"Status\": \"Idle\", \"Origin\": \"Net\", \"Loss\": \"0%\", \"CallType\": \"Group\", \"Destination\": \"2\", \"Source\": \"W4MC\", \"Length\": \"0.5s\", \"Mode\": \"Voice\", \"BER\": \"0.0%\"}"}
+{"topic": "310295/1", "msg": "{\"Status\": \"Idle\", \"Origin\": \"Net\", \"Loss\": \"6%\", \"CallType\": \"Group\", \"Destination\": \"3113\", \"Source\": \"KO4UNB\", \"Length\": \"11.3s\", \"Mode\": \"Voice\", \"BER\": \"0.0%\"}"}
+{"topic": "adc/Intersection/1/S/4/State", "msg": "LeftYellowFlashing"}
+{"topic": "adc/Intersection/1/S/2/State", "msg": "Yellow"}
+{"topic": "adc/Intersection/1/S/1/State", "msg": "Red"}
+{"topic": "adc/Intersection/1/S/3/State", "msg": "Green"}
+{"topic": "adc/Intersection/1/W/4/State", "msg": "Green"}
+{"topic": "adc/sled/5/IsConnected", "msg": "0"}
+{"topic": "adc/sled/5/Location", "msg": "{\"Latitude\":42.3007164,\"Longitude\":-83.6971054,\"Speed\":0.07,\"Heading\":9.4}"}
+{"topic": "adc/sled/5/Error", "msg": "{\"HeadingHz\":4.40,\"PositionHz\":7.60,\"PosTOW\":171672900,\"HdgTOW\":0,\"HdgAcc\":0.0,\"HdgFix\":0}"}
+{"topic": "adc/sled/5/Health", "msg": "{\"HeadingHz\":5.20,\"PositionHz\":10.00,\"PosTOW\":171688000,\"HdgTOW\":0,\"HdgAcc\":0.0,\"HdgFix\":0}"}
+{"topic": "adc/sled/254/IsConnected", "msg": "0"}
+{"topic": "adc/sled/3/IsConnected", "msg": "0"}
+{"topic": "adc/sled/3/Health", "msg": "{\"HeadingHz\":5.20,\"PositionHz\":10.00,\"PosTOW\":576799000,\"HdgTOW\":576799000,\"HdgAcc\":0.7,\"HdgFix\":2}"}
+{"topic": "adc/sled/3/Error", "msg": "{\"HeadingHz\":4.60,\"PositionHz\":10.00,\"PosTOW\":568647400,\"HdgTOW\":568647400,\"HdgAcc\":0.7,\"HdgFix\":2}"}
+{"topic": "adc/sled/3/Location", "msg": "{\"Latitude\":42.3008080,\"Longitude\":-83.6970978,\"Speed\":0.02,\"Heading\":353.0}"}
+{"topic": "adc/sled/2/IsConnected", "msg": "0"}
+{"topic": "adc/sled/2/Health", "msg": "{\"HeadingHz\":5.00,\"PositionHz\":10.20,\"PosTOW\":510266000,\"HdgTOW\":510265800,\"HdgAcc\":0.7,\"HdgFix\":2}"}
+{"topic": "adc/sled/2/Error", "msg": "{\"HeadingHz\":4.40,\"PositionHz\":10.00,\"PosTOW\":503976600,\"HdgTOW\":503976400,\"HdgAcc\":0.7,\"HdgFix\":2}"}
+{"topic": "adc/sled/2/Location", "msg": "{\"Latitude\":42.3000717,\"Longitude\":-83.6987839,\"Speed\":0.05,\"Heading\":116.4}"}
+{"topic": "adc/sled/4/IsConnected", "msg": "0"}
+{"topic": "adc/sled/4/Error", "msg": "{\"HeadingHz\":4.40,\"PositionHz\":10.00,\"PosTOW\":590377100,\"HdgTOW\":590377000,\"HdgAcc\":0.7,\"HdgFix\":2}"}

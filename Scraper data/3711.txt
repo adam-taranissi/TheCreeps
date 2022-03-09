@@ -1,0 +1,12 @@
+{"IP": "108.12.7.22"}
+{"topic": "Joe's Apartment/O3/events/object/ble", "msg": "{\"initialised\":true}"}
+{"topic": "Joe's Apartment/O3/events/object/soundRepeat", "msg": "{\"Present_Value\":1,\"Units\":\"\",\"updated\":\"22-02-2022 19:07:39.24\",\"status\":0}"}
+{"topic": "Joe's Apartment/100002/mo20", "msg": "2"}
+{"topic": "Joe's Apartment/O3/events/object/volume", "msg": "{\"Present_Value\":75,\"Units\":\"%\",\"updated\":\"22-02-2022 19:07:39.24\",\"status\":0}"}
+{"topic": "Joe's Apartment/O3/events/object/indicateStatus", "msg": "{\"Present_Value\":0,\"Units\":\"\",\"updated\":\"22-02-2022 19:07:39.24\",\"status\":0}"}
+{"topic": "Joe's Apartment/O3/events/object/bleEnable", "msg": "{\"Present_Value\":1,\"Units\":\"\",\"updated\":\"22-02-2022 19:07:39.24\",\"status\":0}"}
+{"topic": "Joe's Apartment/O3/events/object/lightlevelSetPoint", "msg": "{\"Present_Value\":0.0,\"Units\":\"lx\",\"updated\":\"22-02-2022 19:07:39.25\",\"status\":0}"}
+{"topic": "Joe's Apartment/O3/events/object/lightringRepeat", "msg": "{\"Present_Value\":1,\"Units\":\"\",\"updated\":\"22-02-2022 19:07:39.21\",\"status\":0}"}
+{"topic": "Joe's Apartment/O3/events/object/lightringColorOverride", "msg": "{\"Present_Value\":0,\"Units\":\"\",\"updated\":\"22-02-2022 19:07:39.24\",\"status\":0}"}
+{"topic": "Joe's Apartment/100002/mo6", "msg": "3"}
+{"topic": "Joe's Apartment/100002/bo19", "msg": "active"}

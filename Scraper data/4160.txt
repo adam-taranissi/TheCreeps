@@ -1,0 +1,7 @@
+{"IP": "34.215.47.192"}
+{"topic": "spm/zone1/plc1/status", "msg": "offline"}
+{"topic": "spm/zone1/plc2/status", "msg": "offline"}
+{"topic": "spm/zone1/plc3/status", "msg": "offline"}
+{"topic": "spm/zone2/plc2/status", "msg": "offline"}
+{"topic": "spm/zone2/plc3/status", "msg": "offline"}
+{"topic": "spm/zone2/plc1/status", "msg": "offline"}

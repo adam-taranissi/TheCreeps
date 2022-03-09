@@ -1,0 +1,4 @@
+{"IP": "34.139.216.109"}
+{"topic": "tele/fishroom/LWT", "msg": "Online"}
+{"topic": "tele/fishroom/STATE", "msg": "{\"Time\":\"2022-03-08T20:59:45\",\"Uptime\":\"7T08:59:31\",\"Heap\":20,\"SleepMode\":\"Dynamic\",\"Sleep\":50,\"LoadAvg\":19,\"POWER\":\"ON\",\"Wifi\":{\"AP\":2,\"SSId\":\"DIEU\",\"BSSId\":\"E4:6F:13:62:A4:D8\",\"Channel\":7,\"RSSI\":84,\"LinkCount\":1,\"Downtime\":\"0T00:00:05\"}}"}
+{"topic": "tele/fishroom/SENSOR", "msg": "{\"Time\":\"2022-03-08T20:59:45\",\"AM2301\":{\"Temperature\":21.4,\"Humidity\":47.9},\"TempUnit\":\"C\"}"}

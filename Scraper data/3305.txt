@@ -1,0 +1,6 @@
+{"IP": "23.24.54.60"}
+{"topic": "system/state", "msg": "PIN handler"}
+{"topic": "system/state", "msg": "PIN handler"}
+{"topic": "remote/display", "msg": "0:Enter PIN.."}
+{"topic": "remote/display", "msg": "1:_"}
+{"topic": "system/bridgeStatus", "msg": "\u0004\b\u0000\u0001"}

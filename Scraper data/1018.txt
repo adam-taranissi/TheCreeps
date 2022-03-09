@@ -1,0 +1,29 @@
+{"IP": "3.217.54.163"}
+{"topic": "pump_max_runtime", "msg": "300"}
+{"topic": "water_pressure_cutin", "msg": "40"}
+{"topic": "water_pressure_cutout", "msg": "46"}
+{"topic": "pressureRecovering", "msg": "false"}
+{"topic": "pressure", "msg": "476.00"}
+{"topic": "pressureRecovering", "msg": "false"}
+{"topic": "emergencyCuttof", "msg": "false"}
+{"topic": "pump_log", "msg": "Pump OFF."}
+{"topic": "pump_state", "msg": "off"}
+{"topic": "pressure", "msg": "477.00"}
+{"topic": "pressureRecovering", "msg": "false"}
+{"topic": "emergencyCuttof", "msg": "false"}
+{"topic": "pump_log", "msg": "Pump OFF."}
+{"topic": "pump_state", "msg": "off"}
+{"topic": "pressure", "msg": "478.00"}
+{"topic": "pressureRecovering", "msg": "false"}
+{"topic": "emergencyCuttof", "msg": "false"}
+{"topic": "pump_log", "msg": "Pump OFF."}
+{"topic": "pump_state", "msg": "off"}
+{"topic": "pressure", "msg": "483.00"}
+{"topic": "pressureRecovering", "msg": "false"}
+{"topic": "emergencyCuttof", "msg": "false"}
+{"topic": "pump_log", "msg": "Pump OFF."}
+{"topic": "pump_state", "msg": "off"}
+{"topic": "pressure", "msg": "483.00"}
+{"topic": "pressureRecovering", "msg": "false"}
+{"topic": "emergencyCuttof", "msg": "false"}
+{"topic": "pump_log", "msg": "Pump OFF."}

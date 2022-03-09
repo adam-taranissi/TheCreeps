@@ -1,0 +1,6 @@
+{"IP": "68.183.173.187"}
+{"topic": "Advantech/74FE4847FE8A/data", "msg": "{\"s\":3,\"t\":\"2020-09-24T13:03:10Z\",\"q\":192,\"c\":0,\"ai1\":4.012,\"ai_st1\":1,\"ai2\":20.000,\"ai_st2\":1,\"ai3\":20.000,\"ai_st3\":1,\"ai4\":20.000,\"ai_st4\":1}"}
+{"topic": "Advantech/74FE4847FE8A/Device_Status", "msg": "{\"status\":\"disconnect\",\"name\":\"WISE-4012\",\"macid\":\"74FE4847FE8A\",\"ipaddr\":\"192.168.3.229\"}"}
+{"topic": "Advantech/00D0C9E3B15C/Device_Status", "msg": "{\"status\":\"disconnect\",\"name\":\"WISE-4051\",\"macid\":\"00D0C9E3B15C\",\"ipaddr\":\"192.168.3.230\"}"}
+{"topic": "Advantech/00D0C9E3B15C/data", "msg": "wise2"}
+{"topic": "abc/123", "msg": "XYZ"}

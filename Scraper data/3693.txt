@@ -1,0 +1,5 @@
+{"IP": "99.72.245.11"}
+{"topic": "inPlayer1", "msg": "helloWorld"}
+{"topic": "inTopic", "msg": "0testaoeuaoeuaoeuaoeuaoeuaoeuaoeuaoeuaoe"}
+{"topic": "Node1_OUT", "msg": "H|A:6b|B:6b"}
+{"topic": "Phaser1_OUT", "msg": "H|A:6b|B:6b"}

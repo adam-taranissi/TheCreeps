@@ -1,0 +1,7 @@
+{"IP": "3.128.162.196"}
+{"topic": "abc/123", "msg": "XYZ"}
+{"topic": "WATCHDOG_MQTT_AWS", "msg": "99"}
+{"topic": "WATCHDOG_MQTT_AWS", "msg": "0"}
+{"topic": "WATCHDOG_MQTT_AWS", "msg": "1"}
+{"topic": "WATCHDOG_MQTT_AWS", "msg": "2"}
+{"topic": "WATCHDOG_MQTT_AWS", "msg": "3"}

@@ -1,0 +1,8 @@
+{"IP": "34.232.72.126"}
+{"topic": "mW4ZqOaqVi/Debug", "msg": "{\"Header\":\"Debug\",\"Message\":\"446753.049--**********************************************************************************************\\n\"}"}
+{"topic": "mW4ZqOaqVi/Debug", "msg": "{\"Header\":\"Debug\",\"Message\":\"446753.053--loop: Start new Loop: heap 80452 bytes, MQTT received 10 sent 653161\\n\"}"}
+{"topic": "mW4ZqOaqVi/Debug", "msg": "{\"Header\":\"Debug\",\"Message\":\"446753.057--connectToBroker: mqtt broker connected for   270819.4 sec, sessionID = mW4ZqOaqVi\\n\"}"}
+{"topic": "mW4ZqOaqVi/Debug", "msg": "{\"Header\":\"Debug\",\"Message\":\"446753.103--controlGPIO.updateColdJcnTemp: T Cold Jcn =  22.75 C in 38 ms\\n\"}"}
+{"topic": "mW4ZqOaqVi/Debug", "msg": "{\"Header\":\"Debug\",\"Message\":\"446753.106--loop: Finished updating Jcn Temp at 56 ms\\n\"}"}
+{"topic": "mW4ZqOaqVi/Debug", "msg": "{\"Header\":\"Debug\",\"Message\":\"446753.107--loop: waiting for profile\\n\"}"}
+{"topic": "mW4ZqOaqVi/Debug", "msg": "{\"Header\":\"Debug\",\"Message\":\"446753.162--loop: Enter into wait loop at   0.11 secs\\n\"}"}

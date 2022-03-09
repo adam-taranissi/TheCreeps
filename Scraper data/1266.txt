@@ -1,0 +1,3 @@
+{"IP": "54.69.180.230"}
+{"topic": "ObsidianTest", "msg": "Hello\n"}
+{"topic": "abc/123", "msg": "XYZ"}

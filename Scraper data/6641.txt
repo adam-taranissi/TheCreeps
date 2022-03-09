@@ -1,0 +1,6 @@
+{"IP": "18.224.196.44"}
+{"topic": "test", "msg": "testtttttt"}
+{"topic": "test3", "msg": "testtttttt"}
+{"topic": "/client/tags/D8:A0:1D:62:F9:08/setparam", "msg": "\"firstname\u201d:\u201dian\""}
+{"topic": "/clients/tags/D8:A0:1D:62:F9:08/setparam", "msg": "{\n\"assetName1\":\"Ian\"\n}"}
+{"topic": "abc/123", "msg": "XYZ"}

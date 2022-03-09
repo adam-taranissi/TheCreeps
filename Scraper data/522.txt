@@ -1,0 +1,41 @@
+{"IP": "35.184.152.221"}
+{"topic": "/IOT100/Device Info/Device Status/", "msg": "Disconnected"}
+{"topic": "/IOT100/Device Info/SIM/", "msg": "8912230100077904884"}
+{"topic": "/IOT100/Device Info/RSSI/", "msg": "-79.0"}
+{"topic": "/IOT100/Tags/HW DI1/Type", "msg": "digital"}
+{"topic": "/IOT100/Tags/HW DI1/Alarm", "msg": "False"}
+{"topic": "/IOT100/Tags/HW DI1/state", "msg": "OFF"}
+{"topic": "/IOT100/Tags/HW DI1/Value", "msg": "False"}
+{"topic": "/IOT100/Tags/HW DI1/CommFail", "msg": "False"}
+{"topic": "/IOT100/Tags/HW DI2/Type", "msg": "digital"}
+{"topic": "/IOT100/Tags/HW DI2/Alarm", "msg": "False"}
+{"topic": "/IOT100/Tags/HW DI2/state", "msg": "OFF"}
+{"topic": "/IOT100/Tags/HW DI2/Value", "msg": "False"}
+{"topic": "/IOT100/Tags/HW DI2/CommFail", "msg": "False"}
+{"topic": "/IOT100/Tags/Coil 1/Type", "msg": "digital"}
+{"topic": "/IOT100/Tags/Coil 1/Alarm", "msg": "False"}
+{"topic": "/IOT100/Tags/Coil 1/state", "msg": "OFF"}
+{"topic": "/IOT100/Tags/Coil 1/Value", "msg": "False"}
+{"topic": "/IOT100/Tags/Coil 1/CommFail", "msg": "False"}
+{"topic": "/IOT100/Tags/Coil 2/Type", "msg": "digital"}
+{"topic": "/IOT100/Tags/Coil 2/Alarm", "msg": "False"}
+{"topic": "/IOT100/Tags/Coil 2/state", "msg": "OFF"}
+{"topic": "/IOT100/Tags/Coil 2/Value", "msg": "False"}
+{"topic": "/IOT100/Tags/Coil 2/CommFail", "msg": "False"}
+{"topic": "/IOT100/Tags/tag 10/Type", "msg": "analog"}
+{"topic": "/IOT100/Tags/tag 10/Alarm", "msg": "Disabled"}
+{"topic": "/IOT100/Tags/tag 10/Units", "msg": "Raw"}
+{"topic": "/IOT100/Tags/tag 10/Value", "msg": "43.21"}
+{"topic": "/IOT100/Tags/tag 10/CommFail", "msg": "False"}
+{"topic": "/IOT100/Tags/tag 11/Type", "msg": "analog"}
+{"topic": "/IOT100/Tags/tag 11/Alarm", "msg": "Disabled"}
+{"topic": "/IOT100/Tags/tag 11/Units", "msg": "Raw"}
+{"topic": "/IOT100/Tags/tag 11/Value", "msg": "70000"}
+{"topic": "/IOT100/Tags/tag 11/CommFail", "msg": "False"}
+{"topic": "/IOT100/Tags/DO1/", "msg": "ON"}
+{"topic": "/IOT100/Tags/DO2/", "msg": "ON"}
+{"topic": "/IOT100/Tags/AI 1 Current/Type", "msg": "analog"}
+{"topic": "/IOT100/Tags/AI 1 Current/Alarm", "msg": "Disabled"}
+{"topic": "/IOT100/Tags/AI 1 Current/Units", "msg": "mA"}
+{"topic": "/IOT100/Tags/AI 1 Current/Value", "msg": "0.0"}
+{"topic": "/IOT100/Tags/AI 1 Current/CommFail", "msg": "False"}

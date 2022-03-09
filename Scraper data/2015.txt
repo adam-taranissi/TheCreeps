@@ -1,0 +1,7 @@
+{"IP": "18.216.67.106"}
+{"topic": "devices/first-device", "msg": "{\"hopper_temp\": 55, \"grind_temp\": 67, \"amps\": 13, \"est_kwh\": 9, \"seconds\": 33063385, \"device_id\": \"first-device\"}"}
+{"topic": "devices/second-device", "msg": "{\"hopper_temp\": 103, \"grind_temp\": 93, \"amps\": 13, \"est_kwh\": 12, \"seconds\": 66146770, \"device_id\": \"second-device\"}"}
+{"topic": "devices/third-device", "msg": "{\"hopper_temp\": 87, \"grind_temp\": 40, \"amps\": 8, \"est_kwh\": 14, \"seconds\": 3009788035, \"device_id\": \"third-device\"}"}
+{"topic": "devices/forth-device", "msg": "{\"hopper_temp\": 65, \"grind_temp\": 82, \"amps\": 12, \"est_kwh\": 11, \"seconds\": 66146770, \"device_id\": \"forth-device\"}"}
+{"topic": "devices/fifth-device", "msg": "{\"hopper_temp\": 96, \"grind_temp\": 41, \"amps\": 12, \"est_kwh\": 10, \"seconds\": 66246770, \"device_id\": \"fifth-device\"}"}
+{"topic": "devices/sixth-device", "msg": "{\"hopper_temp\": 90, \"grind_temp\": 27, \"amps\": 13, \"est_kwh\": 10, \"seconds\": 66346770, \"device_id\": \"sixth-device\"}"}

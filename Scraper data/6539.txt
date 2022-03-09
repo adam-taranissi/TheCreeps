@@ -1,0 +1,39 @@
+{"IP": "159.89.153.87"}
+{"topic": "monitoramento/eee/canaa/bomba1/estado ", "msg": "0"}
+{"topic": "monitoramento/eee/canaa/bomba1/habilita", "msg": "0"}
+{"topic": "monitoramento/eee/canaa/bomba1/alarme", "msg": "0"}
+{"topic": "monitoramento/eee/canaa/bomba1/loc_rem", "msg": "0"}
+{"topic": "monitoramento/eee/canaa/bomba1/bypass", "msg": "0"}
+{"topic": "monitoramento/eee/canaa/bomba1/ff_soft", "msg": "0"}
+{"topic": "monitoramento/eee/canaa/bomba1/man_auto", "msg": "0"}
+{"topic": "monitoramento/eee/canaa/bomba1/erro_atual", "msg": "0"}
+{"topic": "monitoramento/eee/canaa/bomba1/alarme_atual", "msg": "0"}
+{"topic": "monitoramento/eee/canaa/bomba1/corrente_r", "msg": "0"}
+{"topic": "monitoramento/eee/canaa/bomba1/corrente_s", "msg": "0"}
+{"topic": "monitoramento/eee/canaa/bomba1/corrente_t", "msg": "0"}
+{"topic": "monitoramento/eee/canaa/bomba1/tensao_rs", "msg": "0"}
+{"topic": "monitoramento/eee/canaa/bomba1/tensao_st", "msg": "0"}
+{"topic": "monitoramento/eee/canaa/bomba1/tensao_tr", "msg": "0"}
+{"topic": "monitoramento/eee/canaa/bomba1/fp", "msg": "0"}
+{"topic": "monitoramento/eee/canaa/bomba2/estado ", "msg": "0"}
+{"topic": "monitoramento/eee/canaa/bomba2/habilita", "msg": "0"}
+{"topic": "monitoramento/eee/canaa/bomba2/alarme", "msg": "0"}
+{"topic": "monitoramento/eee/canaa/bomba2/loc_rem", "msg": "0"}
+{"topic": "monitoramento/eee/canaa/bomba2/bypass", "msg": "0"}
+{"topic": "monitoramento/eee/canaa/bomba2/ff_soft", "msg": "0"}
+{"topic": "monitoramento/eee/canaa/bomba2/man_auto", "msg": "0"}
+{"topic": "monitoramento/eee/canaa/bomba2/erro_atual", "msg": "0"}
+{"topic": "monitoramento/eee/canaa/bomba2/alarme_atual", "msg": "0"}
+{"topic": "monitoramento/eee/canaa/bomba2/corrente_r", "msg": "0"}
+{"topic": "monitoramento/eee/canaa/bomba2/corrente_s", "msg": "0"}
+{"topic": "monitoramento/eee/canaa/bomba2/corrente_t", "msg": "0"}
+{"topic": "monitoramento/eee/canaa/bomba2/tensao_rs", "msg": "0"}
+{"topic": "monitoramento/eee/canaa/bomba2/tensao_st", "msg": "0"}
+{"topic": "monitoramento/eee/canaa/bomba2/tensao_tr", "msg": "0"}
+{"topic": "monitoramento/eee/canaa/bomba2/fp", "msg": "0"}
+{"topic": "monitoramento/eee/canaa/bomba3/estado ", "msg": "0"}
+{"topic": "monitoramento/eee/canaa/bomba3/habilita", "msg": "0"}
+{"topic": "monitoramento/eee/canaa/bomba3/alarme", "msg": "0"}
+{"topic": "monitoramento/eee/canaa/bomba3/loc_rem", "msg": "0"}
+{"topic": "monitoramento/eee/canaa/bomba3/bypass", "msg": "0"}
+{"topic": "monitoramento/eee/canaa/bomba3/ff_soft", "msg": "0"}

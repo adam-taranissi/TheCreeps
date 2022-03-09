@@ -1,0 +1,2 @@
+{"IP": "35.226.221.23"}
+{"topic": "STATE/VTSCADA[a565250b-d618-441c-8cbe-5ab0c31138a4]", "msg": "OFFLINE"}

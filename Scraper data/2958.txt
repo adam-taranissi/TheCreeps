@@ -1,0 +1,12 @@
+{"IP": "3.233.126.75"}
+{"topic": "/JE02/stl-adg-001/umidade", "msg": "-32768"}
+{"topic": "/JE02/stl-adg-001/adc", "msg": "6"}
+{"topic": "/JE02/stl-adg-001/erros_sensor", "msg": "0"}
+{"topic": "/JE02/stl-adg-001/temperatura", "msg": "124"}
+{"topic": "ActiveMQ/Advisory/MasterBroker", "msg": ""}
+{"topic": "/JE02/stl-adg-001/sinal_wifi", "msg": "-83"}
+{"topic": "/JE02/stl-adg-001/status", "msg": "online"}
+{"topic": "/JE02/stl-adg-001/rele_status", "msg": "0"}
+{"topic": "/JE02/stl-adg-001/adc_10s", "msg": "6"}
+{"topic": "/JE02/stl-adg-001/adc_1s", "msg": "6"}
+{"topic": "ActiveMQ/Advisory/Consumer/Topic/#", "msg": ""}

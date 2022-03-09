@@ -1,0 +1,13 @@
+{"IP": "205.125.96.70"}
+{"topic": "StatusOverview", "msg": "{\"action\":\"update\",\"table\":\"variables\",\"displayvalue\":\"3.00\",\"id\":\"27\",\"value\":\"3.00\"}"}
+{"topic": "StatusDetails", "msg": "{\"action\":\"update\",\"table\":\"variables\",\"displayvalue\":\"3.00\",\"id\":\"27\",\"value\":\"3.00\"}"}
+{"topic": "ConfigurationDeviceSettings", "msg": "{\"action\":\"update\",\"table\":\"variables\",\"displayvalue\":\"3.00\",\"id\":\"27\",\"value\":\"3.00\"}"}
+{"topic": "StatusOverview", "msg": "{\"action\":\"update\",\"table\":\"variables\",\"displayvalue\":\"2.00\",\"id\":\"43\",\"value\":\"2.00\"}"}
+{"topic": "StatusDetails", "msg": "{\"action\":\"update\",\"table\":\"variables\",\"displayvalue\":\"2.00\",\"id\":\"43\",\"value\":\"2.00\"}"}
+{"topic": "ConfigurationDeviceSettings", "msg": "{\"action\":\"update\",\"table\":\"variables\",\"displayvalue\":\"2.00\",\"id\":\"43\",\"value\":\"2.00\"}"}
+{"topic": "StatusOverview", "msg": "{\"action\":\"update\",\"table\":\"variables\",\"displayvalue\":\"119.4\",\"id\":\"11\",\"value\":\"119.4\"}"}
+{"topic": "StatusDetails", "msg": "{\"action\":\"update\",\"table\":\"variables\",\"displayvalue\":\"119.4\",\"id\":\"11\",\"value\":\"119.4\"}"}
+{"topic": "ConfigurationDeviceSettings", "msg": "{\"action\":\"update\",\"table\":\"variables\",\"displayvalue\":\"119.4\",\"id\":\"11\",\"value\":\"119.4\"}"}
+{"topic": "StatusOverview", "msg": "{\"action\":\"update\",\"table\":\"variables\",\"displayvalue\":\"119.4\",\"id\":\"20\",\"value\":\"119.4\"}"}
+{"topic": "StatusDetails", "msg": "{\"action\":\"update\",\"table\":\"variables\",\"displayvalue\":\"119.4\",\"id\":\"20\",\"value\":\"119.4\"}"}
+{"topic": "ConfigurationDeviceSettings", "msg": "{\"action\":\"update\",\"table\":\"variables\",\"displayvalue\":\"119.4\",\"id\":\"20\",\"value\":\"119.4\"}"}

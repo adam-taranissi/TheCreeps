@@ -1,0 +1,12 @@
+{"IP": "97.81.203.198"}
+{"topic": "dev/test", "msg": "false"}
+{"topic": "dev/timepick", "msg": "09:15"}
+{"topic": "dev/light", "msg": "1"}
+{"topic": "dev/switch", "msg": "1"}
+{"topic": "dev/text", "msg": "Humor"}
+{"topic": "/test/confirm", "msg": "0"}
+{"topic": "/test/esp/key", "msg": "8"}
+{"topic": "test/outTopic", "msg": "hello world 18"}
+{"topic": "LifeBridge/Pager/Remote", "msg": "status:Charging"}
+{"topic": "LifeBridge/Pager/Base", "msg": "OnlineBase"}
+{"topic": "arduino/will", "msg": "oh no!"}

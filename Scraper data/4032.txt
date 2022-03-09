@@ -1,0 +1,5 @@
+{"IP": "54.172.124.128"}
+{"topic": "message/jcrouche/1", "msg": "hello from me"}
+{"topic": "message/jcrouche/2", "msg": "how are you?"}
+{"topic": "message/jcrouche/3", "msg": "I'm waiting?"}
+{"topic": "abc/123", "msg": "XYZ"}

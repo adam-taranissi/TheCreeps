@@ -1,0 +1,11 @@
+{"IP": "137.117.79.12"}
+{"topic": "abc/123", "msg": "XYZ"}
+{"topic": "tusmart/maint/power/delhi/tpddt/21/1", "msg": "LVIoT-DT-TP-A-36/91:4248"}
+{"topic": "tusmart/maint/power/delhi/tpddt/21/1/event", "msg": "LVIoT-DT-TP-A-14/connected/LVIoT-DT-TP-A-14"}
+{"topic": "tusmart/maint/power/delhi/tpddt/21/1", "msg": "LVIoT-DT-TP-A-08/91:4062"}
+{"topic": "tusmart/maint/power/delhi/tpddt/21/1", "msg": "LVIoT-DT-TP-A-36/92:312"}
+{"topic": "tusmart/maint/power/delhi/tpddt/21/1", "msg": "LVIoT-DT-TP-A-36/93:273"}
+{"topic": "tusmart/maint/power/delhi/tpddt/21/1", "msg": "LVIoT-DT-TP-A-36/94:273"}
+{"topic": "tusmart/maint/power/delhi/tpddt/21/1", "msg": "LVIoT-DT-TP-A-36/99:2"}
+{"topic": "tusmart/maint/power/delhi/tpddt/21/1", "msg": "LVIoT-DT-TP-A-08/92:224"}
+{"topic": "tusmart/maint/power/delhi/tpddt/21/1", "msg": "b8:27:eb:a4:cb:19/91:4169"}

@@ -1,0 +1,44 @@
+{"IP": "3.15.9.129"}
+{"topic": "/client/wb_SERIAL2/bridge_status", "msg": "0"}
+{"topic": "/client/wb_SERIAL2/devices/wb-adc/controls/5Vout", "msg": "5.05"}
+{"topic": "/client/wb_SERIAL2/devices/wb-adc/controls/5Vout/meta/order", "msg": "0"}
+{"topic": "/client/wb_SERIAL2/devices/wb-adc/controls/5Vout/meta/readonly", "msg": "1"}
+{"topic": "/client/wb_SERIAL2/devices/wb-adc/controls/5Vout/meta/type", "msg": "voltage"}
+{"topic": "/client/wb_SERIAL2/devices/wb-adc/controls/A1", "msg": "0.02"}
+{"topic": "/client/wb_SERIAL2/devices/wb-adc/controls/A1/meta/order", "msg": "1"}
+{"topic": "/client/wb_SERIAL2/devices/wb-adc/controls/A1/meta/readonly", "msg": "1"}
+{"topic": "/client/wb_SERIAL2/devices/wb-adc/controls/A1/meta/type", "msg": "voltage"}
+{"topic": "/client/wb_SERIAL2/devices/wb-adc/controls/A2", "msg": "0.02"}
+{"topic": "/client/wb_SERIAL2/devices/wb-adc/controls/A2/meta/order", "msg": "2"}
+{"topic": "/client/wb_SERIAL2/devices/wb-adc/controls/A2/meta/readonly", "msg": "1"}
+{"topic": "/client/wb_SERIAL2/devices/wb-adc/controls/A2/meta/type", "msg": "voltage"}
+{"topic": "/client/wb_SERIAL2/devices/wb-adc/controls/A3", "msg": "0.02"}
+{"topic": "/client/wb_SERIAL2/devices/wb-adc/controls/A3/meta/order", "msg": "3"}
+{"topic": "/client/wb_SERIAL2/devices/wb-adc/controls/A3/meta/readonly", "msg": "1"}
+{"topic": "/client/wb_SERIAL2/devices/wb-adc/controls/A3/meta/type", "msg": "voltage"}
+{"topic": "/client/wb_SERIAL2/devices/wb-adc/controls/A4", "msg": "0.02"}
+{"topic": "/client/wb_SERIAL2/devices/wb-adc/controls/A4/meta/order", "msg": "4"}
+{"topic": "/client/wb_SERIAL2/devices/wb-adc/controls/A4/meta/readonly", "msg": "1"}
+{"topic": "/client/wb_SERIAL2/devices/wb-adc/controls/A4/meta/type", "msg": "voltage"}
+{"topic": "/client/wb_SERIAL2/devices/wb-adc/controls/Vin", "msg": "23.91"}
+{"topic": "/client/wb_SERIAL2/devices/wb-adc/controls/Vin/meta/order", "msg": "5"}
+{"topic": "/client/wb_SERIAL2/devices/wb-adc/controls/Vin/meta/readonly", "msg": "1"}
+{"topic": "/client/wb_SERIAL2/devices/wb-adc/controls/Vin/meta/type", "msg": "voltage"}
+{"topic": "/client/wb_SERIAL2/devices/wb-adc/meta/driver", "msg": "wb-adc"}
+{"topic": "/client/wb_SERIAL2/devices/wb-adc/meta/name", "msg": "ADCs"}
+{"topic": "/client/wb_SERIAL2/devices/power_status/controls/Vin", "msg": "23.91"}
+{"topic": "/client/wb_SERIAL2/devices/power_status/controls/Vin/meta/type", "msg": "voltage"}
+{"topic": "/client/wb_SERIAL2/devices/power_status/controls/Vin/meta/order", "msg": "1"}
+{"topic": "/client/wb_SERIAL2/devices/power_status/controls/Vin/meta/readonly", "msg": "1"}
+{"topic": "/client/wb_SERIAL2/devices/power_status/controls/working on battery", "msg": "0"}
+{"topic": "/client/wb_SERIAL2/devices/power_status/controls/working on battery/meta/readonly", "msg": "1"}
+{"topic": "/client/wb_SERIAL2/devices/power_status/controls/working on battery/meta/type", "msg": "switch"}
+{"topic": "/client/wb_SERIAL2/devices/power_status/controls/working on battery/meta/order", "msg": "2"}
+{"topic": "/client/wb_SERIAL2/devices/power_status/meta/name", "msg": "Power status"}
+{"topic": "/client/wb_SERIAL2/devices/power_status/meta/driver", "msg": "wb-rules"}
+{"topic": "/client/wb_SERIAL2/devices/hwmon/controls/CPU Temperature", "msg": "60.96"}
+{"topic": "/client/wb_SERIAL2/devices/hwmon/controls/CPU Temperature/meta/readonly", "msg": "1"}
+{"topic": "/client/wb_SERIAL2/devices/hwmon/controls/CPU Temperature/meta/type", "msg": "temperature"}
+{"topic": "/client/wb_SERIAL2/devices/hwmon/controls/CPU Temperature/meta/order", "msg": "2"}
+{"topic": "/client/wb_SERIAL2/devices/hwmon/controls/Board Temperature", "msg": "36.875"}
+{"topic": "/client/wb_SERIAL2/devices/hwmon/controls/Board Temperature/meta/type", "msg": "temperature"}

@@ -1,0 +1,2 @@
+{"IP": "54.158.21.216"}
+{"topic": "apropdata/output", "msg": "{\"SchemaVersion\":\"0.2.0\",\"Results\":{\"TableId\":\"CO2E\",\"nCols\":\"1\",\"PropNames\":[\"CO2E-SAR\"],\"Phases\":[\"TOTAL\"],\"CompIds\":[\"N/A\"],\"UoMs\":[\"KG/SEC\"],\"Data\":[[6619.9]]},\"Plots\":{\"TableId\":\"CO2E\",\"nPlots\":\"0\",\"Plot\":[]}}"}

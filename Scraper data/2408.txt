@@ -1,0 +1,8 @@
+{"IP": "35.222.112.26"}
+{"topic": "/GTW/AB9C78/IR/8", "msg": "65484"}
+{"topic": "/GTW/AB9C78/IR/23", "msg": "65519"}
+{"topic": "/GTW/F0836E/IR/8", "msg": "560"}
+{"topic": "/GTW/AB9CDC/IR/23", "msg": "65454"}
+{"topic": "/GTW/AB9B60/IR/8", "msg": "358"}
+{"topic": "/GTW/F091D0/IR/8", "msg": "376"}
+{"topic": "/GTW/AB9992/IR/8", "msg": "358"}

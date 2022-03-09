@@ -1,0 +1,9 @@
+{"IP": "3.21.7.108"}
+{"topic": "B0000/GTW001/LASTWILL", "msg": "24"}
+{"topic": "B0000/EMM001/FQ01/TTD", "msg": "0"}
+{"topic": "B0000/EMM001/FQ02/TTD", "msg": "0"}
+{"topic": "B0000/EMM001/FQ03/TTD", "msg": "0"}
+{"topic": "B0000/EMM001/FQ05/TTD", "msg": "0"}
+{"topic": "B0000/EMM001/FQ06/TTD", "msg": "0"}
+{"topic": "neon_temps/externo/pt100", "msg": "24.87"}
+{"topic": "neon_temps/externo/tht", "msg": "24.36"}

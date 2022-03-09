@@ -1,0 +1,5 @@
+{"IP": "52.23.113.191"}
+{"topic": "SIM7000", "msg": "\nHELLO4"}
+{"topic": "saroj", "msg": "hi sa"}
+{"topic": "LMVan01_pub", "msg": "qwerty"}
+{"topic": "abc/123", "msg": "XYZ"}

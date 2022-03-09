@@ -1,0 +1,2 @@
+{"IP": "168.62.6.250"}
+{"topic": "device/4c:11:ae:b8:41:34/heartbeat", "msg": "{\"heartbeat\":{\"count\":15795,\"period\":60},\"wifi\":{\"rssi\":-39,\"uptime\":{\"isUp\":true,\"days\":8,\"hours\":12,\"minutes\":58,\"seconds\":12}},\"mqtt\":{\"uptime\":{\"isUp\":true,\"days\":5,\"hours\":11,\"minutes\":36,\"seconds\":15}},\"voltage\":{\"in\":2.507226e+00,\"high\":3.413540e+00},\"heap\":{\"size\":81956,\"largest\":56260,\"lowest\":54740},\"firmware\":{\"version\":\"3.2.0\"}}"}

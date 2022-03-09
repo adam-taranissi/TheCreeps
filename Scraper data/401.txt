@@ -1,0 +1,38 @@
+{"IP": "13.57.181.110"}
+{"topic": "CallsAvailability/5fb5f293544a973ff1259020", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/5fb95ad157180a5cf303f620", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/61d7ed260b392a3c4cbfe17f", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/61d7f83d0b392a3c4cbfe188", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/61dbf3538178cf3c462a30fc", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/61dd2cf1e3afa86a2baa0917", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/61dd50cde3afa86a2baa0951", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/61dd61170c5fba6a31f7e11f", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/61dd6ffd0c5fba6a31f7e145", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/61dd730a0c5fba6a31f7e15f", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/61dd7526e3afa86a2baa09a7", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/61dd764a0c5fba6a31f7e186", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/61dd778ae3afa86a2baa09c1", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/61dd79130c5fba6a31f7e193", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/61dd7f940c5fba6a31f7e1ab", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/61dd84bf0c5fba6a31f7e1ba", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/61de5ce00c5fba6a31f7e250", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/61de5fc00c5fba6a31f7e25b", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/61de95c9f16ecd1eb92b7373", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/61de994cf16ecd1eb92b737b", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/61deae01f16ecd1eb92b7391", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/61deb3dbcd55701ebfbed4d1", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/61debb8ef16ecd1eb92b73af", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/61ea8dffbbdd39715b605fdf", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/61f26eb7bbdd39715b606001", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/62219fb6bbdd39715b606213", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/6226a3c0bbdd39715b60624d", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/622739edbbdd39715b606270", "msg": "{\"status\":1}"}
+{"topic": "OnlineStatus/5fb5f293544a973ff1259020", "msg": "{\"lastSeenEnabled\":true,\"status\":2,\"userId\":\"5fb5f293544a973ff1259020\"}"}
+{"topic": "OnlineStatus/5fb95ad157180a5cf303f620", "msg": "{\"lastSeenEnabled\":true,\"status\":2,\"userId\":\"5fb95ad157180a5cf303f620\"}"}
+{"topic": "OnlineStatus/61d7ed260b392a3c4cbfe17f", "msg": "{\"lastSeenEnabled\":true,\"status\":2,\"userId\":\"61d7ed260b392a3c4cbfe17f\"}"}
+{"topic": "OnlineStatus/61d7f83d0b392a3c4cbfe188", "msg": "{\"status\":1,\"userId\":\"61d7f83d0b392a3c4cbfe188\",\"lastSeenEnabled\":true}"}
+{"topic": "OnlineStatus/61dbefae8178cf3c462a30f5", "msg": "{\n  \"status\" : 0,\n  \"lastSeenEnabled\" : true,\n  \"userId\" : \"61dbefae8178cf3c462a30f5\",\n  \"timestamp\" : \"20220111123237790 GMT\"\n}"}
+{"topic": "OnlineStatus/61dbf3538178cf3c462a30fc", "msg": "{\n  \"userId\" : \"61dbf3538178cf3c462a30fc\",\n  \"lastSeenEnabled\" : true,\n  \"status\" : 1\n}"}
+{"topic": "OnlineStatus/61dd2cf1e3afa86a2baa0917", "msg": "{\"status\":1,\"userId\":\"61dd2cf1e3afa86a2baa0917\",\"lastSeenEnabled\":true}"}
+{"topic": "OnlineStatus/61dd50cde3afa86a2baa0951", "msg": "{\n  \"lastSeenEnabled\" : true,\n  \"userId\" : \"61dd50cde3afa86a2baa0951\",\n  \"status\" : 0,\n  \"timestamp\" : \"20220111122115177 GMT\"\n}"}
+{"topic": "OnlineStatus/61dd61170c5fba6a31f7e11f", "msg": "{\"status\":0,\"timestamp\":\"20220111114329278 GMT\",\"userId\":\"61dd61170c5fba6a31f7e11f\",\"lastSeenEnabled\":true}"}

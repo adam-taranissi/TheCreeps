@@ -1,0 +1,23 @@
+{"IP": "104.55.97.80"}
+{"topic": "environmental/basement", "msg": "{\"humidity\": -255.000000,\"temperature\": -255.000000}"}
+{"topic": "weathermap/update", "msg": "{\"led\":16,\"r\":0,\"g\":200,\"b\":0}"}
+{"topic": "weathermap/update", "msg": "{\"led\":24,\"r\":0,\"g\":200,\"b\":0}"}
+{"topic": "weathermap/update", "msg": "{\"led\":6,\"r\":0,\"g\":0,\"b\":200}"}
+{"topic": "weathermap/update", "msg": "{\"led\":50,\"r\":0,\"g\":200,\"b\":0}"}
+{"topic": "weathermap/update", "msg": "{\"led\":30,\"r\":0,\"g\":0,\"b\":200}"}
+{"topic": "weathermap/update", "msg": "{\"led\":25,\"r\":0,\"g\":200,\"b\":0}"}
+{"topic": "weathermap/update", "msg": "{\"led\":20,\"r\":0,\"g\":200,\"b\":0}"}
+{"topic": "weathermap/update", "msg": "{\"led\":32,\"r\":0,\"g\":0,\"b\":200}"}
+{"topic": "weathermap/update", "msg": "{\"led\":42,\"r\":0,\"g\":0,\"b\":200}"}
+{"topic": "weathermap/update", "msg": "{\"led\":23,\"r\":0,\"g\":200,\"b\":0}"}
+{"topic": "weathermap/update", "msg": "{\"led\":37,\"r\":0,\"g\":0,\"b\":200}"}
+{"topic": "weathermap/update", "msg": "{\"led\":9,\"r\":0,\"g\":0,\"b\":200}"}
+{"topic": "weathermap/update", "msg": "{\"led\":1,\"r\":0,\"g\":200,\"b\":0}"}
+{"topic": "weathermap/update", "msg": "{\"led\":39,\"r\":0,\"g\":0,\"b\":200}"}
+{"topic": "weathermap/update", "msg": "{\"led\":47,\"r\":0,\"g\":0,\"b\":200}"}
+{"topic": "weathermap/update", "msg": "{\"led\":4,\"r\":0,\"g\":0,\"b\":200}"}
+{"topic": "environmental/outside", "msg": "{\"t\":1.77,\"d\":-2.61,\"time\":1646721300}"}
+{"topic": "environmental/outside", "msg": "{\"t\":1.75,\"d\":-2.4,\"time\":1646721600}"}
+{"topic": "environmental/outside", "msg": "{\"t\":1.77,\"d\":-2.57,\"time\":1646721900}"}
+{"topic": "environmental/outside", "msg": "{\"t\":1.75,\"d\":-2.27,\"time\":1646722200}"}
+{"topic": "environmental/outside", "msg": "{\"t\":1.73,\"d\":-2.44,\"time\":1646722500}"}

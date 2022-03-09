@@ -1,0 +1,12 @@
+{"IP": "52.33.238.120"}
+{"topic": "abc/123", "msg": "XYZ"}
+{"topic": "/ack/00d0ca0027d8", "msg": "{\"fileId\":\"6564\",\"fileName\":\"Pure_Barre_Classic_nano.jpg\",\"screen\":1,\"isError\":0,\"errorMsg\":\"\",\"playlistID\":\"472\",\"macId\":\"00-d0-ca-00-27-d8\"}"}
+{"topic": "/media/00d0ca0027c5", "msg": "{\"status\":1,\"isPlaying\":1,\"deviceID\":\"00-d0-ca-00-27-c5\",\"error_message\":\"\"}"}
+{"topic": "/ack/00d0ca0027d3", "msg": "{\"fileId\":\"10298\",\"screen\":1,\"isError\":0,\"errorMsg\":\"\",\"playlistID\":\"1489\",\"macId\":\"00-d0-ca-00-27-d3\",\"fileName\":\"StellarVortex_1080x1920__v1.jpg\"}"}
+{"topic": "/ack/00d0ca0027d7", "msg": "{\"fileId\":\"10295\",\"fileName\":\"six-string-drag-brunch-patriot-place-NANO.jpg\",\"screen\":1,\"isError\":0,\"errorMsg\":\"\",\"playlistID\":\"473\",\"macId\":\"00-d0-ca-00-27-d7\"}"}
+{"topic": "/ack/00d0ca0027b5", "msg": "{\"fileId\":\"10321\",\"fileName\":\"AutoShow22_Default1008px.jpg\",\"screen\":1,\"isError\":0,\"errorMsg\":\"\",\"playlistID\":\"1491\",\"macId\":\"00-d0-ca-00-27-b5\"}"}
+{"topic": "/ack/00d0ca0027a4", "msg": "{\"fileId\":\"10260\",\"screen\":1,\"isError\":0,\"errorMsg\":\"\",\"playlistID\":\"1487\",\"macId\":\"00-d0-ca-00-27-a4\",\"fileName\":\"WestSideStory_1920x1080_Bernardo-AnitaV1.jpg\"}"}
+{"topic": "/ack/00d0ca002187", "msg": "{\"fileId\":\"8276\",\"screen\":4,\"isError\":0,\"errorMsg\":\"\",\"playlistID\":\"609\",\"macId\":\"00-d0-ca-00-21-87\",\"fileName\":\"NanoLumens_logo_white.png\"}"}
+{"topic": "/ack/00d0ca0027d6", "msg": "{\"fileId\":\"9793\",\"fileName\":\"Bridge_16x9.jpg\",\"screen\":1,\"isError\":0,\"errorMsg\":\"\",\"playlistID\":\"1114\",\"macId\":\"00-d0-ca-00-27-d6\"}"}
+{"topic": "/device/00d0ca0027a4", "msg": "{\"deviceID\":\"00-d0-ca-00-27-a4\",\"RAM_status_free\":\"1737\",\"RAM_status_used\":\"872\",\"internal_storage_total\":19022,\"internal_storage_available\":18778,\"CPU_usage\":13,\"WIFI_info\":false,\"bluetooth_info\":false,\"HDMI_info\":true,\"USB_info\":1}"}
+{"topic": "/ack/00d0ca0027b4", "msg": "{\"fileId\":\"10321\",\"fileName\":\"AutoShow22_Default1008px.jpg\",\"screen\":1,\"isError\":0,\"errorMsg\":\"\",\"playlistID\":\"1491\",\"macId\":\"00-d0-ca-00-27-b4\"}"}

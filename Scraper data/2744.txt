@@ -1,0 +1,13 @@
+{"IP": "199.195.251.197"}
+{"topic": "good-luck-charm/hnr/g", "msg": "128"}
+{"topic": "good-luck-charm/hnr/c", "msg": "#FFCCFC"}
+{"topic": "good-luck-charm/hnr/status", "msg": "offline"}
+{"topic": "good-luck-charm/hnr/v", "msg": "<?xml version=\"1.0\" ?><vs><ac>128</ac><cl>255</cl><cl>204</cl><cl>252</cl><cs>0</cs><cs>0</cs><cs>0</cs><ns>0</ns><nr>0</nr><nl>0</nl><nf>1</nf><nd>60</nd><nt>0</nt><fx>0</fx><sx>128</sx><ix>128</ix><fp>0</fp><wv>0</wv><ws>0</ws><ps>0</ps><cy>0</cy><ds>good-luck-charm-hnr</ds><ss>0</ss></vs>"}
+{"topic": "good-luck-charm/jmc/g", "msg": "128"}
+{"topic": "good-luck-charm/jmc/c", "msg": "#C8A2C8"}
+{"topic": "good-luck-charm/jmc/status", "msg": "offline"}
+{"topic": "good-luck-charm/jmc/v", "msg": "<?xml version=\"1.0\" ?><vs><ac>128</ac><cl>200</cl><cl>162</cl><cl>200</cl><cs>0</cs><cs>0</cs><cs>0</cs><ns>0</ns><nr>0</nr><nl>0</nl><nf>1</nf><nd>60</nd><nt>0</nt><fx>0</fx><sx>128</sx><ix>128</ix><fp>0</fp><wv>0</wv><ws>0</ws><ps>0</ps><cy>0</cy><ds>good-luck-charm-jmc</ds><ss>0</ss></vs>"}
+{"topic": "good-luck-charm/tac/g", "msg": "255"}
+{"topic": "good-luck-charm/tac/c", "msg": "#C8A2C8"}
+{"topic": "good-luck-charm/tac/status", "msg": "online"}
+{"topic": "good-luck-charm/tac/v", "msg": "<?xml version=\"1.0\" ?><vs><ac>255</ac><cl>200</cl><cl>162</cl><cl>200</cl><cs>0</cs><cs>0</cs><cs>0</cs><ns>0</ns><nr>0</nr><nl>0</nl><nf>1</nf><nd>60</nd><nt>0</nt><fx>0</fx><sx>128</sx><ix>128</ix><fp>0</fp><wv>0</wv><ws>0</ws><ps>0</ps><cy>0</cy><ds>good-luck-charm-tac</ds><ss>0</ss></vs>"}

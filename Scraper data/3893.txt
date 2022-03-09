@@ -1,0 +1,3 @@
+{"IP": "68.7.188.35"}
+{"topic": "0460445e997c4e02820a48dcc88814df", "msg": "RETAIN"}
+{"topic": "d6c2b67cb48045fc95ffec95a2c4f504", "msg": "RETAIN"}

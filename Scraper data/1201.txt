@@ -1,0 +1,6 @@
+{"IP": "216.218.189.215"}
+{"topic": "hello", "msg": "{\"gyro\":[],\"gyroX\":-16.72363,\"gyroY\":-16.72363,\"gyroZ\":-16.29639}"}
+{"topic": "sensor/acc", "msg": "{\"accel\":[],\"accX\":0.274658,\"accY\":0.274658,\"accZ\":0.487305}"}
+{"topic": "sensor/gyro", "msg": "{\"gyro\":[],\"gyroX\":-16.72363,\"gyroY\":-16.72363,\"gyroZ\":-16.29639}"}
+{"topic": "sensor/3axis", "msg": "{\"3axis\":[],\"pitch\":-7.278572,\"roll\":50.19333,\"yaw\":43.4999}"}
+{"topic": "sensor/temp", "msg": "{\"temp\":33.20834}"}

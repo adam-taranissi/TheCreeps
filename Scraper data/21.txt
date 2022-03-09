@@ -1,0 +1,3 @@
+{"IP": "157.131.108.85"}
+{"topic": "homeGW-in/here", "msg": "Retained Message here"}
+{"topic": "topic/here", "msg": "Message here"}

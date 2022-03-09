@@ -1,0 +1,10 @@
+{"IP": "35.168.135.236"}
+{"topic": "ciJtWs1cNufcEHi6NfIWChKaiNt2/Alarme", "msg": "{\"Stt\":\"OFF\"}"}
+{"topic": "tAT8As2LJAS4WcUYzJW4x5puULX2/Alarme", "msg": "{\"Stt\":\"ARM\",\"Sir\":\"DES\",\"Usu\":\"Salao Gravacao\",\"Dt\":\"06/03/2022 20:20:27\"}"}
+{"topic": "SslalZAlxkRyLecyztRJExTshgS2/Alarme", "msg": "{\"Stt\":\"OFF\"}"}
+{"topic": "hI6RJNidHGQnzdoVilwncDRlHeU2/Alarme", "msg": "{\"Stt\":\"OFF\"}"}
+{"topic": "TopicTeste", "msg": "Teste"}
+{"topic": "Eb8t8LXDvCRujrOPwdgW2AVOXpY2/Alarme", "msg": "{\"Stt\":\"OFF\"}"}
+{"topic": "xwN3e5gASzYYyoyDRg0lXRQNHkE3/Alarme", "msg": "{\"Stt\":\"OFF\"}"}
+{"topic": "Gp8Sp2T94EXV1wdldLfVbEwmapS2/Alarme", "msg": "{\"Stt\":\"OFF\"}"}
+{"topic": "X2PLJiVaZ4cefBDB8jhuCwe62JT2/Alarme", "msg": "{\"Stt\":\"DES\",\"Sir\":\"DES\",\"Usu\":\"Rest\",\"Dt\":\"08/03/2022 14:51:15\",\"IP\":\"192.168.1.9\"}"}

@@ -1,0 +1,23 @@
+{"IP": "13.57.241.88"}
+{"topic": "$SYS/brokers", "msg": "emqx_masterbroker@13.57.241.88"}
+{"topic": "$SYS/brokers/emqx_masterbroker@13.57.241.88/version", "msg": "4.2.5"}
+{"topic": "$SYS/brokers/emqx_masterbroker@13.57.241.88/sysdescr", "msg": "EMQ X Broker"}
+{"topic": "checkin", "msg": "SW1600"}
+{"topic": "checkin", "msg": "WI18003"}
+{"topic": "checkin", "msg": "AE2027"}
+{"topic": "checkin", "msg": "AE1040"}
+{"topic": "checkin", "msg": "SW0186"}
+{"topic": "checkin", "msg": "SW1977"}
+{"topic": "checkin", "msg": "AB4406"}
+{"topic": "checkin", "msg": "SW1740"}
+{"topic": "checkin", "msg": "AE0187"}
+{"topic": "checkin", "msg": "AE0378"}
+{"topic": "checkin", "msg": "AE0522"}
+{"topic": "checkin", "msg": "SW1522"}
+{"topic": "checkin", "msg": "AE2443"}
+{"topic": "checkin", "msg": "AE2155"}
+{"topic": "checkin", "msg": "AR2155"}
+{"topic": "checkin", "msg": "AE2448"}
+{"topic": "checkin", "msg": "AE0412-1"}
+{"topic": "checkin", "msg": "SW1528"}
+{"topic": "checkin", "msg": "SW1680"}

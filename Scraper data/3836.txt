@@ -1,0 +1,27 @@
+{"IP": "54.202.234.43"}
+{"topic": "CallsAvailability/5dbfaec5271873121d337413", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/5dd57cb08531f52f9e1c06f3", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/5e1ca7176b51f20c1b6ed05b", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/5e1d4ff06b51f20c1b6ed060", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/5e1e8d866b51f20c1b6ed079", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/5e1eed102669ed6f77313364", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/5e3071eae8dde515565406fc", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/5e58c5c3e177616b95d6ebff", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/5e5d154be177616b95d6ecd2", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/5e79db89e642ae2d8438f13b", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/5e7c3f24e642ae2d8438f17e", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/5e7e0bc0e642ae2d8438f199", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/5e99066b6a75c852b02b0769", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/5ed35c396a75c852b02b1052", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/5ed9cd256a75c852b02b110c", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/5f199d8125387a2e09c3ab2a", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/5f28f87c26ee534c3fa48249", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/5f4341ade553b278cc20229a", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/5f4ce9f0617fe351206dd7c1", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/5f507356eb161401884a955d", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/5f546d33241971494391141c", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/5f5601870d273a6a13b000bc", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/5f57f7cf2e9d901d36f49169", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/5f58b5cfe029e947a5111b5a", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/5f5a277121e73a6b2182b7ab", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/5f5f37cae3342e2568bb46a6", "msg": "{\"status\":1}"}

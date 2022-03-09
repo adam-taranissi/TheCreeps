@@ -1,0 +1,15 @@
+{"IP": "45.61.184.106"}
+{"topic": "HTR/SYS9/MQTT", "msg": "ONLINE"}
+{"topic": "HTR/SYS9/CH", "msg": "11"}
+{"topic": "HTR/STAT/HEATER", "msg": "OFF"}
+{"topic": "HTR/SNS/TEMPERATURE", "msg": "29"}
+{"topic": "HTR/SYS1/UNIT", "msg": "5"}
+{"topic": "HTR/SYS2/SSID", "msg": "MEDIA-NETWORK"}
+{"topic": "HTR/SYS3/IP", "msg": "192.168.2.125"}
+{"topic": "HTR/SYS6/DATETIME", "msg": "2022-03-08 17:26:17"}
+{"topic": "HTR/SYS7/UPTIME", "msg": "37"}
+{"topic": "HTR/SYS8/VCC", "msg": "3.51"}
+{"topic": "HTR/SYS10/SIG", "msg": "-71"}
+{"topic": "/HTR/status/LWT", "msg": "Connected"}
+{"topic": "/HTR/DS18/Temp", "msg": "29"}
+{"topic": "/HTR/SW1/Switch", "msg": "1"}

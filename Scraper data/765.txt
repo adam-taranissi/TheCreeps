@@ -1,0 +1,2 @@
+{"IP": "159.65.110.162"}
+{"topic": "elabra/tpx2/primario/desgaste", "msg": "LOOP"}

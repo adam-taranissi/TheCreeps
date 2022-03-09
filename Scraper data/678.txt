@@ -1,0 +1,2 @@
+{"IP": "69.120.121.176"}
+{"topic": "owntracks/user/star2lte", "msg": "{\"_type\":\"location\",\"BSSID\":\"1c:3b:f3:44:87:a0\",\"SSID\":\"KFam\",\"acc\":61,\"alt\":-20,\"batt\":100,\"bs\":3,\"conn\":\"w\",\"created_at\":1645783652,\"lat\":40.734201,\"lon\":-74.1659922,\"m\":1,\"t\":\"p\",\"tid\":\"te\",\"tst\":1645771034,\"vac\":9,\"vel\":0}"}

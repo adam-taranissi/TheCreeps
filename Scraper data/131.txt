@@ -1,0 +1,2 @@
+{"IP": "35.226.23.2"}
+{"topic": "test/test", "msg": "WAGOPub123456789"}

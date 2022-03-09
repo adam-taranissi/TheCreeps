@@ -1,0 +1,17 @@
+{"IP": "138.197.69.97"}
+{"topic": "RTMS/AMC/humidity4", "msg": "42.00"}
+{"topic": "RTMS/AMC/humidity3", "msg": "54.80"}
+{"topic": "RTMS/AMC/ref4/temp", "msg": "1.38"}
+{"topic": "RTMS/AMC/room4/temp", "msg": "26.20"}
+{"topic": "citi/ref1", "msg": "4.06"}
+{"topic": "RTMS/AMC/ref3/temp", "msg": "2.06"}
+{"topic": "RTMS/AMC/room3/temp", "msg": "20.50"}
+{"topic": "RTMS/AMC/humidity7", "msg": "42.90"}
+{"topic": "RTMS/AMC/ref7/temp", "msg": "5.38"}
+{"topic": "RTMS/AMC/room7/temp", "msg": "21.80"}
+{"topic": "RTMS/AMC/humidity3", "msg": "54.80"}
+{"topic": "RTMS/AMC/ref3/temp", "msg": "2.06"}
+{"topic": "RTMS/AMC/room3/temp", "msg": "20.50"}
+{"topic": "citi/ref5", "msg": "5.06"}
+{"topic": "RTMS/AMC/humidity4", "msg": "42.00"}
+{"topic": "citi/ref5", "msg": "5.00"}

@@ -1,0 +1,5 @@
+{"IP": "174.108.45.192"}
+{"topic": "owntracks/adamwatson/e4810", "msg": "{\"_type\":\"location\",\"acc\":250,\"alt\":640,\"batt\":76,\"bs\":1,\"conn\":\"m\",\"created_at\":1639753685,\"lat\":35.3374409,\"lon\":-80.8417075,\"t\":\"p\",\"tid\":\"AW\",\"tst\":1639752893,\"vac\":128,\"vel\":0}"}
+{"topic": "owntracks/adamwatson/E4810", "msg": "{\"_type\":\"location\",\"acc\":11,\"alt\":228,\"batt\":86,\"bs\":1,\"conn\":\"m\",\"created_at\":1646534072,\"lat\":35.60101682,\"lon\":-80.88620337,\"tid\":\"AW\",\"tst\":1646534073,\"vac\":16,\"vel\":1}"}
+{"topic": "owntracks/adamwatson/Note205G", "msg": "{\"_type\":\"location\",\"BSSID\":\"76:83:c2:91:72:de\",\"SSID\":\"TheKingdom\",\"acc\":29,\"alt\":213,\"batt\":58,\"bs\":1,\"conn\":\"w\",\"created_at\":1645211849,\"lat\":35.6008113,\"lon\":-80.8863436,\"t\":\"p\",\"tid\":\"AW\",\"tst\":1645211284,\"vac\":1,\"vel\":0}"}
+{"topic": "owntracks/katewatson/iPhone12ProMax", "msg": "{\"_type\":\"location\",\"acc\":1414,\"alt\":0,\"batt\":34,\"bs\":1,\"BSSID\":\"76:83:c2:91:72:de\",\"conn\":\"w\",\"lat\":35.60025,\"lon\":-80.882187,\"p\":99.398,\"SSID\":\"TheKingdom\",\"tid\":\"KW\",\"tst\":1644889102}"}

@@ -1,0 +1,40 @@
+{"IP": "47.148.59.83"}
+{"topic": "Novastella2/power", "msg": "OFF"}
+{"topic": "Novastella2/brightness", "msg": "15"}
+{"topic": "Novastella2/color", "msg": "255,255,255"}
+{"topic": "Novastella2/white", "msg": "255"}
+{"topic": "Novastella/power", "msg": "OFF"}
+{"topic": "Novastella/brightness", "msg": "50"}
+{"topic": "bar-light/power", "msg": "OFF"}
+{"topic": "sonoff_rf/tele/LWT", "msg": "Online"}
+{"topic": "sonoff_rf/sensor1", "msg": "Closed"}
+{"topic": "homeassistant/switch/4A8FE1_RL_1/config", "msg": "{\"name\":\"Work Bench Work Bench\",\"stat_t\":\"workbench/tele/STATE\",\"avty_t\":\"workbench/tele/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"cmd_t\":\"workbench/cmnd/POWER\",\"val_tpl\":\"{{value_json.POWER}}\",\"pl_off\":\"OFF\",\"pl_on\":\"ON\",\"uniq_id\":\"4A8FE1_RL_1\",\"dev\":{\"ids\":[\"4A8FE1\"]}}"}
+{"topic": "homeassistant/binary_sensor/CACA8A_BTN_1/config", "msg": "{\"name\":\"SONOFF BRIDGE Button1\",\"stat_t\":\"~stat/BUTTON1\",\"avty_t\":\"~tele/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"uniq_id\":\"CACA8A_BTN_1\",\"device\":{\"identifiers\":[\"CACA8A\"],\"connections\":[[\"mac\",\"DC:4F:22:CA:CA:8A\"]]},\"~\":\"sonoff_rf/\",\"value_template\":\"{{value_json.STATE}}\",\"pl_on\":\"TOGGLE\",\"off_delay\":1}"}
+{"topic": "homeassistant/sensor/CACA8A_status/config", "msg": "{\"name\":\"SONOFF BRIDGE status\",\"stat_t\":\"~HASS_STATE\",\"avty_t\":\"~LWT\",\"frc_upd\":true,\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"json_attributes_topic\":\"~HASS_STATE\",\"unit_of_meas\":\" \",\"val_tpl\":\"{{value_json['RSSI']}}\",\"ic\":\"mdi:information-outline\",\"uniq_id\":\"CACA8A_status\",\"device\":{\"identifiers\":[\"CACA8A\"],\"connections\":[[\"mac\",\"DC:4F:22:CA:CA:8A\"]],\"name\":\"SONOFF BRIDGE\",\"model\":\"Sonoff Bridge\",\"sw_version\":\"8.1.0(tasmota)\",\"manufacturer\":\"Tasmota\"},\"~\":\"sonoff_rf/tele/\"}"}
+{"topic": "homeassistant/sensor/4A8FE1_ENERGY_TotalStartTime/config", "msg": "{\"name\":\"Work Bench ENERGY TotalStartTime\",\"stat_t\":\"workbench/tele/SENSOR\",\"avty_t\":\"workbench/tele/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"uniq_id\":\"4A8FE1_ENERGY_TotalStartTime\",\"dev\":{\"ids\":[\"4A8FE1\"]},\"unit_of_meas\":\" \",\"ic\":\"mdi:progress-clock\",\"frc_upd\":true,\"val_tpl\":\"{{value_json['ENERGY']['TotalStartTime']}}\"}"}
+{"topic": "homeassistant/sensor/4A8FE1_ENERGY_Total/config", "msg": "{\"name\":\"Work Bench ENERGY Total\",\"stat_t\":\"workbench/tele/SENSOR\",\"avty_t\":\"workbench/tele/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"uniq_id\":\"4A8FE1_ENERGY_Total\",\"dev\":{\"ids\":[\"4A8FE1\"]},\"unit_of_meas\":\"kWh\",\"dev_cla\":\"power\",\"frc_upd\":true,\"val_tpl\":\"{{value_json['ENERGY']['Total']}}\"}"}
+{"topic": "homeassistant/sensor/4A8FE1_ENERGY_Yesterday/config", "msg": "{\"name\":\"Work Bench ENERGY Yesterday\",\"stat_t\":\"workbench/tele/SENSOR\",\"avty_t\":\"workbench/tele/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"uniq_id\":\"4A8FE1_ENERGY_Yesterday\",\"dev\":{\"ids\":[\"4A8FE1\"]},\"unit_of_meas\":\"kWh\",\"dev_cla\":\"power\",\"frc_upd\":true,\"val_tpl\":\"{{value_json['ENERGY']['Yesterday']}}\"}"}
+{"topic": "homeassistant/sensor/4A8FE1_ENERGY_Today/config", "msg": "{\"name\":\"Work Bench ENERGY Today\",\"stat_t\":\"workbench/tele/SENSOR\",\"avty_t\":\"workbench/tele/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"uniq_id\":\"4A8FE1_ENERGY_Today\",\"dev\":{\"ids\":[\"4A8FE1\"]},\"unit_of_meas\":\"kWh\",\"dev_cla\":\"power\",\"frc_upd\":true,\"val_tpl\":\"{{value_json['ENERGY']['Today']}}\"}"}
+{"topic": "homeassistant/sensor/4A8FE1_ENERGY_Power/config", "msg": "{\"name\":\"Work Bench ENERGY Power\",\"stat_t\":\"workbench/tele/SENSOR\",\"avty_t\":\"workbench/tele/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"uniq_id\":\"4A8FE1_ENERGY_Power\",\"dev\":{\"ids\":[\"4A8FE1\"]},\"unit_of_meas\":\"W\",\"dev_cla\":\"power\",\"frc_upd\":true,\"val_tpl\":\"{{value_json['ENERGY']['Power']}}\"}"}
+{"topic": "homeassistant/sensor/4A8FE1_ENERGY_ApparentPower/config", "msg": "{\"name\":\"Work Bench ENERGY ApparentPower\",\"stat_t\":\"workbench/tele/SENSOR\",\"avty_t\":\"workbench/tele/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"uniq_id\":\"4A8FE1_ENERGY_ApparentPower\",\"dev\":{\"ids\":[\"4A8FE1\"]},\"unit_of_meas\":\"VA\",\"dev_cla\":\"power\",\"frc_upd\":true,\"val_tpl\":\"{{value_json['ENERGY']['ApparentPower']}}\"}"}
+{"topic": "homeassistant/sensor/4A8FE1_ENERGY_ReactivePower/config", "msg": "{\"name\":\"Work Bench ENERGY ReactivePower\",\"stat_t\":\"workbench/tele/SENSOR\",\"avty_t\":\"workbench/tele/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"uniq_id\":\"4A8FE1_ENERGY_ReactivePower\",\"dev\":{\"ids\":[\"4A8FE1\"]},\"unit_of_meas\":\"VAr\",\"dev_cla\":\"power\",\"frc_upd\":true,\"val_tpl\":\"{{value_json['ENERGY']['ReactivePower']}}\"}"}
+{"topic": "homeassistant/sensor/4A8FE1_ENERGY_Factor/config", "msg": "{\"name\":\"Work Bench ENERGY Factor\",\"stat_t\":\"workbench/tele/SENSOR\",\"avty_t\":\"workbench/tele/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"uniq_id\":\"4A8FE1_ENERGY_Factor\",\"dev\":{\"ids\":[\"4A8FE1\"]},\"unit_of_meas\":\"Cos \u03c6\",\"ic\":\"mdi:alpha-f-circle-outline\",\"frc_upd\":true,\"val_tpl\":\"{{value_json['ENERGY']['Factor']}}\"}"}
+{"topic": "homeassistant/sensor/4A8FE1_ENERGY_Voltage/config", "msg": "{\"name\":\"Work Bench ENERGY Voltage\",\"stat_t\":\"workbench/tele/SENSOR\",\"avty_t\":\"workbench/tele/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"uniq_id\":\"4A8FE1_ENERGY_Voltage\",\"dev\":{\"ids\":[\"4A8FE1\"]},\"unit_of_meas\":\"V\",\"ic\":\"mdi:alpha-v-circle-outline\",\"frc_upd\":true,\"val_tpl\":\"{{value_json['ENERGY']['Voltage']}}\"}"}
+{"topic": "homeassistant/sensor/4A8FE1_ENERGY_Current/config", "msg": "{\"name\":\"Work Bench ENERGY Current\",\"stat_t\":\"workbench/tele/SENSOR\",\"avty_t\":\"workbench/tele/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"uniq_id\":\"4A8FE1_ENERGY_Current\",\"dev\":{\"ids\":[\"4A8FE1\"]},\"unit_of_meas\":\"A\",\"ic\":\"mdi:alpha-a-circle-outline\",\"frc_upd\":true,\"val_tpl\":\"{{value_json['ENERGY']['Current']}}\"}"}
+{"topic": "homeassistant/sensor/4A8FE1_status/config", "msg": "{\"name\":\"Work Bench status\",\"stat_t\":\"workbench/tele/HASS_STATE\",\"avty_t\":\"workbench/tele/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"json_attr_t\":\"workbench/tele/HASS_STATE\",\"unit_of_meas\":\"%\",\"val_tpl\":\"{{value_json['RSSI']}}\",\"ic\":\"mdi:information-outline\",\"uniq_id\":\"4A8FE1_status\",\"dev\":{\"ids\":[\"4A8FE1\"],\"name\":\"Work Bench\",\"mdl\":\"Sonoff Pow R2\",\"sw\":\"8.4.0(tasmota)\",\"mf\":\"Tasmota\"}}"}
+{"topic": "RFBridge/motion_garage", "msg": "OFF"}
+{"topic": "RFBridge/motion_den", "msg": "OFF"}
+{"topic": "tele/sonoff1/LWT", "msg": "Online"}
+{"topic": "tele/sonoff2/LWT", "msg": "Online"}
+{"topic": "tele/den/LWT", "msg": "Online"}
+{"topic": "tele/dryer/LWT", "msg": "Online"}
+{"topic": "tele/dryer/SENSOR", "msg": "{\"Time\":\"2022-03-08T19:52:30\",\"ENERGY\":{\"TotalStartTime\":\"2018-12-04T17:56:34\",\"Total\":181.377,\"Yesterday\":0.113,\"Today\":0.101,\"Period\":0.54,\"Power\":0.00,\"ApparentPower\":0.00,\"ReactivePower\":0.00,\"Factor\":0.00,\"Voltage\":0,\"Current\":0.000}}"}
+{"topic": "tele/MJSW4/LWT", "msg": "Online"}
+{"topic": "tele/MJSW2/LWT", "msg": "Online"}
+{"topic": "tele/MJSW3/LWT", "msg": "Online"}
+{"topic": "tele/MJSW1/LWT", "msg": "Online"}
+{"topic": "stat/sonoff1/POWER", "msg": "OFF"}
+{"topic": "stat/sonoff2/POWER", "msg": "OFF"}
+{"topic": "stat/den/POWER", "msg": "OFF"}
+{"topic": "stat/dryer/POWER", "msg": "OFF"}
+{"topic": "workbench/tele/LWT", "msg": "Online"}

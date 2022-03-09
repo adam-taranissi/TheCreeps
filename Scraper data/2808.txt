@@ -1,0 +1,2 @@
+{"IP": "65.151.40.247"}
+{"topic": "StatusOverview", "msg": "{\"action\":\"update\",\"table\":\"variables\",\"displayvalue\":\"208.2\",\"id\":\"11\",\"value\":\"208.2\"}"}

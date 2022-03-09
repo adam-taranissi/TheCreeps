@@ -1,0 +1,9 @@
+{"IP": "44.231.161.215"}
+{"topic": "weigh-rep", "msg": "Z"}
+{"topic": "weigh2-rep", "msg": "Z"}
+{"topic": "abc/123", "msg": "XYZ"}
+{"topic": "weightech_MONTHLY", "msg": "[]"}
+{"topic": "weightech_YEARLY", "msg": "[{productName:6,qty:1.000,dateTime:2021-03-01-10-39},{productName:7,qty:1.000,dateTime:2021-03-01-10-39},{productName:Coffee,qty:1.000,dateTime:2021-03-01-10-39},{productName:Tea,qty:1.000,dateTime:2021-03-01-10-39}]"}
+{"topic": "weightech_DAILY", "msg": "[]"}
+{"topic": "weightech_YESTERDAY", "msg": "[]"}
+{"topic": "weightech_WEEKLY", "msg": "[{productName:PROD1,qty:200.0,dateTime:2021-02-26-21-19}]"}

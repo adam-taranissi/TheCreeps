@@ -1,0 +1,3 @@
+{"IP": "104.198.187.189"}
+{"topic": "gateway/3235313254002a00/state/conn", "msg": "\n\b2512T\u0000*\u0000"}
+{"topic": "gateway/3235313254003200/state/conn", "msg": "\n\b2512T\u00002\u0000\u0010\u0001"}

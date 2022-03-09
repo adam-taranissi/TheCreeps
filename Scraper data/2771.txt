@@ -1,0 +1,9 @@
+{"IP": "35.223.116.229"}
+{"topic": "ActiveMQ/Advisory/MasterBroker", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Consumer/Topic/#", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Connection", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Consumer/Topic/devices/869867038690451", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Connection", "msg": ""}
+{"topic": "devices/869867038690451", "msg": "OK"}
+{"topic": "ActiveMQ/Advisory/Consumer/Topic/devices/869867038690451", "msg": ""}
+{"topic": "gateway/devices", "msg": "P,869867038690451,10_0,11_256,13_0,14_0,15_1798,16_768,17_768,18_0,19_4096,20_4096,21_0,22_0,23_3,24_280,25_0,26_210,27_0,28_28,29_0,30_0,31_2000,32_0,33_1000,34_0,35_3000,36_0,37_3000,38_0,39_3000,40_0,41_1000,42_1,43_2,44_3,45_1,46_2,47_3,48_5,49_0,50_0,51_0,52_0,53_0,54_0,55_0,ID_0"}

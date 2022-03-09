@@ -1,0 +1,36 @@
+{"IP": "166.152.195.47"}
+{"topic": "/home/licor/device/port/2", "msg": "{ \"SECONDS\" : 1646782117, \"NANOSECONDS\" : 22812486, \"u\" : 003.782, \"v\" : 003.653, \"w\" : 001.198, \"ts\" : 002.75, \"diag\" : \"00\" }"}
+{"topic": "/home/licor/device/port/2/status", "msg": "Connected"}
+{"topic": "/home/licor/device/port/2/fast", "msg": "{ \"SECONDS\" : 1646782117, \"NANOSECONDS\" : 322527980, \"u\" : 003.822, \"v\" : 005.189, \"w\" : -000.613, \"ts\" : 002.80, \"diag\" : \"00\" }"}
+{"topic": "/home/licor/device/LI-8100", "msg": "{\"hostname\": \"\"}"}
+{"topic": "/home/licor/usb/event", "msg": "mounted"}
+{"topic": "/home/licor/device/port/2/fast", "msg": "{ \"SECONDS\" : 1646782117, \"NANOSECONDS\" : 372470861, \"u\" : 003.534, \"v\" : 005.006, \"w\" : -000.607, \"ts\" : 002.78, \"diag\" : \"00\" }"}
+{"topic": "/home/licor/device/port/2/fast", "msg": "{ \"SECONDS\" : 1646782117, \"NANOSECONDS\" : 422446908, \"u\" : 003.295, \"v\" : 004.947, \"w\" : 000.123, \"ts\" : 002.73, \"diag\" : \"00\" }"}
+{"topic": "/home/licor/device/port/2/fast", "msg": "{ \"SECONDS\" : 1646782117, \"NANOSECONDS\" : 472392789, \"u\" : 003.045, \"v\" : 004.579, \"w\" : -000.040, \"ts\" : 002.77, \"diag\" : \"00\" }"}
+{"topic": "/home/licor/device/port/2/fast", "msg": "{ \"SECONDS\" : 1646782117, \"NANOSECONDS\" : 522354252, \"u\" : 002.956, \"v\" : 004.796, \"w\" : -000.164, \"ts\" : 002.77, \"diag\" : \"00\" }"}
+{"topic": "/home/licor/device/port/2/fast", "msg": "{ \"SECONDS\" : 1646782117, \"NANOSECONDS\" : 572283551, \"u\" : 002.948, \"v\" : 004.895, \"w\" : -000.502, \"ts\" : 002.67, \"diag\" : \"00\" }"}
+{"topic": "/home/licor/device/port/2/fast", "msg": "{ \"SECONDS\" : 1646782117, \"NANOSECONDS\" : 622243390, \"u\" : 003.144, \"v\" : 004.623, \"w\" : -000.872, \"ts\" : 002.68, \"diag\" : \"00\" }"}
+{"topic": "/home/licor/device/port/2/fast", "msg": "{ \"SECONDS\" : 1646782117, \"NANOSECONDS\" : 672215770, \"u\" : 003.154, \"v\" : 004.830, \"w\" : -000.470, \"ts\" : 002.78, \"diag\" : \"00\" }"}
+{"topic": "/home/licor/device/port/2/fast", "msg": "{ \"SECONDS\" : 1646782117, \"NANOSECONDS\" : 722143985, \"u\" : 003.315, \"v\" : 004.504, \"w\" : -000.202, \"ts\" : 002.73, \"diag\" : \"00\" }"}
+{"topic": "/home/licor/device/port/2/fast", "msg": "{ \"SECONDS\" : 1646782117, \"NANOSECONDS\" : 772106282, \"u\" : 003.494, \"v\" : 004.781, \"w\" : -000.040, \"ts\" : 002.73, \"diag\" : \"00\" }"}
+{"topic": "/home/licor/device/port/2/fast", "msg": "{ \"SECONDS\" : 1646782117, \"NANOSECONDS\" : 822057621, \"u\" : 003.672, \"v\" : 004.818, \"w\" : -000.193, \"ts\" : 002.78, \"diag\" : \"00\" }"}
+{"topic": "/home/licor/device/port/2/fast", "msg": "{ \"SECONDS\" : 1646782117, \"NANOSECONDS\" : 871982503, \"u\" : 003.859, \"v\" : 004.398, \"w\" : -000.036, \"ts\" : 002.83, \"diag\" : \"00\" }"}
+{"topic": "/home/licor/device/port/2/fast", "msg": "{ \"SECONDS\" : 1646782117, \"NANOSECONDS\" : 921954383, \"u\" : 003.876, \"v\" : 004.746, \"w\" : 000.043, \"ts\" : 002.72, \"diag\" : \"00\" }"}
+{"topic": "/home/licor/device/port/2/fast", "msg": "{ \"SECONDS\" : 1646782117, \"NANOSECONDS\" : 971899472, \"u\" : 003.927, \"v\" : 004.304, \"w\" : -000.016, \"ts\" : 002.75, \"diag\" : \"00\" }"}
+{"topic": "/home/licor/device/port/2", "msg": "{ \"SECONDS\" : 1646782118, \"NANOSECONDS\" : 21852020, \"u\" : 004.193, \"v\" : 004.521, \"w\" : -000.164, \"ts\" : 002.67, \"diag\" : \"00\" }"}
+{"topic": "/home/licor/device/port/2/fast", "msg": "{ \"SECONDS\" : 1646782118, \"NANOSECONDS\" : 21852020, \"u\" : 004.193, \"v\" : 004.521, \"w\" : -000.164, \"ts\" : 002.67, \"diag\" : \"00\" }"}
+{"topic": "/home/licor/device/port/2/fast", "msg": "{ \"SECONDS\" : 1646782118, \"NANOSECONDS\" : 71830025, \"u\" : 004.186, \"v\" : 004.297, \"w\" : 000.074, \"ts\" : 002.55, \"diag\" : \"00\" }"}
+{"topic": "/home/licor/device/port/2/fast", "msg": "{ \"SECONDS\" : 1646782118, \"NANOSECONDS\" : 121761115, \"u\" : 004.024, \"v\" : 004.137, \"w\" : 000.152, \"ts\" : 002.78, \"diag\" : \"00\" }"}
+{"topic": "/home/licor/device/port/2/fast", "msg": "{ \"SECONDS\" : 1646782118, \"NANOSECONDS\" : 171700621, \"u\" : 004.081, \"v\" : 004.402, \"w\" : 000.195, \"ts\" : 002.77, \"diag\" : \"00\" }"}
+{"topic": "/home/licor/device/port/2/fast", "msg": "{ \"SECONDS\" : 1646782118, \"NANOSECONDS\" : 221678126, \"u\" : 004.100, \"v\" : 004.324, \"w\" : 000.225, \"ts\" : 002.80, \"diag\" : \"00\" }"}
+{"topic": "/home/licor/device/port/2/fast", "msg": "{ \"SECONDS\" : 1646782118, \"NANOSECONDS\" : 271637215, \"u\" : 004.240, \"v\" : 004.311, \"w\" : 000.338, \"ts\" : 002.75, \"diag\" : \"00\" }"}
+{"topic": "/home/licor/device/port/2/fast", "msg": "{ \"SECONDS\" : 1646782118, \"NANOSECONDS\" : 321565805, \"u\" : 004.176, \"v\" : 004.540, \"w\" : 000.535, \"ts\" : 002.58, \"diag\" : \"00\" }"}
+{"topic": "/home/licor/device/port/2/fast", "msg": "{ \"SECONDS\" : 1646782118, \"NANOSECONDS\" : 371545502, \"u\" : 004.235, \"v\" : 004.136, \"w\" : 000.476, \"ts\" : 002.78, \"diag\" : \"00\" }"}
+{"topic": "/home/licor/device/port/2/fast", "msg": "{ \"SECONDS\" : 1646782118, \"NANOSECONDS\" : 421482679, \"u\" : 004.233, \"v\" : 004.445, \"w\" : 000.559, \"ts\" : 002.75, \"diag\" : \"00\" }"}
+{"topic": "/home/licor/device/port/2/fast", "msg": "{ \"SECONDS\" : 1646782118, \"NANOSECONDS\" : 471298401, \"u\" : 004.163, \"v\" : 004.323, \"w\" : 000.539, \"ts\" : 002.91, \"diag\" : \"00\" }"}
+{"topic": "/home/licor/device/port/2/fast", "msg": "{ \"SECONDS\" : 1646782118, \"NANOSECONDS\" : 521244827, \"u\" : 004.278, \"v\" : 004.351, \"w\" : 000.825, \"ts\" : 002.68, \"diag\" : \"00\" }"}
+{"topic": "/home/licor/device/port/2/fast", "msg": "{ \"SECONDS\" : 1646782118, \"NANOSECONDS\" : 571207211, \"u\" : 004.224, \"v\" : 004.587, \"w\" : 000.724, \"ts\" : 002.73, \"diag\" : \"00\" }"}
+{"topic": "/home/licor/device/port/2/fast", "msg": "{ \"SECONDS\" : 1646782118, \"NANOSECONDS\" : 621161179, \"u\" : 004.457, \"v\" : 004.637, \"w\" : 000.642, \"ts\" : 002.68, \"diag\" : \"00\" }"}
+{"topic": "/home/licor/device/port/2/fast", "msg": "{ \"SECONDS\" : 1646782118, \"NANOSECONDS\" : 671101022, \"u\" : 004.462, \"v\" : 004.312, \"w\" : 000.650, \"ts\" : 002.67, \"diag\" : \"00\" }"}
+{"topic": "/home/licor/device/port/2/fast", "msg": "{ \"SECONDS\" : 1646782118, \"NANOSECONDS\" : 721029324, \"u\" : 004.798, \"v\" : 004.205, \"w\" : 000.552, \"ts\" : 002.82, \"diag\" : \"00\" }"}
+{"topic": "/home/licor/device/port/2/fast", "msg": "{ \"SECONDS\" : 1646782118, \"NANOSECONDS\" : 770974542, \"u\" : 004.634, \"v\" : 003.948, \"w\" : 000.557, \"ts\" : 002.73, \"diag\" : \"00\" }"}

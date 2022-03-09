@@ -1,0 +1,14 @@
+{"IP": "50.35.27.127"}
+{"topic": "/light/desklamp", "msg": "{\"state\":\"ON\",\"color\":{\"r\":255,\"g\":255,\"b\":255},\"brightness\":255,\"effect\":\"solid\"}"}
+{"topic": "hass/status", "msg": "online"}
+{"topic": "tele/sonoff2/LWT", "msg": "Online"}
+{"topic": "tele/sonoff1/LWT", "msg": "Online"}
+{"topic": "cmnd/sonoff1/POWER", "msg": "OFF"}
+{"topic": "cmnd/sonoff2/POWER", "msg": "OFF"}
+{"topic": "sensor/garage", "msg": "{\"temperature\":55.5125,\"sensor\":\"garage\"}"}
+{"topic": "sprinkler/back", "msg": "1"}
+{"topic": "sprinkler/back/command", "msg": "1"}
+{"topic": "sprinkler/front", "msg": "1"}
+{"topic": "sprinkler/front/command", "msg": "1"}
+{"topic": "sprinkler/veggarden", "msg": "1"}
+{"topic": "sprinkler/veggarden/command", "msg": "1"}

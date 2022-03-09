@@ -1,0 +1,18 @@
+{"IP": "34.73.215.67"}
+{"topic": "AutoAir", "msg": "false"}
+{"topic": "AirDuration", "msg": "6"}
+{"topic": "TempCut", "msg": "46"}
+{"topic": "TimeCut", "msg": "20"}
+{"topic": "ServoPress", "msg": "165"}
+{"topic": "control_power1", "msg": "ON"}
+{"topic": "alerton", "msg": "true"}
+{"topic": "AutoShutdown", "msg": "true"}
+{"topic": "tempcut_power1", "msg": "55"}
+{"topic": "control_savefile1", "msg": "ON"}
+{"topic": "control_power_master", "msg": "ON"}
+{"topic": "control_power2", "msg": "ON"}
+{"topic": "TempHumid_power2", "msg": "11.00,36.80"}
+{"topic": "update_power1", "msg": "power1 07:40:34"}
+{"topic": "winupdate_com3", "msg": "WINRIG3: 08:40:34"}
+{"topic": "TempHumid_power1", "msg": "14.00,35.80"}
+{"topic": "update_CF3865U_3", "msg": "CF3865U_3 07:40:36"}

@@ -1,0 +1,4 @@
+{"IP": "170.187.144.238"}
+{"topic": "esp/dht/temperature", "msg": "21.40"}
+{"topic": "esp/dht/humidity", "msg": "56.30"}
+{"topic": "esp/dht/humidity", "msg": "56.30"}

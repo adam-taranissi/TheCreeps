@@ -1,0 +1,2 @@
+{"IP": "50.193.11.190"}
+{"topic": "init/v1.0/system/server/state", "msg": "{\"state\":\"ONLINE\"}"}

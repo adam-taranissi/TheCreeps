@@ -1,0 +1,3 @@
+{"IP": "34.205.200.35"}
+{"topic": "connquality", "msg": "{\"LID\":\"3c4d68fa-f222-4095-93f6-8734fa1b5552\",\"M\":\"WIFI\",\"RSSI\":70}"}
+{"topic": "connquality", "msg": "{\"LID\":\"3c4d68fa-f222-4095-93f6-8734fa1b5552\",\"M\":\"WIFI\",\"RSSI\":70}"}

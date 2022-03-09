@@ -1,0 +1,38 @@
+{"IP": "159.89.89.60"}
+{"topic": "feeder/weather/temp", "msg": "35"}
+{"topic": "feeder/weather/desc", "msg": "Partly cloudy"}
+{"topic": "feeder/weather/wind", "msg": "15"}
+{"topic": "feeder/weather/icon", "msg": "https://assets.weatherstack.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png"}
+{"topic": "feeder/irrigation", "msg": "10"}
+{"topic": "feeder/book/var", "msg": "3500"}
+{"topic": "feeder/book1/var", "msg": "2700"}
+{"topic": "feeder/sensor/temperature", "msg": "28"}
+{"topic": "feeder/sensor/humidity", "msg": "52"}
+{"topic": "feeder/sensor/soil", "msg": "564"}
+{"topic": "feeder/sensor/lasttime", "msg": "12:13"}
+{"topic": "feeder/weather/temp", "msg": "35"}
+{"topic": "feeder/weather/desc", "msg": "Partly cloudy"}
+{"topic": "feeder/weather/wind", "msg": "15"}
+{"topic": "feeder/weather/icon", "msg": "https://assets.weatherstack.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png"}
+{"topic": "feeder/irrigation", "msg": "10"}
+{"topic": "feeder/book/var", "msg": "3500"}
+{"topic": "feeder/book1/var", "msg": "2700"}
+{"topic": "feeder/sensor/temperature", "msg": "28"}
+{"topic": "feeder/sensor/humidity", "msg": "52"}
+{"topic": "feeder/sensor/soil", "msg": "564"}
+{"topic": "feeder/sensor/lasttime", "msg": "12:13"}
+{"topic": "feeder/weather/temp", "msg": "35"}
+{"topic": "feeder/weather/desc", "msg": "Partly cloudy"}
+{"topic": "feeder/weather/wind", "msg": "15"}
+{"topic": "feeder/weather/icon", "msg": "https://assets.weatherstack.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png"}
+{"topic": "feeder/irrigation", "msg": "10"}
+{"topic": "feeder/book/var", "msg": "3500"}
+{"topic": "feeder/book1/var", "msg": "2700"}
+{"topic": "feeder/sensor/temperature", "msg": "28"}
+{"topic": "feeder/sensor/humidity", "msg": "52"}
+{"topic": "feeder/sensor/soil", "msg": "564"}
+{"topic": "feeder/sensor/lasttime", "msg": "12:13"}
+{"topic": "feeder/weather/temp", "msg": "35"}
+{"topic": "feeder/weather/desc", "msg": "Partly cloudy"}
+{"topic": "feeder/weather/wind", "msg": "15"}
+{"topic": "feeder/weather/icon", "msg": "https://assets.weatherstack.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png"}

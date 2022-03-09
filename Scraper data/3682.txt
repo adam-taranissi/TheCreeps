@@ -1,0 +1,37 @@
+{"IP": "67.10.188.84"}
+{"topic": "openevse/announce/7480", "msg": "{\"state\":\"connected\",\"id\":\"9c9c1fe57480\",\"name\":\"openevse-7480\",\"mqtt\":\"openevse\",\"http\":\"http://192.168.86.31/\"}"}
+{"topic": "smt/reading", "msg": "11545.62"}
+{"topic": "smt/intervaldata/0/starttime", "msg": " 12:00 am"}
+{"topic": "smt/intervaldata/0/endtime", "msg": " 12:15 am"}
+{"topic": "smt/intervaldata/0/date", "msg": "2022-01-30"}
+{"topic": "smt/intervaldata/0/consumption", "msg": "0.25"}
+{"topic": "smt/intervaldata/0/consumption_est_act", "msg": "A"}
+{"topic": "smt/intervaldata/0/generation", "msg": "0"}
+{"topic": "smt/intervaldata/0/generation_est_act", "msg": "A"}
+{"topic": "smt/intervaldata/1/endtime", "msg": " 12:30 am"}
+{"topic": "smt/intervaldata/1/starttime", "msg": " 12:15 am"}
+{"topic": "smt/intervaldata/1/date", "msg": "2022-01-30"}
+{"topic": "smt/intervaldata/1/consumption", "msg": "0.496"}
+{"topic": "smt/intervaldata/1/consumption_est_act", "msg": "A"}
+{"topic": "smt/intervaldata/1/generation", "msg": "0"}
+{"topic": "smt/intervaldata/1/generation_est_act", "msg": "A"}
+{"topic": "smt/intervaldata/2/date", "msg": "2022-01-30"}
+{"topic": "smt/intervaldata/2/starttime", "msg": " 12:30 am"}
+{"topic": "smt/intervaldata/2/endtime", "msg": " 12:45 am"}
+{"topic": "smt/intervaldata/2/consumption", "msg": "0.118"}
+{"topic": "smt/intervaldata/2/consumption_est_act", "msg": "A"}
+{"topic": "smt/intervaldata/2/generation", "msg": "0"}
+{"topic": "smt/intervaldata/2/generation_est_act", "msg": "A"}
+{"topic": "smt/intervaldata/3/consumption", "msg": "0.493"}
+{"topic": "smt/intervaldata/3/starttime", "msg": " 12:45 am"}
+{"topic": "smt/intervaldata/3/endtime", "msg": " 01:00 am"}
+{"topic": "smt/intervaldata/3/date", "msg": "2022-01-30"}
+{"topic": "smt/intervaldata/3/consumption_est_act", "msg": "A"}
+{"topic": "smt/intervaldata/3/generation", "msg": "0"}
+{"topic": "smt/intervaldata/3/generation_est_act", "msg": "A"}
+{"topic": "smt/intervaldata/4/consumption_est_act", "msg": "A"}
+{"topic": "smt/intervaldata/4/starttime", "msg": " 01:00 am"}
+{"topic": "smt/intervaldata/4/endtime", "msg": " 01:15 am"}
+{"topic": "smt/intervaldata/4/date", "msg": "2022-01-30"}
+{"topic": "smt/intervaldata/4/consumption", "msg": "0.288"}
+{"topic": "smt/intervaldata/4/generation", "msg": "0"}

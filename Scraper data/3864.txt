@@ -1,0 +1,5 @@
+{"IP": "71.25.104.99"}
+{"topic": "system/state", "msg": "online"}
+{"topic": "system/state", "msg": "online"}
+{"topic": "system/bridgeStatus", "msg": "\u0004\b\u0000\u0001"}
+{"topic": "remote/loggedOnUser", "msg": ""}

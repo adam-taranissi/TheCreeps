@@ -1,0 +1,6 @@
+{"IP": "52.20.34.212"}
+{"topic": "tele/sonoff/LWT", "msg": "Offline"}
+{"topic": "tele/switch1/LWT", "msg": "Offline"}
+{"topic": "tele/LWT", "msg": "Online"}
+{"topic": "tele/sensores/LWT", "msg": "Offline"}
+{"topic": "abc/123", "msg": "XYZ"}

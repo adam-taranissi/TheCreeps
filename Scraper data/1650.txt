@@ -1,0 +1,14 @@
+{"IP": "161.35.230.126"}
+{"topic": "abc/123", "msg": "XYZ"}
+{"topic": "esp32/output13", "msg": "off"}
+{"topic": "esp32/output3", "msg": "off"}
+{"topic": "esp32/output4", "msg": "off"}
+{"topic": "esp32/output0", "msg": "off"}
+{"topic": "esp32/output6", "msg": "off"}
+{"topic": "esp32/output2", "msg": "off"}
+{"topic": "esp32/output9", "msg": "off"}
+{"topic": "esp32/output1", "msg": "off"}
+{"topic": "esp32/output15", "msg": "off"}
+{"topic": "esp32/output14", "msg": "off"}
+{"topic": "esp32/output5", "msg": "off"}
+{"topic": "esp32/output8", "msg": "off"}

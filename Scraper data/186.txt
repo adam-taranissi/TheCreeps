@@ -1,0 +1,38 @@
+{"IP": "64.227.54.41"}
+{"topic": "/devices/wb-adc/controls/A4", "msg": "0.01"}
+{"topic": "/devices/wb-adc/controls/Vin", "msg": "11.76"}
+{"topic": "/devices/wb-adc/controls/5Vout", "msg": "5.04"}
+{"topic": "/devices/wb-adc/controls/A1", "msg": "0.02"}
+{"topic": "/devices/wb-adc/controls/A2", "msg": "0.01"}
+{"topic": "/devices/wb-adc/controls/A3", "msg": "0.01"}
+{"topic": "/devices/power_status/controls/Vin", "msg": "11.76"}
+{"topic": "/devices/power_status/controls/Vin/meta/type", "msg": "voltage"}
+{"topic": "/devices/power_status/controls/Vin/meta/order", "msg": "1"}
+{"topic": "/devices/power_status/controls/working on battery", "msg": "0"}
+{"topic": "/devices/power_status/controls/working on battery/meta/type", "msg": "switch"}
+{"topic": "/devices/power_status/controls/working on battery/meta/readonly", "msg": "1"}
+{"topic": "/devices/power_status/controls/working on battery/meta/order", "msg": "2"}
+{"topic": "/devices/power_status/meta/name", "msg": "Power status"}
+{"topic": "/devices/hwmon/controls/CPU Temperature", "msg": "65.320"}
+{"topic": "/devices/hwmon/controls/CPU Temperature/meta/type", "msg": "temperature"}
+{"topic": "/devices/hwmon/controls/CPU Temperature/meta/order", "msg": "2"}
+{"topic": "/devices/hwmon/controls/Board Temperature", "msg": "39.500"}
+{"topic": "/devices/hwmon/controls/Board Temperature/meta/type", "msg": "temperature"}
+{"topic": "/devices/hwmon/controls/Board Temperature/meta/order", "msg": "1"}
+{"topic": "/devices/hwmon/meta/name", "msg": "HW Monitor"}
+{"topic": "/devices/warmfloor_1/controls/state", "msg": "1"}
+{"topic": "/devices/warmfloor_1/controls/state/meta/type", "msg": "switch"}
+{"topic": "/devices/warmfloor_1/controls/state/meta/order", "msg": "1"}
+{"topic": "/devices/warmfloor_1/controls/warmfloor_value", "msg": "0"}
+{"topic": "/devices/warmfloor_1/controls/warmfloor_value/meta/type", "msg": "value"}
+{"topic": "/devices/warmfloor_1/controls/warmfloor_value/meta/order", "msg": "4"}
+{"topic": "/devices/warmfloor_1/controls/t", "msg": "23.47"}
+{"topic": "/devices/warmfloor_1/controls/t/meta/type", "msg": "temperature"}
+{"topic": "/devices/warmfloor_1/controls/t/meta/order", "msg": "2"}
+{"topic": "/devices/warmfloor_1/controls/target", "msg": "28"}
+{"topic": "/devices/warmfloor_1/controls/target/meta/type", "msg": "range"}
+{"topic": "/devices/warmfloor_1/controls/target/meta/order", "msg": "3"}
+{"topic": "/devices/warmfloor_1/controls/target/meta/max", "msg": "35"}
+{"topic": "/devices/warmfloor_1/meta/name", "msg": "Warmfloor 1 (room 1)"}
+{"topic": "/devices/wb-gpio/controls/A3_OUT", "msg": "0"}
+{"topic": "/devices/wb-gpio/controls/A3_OUT/meta/type", "msg": "switch"}

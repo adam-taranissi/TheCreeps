@@ -1,0 +1,43 @@
+{"IP": "71.67.21.253"}
+{"topic": "ActiveMQ/Advisory/Consumer/Topic/4/ntr/notifications", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Producer/Topic/1/ntr/notifications", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Consumer/Topic/3/ntr/notifications", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Consumer/Topic/$SYS/#", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Consumer/Topic/$SYS/#", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Consumer/Topic/$SYS/#", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Consumer/Topic/$SYS/#", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Consumer/Topic/$SYS/#", "msg": ""}
+{"topic": "6/ntr/notifications", "msg": "{\"mode\":\"00\",\"cashierId\":388,\"suspendedRegisterId\":0,\"suspendedTransactionId\":0,\"suspendedTotal\":null,\"suspendedTax\":null,\"messageId\":\"B\",\"laneId\":6,\"transactionId\":3437,\"timeStamp\":\"2022-03-08T16:11:23.326\"}"}
+{"topic": "6/ntr/notifications", "msg": "{\"offers\":[{\"itemCode\":7047015964,\"itemPrice\":\"60\",\"itemQuantity\":1,\"promotionId\":3033996,\"promotionDesc\":\"when you buy FIVE CUPS any variety Yoplait  #43381\",\"startDate\":\"2022-02-01T00:00:00.000\",\"endDate\":\"2022-03-14T23:59:59.000\",\"benefitFunction\":\"currencyOffByItem\",\"creditAmount\":\"50\"}],\"messageId\":\"O\",\"laneId\":6,\"transactionId\":3437,\"timeStamp\":\"2022-03-08T16:11:30.470\"}"}
+{"topic": "6/ntr/notifications", "msg": "{\"offers\":[{\"itemCode\":7047015964,\"itemPrice\":\"60\",\"itemQuantity\":1,\"promotionId\":3033996,\"promotionDesc\":\"when you buy FIVE CUPS any variety Yoplait  #43381\",\"startDate\":\"2022-02-01T00:00:00.000\",\"endDate\":\"2022-03-14T23:59:59.000\",\"benefitFunction\":\"currencyOffByItem\",\"creditAmount\":\"50\"}],\"messageId\":\"O\",\"laneId\":6,\"transactionId\":3437,\"timeStamp\":\"2022-03-08T16:11:31.751\"}"}
+{"topic": "6/ntr/notifications", "msg": "{\"offers\":[{\"itemCode\":7047015865,\"itemPrice\":\"60\",\"itemQuantity\":1,\"promotionId\":3033996,\"promotionDesc\":\"when you buy FIVE CUPS any variety Yoplait  #43381\",\"startDate\":\"2022-02-01T00:00:00.000\",\"endDate\":\"2022-03-14T23:59:59.000\",\"benefitFunction\":\"currencyOffByItem\",\"creditAmount\":\"50\"}],\"messageId\":\"O\",\"laneId\":6,\"transactionId\":3437,\"timeStamp\":\"2022-03-08T16:11:33.270\"}"}
+{"topic": "6/ntr/notifications", "msg": "{\"offers\":[{\"itemCode\":7047015865,\"itemPrice\":\"60\",\"itemQuantity\":1,\"promotionId\":3033996,\"promotionDesc\":\"when you buy FIVE CUPS any variety Yoplait  #43381\",\"startDate\":\"2022-02-01T00:00:00.000\",\"endDate\":\"2022-03-14T23:59:59.000\",\"benefitFunction\":\"currencyOffByItem\",\"creditAmount\":\"50\"}],\"messageId\":\"O\",\"laneId\":6,\"transactionId\":3437,\"timeStamp\":\"2022-03-08T16:11:36.216\"}"}
+{"topic": "ActiveMQ/Advisory/Producer/Topic/7/ntr/notifications", "msg": ""}
+{"topic": "ActiveMQ/Advisory/MasterBroker", "msg": ""}
+{"topic": "7/ntr/notifications", "msg": "{\"messageId\":\"T\",\"laneId\":7,\"transactionId\":528,\"timeStamp\":\"2022-03-08T10:32:06.923\"}"}
+{"topic": "7/ntr/notifications", "msg": "{\"messageId\":\"I\",\"laneId\":7,\"transactionId\":528,\"timeStamp\":\"2022-03-08T10:32:25.945\"}"}
+{"topic": "7/ntr/notifications", "msg": "{\"messageId\":\"T\",\"laneId\":7,\"transactionId\":528,\"timeStamp\":\"2022-03-08T10:32:39.241\"}"}
+{"topic": "7/ntr/notifications", "msg": "{\"mode\":\"00\",\"totalCount\":0,\"totalAmount\":\"0\",\"offers\":[],\"messageId\":\"E\",\"laneId\":7,\"transactionId\":528,\"timeStamp\":\"2022-03-08T10:34:30.812\"}"}
+{"topic": "7/ntr/notifications", "msg": "{\"mode\":\"00\",\"cashierId\":335,\"suspendedRegisterId\":0,\"suspendedTransactionId\":0,\"suspendedTotal\":null,\"suspendedTax\":null,\"messageId\":\"B\",\"laneId\":7,\"transactionId\":529,\"timeStamp\":\"2022-03-08T10:44:35.728\"}"}
+{"topic": "5/ntr/notifications", "msg": "{\"messageId\":\"T\",\"laneId\":5,\"transactionId\":6370,\"timeStamp\":\"2022-03-08T16:02:01.335\"}"}
+{"topic": "5/ntr/notifications", "msg": "{\"mode\":\"00\",\"totalCount\":0,\"totalAmount\":\"0\",\"offers\":[],\"messageId\":\"E\",\"laneId\":5,\"transactionId\":6370,\"timeStamp\":\"2022-03-08T16:02:21.593\"}"}
+{"topic": "5/ntr/notifications", "msg": "{\"mode\":\"00\",\"cashierId\":401,\"suspendedRegisterId\":0,\"suspendedTransactionId\":0,\"suspendedTotal\":null,\"suspendedTax\":null,\"messageId\":\"B\",\"laneId\":5,\"transactionId\":6371,\"timeStamp\":\"2022-03-08T16:02:27.261\"}"}
+{"topic": "5/ntr/notifications", "msg": "{\"messageId\":\"T\",\"laneId\":5,\"transactionId\":6371,\"timeStamp\":\"2022-03-08T16:02:46.631\"}"}
+{"topic": "5/ntr/notifications", "msg": "{\"mode\":\"00\",\"totalCount\":0,\"totalAmount\":\"0\",\"offers\":[],\"messageId\":\"E\",\"laneId\":5,\"transactionId\":6371,\"timeStamp\":\"2022-03-08T16:03:06.764\"}"}
+{"topic": "ActiveMQ/Advisory/Producer/Topic/6/ntr/notifications", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Connection", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Connection", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Connection", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Connection", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Connection", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Producer/Topic/5/ntr/notifications", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Consumer/Topic/5/ntr/notifications", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Consumer/Topic/8/ntr/notifications", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Producer/Topic/8/ntr/notifications", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Consumer/Topic/#", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Consumer/Topic/#", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Consumer/Topic/#", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Consumer/Topic/#", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Consumer/Topic/#", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Consumer/Topic/jbrain/notifications", "msg": ""}
+{"topic": "jbrain/notifications", "msg": "{\"loyaltyId\":\"40005267818\",\"mode\":\"00\",\"laneId\":\"6\",\"messageId\":\"A\",\"timeStamp\":\"2022-03-08T13:26:31.613000\",\"transactionId\":\"3374\"}"}

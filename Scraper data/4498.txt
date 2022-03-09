@@ -1,0 +1,7 @@
+{"IP": "172.245.86.187"}
+{"topic": "tele/tasmota_9AF595/LWT", "msg": "Offline"}
+{"topic": "tele/DT_OFFICES_1/LWT", "msg": "\u79bb\u7ebf"}
+{"topic": "tele/LAMP_1/LWT", "msg": "\u79bb\u7ebf"}
+{"topic": "tele/tasmota_09E1FB/LWT", "msg": "Offline"}
+{"topic": "tasmota/discovery/5CCF7F09E1FB/config", "msg": "{\"ip\":\"192.168.0.105\",\"dn\":\"Tasmota\",\"fn\":[\"Tasmota\",null,null,null,null,null,null,null],\"hn\":\"tasmota_09E1FB-0507\",\"mac\":\"5CCF7F09E1FB\",\"md\":\"Generic\",\"ty\":0,\"if\":0,\"ofln\":\"Offline\",\"onln\":\"Online\",\"state\":[\"OFF\",\"ON\",\"TOGGLE\",\"HOLD\"],\"sw\":\"9.1.0\",\"t\":\"tasmota_09E1FB\",\"ft\":\"%prefix%/%topic%/\",\"tp\":[\"cmnd\",\"stat\",\"tele\"],\"rl\":[1,0,0,0,0,0,0,0],\"swc\":[-1,-1,-1,-1,-1,-1,-1,-1],\"swn\":[null,null,null,null,null,null,null,null],\"btn\":[0,0,0,0],\"so\":{\"4\":0,\"11\":0,\"13\":0,\"17\":0,\"20\":0,\"30\":0,\"68\":0,\"73\":0,\"82\":0,\"114\":0},\"lk\":1,\"lt_st\":0,\"ver\":1}"}
+{"topic": "tasmota/discovery/5CCF7F09E1FB/sensors", "msg": "{\"sn\":{\"Time\":\"1970-01-01T00:00:14\"},\"ver\":1}"}

@@ -1,0 +1,10 @@
+{"IP": "66.94.102.235"}
+{"topic": "clients/mqttwarn", "msg": "1"}
+{"topic": "glseng/presidencia/470101", "msg": "39"}
+{"topic": "glseng/presidencia/470102", "msg": "21"}
+{"topic": "glseng/presidencia/470103", "msg": "0"}
+{"topic": "glseng/presidencia/470104", "msg": "0"}
+{"topic": "glseng/presidencia/470201", "msg": "0"}
+{"topic": "glseng/presidencia/470202", "msg": "0"}
+{"topic": "glseng/presidencia/470203", "msg": "0"}
+{"topic": "glseng/presidencia/470204", "msg": "0"}

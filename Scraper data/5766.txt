@@ -1,0 +1,3 @@
+{"IP": "2600:3c00::f03c:91ff:fe70:409b"}
+{"topic": "temperatura_ambiente_marilia_01", "msg": "Terca-Feira - 23:12:23 ==> 29.00"}
+{"topic": "Controle_Ambiente_Marilia_01", "msg": "Fora do Ar"}

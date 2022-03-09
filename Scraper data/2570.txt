@@ -1,0 +1,16 @@
+{"IP": "143.244.159.171"}
+{"topic": "test", "msg": "25.75"}
+{"topic": "hendrix", "msg": "Status sensor 1:\n\nhendrix/home office/temp=28.56C.\nhendrix/home office/max_temp=6C.\nhendrix/home office/interval=30segundos\n\u0000"}
+{"topic": "hendrix/", "msg": "OFF_LINE"}
+{"topic": "hendrix/home office/", "msg": "OFF_LINE"}
+{"topic": "sentinel", "msg": "Mote hendrix: A temperatura do equipamento est\u00e1 acima de 0C."}
+{"topic": "esp/status", "msg": "OFF_LINE"}
+{"topic": "hendrix1", "msg": " \u0000"}
+{"topic": "hendrix1/", "msg": "OFF_LINE"}
+{"topic": "hendrix9", "msg": "Status hendrix9 sensor 1:\n\nhendrix9/temp=29.19C.\nhendrix9/max_temp=41C.\nhendrix9/interval=360segundos\n\u0000"}
+{"topic": "hendrix9/", "msg": "OFF_LINE"}
+{"topic": "mic", "msg": "Status mic:\n\nmic/temp=29.31C.\nmic/max_temp=0C.\nmic/interval=0segundos\n\u0000"}
+{"topic": "mic/", "msg": "OFF_LINE"}
+{"topic": "sergio", "msg": "Status sensor 1:\n\nsergio/Varanda/temp=27.06C.\nsergio/Varanda/max_temp=6C.\nsergio/Varanda/interval=30segundos\n\u0000"}
+{"topic": "sergio/Cozinha/", "msg": "OFF_LINE"}
+{"topic": "sergio/Varanda/", "msg": "OFF_LINE"}

@@ -1,0 +1,7 @@
+{"IP": "198.101.238.254"}
+{"topic": "test/chat", "msg": "hello"}
+{"topic": "test/outTemp", "msg": "hi"}
+{"topic": "test/color", "msg": "#EFFF00"}
+{"topic": "out/wcs/v0", "msg": "0"}
+{"topic": "out/wcs/slider", "msg": "232"}
+{"topic": "out/wcs/rgbled_test", "msg": "OFF"}

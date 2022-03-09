@@ -1,0 +1,14 @@
+{"IP": "73.160.123.230"}
+{"topic": "tele/LG-Washer/LWT", "msg": "Offline"}
+{"topic": "tele/LG-Washer/SENSOR", "msg": "{\"Time\":\"2019-02-28T06:19:32\",\"ENERGY\":{\"TotalStartTime\":\"2019-02-27T07:25:06\",\"Total\":0.044,\"Yesterday\":0.032,\"Today\":0.013,\"Period\":0,\"Power\":2,\"ApparentPower\":5,\"ReactivePower\":4,\"Factor\":0.41,\"Voltage\":122,\"Current\":0.039}}"}
+{"topic": "tele/SNF-Washer/LWT", "msg": "Online"}
+{"topic": "tele/SNF-Washer/SENSOR", "msg": "{\"Time\":\"2022-03-09T03:25:34\",\"ENERGY\":{\"TotalStartTime\":\"2019-02-28T06:36:18\",\"Total\":122.020,\"Yesterday\":0.000,\"Today\":0.002,\"Period\":0,\"Power\":0,\"ApparentPower\":0,\"ReactivePower\":0,\"Factor\":0.00,\"Voltage\":122,\"Current\":0.000}}"}
+{"topic": "tele/LG-Dryer/LWT", "msg": "Online"}
+{"topic": "tele/LG-Dryer/SENSOR", "msg": "{\"Time\":\"2022-03-09T03:25:30\",\"ENERGY\":{\"TotalStartTime\":\"2019-03-02T10:19:31\",\"Total\":323.955,\"Yesterday\":0.047,\"Today\":0.004,\"Period\":0,\"Power\":0,\"ApparentPower\":0,\"ReactivePower\":0,\"Factor\":0.00,\"Voltage\":123,\"Current\":0.000}}"}
+{"topic": "stat/LG-Washer/POWER", "msg": "ON"}
+{"topic": "stat/SNF-Washer/POWER", "msg": "ON"}
+{"topic": "stat/LG-Dryer/POWER", "msg": "ON"}
+{"topic": "homeassistant/switch/33A06D_RL_1/config", "msg": "{\"name\":\"LG-Washer\",\"cmd_t\":\"~cmnd/POWER\",\"stat_t\":\"~tele/STATE\",\"val_tpl\":\"{{value_json.POWER}}\",\"pl_off\":\"OFF\",\"pl_on\":\"ON\",\"avty_t\":\"~tele/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"uniq_id\":\"33A06D_RL_1\",\"device\":{\"identifiers\":[\"33A06D\"],\"name\":\"LG-Washer\",\"model\":\"Sonoff S31\",\"sw_version\":\"6.4.1(sonoff)\",\"manufacturer\":\"Tasmota\"}, \"~\":\"LG-Washer/\"}"}
+{"topic": "homeassistant/sensor/33A06D_ENERGY_TotalStartTime/config", "msg": "{\"name\":\"LG-Washer ENERGY TotalStartTime\",\"stat_t\":\"~SENSOR\",\"avty_t\":\"~LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"unit_of_meas\":\" \",\"val_tpl\":\"{{value_json['ENERGY'].TotalStartTime}}\",\"uniq_id\":\"33A06D_ENERGY_TotalStartTime\",\"device\":{\"identifiers\":[\"33A06D\"],\"name\":\"LG-Washer\",\"model\":\"Sonoff S31\",\"sw_version\":\"6.4.1(sonoff)\",\"manufacturer\":\"Tasmota\"}, \"~\":\"LG-Washer/tele/\"}"}
+{"topic": "hass/state/washer", "msg": "Idle"}
+{"topic": "hass/state/dryer", "msg": "Idle"}

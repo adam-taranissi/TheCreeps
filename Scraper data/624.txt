@@ -1,0 +1,2 @@
+{"IP": "34.69.85.56"}
+{"topic": "23/heartbeat", "msg": "{\"hardwareId\":\"23\",\"text\":\"Heartbeat\"}"}

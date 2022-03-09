@@ -1,0 +1,39 @@
+{"IP": "67.205.168.178"}
+{"topic": "bo1>\u0000\nboar", "msg": "d_info{\"id_board\":\"61ec42b0b35ff61726bf873e\",\"AC1"}
+{"topic": "board_in1D", "msg": "\u0000\nboard_info{\"id_board\":\"61ec42b0b35ff61726bf873e\",\"HA1"}
+{"topic": "board_in1F", "msg": "\u0000\nboard_info{\"id_board\":\"61ec42b0b35ff61726bf873e\",\"Nm_12\""}
+{"topic": "board1A\u0000\nb", "msg": "oard_info{\"id_board\":\"61ec42b0b35ff61726bf873e\",\"Ned_"}
+{"topic": "boar1?\u0000\nbo", "msg": "ard_info{\"id_board\":\"61ec42b0b35ff61726bf873e\",\"Ned"}
+{"topic": ">\u0000\nboard_info{\"id_board\":\"61ec42b0b35ff61726bf873", "msg": "e\",\"TE11\":"}
+{"topic": "bo1K\u0000\nboar", "msg": "d_info{\"id_board\":\"61175d7fee022f595a3f7a73\",\"Nm_16\":\"\u00c1rea Gour"}
+{"topic": "M\u0000\nboard_info{\"id_board\":\"6136ba18ee022f595a3f9fc", "msg": "0\",\"fixo_et"}
+{"topic": "board_1?\u0000\n", "msg": "board_info{\"id_board\":\"61ec42b0b35ff61726bf873e\",\"N"}
+{"topic": "C\u0000\nboard_info{\"id_board\":\"61175d7fee022f595a3f7a7", "msg": "3\",\"HA7\":\"0:0-0:"}
+{"topic": "boa1F\u0000\nboa", "msg": "rd_info{\"id_board\":\"6136ba18ee022f595a3f9fc0\",\"Nm_12\":\"Can"}
+{"topic": "b1A\u0000\nboard", "msg": "_info{\"id_board\":\"61ec42b0b35ff61726bf873e\",\"Ned_12\":"}
+{"topic": "boa1=\u0000\nboa", "msg": "rd_info{\"id_board\":\"61ec42b0b35ff61726bf873e\",\"TE"}
+{"topic": "1=\u0000\nboard_", "msg": "info{\"id_board\":\"61ec42b0b35ff61726bf873e\",\"AG4\":"}
+{"topic": "boa1C\u0000\nboa", "msg": "rd_info{\"id_board\":\"61ec42b0b35ff61726bf873e\",\"HA6\":\"0:"}
+{"topic": "b1<\u0000\nboard", "msg": "_info{\"id_board\":\"61175d7fee022f595a3f7a73\",\"TP\":\""}
+{"topic": "boa1K\u0000\nboa", "msg": "rd_info{\"id_board\":\"61175d7fee022f595a3f7a73\",\"Nm_16\":\"\u00c1rea Gou"}
+{"topic": "board1=\u0000\nb", "msg": "oard_info{\"id_board\":\"61175d7fee022f595a3f7a73\",\""}
+{"topic": "<\u0000\nboard_info{\"id_board\":\"61175d7fee022f595a3f7a7", "msg": "3\",\"TP\":\"1\""}
+{"topic": "=\u0000\nboard_info{\"id_board\":\"61175d7fee022f595a3f7a7", "msg": "3\",\"R15\":\""}
+{"topic": "1A\u0000\nboard_", "msg": "info{\"id_board\":\"61175d7fee022f595a3f7a73\",\"Ned_15\":\""}
+{"topic": "boa1W\u0000\nboa", "msg": "rd_info{\"id_board\":\"61175d7fee022f595a3f7a73\",\"Nm_15\":\"Luz Amare"}
+{"topic": "bo1M\u0000\nboar", "msg": "d_info{\"id_boar1K\u0000\nboard_info{\"id_board\":\"61175d7fee022f595a"}
+{"topic": "bo1H\u0000\nboar", "msg": "d_info{\"id_board\":\"61175d7fee022f595a3f7a73\",\"soft_ap\":\"1234"}
+{"topic": "bo1C\u0000\nboar", "msg": "d_info{\"id_boar1I\u0000\nboard_info{\"id_board\":\"61175d7fee022f595a"}
+{"topic": "1<\u0000\nboard_", "msg": "info{\"id_board\":\"61ec42b0b35ff61726bf873e\",\"E1\":\"0\"}1<\u0000\nbo"}
+{"topic": "boa1>\u0000\nboa", "msg": "rd_info{\"id_board\":\"61ec42b0b35ff61726bf873e\",\"AC"}
+{"topic": "1>\u0000\nboard_", "msg": "info{\"id_board\":\"61ec42b0b35ff61726bf873e\",\"AG15\":"}
+{"topic": "board_in1>", "msg": "\u0000\nboard_info{\"id_board\":\"61ec42b0b35ff61726bf873e\""}
+{"topic": "boa1G\u0000\nboa", "msg": "rd_info{\"id_board\":\"61ec42b0b35ff61726bf873e\",\"Nm_8\":\"Arandelas "}
+{"topic": "board_in1=", "msg": "\u0000\nboard_info{\"id_board\":\"61ec42b0b35ff61726bf873"}
+{"topic": "board1<\u0000\nb", "msg": "oard_info{\"id_board\":\"61ec42b0b35ff61726bf873e\","}
+{"topic": "board_i1=\u0000", "msg": "\nboard_info{\"id_board\":\"61ec42b0b35ff61726bf873e\""}
+{"topic": "?\u0000\nboard_info{\"id_board\":\"61ec42b0b35ff61726bf873", "msg": "e\",\"Ned_2\""}
+{"topic": "b1?\u0000\nboard", "msg": "_info{\"id_board\":\"61ec42b0b35ff61726bf873e\",\"Ned_5\""}
+{"topic": "board_i1>\u0000", "msg": "\nboard_info{\"id_board\":\"61ec42b0b35ff61726bf873e\","}
+{"topic": "board_inf1", "msg": "=\u0000\nboard_info{\"id_board\":\"61ec42b0b35ff61726bf87"}
+{"topic": "=\u0000\nboard_info{\"id_board\":\"61ec42b0b35ff61726bf873", "msg": "e\",\"AG4\":\""}

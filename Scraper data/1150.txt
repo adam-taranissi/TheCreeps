@@ -1,0 +1,16 @@
+{"IP": "97.77.77.242"}
+{"topic": "gw/0022A30000115C57/heartbeat", "msg": "{\"networkState\":\"up\",\"networkPanId\":\"D03C\",\"radioTxPower\":-7,\"radioChannel\":26}"}
+{"topic": "gw/0022A30000115C57/zclresponse", "msg": "{\"clusterId\":\"0x0405\",\"commandId\":\"0x0A\",\"commandData\":\"000021110D\",\"clusterSpecific\":\"false\",\"nodeId\":\"0xB240\",\"nodeEui\":\"000B57FFFE629ECD\"}"}
+{"topic": "gw/0022A30000115C57/attributeupdate", "msg": "{\"clusterId\":\"0405\",\"attributeId\":\"0000\",\"attributeBuffer\":\"110D\",\"attributeDataType\":\"21\",\"nodeId\":\"B240\",\"nodeEui\":\"000B57FFFE629ECD\"}"}
+{"topic": "gw/0022A30000115C57/zclresponse", "msg": "{\"clusterId\":\"0405\",\"attributeId\":\"0000\",\"attributeBuffer\":\"110D\",\"attributeDataType\":\"21\",\"nodeId\":\"B240\",\"nodeEui\":\"000B57FFFE629ECD\"}"}
+{"topic": "gw/0022A30000115C57/zclresponse", "msg": "{\"clusterId\":\"0x0402\",\"commandId\":\"0x0A\",\"commandData\":\"0000298A07\",\"clusterSpecific\":\"false\",\"nodeId\":\"0xB240\",\"nodeEui\":\"000B57FFFE629ECD\"}"}
+{"topic": "gw/0022A30000115C57/attributeupdate", "msg": "{\"clusterId\":\"0402\",\"attributeId\":\"0000\",\"attributeBuffer\":\"8A07\",\"attributeDataType\":\"29\",\"nodeId\":\"B240\",\"nodeEui\":\"000B57FFFE629ECD\"}"}
+{"topic": "gw/0022A30000115C57/zclresponse", "msg": "{\"clusterId\":\"0402\",\"attributeId\":\"0000\",\"attributeBuffer\":\"8A07\",\"attributeDataType\":\"29\",\"nodeId\":\"B240\",\"nodeEui\":\"000B57FFFE629ECD\"}"}
+{"topic": "gw/0022A30000115C57/apsresponse", "msg": "{\"statusType\":\"apsAck\",\"status\":0,\"clusterId\":\"0x0405\",\"commandId\":\"0x0B\"}"}
+{"topic": "gw/0022A30000115C57/apsresponse", "msg": "{\"statusType\":\"apsAck\",\"status\":0,\"clusterId\":\"0x0402\",\"commandId\":\"0x0B\"}"}
+{"topic": "gw/0022A30000115C57/zclresponse", "msg": "{\"clusterId\":\"0x0402\",\"commandId\":\"0x0A\",\"commandData\":\"0000295108\",\"clusterSpecific\":\"false\",\"nodeId\":\"0x773A\",\"nodeEui\":\"000B57FFFE62A337\"}"}
+{"topic": "gw/0022A30000115C57/attributeupdate", "msg": "{\"clusterId\":\"0402\",\"attributeId\":\"0000\",\"attributeBuffer\":\"5108\",\"attributeDataType\":\"29\",\"nodeId\":\"773A\",\"nodeEui\":\"000B57FFFE62A337\"}"}
+{"topic": "gw/0022A30000115C57/zclresponse", "msg": "{\"clusterId\":\"0402\",\"attributeId\":\"0000\",\"attributeBuffer\":\"5108\",\"attributeDataType\":\"29\",\"nodeId\":\"773A\",\"nodeEui\":\"000B57FFFE62A337\"}"}
+{"topic": "gw/0022A30000115C57/zclresponse", "msg": "{\"clusterId\":\"0x0405\",\"commandId\":\"0x0A\",\"commandData\":\"000021040C\",\"clusterSpecific\":\"false\",\"nodeId\":\"0x773A\",\"nodeEui\":\"000B57FFFE62A337\"}"}
+{"topic": "gw/0022A30000115C57/attributeupdate", "msg": "{\"clusterId\":\"0405\",\"attributeId\":\"0000\",\"attributeBuffer\":\"040C\",\"attributeDataType\":\"21\",\"nodeId\":\"773A\",\"nodeEui\":\"000B57FFFE62A337\"}"}
+{"topic": "gw/0022A30000115C57/zclresponse", "msg": "{\"clusterId\":\"0405\",\"attributeId\":\"0000\",\"attributeBuffer\":\"040C\",\"attributeDataType\":\"21\",\"nodeId\":\"773A\",\"nodeEui\":\"000B57FFFE62A337\"}"}

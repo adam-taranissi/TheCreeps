@@ -1,0 +1,2 @@
+{"IP": "2600:3c00::f03c:91ff:fe73:fd6f"}
+{"topic": "abc/123", "msg": "XYZ"}

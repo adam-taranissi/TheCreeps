@@ -1,0 +1,2 @@
+{"IP": "199.241.136.109"}
+{"topic": "$SYS/broker/connection/BCE1.pmu-bridge/state", "msg": "1"}

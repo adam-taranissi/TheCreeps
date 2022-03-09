@@ -1,0 +1,16 @@
+{"IP": "73.167.140.63"}
+{"topic": "tele/tasmota_D63C33/LWT", "msg": "Offline"}
+{"topic": "tele/garagedoor1/LWT", "msg": "Online"}
+{"topic": "tasmota/discovery/E8DB84D63C33/config", "msg": "{\"ip\":\"10.0.1.41\",\"dn\":\"garage_door1\",\"fn\":[\"Garage Door 1\",null,null,null,null,null,null,null],\"hn\":\"garagedoor1-7219\",\"mac\":\"E8DB84D63C33\",\"md\":\"Shelly 1\",\"ty\":0,\"if\":0,\"ofln\":\"Offline\",\"onln\":\"Online\",\"state\":[\"OFF\",\"ON\",\"TOGGLE\",\"HOLD\"],\"sw\":\"9.3.1\",\"t\":\"garagedoor1\",\"ft\":\"%prefix%/%topic%/\",\"tp\":[\"cmnd\",\"stat\",\"tele\"],\"rl\":[1,0,0,0,0,0,0,0],\"swc\":[-1,-1,-1,-1,-1,-1,-1,-1],\"swn\":[null,null,null,null,null,null,null,null],\"btn\":[0,0,0,0,0,0,0,0],\"so\":{\"4\":0,\"11\":0,\"13\":0,\"17\":0,\"20\":0,\"30\":0,\"68\":0,\"73\":0,\"82\":0,\"114\":0,\"117\":0},\"lk\":1,\"lt_st\":0,\"sho\":[0,0,0,0],\"ver\":1}"}
+{"topic": "tasmota/discovery/E8DB84D63C33/sensors", "msg": "{\"sn\":{\"Time\":\"2022-02-01T21:00:41\",\"Switch1\":\"ON\"},\"ver\":1}"}
+{"topic": "stat/garagedoor1/status", "msg": "open"}
+{"topic": "stat/garagedoor1/POWER", "msg": "OFF"}
+{"topic": "frigate/back/clips/state", "msg": "OFF"}
+{"topic": "frigate/back/snapshots/state", "msg": "OFF"}
+{"topic": "frigate/back/detect/state", "msg": "ON"}
+{"topic": "frigate/available", "msg": "online"}
+{"topic": "frigate/driveway/clips/state", "msg": "ON"}
+{"topic": "frigate/driveway/clips/set", "msg": "ON"}
+{"topic": "frigate/driveway/snapshots/state", "msg": "ON"}
+{"topic": "frigate/driveway/snapshots/set", "msg": "ON"}
+{"topic": "frigate/driveway/detect/state", "msg": "ON"}

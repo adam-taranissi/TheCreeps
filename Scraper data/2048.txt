@@ -1,0 +1,9 @@
+{"IP": "73.89.52.217"}
+{"topic": "joi/001", "msg": "9"}
+{"topic": "joi/002", "msg": "9"}
+{"topic": "joi/001/ftemp", "msg": "40.82"}
+{"topic": "joi/001/ctemp", "msg": "4.90"}
+{"topic": "joi/001/hum", "msg": "34.60"}
+{"topic": "joi/002/ftemp", "msg": "72.32"}
+{"topic": "joi/002/ctemp", "msg": "22.40"}
+{"topic": "joi/002/hum", "msg": "14.40"}

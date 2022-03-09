@@ -1,0 +1,4 @@
+{"IP": "67.38.166.87"}
+{"topic": "frigate/driveway_cam/clips/state", "msg": "ON"}
+{"topic": "frigate/driveway_cam/snapshots/state", "msg": "ON"}
+{"topic": "frigate/driveway_cam/detect/state", "msg": "ON"}

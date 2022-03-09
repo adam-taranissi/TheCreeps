@@ -1,0 +1,5 @@
+{"IP": "159.89.89.108"}
+{"topic": "esp8266_3/led", "msg": "off"}
+{"topic": "esp8266_4/temp", "msg": "80.8"}
+{"topic": "esp8266_4/humid", "msg": "73.6"}
+{"topic": "esp8266_4/volt", "msg": "12.02"}

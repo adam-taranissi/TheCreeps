@@ -1,0 +1,28 @@
+{"IP": "54.158.54.98"}
+{"topic": "abc/123", "msg": "XYZ"}
+{"topic": "/merakimv/Q2JV-HFYU-KJKN/light", "msg": "{\"lux\": 0.8}"}
+{"topic": "/merakimv/Q2JV-HFYU-KJKN/light", "msg": "{\"lux\": 1.0}"}
+{"topic": "/merakimv/Q2JV-HFYU-KJKN/light", "msg": "{\"lux\": 1.0}"}
+{"topic": "/merakimv/Q2JV-HFYU-KJKN/light", "msg": "{\"lux\": 0.8}"}
+{"topic": "/merakimv/Q2JV-HFYU-KJKN/light", "msg": "{\"lux\": 0.7}"}
+{"topic": "/merakimv/Q2JV-HFYU-KJKN/light", "msg": "{\"lux\": 1.0}"}
+{"topic": "/merakimv/Q2JV-HFYU-KJKN/light", "msg": "{\"lux\": 0.8}"}
+{"topic": "/merakimv/Q2JV-HFYU-KJKN/light", "msg": "{\"lux\": 1.0}"}
+{"topic": "/merakimv/Q2JV-HFYU-KJKN/light", "msg": "{\"lux\": 0.8}"}
+{"topic": "/merakimv/Q2JV-HFYU-KJKN/light", "msg": "{\"lux\": 1.0}"}
+{"topic": "/merakimv/Q2JV-HFYU-KJKN/light", "msg": "{\"lux\": 1.0}"}
+{"topic": "/merakimv/Q2JV-HFYU-KJKN/light", "msg": "{\"lux\": 0.8}"}
+{"topic": "/merakimv/Q2JV-HFYU-KJKN/light", "msg": "{\"lux\": 0.8}"}
+{"topic": "/merakimv/Q2JV-HFYU-KJKN/light", "msg": "{\"lux\": 0.8}"}
+{"topic": "/merakimv/Q2JV-HFYU-KJKN/light", "msg": "{\"lux\": 1.0}"}
+{"topic": "/merakimv/Q2JV-HFYU-KJKN/light", "msg": "{\"lux\": 1.0}"}
+{"topic": "/merakimv/Q2JV-HFYU-KJKN/light", "msg": "{\"lux\": 0.7}"}
+{"topic": "/merakimv/Q2JV-HFYU-KJKN/light", "msg": "{\"lux\": 1.0}"}
+{"topic": "/merakimv/Q2JV-HFYU-KJKN/light", "msg": "{\"lux\": 0.8}"}
+{"topic": "/merakimv/Q2JV-HFYU-KJKN/light", "msg": "{\"lux\": 1.0}"}
+{"topic": "/merakimv/Q2JV-HFYU-KJKN/light", "msg": "{\"lux\": 0.8}"}
+{"topic": "/merakimv/Q2JV-HFYU-KJKN/light", "msg": "{\"lux\": 0.8}"}
+{"topic": "/merakimv/Q2JV-HFYU-KJKN/light", "msg": "{\"lux\": 1.0}"}
+{"topic": "/merakimv/Q2JV-HFYU-KJKN/light", "msg": "{\"lux\": 0.8}"}
+{"topic": "/merakimv/Q2JV-HFYU-KJKN/light", "msg": "{\"lux\": 0.8}"}
+{"topic": "/merakimv/Q2JV-HFYU-KJKN/light", "msg": "{\"lux\": 0.8}"}

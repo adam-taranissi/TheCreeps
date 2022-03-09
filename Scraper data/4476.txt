@@ -1,0 +1,34 @@
+{"IP": "174.74.190.206"}
+{"topic": "garage", "msg": "{\"Garage 1\":1,\"Garage 2\":1,\"Garage 3\":1}"}
+{"topic": "travel/phx", "msg": "2344"}
+{"topic": "travel/pcds", "msg": "2107"}
+{"topic": "travel/az", "msg": "{\"phx\":2344,\"pcds\":2107}"}
+{"topic": "travel/sba", "msg": "{\"destination_addresses\":[],\"error_message\":\"You must enable Billing on the Google Cloud Project at https://console.cloud.google.com/project/_/billing/enable Learn more at https://developers.google.com/maps/gmp-get-started\",\"origin_addresses\":[],\"rows\":[],\"status\":\"REQUEST_DENIED\"}"}
+{"topic": "travel/sbahome", "msg": "{\"destination_addresses\":[],\"error_message\":\"You must enable Billing on the Google Cloud Project at https://console.cloud.google.com/project/_/billing/enable Learn more at https://developers.google.com/maps/gmp-get-started\",\"origin_addresses\":[],\"rows\":[],\"status\":\"REQUEST_DENIED\"}"}
+{"topic": "travel/lax", "msg": "{\"destination_addresses\":[],\"error_message\":\"You must enable Billing on the Google Cloud Project at https://console.cloud.google.com/project/_/billing/enable Learn more at https://developers.google.com/maps/gmp-get-started\",\"origin_addresses\":[],\"rows\":[],\"status\":\"REQUEST_DENIED\"}"}
+{"topic": "TSLA/All", "msg": "{\"name\":\"TSLA\",\"lasttrade\":\"824.40\",\"change\":\"+19.82\",\"pctchange\":\"+2.46\",\"time\":\"04:00PM EST\",\"date\":\"At close\",\"ahprice\":\"820.00\",\"ahpricechange\":\"-4.40\",\"ahpricepctchange\":\"-0.53\"}"}
+{"topic": "ARKG/All", "msg": "{\"name\":\"ARKG\",\"lasttrade\":\"42.60\",\"change\":\"+0.56\",\"pctchange\":\"+1.33\",\"time\":\"03:58PM EST\",\"date\":\"Market open\"}"}
+{"topic": "officebroccupied", "msg": "0"}
+{"topic": "dinner", "msg": "{\"menu\":\"No menu has been set yet.\"}"}
+{"topic": "speedo/test", "msg": "75"}
+{"topic": "ARKK/All", "msg": "{\"name\":\"ARKK\",\"lasttrade\":\"58.62\",\"change\":\"+0.57\",\"pctchange\":\"+0.98\",\"time\":\"04:00PM EST\",\"date\":\"At close\"}"}
+{"topic": "QAD/All", "msg": "{\"name\":\"QADA\",\"lasttrade\":\"87.65\",\"change\":\"+0.02\",\"pctchange\":\"+0.02%\",\"time\":\"4:00PM EDT\",\"date\":\"Market Closed\",\"date2\":\"11/12/2021\"}"}
+{"topic": "QAD/neo", "msg": "{\"name\":\"QADA\",\"lasttrade\":\"87.65\",\"change\":\"+0.02\",\"pctchange\":\"+0.02%\",\"time\":\"4:00PM EDT\",\"date\":\"Market Closed\",\"date2\":\"11/12/2021\",\"pantone\":{\"r\":245,\"g\":223,\"b\":77,\"timing\":\"At close\"}}"}
+{"topic": "QAD/v2", "msg": "{\"name\":\"QADA\",\"lasttrade\":\"87.65\",\"change\":\"+0.02\",\"pctchange\":\"+0.02%\",\"time\":\"4:00PM EDT\",\"market\":\"Market closed\",\"date\":\"11/12/2021\"}"}
+{"topic": "freeze", "msg": "{\"mintemp\":43,\"freeze\":false}"}
+{"topic": "garage_door", "msg": "{\"Garage 1\":0,\"Garage 2\":0,\"Garage 3\":0}"}
+{"topic": "SQ/All", "msg": "{\"name\":\"SQ\",\"lasttrade\":\"100.62\",\"change\":\"+3.11\",\"pctchange\":\"+3.19\",\"time\":\"04:01PM EST\",\"date\":\"At close\"}"}
+{"topic": "{{msg.topic.name}}/All", "msg": "{\"name\":\"ARKK\",\"lasttrade\":\"46.44\",\"change\":\"-0.85\",\"pctchange\":\"-1.81%\",\"time\":\"10:44AM EDT\",\"date\":\"Market Open\"}"}
+{"topic": "{{{payload.name}}}/All", "msg": "{\"name\":\"TSLA\",\"lasttrade\":\"598.42\",\"change\":\"+25.42\",\"pctchange\":\"+4.44%\",\"time\":\"10:38AM EDT\",\"date\":\"February 20\",\"mktopen\":true}"}
+{"topic": "{{{msg.payload.name}}}/All", "msg": "{\"name\":\"TSLA\",\"lasttrade\":\"599.44\",\"change\":\"+26.44\",\"pctchange\":\"+4.61%\",\"time\":\"10:39AM EDT\",\"date\":\"February 20\",\"mktopen\":true}"}
+{"topic": "undefined/All", "msg": "{\"name\":\"TSLA\",\"lasttrade\":\"598.00\",\"change\":\"+25.00\",\"pctchange\":\"+4.36%\",\"time\":\"10:43AM EDT\",\"date\":\"February 20\",\"mktopen\":true}"}
+{"topic": "{{msg.topic}}/All", "msg": "{\"lasttrade\":\"46.47\",\"change\":\"-0.82\",\"pctchange\":\"-1.73%\",\"time\":\"10:51AM EDT\",\"date\":\"Market Open\"}"}
+{"topic": "EURUSD=X/All", "msg": "{\"name\":\"EURUSD=X\",\"lasttrade\":\"1.1346\",\"change\":\"-84.79\",\"pctchange\":\"-1.89\",\"time\":\"09:34PM GMT\",\"date\":\"Market open\"}"}
+{"topic": "QADAA/All", "msg": "{\"name\":\"QADA\",\"lasttrade\":\"41.96\",\"change\":\"+0.17\",\"pctchange\":\"+0.41%\",\"time\":\"12:53PM EDT\",\"date\":\"Market Open\"}"}
+{"topic": "abc/123", "msg": "XYZ"}
+{"topic": "garagetemp", "msg": "[\n{\n \"frame_id\":1, \n \"filename\":\"images_ftp/currentimage.jpg\", \n \"objects\": [ \n  {\"class_id\":6, \"name\":\"train\", \"relative_coordinates\":{\"center_x\":0.897708, \"center_y\":0.538037, \"width\":0.208603, \"height\":0.422674}, \"confidence\":0.393090}, \n  {\"class_id\":2, \"name\":\"car\", \"relative_coordinates\":{\"center_x\":0.618545, \"center_y\":0.710261, \"width\":0.560957, \"height\":0.576609}, \"confidence\":0.965450}, \n  {\"class_id\":2, \"name\":\"car\", \"relative_coordinates\":{\"center_x\":0.154483, \"center_y\":0.752417, \"width\":0.319497, \"height\":0.497798}, \"confidence\":0.961388}, \n  {\"class_id\":2, \"name\":\"car\", \"relative_coordinates\":{\"center_x\":0.897077, \"center_y\":0.543185, \"width\":0.211625, \"height\":0.407648}, \"confidence\":0.386129}\n ] \n}\n]"}
+{"topic": "garage_camera_0", "msg": "[\n{\n \"frame_id\":1, \n \"filename\":\"images_ftp/currentimage0.jpg\", \n \"objects\": [ \n\n ] \n}\n]"}
+{"topic": "garage_camera_1", "msg": "[\n{\n \"frame_id\":1, \n \"filename\":\"images_ftp/currentimage1.jpg\", \n \"objects\": [ \n  {\"class_id\":2, \"name\":\"car\", \"relative_coordinates\":{\"center_x\":0.511797, \"center_y\":0.644506, \"width\":0.596448, \"height\":0.705064}, \"confidence\":0.979422}, \n  {\"class_id\":2, \"name\":\"car\", \"relative_coordinates\":{\"center_x\":0.871819, \"center_y\":0.541026, \"width\":0.256288, \"height\":0.539624}, \"confidence\":0.940468}, \n  {\"class_id\":2, \"name\":\"car\", \"relative_coordinates\":{\"center_x\":0.152254, \"center_y\":0.562035, \"width\":0.309759, \"height\":0.528536}, \"confidence\":0.585668}\n ] \n}\n]"}
+{"topic": "cars", "msg": "{\"carsingarage\":[1,1,1,1]}"}
+{"topic": "covid", "msg": "{\"lastdate\":\"2022-03-02\",\"lastdeaths\":-238,\"lastdeathspact\":-1686.67,\"lastcases\":3879,\"lastcasespact\":136.81,\"avgdeaths\":12.29,\"avgdeathspct\":-73.78,\"avgcases\":1866.71,\"avgcasespct\":16.35,\"totaldeaths\":\"27,708\",\"totalcases\":\"1,980,769\"}"}
+{"topic": "Euro/7seg", "msg": "10906"}

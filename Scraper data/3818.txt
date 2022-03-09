@@ -1,0 +1,6 @@
+{"IP": "34.238.57.20"}
+{"topic": "tele/tasmota_D65DD7/LWT", "msg": "Online"}
+{"topic": "tele/tasmota_D33BC4/LWT", "msg": "Online"}
+{"topic": "tele/tasmota_94CDC6/LWT", "msg": "Offline"}
+{"topic": "tele/tasmota_94D5BE/LWT", "msg": "Online"}
+{"topic": "tele/tasmota_6B445B/LWT", "msg": "Online"}

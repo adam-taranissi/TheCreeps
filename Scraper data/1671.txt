@@ -1,0 +1,2 @@
+{"IP": "23.83.244.167"}
+{"topic": "ha/bedroom/light/switch", "msg": "0"}

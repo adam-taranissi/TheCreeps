@@ -1,0 +1,2 @@
+{"IP": "199.201.245.11"}
+{"topic": "frigate/available", "msg": "online"}

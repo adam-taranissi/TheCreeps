@@ -1,0 +1,7 @@
+{"IP": "35.129.57.159"}
+{"topic": "homeassistant/binary_sensor/MattCar/config", "msg": "{\"name\": \"MattCar\", \"device_class\": \"connectivity\", \"state_topic\": \"homeassistant/binary_sensor/MattCar/state\"}"}
+{"topic": "homeassistant/binary_sensor/MattCar/state", "msg": "OFF"}
+{"topic": "homeassistant/sensor/MattCar-signal/config", "msg": "{\"name\": \"MattCar-signal\", \"device_class\": \"sensor\", \"state_topic\": \"homeassistant/sensor/MattCar-signal/state\", \"unit_of_measurement\": \"dBm\", \"value_template\": \"{{ value }}\"}"}
+{"topic": "homeassistant/sensor/MattCar-uptime/config", "msg": "{\"name\": \"MattCar-uptime\", \"device_class\": \"sensor\", \"state_topic\": \"homeassistant/sensor/MattCar-uptime/state\", \"unit_of_measurement\": \"msec\", \"value_template\": \"{{ value }}\"}"}
+{"topic": "sensor/garage/state1", "msg": "closed"}
+{"topic": "samba_backup/status", "msg": "IDLE"}

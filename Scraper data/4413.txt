@@ -1,0 +1,3 @@
+{"IP": "157.245.175.19"}
+{"topic": "sensors.semcorel.com/wifi", "msg": "{\"bssid\":\"CC:40:D0:17:0C:74\", \"signal\":-83, \"ch\":6, \"ssid\":\"NETGEAR35\" },{\"bssid\":\"D4:04:CD"}
+{"topic": "abc/123", "msg": "XYZ"}

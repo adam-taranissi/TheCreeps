@@ -1,0 +1,2 @@
+{"IP": "129.159.33.48"}
+{"topic": "ws/bga", "msg": "{\"windspeed\":24.00,\"winddirection\":\"N\"}"}

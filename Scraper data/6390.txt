@@ -1,0 +1,13 @@
+{"IP": "104.225.222.118"}
+{"topic": "tasmota/discovery/84F3EB31A004/sensors", "msg": "{\"sn\":{\"Time\":\"2022-02-17T12:50:48\",\"Switch1\":\"ON\",\"AM2301\":{\"Temperature\":25.8,\"Humidity\":37.8,\"DewPoint\":10.3},\"TempUnit\":\"C\"},\"ver\":1}"}
+{"topic": "cmnd/319B9B/Status", "msg": "10"}
+{"topic": "Esp_Envia", "msg": "DEUS,\u00c9"}
+{"topic": "ActiveMQ/Advisory/MasterBroker", "msg": ""}
+{"topic": "tele/tasmota_31A004/LWT", "msg": "Offline"}
+{"topic": "tele/319B9B/LWT", "msg": "Offline"}
+{"topic": "tele", "msg": "teste sidarta"}
+{"topic": "tele/tasmota_319C5F/LWT", "msg": "Offline"}
+{"topic": "devix/tasmota_31A004/LWT", "msg": "Offline"}
+{"topic": "tele/geladeira-bruno/LWT", "msg": "Offline"}
+{"topic": "tasmota/discovery/84F3EB31A004/config", "msg": "{\"ip\":\"192.168.1.100\",\"dn\":\"Tasmota\",\"fn\":[\"Tasmota\",\"Tasmota2\",null,null,null,null,null,null],\"hn\":\"tasmota_31A004-0004\",\"mac\":\"84F3EB31A004\",\"md\":\"Generic\",\"ty\":0,\"if\":0,\"ofln\":\"Offline\",\"onln\":\"Online\",\"state\":[\"OFF\",\"ON\",\"TOGGLE\",\"HOLD\"],\"sw\":\"9.5.0\",\"t\":\"tasmota_31A004\",\"ft\":\"devix/%topic%/\",\"tp\":[\"cmnd\",\"stat\",\"tele\"],\"rl\":[1,1,0,0,0,0,0,0],\"swc\":[-1,-1,-1,-1,-1,-1,-1,-1],\"swn\":[null,null,null,null,null,null,null,null],\"btn\":[0,0,0,0,0,0,0,0],\"so\":{\"4\":0,\"11\":0,\"13\":0,\"17\":0,\"20\":0,\"30\":0,\"68\":0,\"73\":0,\"82\":0,\"114\":0,\"117\":0},\"lk\":1,\"lt_st\":0,\"sho\":[0,0,0,0],\"ver\":1}"}
+{"topic": "ActiveMQ/Advisory/Consumer/Topic/#", "msg": ""}

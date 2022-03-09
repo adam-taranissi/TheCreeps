@@ -1,0 +1,6 @@
+{"IP": "18.220.230.131"}
+{"topic": "abc/123", "msg": "XYZ"}
+{"topic": "arm/temperature", "msg": "12"}
+{"topic": "arm/waterLevel", "msg": "888"}
+{"topic": "arm/feederMode", "msg": "1"}
+{"topic": "arm/lightsMode", "msg": "auto"}

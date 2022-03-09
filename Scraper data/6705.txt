@@ -1,0 +1,5 @@
+{"IP": "144.34.201.164"}
+{"topic": "test/topic", "msg": "5"}
+{"topic": "test1/topic", "msg": "00\u0000\u0000"}
+{"topic": "test1/topic/dash", "msg": "41"}
+{"topic": "test/topic/m2", "msg": "6"}

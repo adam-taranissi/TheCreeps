@@ -1,0 +1,5 @@
+{"IP": "54.184.169.227"}
+{"topic": "vehicles/5277ef163a7b/fte-agent/videos", "msg": "[{\"filename\": \"gopro.mp4\", \"path\": \"/mnt/ssd/gopro.mp4\", \"size\": 5238699, \"mtime\": 1626894274}, {\"filename\": \"gopro-1626894257.mp4\", \"path\": \"/mnt/ssd/gopro-1626894257.mp4\", \"size\": 11832238, \"mtime\": 1626894242}, {\"filename\": \"gopro-1626894208.mp4\", \"path\": \"/mnt/ssd/gopro-1626894208.mp4\", \"size\": 11952950, \"mtime\": 1626894179}]"}
+{"topic": "vehicles/5277ef163a7b/online", "msg": "false"}
+{"topic": "vehicles/5277ef163a7b/ipaddress", "msg": "209.198.215.174"}
+{"topic": "vehicles/5277ef163a7b/started", "msg": "1639527101"}

@@ -1,0 +1,2 @@
+{"IP": "96.61.163.0"}
+{"topic": "shellies/shelly1pm-F4CFA2747B57/relay/0", "msg": "off"}

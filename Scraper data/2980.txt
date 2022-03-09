@@ -1,0 +1,2 @@
+{"IP": "128.59.39.232"}
+{"topic": "system/sensor1/listen", "msg": "{\"datetime\": \"2022-03-08T22:15:42.261248Z\", \"status\": \"OK\", \"humidity\": \"24.4\", \"temperature_core\": 40.2, \"temperature_hts221\": 39.4}"}

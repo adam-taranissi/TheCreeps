@@ -1,0 +1,39 @@
+{"IP": "3.91.151.221"}
+{"topic": "/client/wb_home/bridge_status", "msg": "1"}
+{"topic": "/client/wb_home/devices/wb-adc/controls/5Vout", "msg": "5.04"}
+{"topic": "/client/wb_home/devices/wb-adc/controls/A1", "msg": "0.01"}
+{"topic": "/client/wb_home/devices/wb-adc/controls/A2", "msg": "0.01"}
+{"topic": "/client/wb_home/devices/wb-adc/controls/A3", "msg": "0.02"}
+{"topic": "/client/wb_home/devices/wb-adc/controls/A4", "msg": "0.02"}
+{"topic": "/client/wb_home/devices/wb-adc/controls/Vin", "msg": "23.77"}
+{"topic": "/client/wb_home/devices/power_status/controls/Vin", "msg": "23.77"}
+{"topic": "/client/wb_home/devices/power_status/controls/Vin/meta/order", "msg": "1"}
+{"topic": "/client/wb_home/devices/power_status/controls/Vin/meta/readonly", "msg": "1"}
+{"topic": "/client/wb_home/devices/power_status/controls/Vin/meta/type", "msg": "voltage"}
+{"topic": "/client/wb_home/devices/power_status/controls/working on battery", "msg": "0"}
+{"topic": "/client/wb_home/devices/power_status/controls/working on battery/meta/order", "msg": "2"}
+{"topic": "/client/wb_home/devices/power_status/controls/working on battery/meta/readonly", "msg": "1"}
+{"topic": "/client/wb_home/devices/power_status/controls/working on battery/meta/type", "msg": "switch"}
+{"topic": "/client/wb_home/devices/power_status/meta/name", "msg": "Power status"}
+{"topic": "/client/wb_home/devices/power_status/meta/driver", "msg": "wb-rules"}
+{"topic": "/client/wb_home/devices/turkov_5/controls/Outside air temp", "msg": "-6.5"}
+{"topic": "/client/wb_home/devices/turkov_5/controls/Incoming air temp", "msg": "7.9"}
+{"topic": "/client/wb_home/devices/turkov_5/controls/Vent speed", "msg": "3"}
+{"topic": "/client/wb_home/devices/turkov_5/controls/Vent speed/meta", "msg": "{\"order\":3,\"readonly\":false,\"type\":\"value\"}"}
+{"topic": "/client/wb_home/devices/turkov_5/controls/Vent speed/meta/order", "msg": "3"}
+{"topic": "/client/wb_home/devices/turkov_5/controls/Vent speed/meta/readonly", "msg": "0"}
+{"topic": "/client/wb_home/devices/turkov_5/controls/Vent speed/meta/type", "msg": "value"}
+{"topic": "/client/wb_home/devices/turkov_5/controls/Vent speed/on", "msg": "3"}
+{"topic": "/client/wb_home/devices/turkov_5/controls/Outgoing air temp", "msg": "20.9"}
+{"topic": "/client/wb_home/devices/turkov_5/controls/Outgoing air temp/meta/readonly", "msg": "1"}
+{"topic": "/client/wb_home/devices/turkov_5/controls/Outgoing air temp/meta/type", "msg": "temperature"}
+{"topic": "/client/wb_home/devices/turkov_5/controls/Power", "msg": "1"}
+{"topic": "/client/wb_home/devices/turkov_5/controls/Power/meta", "msg": "{\"order\":1,\"readonly\":false,\"type\":\"switch\"}"}
+{"topic": "/client/wb_home/devices/turkov_5/controls/Power/meta/order", "msg": "1"}
+{"topic": "/client/wb_home/devices/turkov_5/controls/Power/meta/readonly", "msg": "0"}
+{"topic": "/client/wb_home/devices/turkov_5/controls/Desired temperature", "msg": "25"}
+{"topic": "/client/wb_home/devices/turkov_5/controls/Desired temperature/meta", "msg": "{\"max\":50.0,\"order\":2,\"readonly\":false,\"type\":\"range\"}"}
+{"topic": "/client/wb_home/devices/turkov_5/controls/Desired temperature/meta/readonly", "msg": "0"}
+{"topic": "/client/wb_home/devices/turkov_5/controls/Desired temperature/meta/type", "msg": "range"}
+{"topic": "/client/wb_home/devices/turkov_5/controls/Desired temperature/meta/max", "msg": "50"}
+{"topic": "/client/wb_home/devices/turkov_5/controls/Desired temperature/meta/order", "msg": "2"}

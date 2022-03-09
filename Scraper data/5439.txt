@@ -1,0 +1,5 @@
+{"IP": "161.35.250.78"}
+{"topic": "brc005/pdv/scbz1/z1/ENV/ms6-1/air_data/IAD/ct", "msg": "{\"ct\":17.7}"}
+{"topic": "brc004/pdv/scbz3/z3/ENV/ms6-3/air_data/IAD/ct", "msg": "{\"ct\":15.6}"}
+{"topic": "brc005/pdv/scbz1/z1/ENV/ms6-1/air_data/IAD/ot", "msg": "{\"ot\":17.7}"}
+{"topic": "brc004/pdv/scbz2/z2/ENV/ms6-2/air_data/IAD/ct", "msg": "{\"ct\":16.4}"}

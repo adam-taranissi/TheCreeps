@@ -1,0 +1,10 @@
+{"IP": "51.81.0.20"}
+{"topic": "CFY/LOGA/ETPP/Z1", "msg": "160"}
+{"topic": "CFY/LOGA/ETPP/Z2", "msg": "050"}
+{"topic": "CFY/LOGA/ETPP/TOTAL", "msg": "N\u00edvel M\u00e9dio: 9m - Volume estimado: 450 m2 - Ocupa\u00e7\u00e3o: 45%"}
+{"topic": "CFY/LOGA/ETPP/OCUPADO", "msg": "0"}
+{"topic": "CFY/LOGA/ETPP/OCUP", "msg": "52"}
+{"topic": "PL/EQ0001/LED01/ST", "msg": "0"}
+{"topic": "IOT/EQ0001/LED01/ST", "msg": "1"}
+{"topic": "KRIWAN/CL1/EQ1/TEMP", "msg": "28"}
+{"topic": "KRIWAN/CL1/EQ1/PROT", "msg": "1"}

@@ -1,0 +1,5 @@
+{"IP": "34.72.28.86"}
+{"topic": "/GTW/AB9CDC/IR/8", "msg": "65513"}
+{"topic": "/GTW/AB9B60/IR/8", "msg": "369"}
+{"topic": "/GTW/AB9CDC/IR/23", "msg": "65452"}
+{"topic": "/GTW/AB9C78/IR/8", "msg": "65511"}

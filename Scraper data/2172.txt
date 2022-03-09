@@ -1,0 +1,35 @@
+{"IP": "162.197.86.227"}
+{"topic": "omnilink/system/phone/state", "msg": "secure"}
+{"topic": "omnilink/system/ac/state", "msg": "secure"}
+{"topic": "omnilink/system/battery/state", "msg": "secure"}
+{"topic": "omnilink/system/dcn/state", "msg": "secure"}
+{"topic": "omnilink/area1/state", "msg": "disarmed"}
+{"topic": "omnilink/area1/basic_state", "msg": "disarmed"}
+{"topic": "omnilink/area1/json_state", "msg": "{\"mode\":\"off\",\"arming\":false,\"burglary_alarm\":false,\"fire_alarm\":false,\"gas_alarm\":false,\"auxiliary_alarm\":false,\"freeze_alarm\":false,\"water_alarm\":false,\"duress_alarm\":false,\"temperature_alarm\":false}"}
+{"topic": "omnilink/area1/name", "msg": "AREA 1"}
+{"topic": "omnilink/zone4/state", "msg": "secure"}
+{"topic": "omnilink/zone4/basic_state", "msg": "OFF"}
+{"topic": "omnilink/zone4/name", "msg": "Lower Motion"}
+{"topic": "omnilink/zone5/state", "msg": "secure"}
+{"topic": "omnilink/zone5/basic_state", "msg": "OFF"}
+{"topic": "omnilink/zone5/name", "msg": "Upper Motion"}
+{"topic": "omnilink/zone6/state", "msg": "secure"}
+{"topic": "omnilink/zone6/basic_state", "msg": "OFF"}
+{"topic": "omnilink/zone6/name", "msg": "Laundry Glass"}
+{"topic": "omnilink/zone7/state", "msg": "secure"}
+{"topic": "omnilink/zone7/basic_state", "msg": "OFF"}
+{"topic": "omnilink/zone7/name", "msg": "Office Glass"}
+{"topic": "omnilink/zone8/state", "msg": "secure"}
+{"topic": "omnilink/zone8/basic_state", "msg": "OFF"}
+{"topic": "omnilink/zone8/name", "msg": "MBR Glass"}
+{"topic": "omnilink/zone9/state", "msg": "secure"}
+{"topic": "omnilink/zone9/basic_state", "msg": "OFF"}
+{"topic": "omnilink/zone9/name", "msg": "Dining Glass"}
+{"topic": "omnilink/zone10/state", "msg": "secure"}
+{"topic": "omnilink/zone10/basic_state", "msg": "OFF"}
+{"topic": "omnilink/zone10/name", "msg": "Living Glass"}
+{"topic": "omnilink/zone11/state", "msg": "secure"}
+{"topic": "omnilink/zone11/basic_state", "msg": "OFF"}
+{"topic": "omnilink/zone11/name", "msg": "Front Door"}
+{"topic": "omnilink/zone12/state", "msg": "secure"}
+{"topic": "omnilink/zone12/basic_state", "msg": "OFF"}

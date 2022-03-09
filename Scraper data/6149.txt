@@ -1,0 +1,4 @@
+{"IP": "97.64.121.108"}
+{"topic": "domoticz/out/LWT", "msg": "Connected"}
+{"topic": "abc/123", "msg": "XYZ"}
+{"topic": "domoticz/in", "msg": "{\"idx\":6,\"RSSI\":9,\"nvalue\":0,\"svalue\":\"18.1;99.9;3\"}"}

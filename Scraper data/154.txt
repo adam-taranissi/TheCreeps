@@ -1,0 +1,38 @@
+{"IP": "104.187.185.15"}
+{"topic": "tele/Garage/V1/LWT", "msg": "Online"}
+{"topic": "tele/Garage/V2/LWT", "msg": "Offline"}
+{"topic": "tele/Garage/V3/LWT", "msg": "Offline"}
+{"topic": "tele/Garage/G2/LWT", "msg": "Online"}
+{"topic": "tele/Garage/G1/LWT", "msg": "Online"}
+{"topic": "tele/PowerMon/U1/LWT", "msg": "Online"}
+{"topic": "tele/PowerMon/U1/SENSOR", "msg": "{\"Time\":\"2022-03-08T11:07:01\",\"ENERGY\":{\"TotalStartTime\":\"2019-02-28T23:54:01\",\"Total\":3502.805,\"Yesterday\":4.201,\"Today\":1.020,\"Period\":4,\"Power\":555,\"ApparentPower\":580,\"ReactivePower\":166,\"Factor\":0.96,\"Voltage\":122,\"Current\":4.734}}"}
+{"topic": "tele/PowerMon/U2/LWT", "msg": "Online"}
+{"topic": "tele/PowerMon/U2/SENSOR", "msg": "{\"Time\":\"2022-03-08T11:06:45\",\"ENERGY\":{\"TotalStartTime\":\"2019-04-15T18:35:57\",\"Total\":823.150,\"Yesterday\":1.956,\"Today\":0.254,\"Period\":2,\"Power\":276,\"ApparentPower\":287,\"ReactivePower\":76,\"Factor\":0.96,\"Voltage\":121,\"Current\":2.379}}"}
+{"topic": "tele/PowerMon/U3/LWT", "msg": "Online"}
+{"topic": "tele/timer/0/0/LWT", "msg": "Online"}
+{"topic": "tele/timer/0/1/LWT", "msg": "Offline"}
+{"topic": "tele/light/0/1/LWT", "msg": "Online"}
+{"topic": "tele/light/0/2/LWT", "msg": "Online"}
+{"topic": "tele/charger1/LWT", "msg": "Online"}
+{"topic": "tele/PCMon/U1/LWT", "msg": "Online"}
+{"topic": "esp/sensor/connectResponse/0/4", "msg": "{\"city\":\"Sunnyvale_California\",\"cityName\":\"Sunnyvale\",\"opMode\":1,\"calibrate\":1,\"tempAdj\":0,\"roomLightLevel\":0,\"unitName\":\"Desktop Pi\",\"serverTimeZoneOffset\":480}"}
+{"topic": "esp/sensor/connectResponse/0/2", "msg": "{\"city\":\"Sunnyvale_California\",\"cityName\":\"Sunnyvale\",\"opMode\":1,\"calibrate\":1,\"tempAdj\":0,\"roomLightLevel\":0,\"unitName\":\"Nancy Pi\",\"serverTimeZoneOffset\":480}"}
+{"topic": "esp/sensor/connectResponse/0/3", "msg": "{\"city\":\"Sunnyvale_California\",\"cityName\":\"Sunnyvale\",\"opMode\":1,\"calibrate\":1,\"tempAdj\":0,\"roomLightLevel\":0,\"unitName\":\"Movie Pi\",\"serverTimeZoneOffset\":480}"}
+{"topic": "esp/sensor/connectResponse/1/1", "msg": "{\"city\":\"San Jose_California\",\"cityName\":\"San Jose\",\"opMode\":1,\"calibrate\":1,\"tempAdj\":0,\"roomLightLevel\":0,\"unitName\":\"sensor_1_1\",\"serverTimeZoneOffset\":480}"}
+{"topic": "esp/sensor/connect/0/4", "msg": "{\"type\":\"sensor\",\"version\":\"101\",\"fileName\":\"sensor-0-4\",\"ip\":\"192.168.1.147\",\"homeId\":\"0\",\"unitId\":\"4\"}"}
+{"topic": "esp/sensor/connect/0/2", "msg": "{\"type\":\"sensor\",\"version\":\"101\",\"fileName\":\"sensor-0-2\",\"ip\":\"192.168.1.210\",\"homeId\":\"0\",\"unitId\":\"2\"}"}
+{"topic": "esp/sensor/connect/0/3", "msg": "{\"type\":\"sensor\",\"version\":\"101\",\"fileName\":\"sensor-0-3\",\"ip\":\"192.168.1.31\",\"homeId\":\"0\",\"unitId\":\"3\"}"}
+{"topic": "esp/sensor/connect/1/1", "msg": "{\"type\":\"sensor\",\"version\":\"101\",\"fileName\":\"sensor-1-1\",\"ip\":\"192.168.0.164\",\"homeId\":\"1\",\"unitId\":\"1\"}"}
+{"topic": "esp/sensor/stat/0/4", "msg": "{\"temperature\":\"111.74539999999999\",\"humidity\":\"0\",\"subType\":\"0\",\"type\":\"sensor\",\"subId\":\"0\",\"homeId\":\"0\",\"unitId\":\"4\"}"}
+{"topic": "esp/sensor/stat/0/2", "msg": "{\"temperature\":\"102.9794\",\"humidity\":\"0\",\"subType\":\"0\",\"type\":\"sensor\",\"subId\":\"0\",\"homeId\":\"0\",\"unitId\":\"2\"}"}
+{"topic": "esp/sensor/stat/0/3", "msg": "{\"temperature\":\"102.9794\",\"humidity\":\"0\",\"subType\":\"0\",\"type\":\"sensor\",\"subId\":\"0\",\"homeId\":\"0\",\"unitId\":\"3\"}"}
+{"topic": "esp/sensor/stat/1/1", "msg": "{\"temperature\":\"145.0562\",\"humidity\":\"0\",\"subType\":\"0\",\"type\":\"sensor\",\"subId\":\"0\",\"homeId\":\"1\",\"unitId\":\"1\"}"}
+{"topic": "badahome/alive_resp", "msg": "{\"type\":\"sensor\",\"homeId\":\"0\",\"unitId\":\"2\"}"}
+{"topic": "cmnd/Garage/V1/POWER2", "msg": "OFF"}
+{"topic": "cmnd/Garage/G1/POWER2", "msg": "OFF"}
+{"topic": "cmnd/Garage/V3/POWER2", "msg": "OFF"}
+{"topic": "cmnd/Garage/G2/POWER2", "msg": "OFF"}
+{"topic": "cmnd/Garage/V2/POWER2", "msg": "OFF"}
+{"topic": "esp/climate/heat_stat/0/0", "msg": "{\"temperature\":\"62.96\",\"humidity\":\"43.80\",\"heatState\":\"0\",\"statType\":\"0\",\"fanState\":\"0\",\"fHeatTimerRunning\":\"0\",\"targetTemp\":\"56.00\",\"heatDelta\":\"0.50\",\"heatTime\":\"12\",\"homeId\":\"0\",\"unitId\":\"0\"}"}
+{"topic": "esp/getHomePower/0", "msg": "request from Node-red, homeId=0"}
+{"topic": "esp/getHomePower/1", "msg": "request from Node-red, homeId=1"}

@@ -1,0 +1,20 @@
+{"IP": "98.34.57.213"}
+{"topic": "tasmota/discovery/40F520FAE929/config", "msg": "{\"ip\":\"192.168.222.30\",\"dn\":\"Garage Door Light\",\"fn\":[\"Garage Door Light\",null,null,null,null,null,null,null],\"hn\":\"tasmota_FAE929-2345\",\"mac\":\"40F520FAE929\",\"md\":\"Sonoff Basic\",\"ty\":0,\"if\":0,\"ofln\":\"Offline\",\"onln\":\"Online\",\"state\":[\"OFF\",\"ON\",\"TOGGLE\",\"HOLD\"],\"sw\":\"9.5.0\",\"t\":\"tasmota_FAE929\",\"ft\":\"%prefix%/%topic%/\",\"tp\":[\"cmnd\",\"stat\",\"tele\"],\"rl\":[1,0,0,0,0,0,0,0],\"swc\":[-1,-1,-1,-1,-1,-1,-1,-1],\"swn\":[null,null,null,null,null,null,null,null],\"btn\":[0,0,0,0,0,0,0,0],\"so\":{\"4\":0,\"11\":0,\"13\":0,\"17\":0,\"20\":0,\"30\":1,\"68\":0,\"73\":0,\"82\":0,\"114\":0,\"117\":0},\"lk\":1,\"lt_st\":0,\"sho\":[0,0,0,0],\"ver\":1}"}
+{"topic": "tasmota/discovery/40F520FAE929/sensors", "msg": "{\"sn\":{\"Time\":\"2022-03-05T04:02:01\",\"Switch1\":\"OFF\"},\"ver\":1}"}
+{"topic": "tasmota/discovery/C82B96E68DE5/config", "msg": "{\"ip\":\"192.168.222.34\",\"dn\":\"Back Yard Light\",\"fn\":[\"Back Yard Light\",null,null,null,null,null,null,null],\"hn\":\"Tasmota-back-yard-light-3557\",\"mac\":\"C82B96E68DE5\",\"md\":\"Sonoff Basic\",\"ty\":0,\"if\":0,\"ofln\":\"Offline\",\"onln\":\"Online\",\"state\":[\"OFF\",\"ON\",\"TOGGLE\",\"HOLD\"],\"sw\":\"10.0.0\",\"t\":\"Tasmota_back_yard_light\",\"ft\":\"%prefix%/%topic%/\",\"tp\":[\"cmnd\",\"stat\",\"tele\"],\"rl\":[1,0,0,0,0,0,0,0],\"swc\":[-1,-1,-1,-1,-1,-1,-1,-1],\"swn\":[null,null,null,null,null,null,null,null],\"btn\":[0,0,0,0,0,0,0,0],\"so\":{\"4\":0,\"11\":0,\"13\":0,\"17\":0,\"20\":0,\"30\":1,\"68\":0,\"73\":0,\"82\":0,\"114\":0,\"117\":0},\"lk\":0,\"lt_st\":0,\"sho\":[0,0,0,0],\"ver\":1}"}
+{"topic": "tasmota/discovery/C82B96E68DE5/sensors", "msg": "{\"sn\":{\"Time\":\"2022-03-04T16:18:11\"},\"ver\":1}"}
+{"topic": "tele/tasmota_FAE929/LWT", "msg": "Online"}
+{"topic": "tele/tasmota_E68DE5/LWT", "msg": "Offline"}
+{"topic": "tele/Tasmota_back_yard_light/LWT", "msg": "Online"}
+{"topic": "shellies/shelly1-8CAAB55FE9A7/relay/0", "msg": "off"}
+{"topic": "shellies/shelly1-8CAAB55FE9A7/online", "msg": "true"}
+{"topic": "shellies/shelly1-8CAAB55FE9A7/input/0", "msg": "0"}
+{"topic": "shellies/shelly1-8CAAB55FE9A7/input_event/0", "msg": "{\"event\":\"L\",\"event_cnt\":425}"}
+{"topic": "shellies/shelly1-8CAAB55FE9A7/longpush/0", "msg": "1"}
+{"topic": "shellies/shelly1-8CAAB56E4497/relay/0", "msg": "off"}
+{"topic": "shellies/shelly1-8CAAB56E4497/online", "msg": "true"}
+{"topic": "shellies/shelly1-8CAAB56E4497/input/0", "msg": "0"}
+{"topic": "shellies/shelly1-8CAAB56E4497/input_event/0", "msg": "{\"event\":\"L\",\"event_cnt\":465}"}
+{"topic": "shellies/shelly1-8CAAB56E4497/longpush/0", "msg": "1"}
+{"topic": "shellies/shelly1-8CAAB55FE9A7/relay/0", "msg": "off"}
+{"topic": "shellies/shelly1-8CAAB55FE9A7/input/0", "msg": "0"}

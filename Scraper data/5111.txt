@@ -1,0 +1,9 @@
+{"IP": "199.58.96.16"}
+{"topic": "Otto/rssi", "msg": "-52"}
+{"topic": "Alfalfa-X/rssi", "msg": "-74"}
+{"topic": "Turbo/rssi", "msg": "-58"}
+{"topic": "Otto/rssi", "msg": "-52"}
+{"topic": "Alfalfa-X/rssi", "msg": "-74"}
+{"topic": "Turbo/rssi", "msg": "-58"}
+{"topic": "Otto/rssi", "msg": "-52"}
+{"topic": "Alfalfa-X/rssi", "msg": "-74"}

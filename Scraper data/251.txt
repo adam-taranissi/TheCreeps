@@ -1,0 +1,8 @@
+{"IP": "99.73.34.147"}
+{"topic": "smbridge/uptime", "msg": "473.516"}
+{"topic": "smartmeter/timestamp", "msg": "1646763354"}
+{"topic": "smartmeter/interval", "msg": "4.890020"}
+{"topic": "smartmeter/current", "msg": "-14.783334"}
+{"topic": "smartmeter/metersum", "msg": "1621376204.800000"}
+{"topic": "smartmeter/localsum", "msg": "1618772222.219145"}
+{"topic": "smartmeter/solarsum", "msg": "-62477521.486984"}

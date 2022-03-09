@@ -1,0 +1,10 @@
+{"IP": "65.52.24.11"}
+{"topic": "AggLink/Sensors/D2-80-61-31-4B-D7/config", "msg": "{\"DHCP\":True\", IPAddress\": \"192.168.1.100\", Mask\": \"255.255.255.0\", Gateway\":192.168.1.1\", DNS\":192.168.1.1\", DigitalIn\": 4, \"DigitalOut\": 4, \"AnalogIn\": 2, \"AnalogOut\": 0, \"SoftwareVer\":\"0.0.1\", \"Model\":\"SG-01\"}"}
+{"topic": "AggLink/Sensors/D2-80-61-31-4B-D7/will", "msg": "offline"}
+{"topic": "AggLink/Sensors/D2-80-61-31-4B-D7/sys/LastReset", "msg": "1"}
+{"topic": "AggLink/Sensors/D4-80-61-31-4B-D8/config", "msg": "{\"DHCP\":True\", IPAddress\": \"192.168.1.50\", Mask\": \"255.255.255.0\", Gateway\":192.168.1.1\", DNS\":192.168.1.1\", DigitalIn\": 4, \"DigitalOut\": 4, \"AnalogIn\": 2, \"AnalogOut\": 0, \"SoftwareVer\":\"0.0.1\", \"Model\":\"SG-01\"}"}
+{"topic": "AggLink/Sensors/D4-80-61-31-4B-D8/sys/LastReset", "msg": "1"}
+{"topic": "AggLink/Sensors/D4-80-61-31-4B-D8/will", "msg": "offline"}
+{"topic": "AggLink/Will", "msg": "offline"}
+{"topic": "Sensor1/device1/status", "msg": "offline"}
+{"topic": "test/mstimer", "msg": "201095"}

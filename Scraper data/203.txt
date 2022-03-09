@@ -1,0 +1,4 @@
+{"IP": "104.236.57.124"}
+{"topic": "abc/123", "msg": "XYZ"}
+{"topic": "tele/sonoff-switch/LWT", "msg": "Offline"}
+{"topic": "tele/sonoff/LWT", "msg": "Online"}

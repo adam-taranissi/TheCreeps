@@ -1,0 +1,18 @@
+{"IP": "70.172.38.15"}
+{"topic": "tele/wallPlug1/LWT", "msg": "Online"}
+{"topic": "tele/sonoffSv/LWT", "msg": "Online"}
+{"topic": "tele/GrillLight@/LWT", "msg": "Online"}
+{"topic": "tele/fan-family/LWT", "msg": "Online"}
+{"topic": "tele/tasmota/LWT", "msg": "Online"}
+{"topic": "tele/test/LWT", "msg": "Offline"}
+{"topic": "cmnd/wallPlug1/POWER", "msg": "OFF"}
+{"topic": "cmnd/garagestate/POWER2", "msg": "OFF"}
+{"topic": "cmnd/Sonoff_Switch__2/POWER", "msg": "OFF"}
+{"topic": "stat/sonoffSv/POWER1", "msg": "OFF"}
+{"topic": "stat/sonoffSv/POWER2", "msg": "OFF"}
+{"topic": "homeassistant/switch/0742E5_RL_1/config", "msg": "{\"name\":\"Grill Light\",\"stat_t\":\"tele/GrillLight@/STATE\",\"avty_t\":\"tele/GrillLight@/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"cmd_t\":\"cmnd/GrillLight@/POWER\",\"val_tpl\":\"{{value_json.POWER}}\",\"pl_off\":\"OFF\",\"pl_on\":\"ON\",\"uniq_id\":\"0742E5_RL_1\",\"dev\":{\"ids\":[\"0742E5\"]}}"}
+{"topic": "homeassistant/sensor/0742E5_status/config", "msg": "{\"name\":\"Grill Light status\",\"stat_t\":\"tele/GrillLight@/HASS_STATE\",\"avty_t\":\"tele/GrillLight@/LWT\",\"pl_avail\":\"Online\",\"pl_not_avail\":\"Offline\",\"json_attr_t\":\"tele/GrillLight@/HASS_STATE\",\"unit_of_meas\":\"%\",\"val_tpl\":\"{{value_json['RSSI']}}\",\"ic\":\"mdi:information-outline\",\"uniq_id\":\"0742E5_status\",\"dev\":{\"ids\":[\"0742E5\"],\"name\":\"Grill Light\",\"mdl\":\"Sonoff Basic\",\"sw\":\"9.4.0(tasmota)\",\"mf\":\"Tasmota\"}}"}
+{"topic": "tasmota/discovery/84F3EB9F5B1B/config", "msg": "{\"ip\":\"192.168.1.81\",\"dn\":\"Tasmota\",\"fn\":[\"Tasmota\",null,null,null,null,null,null,null],\"hn\":\"/fan-family-6939\",\"mac\":\"84F3EB9F5B1B\",\"md\":\"Shelly 1\",\"ty\":0,\"if\":0,\"ofln\":\"Offline\",\"onln\":\"Online\",\"state\":[\"OFF\",\"ON\",\"TOGGLE\",\"HOLD\"],\"sw\":\"9.4.0\",\"t\":\"/fan-family\",\"ft\":\"%prefix%/%topic%/\",\"tp\":[\"cmnd\",\"stat\",\"tele\"],\"rl\":[1,0,0,0,0,0,0,0],\"swc\":[-1,-1,-1,-1,-1,-1,-1,-1],\"swn\":[null,null,null,null,null,null,null,null],\"btn\":[0,0,0,0,0,0,0,0],\"so\":{\"4\":0,\"11\":0,\"13\":0,\"17\":0,\"20\":0,\"30\":0,\"68\":0,\"73\":0,\"82\":0,\"114\":0,\"117\":0},\"lk\":1,\"lt_st\":0,\"sho\":[0,0,0,0],\"ver\":1}"}
+{"topic": "tasmota/discovery/84F3EB9F5B1B/sensors", "msg": "{\"sn\":{\"Time\":\"2022-03-03T23:08:37\",\"Switch1\":\"OFF\"},\"ver\":1}"}
+{"topic": "tasmota/discovery/5CCF7FC69DD2/config", "msg": "{\"ip\":\"192.168.1.185\",\"dn\":\"Tasmota\",\"fn\":[\"Tasmota\",null,null,null,null,null,null,null],\"hn\":\"test-7634\",\"mac\":\"5CCF7FC69DD2\",\"md\":\"Generic\",\"ty\":0,\"if\":0,\"ofln\":\"Offline\",\"onln\":\"Online\",\"state\":[\"OFF\",\"ON\",\"TOGGLE\",\"HOLD\"],\"sw\":\"9.4.0\",\"t\":\"test\",\"ft\":\"%prefix%/%topic%/\",\"tp\":[\"cmnd\",\"stat\",\"tele\"],\"rl\":[1,0,0,0,0,0,0,0],\"swc\":[-1,-1,-1,-1,-1,-1,-1,-1],\"swn\":[null,null,null,null,null,null,null,null],\"btn\":[0,0,0,0,0,0,0,0],\"so\":{\"4\":0,\"11\":0,\"13\":0,\"17\":0,\"20\":0,\"30\":0,\"68\":0,\"73\":0,\"82\":0,\"114\":0,\"117\":0},\"lk\":1,\"lt_st\":0,\"sho\":[0,0,0,0],\"ver\":1}"}
+{"topic": "tasmota/discovery/5CCF7FC69DD2/sensors", "msg": "{\"sn\":{\"Time\":\"2021-10-03T14:05:43\",\"DHT11\":{\"Temperature\":null,\"Humidity\":null,\"DewPoint\":null},\"TempUnit\":\"C\"},\"ver\":1}"}

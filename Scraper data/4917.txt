@@ -1,0 +1,6 @@
+{"IP": "162.241.35.22"}
+{"topic": "CCO/Alerta/solicitacao/status", "msg": "0"}
+{"topic": "CCO/Alerta/solicitacao/AtrasoImagem", "msg": "0"}
+{"topic": "CCO/Alerta/resultado/status", "msg": "    STATUS ATUAL:     Ecopistas | S\u00e3o Jos\u00e9 dos Campos | IP: 10.0.92.151 | N\u00e3o acess\u00edvel na rede. | 23/09/2021 08:00:00 \n\nEcovias | Batistini | IP: 172.16.11.116 | N\u00e3o acess\u00edvel na rede. | 27/09/2021 11:00:00 \n\nEcovias | Piratininga | IP: 172.16.15.47 | N\u00e3o acess\u00edvel na rede. | 24/09/2021 16:00:00 \n\n"}
+{"topic": "CCO/Alerta/resultado/AtrasoImagem", "msg": "    Utimos pacotes de imagem:     "}
+{"topic": "estacao/sensores", "msg": "{\"DataHora\":\"20220309010400\",\"Temp\":21.4,\"Umid\":94,\"Pluv\":0,\"Anem\":2.105872,\"Rajadas\":3.990074,\"DirVent\":0,\"Pressao\":916,\"TempBMP180\":26.3}"}

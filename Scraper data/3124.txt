@@ -1,0 +1,17 @@
+{"IP": "3.239.50.216"}
+{"topic": "$SYS/brokers/emqx@172.31.74.41/version", "msg": "4.2.8"}
+{"topic": "$SYS/brokers/emqx@172.31.74.41/sysdescr", "msg": "EMQ X Broker"}
+{"topic": "$SYS/brokers/emqx@172.31.79.131/version", "msg": "4.2.9"}
+{"topic": "$SYS/brokers", "msg": "emqx@172.31.74.41,emqx@172.31.79.131"}
+{"topic": "$SYS/brokers/emqx@172.31.79.131/sysdescr", "msg": "EMQ X Broker"}
+{"topic": "/device/quit", "msg": "{\"uuid\":\"76940518d87204c1ba8bd1ff3e066f0b\",\"uid\":\"d45b5bcd4dde8015\"}"}
+{"topic": "/device/f1d90b7ee51d718ca45bf94155c39912/cmd", "msg": "{\"cmd\":10,\"url\":\"rtsps://mediaus.teckinhome.com:443/teckin/alexa/f1d90b7ee51d718ca45bf94155c39912\",\"add\":\"\"}"}
+{"topic": "/device/init", "msg": "{\"uuid\":\"635021149af54470041d71cf1661fb53\",\"uid\":\"7d5bacbe28b87031\"}"}
+{"topic": "/device/456c9a072ec6b12c4facc8ab5da4d40b/cmd", "msg": "{\"cmd\":10,\"url\":\"rtsps://mediaus.teckinhome.com:443/teckin/alexa/456c9a072ec6b12c4facc8ab5da4d40b\",\"add\":\"\"}"}
+{"topic": "/device/f1d90b7ee51d718ca45bf94155c39912/cmd", "msg": "{\"cmd\":10,\"url\":\"rtsps://mediaus.teckinhome.com:443/teckin/alexa/f1d90b7ee51d718ca45bf94155c39912\",\"add\":\"\"}"}
+{"topic": "/device/init", "msg": "{\"uuid\":\"57601ef1763b3f51656c11a43bde1244\",\"uid\":\"e68d8173c2a28c3b\"}"}
+{"topic": "/device/quit", "msg": "{\"uuid\":\"0588c4635bd773acc03be6ee74b786a5\",\"uid\":\"4d68817a5a05cae3\"}"}
+{"topic": "/device/init", "msg": "{\"uuid\":\"dfb7e38f66c7d6edc2fd31990d80225f\",\"uid\":\"42923de9832a5dc5\"}"}
+{"topic": "/device/init", "msg": "{\"uuid\":\"34540de5ec97a8f5ce6087e6813af173\",\"uid\":\"3b01458fef99fa4b\"}"}
+{"topic": "/device/quit", "msg": "{\"uuid\":\"56e91eddbbc9ed3c702171fe2d064b52\",\"uid\":\"7ba79e20fe055ff9\"}"}
+{"topic": "/device/init", "msg": "{\"uuid\":\"5d836c189f27ebc9200f455136df66dc\",\"uid\":\"127372e97b3a29dc\"}"}

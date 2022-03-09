@@ -1,0 +1,36 @@
+{"IP": "13.66.52.0"}
+{"topic": "seismicms.com/assets/15/dataitems/2", "msg": "{\r\n  \"assetId\": 15,\r\n  \"dataItemId\": 2,\r\n  \"timestamp\": \"2022-03-09T01:23:49.039531Z\",\r\n  \"value\": 23.809999465942383\r\n}"}
+{"topic": "seismicms.com/assets/15/dataitems/3", "msg": "{\r\n  \"assetId\": 15,\r\n  \"dataItemId\": 3,\r\n  \"timestamp\": \"2022-03-09T01:23:49.039531Z\",\r\n  \"value\": -56.81999969482422\r\n}"}
+{"topic": "seismicms.com/assets/15/dataitems/4", "msg": "{\r\n  \"assetId\": 15,\r\n  \"dataItemId\": 4,\r\n  \"timestamp\": \"2022-03-09T01:23:49.039531Z\",\r\n  \"value\": 0.18000000715255737\r\n}"}
+{"topic": "seismicms.com/assets/15/dataitems/5", "msg": "{\r\n  \"assetId\": 15,\r\n  \"dataItemId\": 5,\r\n  \"timestamp\": \"2022-03-09T01:23:49.039531Z\",\r\n  \"value\": -7.480000019073486\r\n}"}
+{"topic": "seismicms.com/assets/15/dataitems/6", "msg": "{\r\n  \"assetId\": 15,\r\n  \"dataItemId\": 6,\r\n  \"timestamp\": \"2022-03-09T01:23:49.039531Z\",\r\n  \"value\": 13.520000457763672\r\n}"}
+{"topic": "seismicms.com/assets/15/dataitems/7", "msg": "{\r\n  \"assetId\": 15,\r\n  \"dataItemId\": 7,\r\n  \"timestamp\": \"2022-03-09T01:23:49.039531Z\",\r\n  \"value\": 1.0698626041412354\r\n}"}
+{"topic": "seismicms.com/assets/15/dataitems/1", "msg": "{\r\n  \"assetId\": 15,\r\n  \"dataItemId\": 1,\r\n  \"timestamp\": \"2022-03-09T01:23:49.039531Z\",\r\n  \"value\": -114.19000244140625\r\n}"}
+{"topic": "seismicms.com/assets/15/attributes/severity", "msg": "{\r\n  \"assetId\": 15,\r\n  \"attributeName\": \"severity\",\r\n  \"attributeValue\": \"5\"\r\n}"}
+{"topic": "seismicms.com/assets/15/attributes/pref-dash-lg", "msg": "{\r\n  \"assetId\": 15,\r\n  \"attributeName\": \"pref-dash-lg\",\r\n  \"attributeValue\": \"1\"\r\n}"}
+{"topic": "seismicms.com/assets/15/attributes/pref-dash-sm", "msg": "{\r\n  \"assetId\": 15,\r\n  \"attributeName\": \"pref-dash-sm\",\r\n  \"attributeValue\": \"1\"\r\n}"}
+{"topic": "seismicms.com/assets/15/attributes/pref-dash-xxs", "msg": "{\r\n  \"assetId\": 15,\r\n  \"attributeName\": \"pref-dash-xxs\",\r\n  \"attributeValue\": \"5\"\r\n}"}
+{"topic": "seismicms.com/assets/15/attributes/lastContactHttp", "msg": "{\r\n  \"assetId\": 15,\r\n  \"attributeName\": \"lastContactHttp\",\r\n  \"attributeValue\": \"2022-03-08T23:59:25Z\"\r\n}"}
+{"topic": "seismicms.com/assets/15/attributes/Station", "msg": "{\r\n  \"assetId\": 15,\r\n  \"attributeName\": \"Station\",\r\n  \"attributeValue\": \"r1522\"\r\n}"}
+{"topic": "seismicms.com/assets/15/attributes/thumbnail", "msg": "{\r\n  \"assetId\": 15,\r\n  \"attributeName\": \"thumbnail\",\r\n  \"attributeValue\": \"/thumb.jpg\"\r\n}"}
+{"topic": "seismicms.com/assets/15/attributes/ZT_IP", "msg": "{\r\n  \"assetId\": 15,\r\n  \"attributeName\": \"ZT_IP\",\r\n  \"attributeValue\": \"172.22.213.30\"\r\n}"}
+{"topic": "seismicms.com/assets/15/attributes/WB_IP", "msg": "{\r\n  \"assetId\": 15,\r\n  \"attributeName\": \"WB_IP\",\r\n  \"attributeValue\": \"10.30.12.201\"\r\n}"}
+{"topic": "seismicms.com/assets/15/attributes/region", "msg": "{\r\n  \"assetId\": 15,\r\n  \"attributeName\": \"region\",\r\n  \"attributeValue\": \"Western Texas\"\r\n}"}
+{"topic": "seismicms.com/assets/15/attributes/lat", "msg": "{\r\n  \"assetId\": 15,\r\n  \"attributeName\": \"lat\",\r\n  \"attributeValue\": \"31.41340\"\r\n}"}
+{"topic": "seismicms.com/assets/15/attributes/lon", "msg": "{\r\n  \"assetId\": 15,\r\n  \"attributeName\": \"lon\",\r\n  \"attributeValue\": \"-103.53350\"\r\n}"}
+{"topic": "seismicms.com/assets/13/dataitems/1", "msg": "{\r\n  \"assetId\": 13,\r\n  \"dataItemId\": 1,\r\n  \"timestamp\": \"2022-03-09T01:23:49.485181Z\",\r\n  \"value\": 8823.599609375\r\n}"}
+{"topic": "seismicms.com/assets/13/dataitems/2", "msg": "{\r\n  \"assetId\": 13,\r\n  \"dataItemId\": 2,\r\n  \"timestamp\": \"2022-03-09T01:23:49.485181Z\",\r\n  \"value\": 1962.5999755859375\r\n}"}
+{"topic": "seismicms.com/assets/13/dataitems/3", "msg": "{\r\n  \"assetId\": 13,\r\n  \"dataItemId\": 3,\r\n  \"timestamp\": \"2022-03-09T01:23:49.485181Z\",\r\n  \"value\": 1311.5400390625\r\n}"}
+{"topic": "seismicms.com/assets/13/dataitems/4", "msg": "{\r\n  \"assetId\": 13,\r\n  \"dataItemId\": 4,\r\n  \"timestamp\": \"2022-03-09T01:23:49.485181Z\",\r\n  \"value\": 574.5399780273438\r\n}"}
+{"topic": "seismicms.com/assets/13/dataitems/5", "msg": "{\r\n  \"assetId\": 13,\r\n  \"dataItemId\": 5,\r\n  \"timestamp\": \"2022-03-09T01:23:49.485181Z\",\r\n  \"value\": -10363.8896484375\r\n}"}
+{"topic": "seismicms.com/assets/13/dataitems/6", "msg": "{\r\n  \"assetId\": 13,\r\n  \"dataItemId\": 6,\r\n  \"timestamp\": \"2022-03-09T01:23:49.485181Z\",\r\n  \"value\": 12050.1103515625\r\n}"}
+{"topic": "seismicms.com/assets/13/dataitems/7", "msg": "{\r\n  \"assetId\": 13,\r\n  \"dataItemId\": 7,\r\n  \"timestamp\": \"2022-03-09T01:23:49.485181Z\",\r\n  \"value\": 0.9721160531044006\r\n}"}
+{"topic": "seismicms.com/assets/13/attributes/severity", "msg": "{\r\n  \"assetId\": 13,\r\n  \"attributeName\": \"severity\",\r\n  \"attributeValue\": \"5\"\r\n}"}
+{"topic": "seismicms.com/assets/13/attributes/ZT_IP", "msg": "{\r\n  \"assetId\": 13,\r\n  \"attributeName\": \"ZT_IP\",\r\n  \"attributeValue\": \"172.22.38.82\"\r\n}"}
+{"topic": "seismicms.com/assets/13/attributes/pref-dash-lg", "msg": "{\r\n  \"assetId\": 13,\r\n  \"attributeName\": \"pref-dash-lg\",\r\n  \"attributeValue\": \"1\"\r\n}"}
+{"topic": "seismicms.com/assets/13/attributes/pref-dash-sm", "msg": "{\r\n  \"assetId\": 13,\r\n  \"attributeName\": \"pref-dash-sm\",\r\n  \"attributeValue\": \"1\"\r\n}"}
+{"topic": "seismicms.com/assets/13/attributes/pref-dash-xxs", "msg": "{\r\n  \"assetId\": 13,\r\n  \"attributeName\": \"pref-dash-xxs\",\r\n  \"attributeValue\": \"5\"\r\n}"}
+{"topic": "seismicms.com/assets/13/attributes/lastContactHttp", "msg": "{\r\n  \"assetId\": 13,\r\n  \"attributeName\": \"lastContactHttp\",\r\n  \"attributeValue\": \"2022-03-09T00:00:00Z\"\r\n}"}
+{"topic": "seismicms.com/assets/13/attributes/thumbnail", "msg": "{\r\n  \"assetId\": 13,\r\n  \"attributeName\": \"thumbnail\",\r\n  \"attributeValue\": \"/thumb.jpg\"\r\n}"}
+{"topic": "seismicms.com/assets/13/attributes/Station", "msg": "{\r\n  \"assetId\": 13,\r\n  \"attributeName\": \"Station\",\r\n  \"attributeValue\": \"r93d1\"\r\n}"}
+{"topic": "seismicms.com/assets/13/attributes/lon", "msg": "{\r\n  \"assetId\": 13,\r\n  \"attributeName\": \"lon\",\r\n  \"attributeValue\": \"-103.23000\"\r\n}"}

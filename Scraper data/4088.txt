@@ -1,0 +1,2 @@
+{"IP": "142.93.6.7"}
+{"topic": "sensors/home/bonus_room/status", "msg": "sync"}

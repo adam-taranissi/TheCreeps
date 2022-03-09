@@ -1,0 +1,3 @@
+{"IP": "54.187.87.191"}
+{"topic": "fourthfrontier/1223/status", "msg": "{\"Timestamp\":1593606550737,\"Status\":\"Disconnect\"}"}
+{"topic": "fourthfrontier/6027/live-broadcast", "msg": "{\"time_zone_utc_offset\":-18000,\"altitude\":0,\"average_qtc\":430,\"timestamp_epoch\":1646789505317,\"longitude\":-79.455713007137732,\"qos\":93,\"latitude\":43.6957231921334,\"userName\":\"onetimebird\",\"shock\":0,\"breathingRate\":28,\"uniqueID\":1646784501376,\"strain\":-0.059999999999999998,\"hearRate\":150,\"cadence\":0,\"distance\":0,\"pace\":0}"}

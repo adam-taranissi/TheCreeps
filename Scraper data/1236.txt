@@ -1,0 +1,27 @@
+{"IP": "34.239.240.53"}
+{"topic": "$SYS/brokers/emqx@172.31.91.190/sysdescr", "msg": "EMQ X Broker"}
+{"topic": "$SYS/brokers/emqx@172.31.91.190/version", "msg": "4.3.5"}
+{"topic": "$SYS/brokers/emqx@172.31.5.138/version", "msg": "4.3.5"}
+{"topic": "$SYS/brokers", "msg": "emqx@172.31.91.190,emqx@172.31.5.138"}
+{"topic": "$SYS/brokers/emqx@172.31.5.138/sysdescr", "msg": "EMQ X Broker"}
+{"topic": "/device/quit", "msg": "{\"uuid\":\"4a0b235de31d09366cad46ae15d091b1\",\"uid\":\"d9f2ee3bf2f3cb92\"}"}
+{"topic": "/device/init", "msg": "{\"uuid\":\"d6b271a2f55e6cbbb572d31228a0cd26\",\"uid\":\"542db2fdd1be464e\"}"}
+{"topic": "/device/quit", "msg": "{\"uuid\":\"ee5bbb101ac058cf3411358a06eb7249\",\"uid\":\"4fd0638190c5c283\"}"}
+{"topic": "/device/init", "msg": "{\"uuid\":\"93db69e0f4b8035507645293135594e9\",\"uid\":\"76232f1b2f2aed4c\"}"}
+{"topic": "/device/init", "msg": "{\"uuid\":\"17b2f79a848f74e9b2f71c616aa90ce1\",\"uid\":\"1ffccf4d283d99d5\"}"}
+{"topic": "/device/init", "msg": "{\"uuid\":\"e03fc2280e81653bf7464d4c3006ad91\",\"uid\":\"7a7f7017c805ed0a\"}"}
+{"topic": "/device/init", "msg": "{\"uuid\":\"17fa8c72012e341be6f152cc194e03e4\",\"uid\":\"2430a6c66bc7f8dd\"}"}
+{"topic": "/device/init", "msg": "{\"uuid\":\"3e30c0ad411e07e12fab618eafdc775a\",\"uid\":\"d30b9139722ce548\"}"}
+{"topic": "/device/init", "msg": "{\"uuid\":\"a80ef74d5f9101983d463078a68ae851\",\"uid\":\"e47e68f0b470806b\"}"}
+{"topic": "/device/init", "msg": "{\"uuid\":\"37e024fdc41f3b8727506ba0b9e0fb60\",\"uid\":\"5c98038f508c92bf\"}"}
+{"topic": "/device/init", "msg": "{\"uuid\":\"0b7453152a4b5fab6977565dba6f2fb7\",\"uid\":\"4a48e1eebe227457\"}"}
+{"topic": "/device/init", "msg": "{\"uuid\":\"fd6ccc9e4b2d7171c0a23856f2cd827b\",\"uid\":\"79dfb89d98a648cc\"}"}
+{"topic": "/device/init", "msg": "{\"uuid\":\"a6abc74ab4752a33369836d7dba2abbb\",\"uid\":\"14b49c64d5518490\"}"}
+{"topic": "/device/init", "msg": "{\"uuid\":\"f5e3c2bf3dcbcc89edc091fb4619b8bd\",\"uid\":\"930ef52bb51d50f2\"}"}
+{"topic": "/device/8c3eea7a6ae4f1cee3c48f11c98b7ad4/cmd", "msg": "{\"cmd\":10,\"url\":\"rtsps://mediaus.nooie.com:443/nooie/alexa/8c3eea7a6ae4f1cee3c48f11c98b7ad4\",\"add\":\"\"}"}
+{"topic": "/device/init", "msg": "{\"uuid\":\"2ac65f4d87e24d3e40f43bf80157ddad\",\"uid\":\"f7f17258cbf60bef\"}"}
+{"topic": "/device/ready", "msg": "{\"uuid\":\"8c3eea7a6ae4f1cee3c48f11c98b7ad4\"}"}
+{"topic": "/device/init", "msg": "{\"uuid\":\"24ff85de4620618c85555b338d40b301\",\"uid\":\"fa05f3e814f03f09\"}"}
+{"topic": "/device/init", "msg": "{\"uuid\":\"35ff5e4864f632d79255869ab0450ccf\",\"uid\":\"fac906fb828b617d\"}"}
+{"topic": "/device/quit", "msg": "{\"uuid\":\"bc41b01ff4628e8fbb5e19b4a9bda655\",\"uid\":\"f4831fa50fc44361\"}"}
+{"topic": "/device/quit", "msg": "{\"uuid\":\"db2fc8449350aaaa21e5fd5243119876\",\"uid\":\"685bec7160561de1\"}"}

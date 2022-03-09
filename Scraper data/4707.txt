@@ -1,0 +1,2 @@
+{"IP": "66.178.84.2"}
+{"topic": "link/linkUPStat", "msg": "{\"interface_name\": \"eno2\", \"status\": 0, \"interface_probe_freq\": 5, \"interface_alias\": null, \"interface_display\": \"Wi-Fi\", \"interface_type\": \"wifi\", \"wan_updated_at\": \"2022-03-09T00:45:43.981Z\", \"timeStamp\": \"2022-03-09T00:45:43.981Z\", \"name\": \"linkUPStat\", \"vesselId\": \"MY-BigSky\"}"}

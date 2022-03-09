@@ -1,0 +1,35 @@
+{"IP": "52.255.190.123"}
+{"topic": "snubwell.com/assets/76400", "msg": "{\r\n  \"assetId\": 76400,\r\n  \"assetAlias\": \"HCU 16\",\r\n  \"assetDefinitionId\": 76192,\r\n  \"serialNumber\": \"1546305849\",\r\n  \"description\": \" \",\r\n  \"loggingLevel\": 1,\r\n  \"latitude\": 0.0,\r\n  \"longitude\": 0.0\r\n}"}
+{"topic": "snubwell.com/assets/76400/dataitems/148", "msg": "{\r\n  \"assetId\": 76400,\r\n  \"dataItemId\": 148,\r\n  \"timestamp\": \"2022-03-09T03:12:39.650648Z\",\r\n  \"value\": 0.0\r\n}"}
+{"topic": "snubwell.com/assets/76400/dataitems/19", "msg": "{\r\n  \"assetId\": 76400,\r\n  \"dataItemId\": 19,\r\n  \"timestamp\": \"2022-03-09T03:12:39.650648Z\",\r\n  \"value\": 3111.22998046875\r\n}"}
+{"topic": "snubwell.com/assets/76400/dataitems/39", "msg": "{\r\n  \"assetId\": 76400,\r\n  \"dataItemId\": 39,\r\n  \"timestamp\": \"2022-03-09T03:12:39.650648Z\",\r\n  \"value\": 0.0\r\n}"}
+{"topic": "snubwell.com/assets/76400/dataitems/149", "msg": "{\r\n  \"assetId\": 76400,\r\n  \"dataItemId\": 149,\r\n  \"timestamp\": \"2022-03-09T03:12:39.650648Z\",\r\n  \"value\": 2.0\r\n}"}
+{"topic": "snubwell.com/assets/76400/dataitems/150", "msg": "{\r\n  \"assetId\": 76400,\r\n  \"dataItemId\": 150,\r\n  \"timestamp\": \"2022-03-09T03:12:39.650648Z\",\r\n  \"value\": 1.0\r\n}"}
+{"topic": "snubwell.com/assets/76400/dataitems/151", "msg": "{\r\n  \"assetId\": 76400,\r\n  \"dataItemId\": 151,\r\n  \"timestamp\": \"2022-03-09T03:12:39.650648Z\",\r\n  \"value\": 1.0\r\n}"}
+{"topic": "snubwell.com/assets/76400/dataitems/152", "msg": "{\r\n  \"assetId\": 76400,\r\n  \"dataItemId\": 152,\r\n  \"timestamp\": \"2022-03-09T03:12:39.650648Z\",\r\n  \"value\": 1.0\r\n}"}
+{"topic": "snubwell.com/assets/76400/dataitems/153", "msg": "{\r\n  \"assetId\": 76400,\r\n  \"dataItemId\": 153,\r\n  \"timestamp\": \"2022-03-09T03:12:39.650648Z\",\r\n  \"value\": 1.0\r\n}"}
+{"topic": "snubwell.com/assets/76400/dataitems/154", "msg": "{\r\n  \"assetId\": 76400,\r\n  \"dataItemId\": 154,\r\n  \"timestamp\": \"2022-03-09T03:12:39.650648Z\",\r\n  \"value\": 64.09073638916016\r\n}"}
+{"topic": "snubwell.com/assets/76400/dataitems/155", "msg": "{\r\n  \"assetId\": 76400,\r\n  \"dataItemId\": 155,\r\n  \"timestamp\": \"2022-03-09T03:12:39.650648Z\",\r\n  \"value\": 305.19488525390625\r\n}"}
+{"topic": "snubwell.com/assets/76400/dataitems/156", "msg": "{\r\n  \"assetId\": 76400,\r\n  \"dataItemId\": 156,\r\n  \"timestamp\": \"2022-03-09T03:12:39.650648Z\",\r\n  \"value\": 4122.279296875\r\n}"}
+{"topic": "snubwell.com/assets/76400/dataitems/157", "msg": "{\r\n  \"assetId\": 76400,\r\n  \"dataItemId\": 157,\r\n  \"timestamp\": \"2022-03-09T03:12:39.650648Z\",\r\n  \"value\": -3817.08447265625\r\n}"}
+{"topic": "snubwell.com/assets/76400/dataitems/158", "msg": "{\r\n  \"assetId\": 76400,\r\n  \"dataItemId\": 158,\r\n  \"timestamp\": \"2022-03-09T03:12:39.650648Z\",\r\n  \"value\": 1321.2197265625\r\n}"}
+{"topic": "snubwell.com/assets/76400/dataitems/159", "msg": "{\r\n  \"assetId\": 76400,\r\n  \"dataItemId\": 159,\r\n  \"timestamp\": \"2022-03-09T03:12:39.650648Z\",\r\n  \"value\": 0.0\r\n}"}
+{"topic": "snubwell.com/assets/76400/dataitems/160", "msg": "{\r\n  \"assetId\": 76400,\r\n  \"dataItemId\": 160,\r\n  \"timestamp\": \"2022-03-09T03:12:39.650648Z\",\r\n  \"value\": -25.17681312561035\r\n}"}
+{"topic": "snubwell.com/assets/76400/dataitems/161", "msg": "{\r\n  \"assetId\": 76400,\r\n  \"dataItemId\": 161,\r\n  \"timestamp\": \"2022-03-09T03:12:39.650648Z\",\r\n  \"value\": 1696.917236328125\r\n}"}
+{"topic": "snubwell.com/assets/76400/dataitems/162", "msg": "{\r\n  \"assetId\": 76400,\r\n  \"dataItemId\": 162,\r\n  \"timestamp\": \"2022-03-09T03:12:39.650648Z\",\r\n  \"value\": -1722.093994140625\r\n}"}
+{"topic": "snubwell.com/assets/76400/dataitems/164", "msg": "{\r\n  \"assetId\": 76400,\r\n  \"dataItemId\": 164,\r\n  \"timestamp\": \"2022-03-09T03:12:39.650648Z\",\r\n  \"value\": 1894.830078125\r\n}"}
+{"topic": "snubwell.com/assets/76400/dataitems/165", "msg": "{\r\n  \"assetId\": 76400,\r\n  \"dataItemId\": 165,\r\n  \"timestamp\": \"2022-03-09T03:12:39.650648Z\",\r\n  \"value\": 0.0\r\n}"}
+{"topic": "snubwell.com/assets/76400/dataitems/166", "msg": "{\r\n  \"assetId\": 76400,\r\n  \"dataItemId\": 166,\r\n  \"timestamp\": \"2022-03-09T03:12:39.650648Z\",\r\n  \"value\": 1894.830078125\r\n}"}
+{"topic": "snubwell.com/assets/76400/dataitems/167", "msg": "{\r\n  \"assetId\": 76400,\r\n  \"dataItemId\": 167,\r\n  \"timestamp\": \"2022-03-09T03:12:39.650648Z\",\r\n  \"value\": -14990.4619140625\r\n}"}
+{"topic": "snubwell.com/assets/76400/dataitems/168", "msg": "{\r\n  \"assetId\": 76400,\r\n  \"dataItemId\": 168,\r\n  \"timestamp\": \"2022-03-09T03:12:39.650648Z\",\r\n  \"value\": -16885.291015625\r\n}"}
+{"topic": "snubwell.com/assets/76400/dataitems/169", "msg": "{\r\n  \"assetId\": 76400,\r\n  \"dataItemId\": 169,\r\n  \"timestamp\": \"2022-03-09T03:12:39.650648Z\",\r\n  \"value\": 0.0\r\n}"}
+{"topic": "snubwell.com/assets/76400/dataitems/170", "msg": "{\r\n  \"assetId\": 76400,\r\n  \"dataItemId\": 170,\r\n  \"timestamp\": \"2022-03-09T03:12:39.650648Z\",\r\n  \"value\": 0.0\r\n}"}
+{"topic": "snubwell.com/assets/76400/dataitems/171", "msg": "{\r\n  \"assetId\": 76400,\r\n  \"dataItemId\": 171,\r\n  \"timestamp\": \"2022-03-09T03:12:39.650648Z\",\r\n  \"value\": -4.699999809265137\r\n}"}
+{"topic": "snubwell.com/assets/76400/dataitems/5", "msg": "{\r\n  \"assetId\": 76400,\r\n  \"dataItemId\": 5,\r\n  \"timestamp\": \"2022-03-09T03:12:39.650648Z\",\r\n  \"value\": -196.59906005859375\r\n}"}
+{"topic": "snubwell.com/assets/76400/dataitems/172", "msg": "{\r\n  \"assetId\": 76400,\r\n  \"dataItemId\": 172,\r\n  \"timestamp\": \"2022-03-09T03:12:39.650648Z\",\r\n  \"value\": 0.0\r\n}"}
+{"topic": "snubwell.com/assets/76400/dataitems/173", "msg": "{\r\n  \"assetId\": 76400,\r\n  \"dataItemId\": 173,\r\n  \"timestamp\": \"2022-03-09T03:12:39.650648Z\",\r\n  \"value\": 26586.34765625\r\n}"}
+{"topic": "snubwell.com/assets/76400/dataitems/174", "msg": "{\r\n  \"assetId\": 76400,\r\n  \"dataItemId\": 174,\r\n  \"timestamp\": \"2022-03-09T03:12:39.650648Z\",\r\n  \"value\": 24645.91796875\r\n}"}
+{"topic": "snubwell.com/assets/76400/dataitems/175", "msg": "{\r\n  \"assetId\": 76400,\r\n  \"dataItemId\": 175,\r\n  \"timestamp\": \"2022-03-09T03:12:39.650648Z\",\r\n  \"value\": 0.0\r\n}"}
+{"topic": "snubwell.com/assets/76400/dataitems/176", "msg": "{\r\n  \"assetId\": 76400,\r\n  \"dataItemId\": 176,\r\n  \"timestamp\": \"2022-03-09T03:12:39.650648Z\",\r\n  \"value\": 100.0\r\n}"}
+{"topic": "snubwell.com/assets/76400/attributes/API Number", "msg": "{\r\n  \"assetId\": 76400,\r\n  \"attributeName\": \"API Number\",\r\n  \"attributeValue\": \"0\"\r\n}"}
+{"topic": "snubwell.com/assets/76400/attributes/Job start time", "msg": "{\r\n  \"assetId\": 76400,\r\n  \"attributeName\": \"Job start time\",\r\n  \"attributeValue\": \"2022-03-08T15:00:00.000Z\"\r\n}"}

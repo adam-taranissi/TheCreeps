@@ -1,0 +1,9 @@
+{"IP": "165.227.107.127"}
+{"topic": "mqtt/pimylifeup", "msg": "Hi Lino"}
+{"topic": "its8050/chat", "msg": "Oh hey"}
+{"topic": "/topic/queue_demo/", "msg": "49"}
+{"topic": "/topic/echo", "msg": "msg: 70433"}
+{"topic": "/topic/nodered_demo/", "msg": "data from esp32: 69"}
+{"topic": "/topic/nodered_demo/command", "msg": "true"}
+{"topic": "/topic/integration", "msg": "data from esp32: 5"}
+{"topic": "linomike/topic/echo", "msg": "msg: 1215"}

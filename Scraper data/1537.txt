@@ -1,0 +1,16 @@
+{"IP": "68.46.229.245"}
+{"topic": "weather/davis", "msg": "{\"barometer\":29.76}"}
+{"topic": "home/weather/solarweatherstation/zletter", "msg": "A"}
+{"topic": "home/weather/solarweatherstation/tempc", "msg": "25.5"}
+{"topic": "home/weather/solarweatherstation/humi", "msg": " 62"}
+{"topic": "home/weather/solarweatherstation/abshpa", "msg": "1008"}
+{"topic": "home/weather/solarweatherstation/relhpa", "msg": "1070"}
+{"topic": "home/weather/solarweatherstation/battv", "msg": "3.69"}
+{"topic": "home/weather/solarweatherstation/dewpointc", "msg": "17.7"}
+{"topic": "home/weather/solarweatherstation/heatindexc", "msg": "25.5"}
+{"topic": "home/weather/solarweatherstation/accuracy", "msg": " 94"}
+{"topic": "home/weather/solarweatherstation/spreadc", "msg": "7.9"}
+{"topic": "home/weather/solarweatherstation/zambrettisays", "msg": "Settled fine weather"}
+{"topic": "home/weather/solarweatherstation/trendinwords", "msg": "Falling slow"}
+{"topic": "home/weather/solarweatherstation/trend", "msg": "-1.28"}
+{"topic": "davisreadings", "msg": "2022-03-08 15:08:39.188703 : b\"{'outTemp':80.20}\""}

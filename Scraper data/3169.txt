@@ -1,0 +1,36 @@
+{"IP": "66.195.143.67"}
+{"topic": "10G501/72001739/connected", "msg": "true"}
+{"topic": "10G501/72001724/connected", "msg": "true"}
+{"topic": "BLLS /72001788/connected", "msg": "true"}
+{"topic": "state01/72001726/connected", "msg": "true"}
+{"topic": "7465/72001764/connected", "msg": "true"}
+{"topic": "TB433/75001663/connected", "msg": "true"}
+{"topic": "TPSBHR/72001715/connected", "msg": "true"}
+{"topic": "MBHR/72001703/connected", "msg": "true"}
+{"topic": "MBHR/72001741/connected", "msg": "true"}
+{"topic": "REGENCY/72001780/connected", "msg": "true"}
+{"topic": "KVP /72001731/connected", "msg": "true"}
+{"topic": "Inland/77000168/connected", "msg": "true"}
+{"topic": "Inland/72001722/connected", "msg": "true"}
+{"topic": "1998/72001768/connected", "msg": "true"}
+{"topic": "Scientific/75001999/connected", "msg": "true"}
+{"topic": "Porters/72001706/connected", "msg": "true"}
+{"topic": "GTSLiving/72001720/connected", "msg": "true"}
+{"topic": "GTSLiving/72001702/connected", "msg": "true"}
+{"topic": "GTSLiving/72001708/connected", "msg": "true"}
+{"topic": "FEOHB/75002011/connected", "msg": "true"}
+{"topic": "FEOHB/75002001/connected", "msg": "true"}
+{"topic": "Popcornopo/75002012/connected", "msg": "true"}
+{"topic": "Popcornopo/75001670/connected", "msg": "true"}
+{"topic": "Promate/72001760/connected", "msg": "true"}
+{"topic": "Promate/72001757/connected", "msg": "true"}
+{"topic": "FMUSABHR/72001732/connected", "msg": "true"}
+{"topic": "AEHR/72001774/connected", "msg": "true"}
+{"topic": "cpfpps/75001667/connected", "msg": "true"}
+{"topic": "cpfpps/75002019/connected", "msg": "true"}
+{"topic": "cpfpps/75002006/connected", "msg": "true"}
+{"topic": "cpfpps/75002014/connected", "msg": "true"}
+{"topic": "LNLN/75002000/connected", "msg": "true"}
+{"topic": "LNLN/75001995/connected", "msg": "true"}
+{"topic": "LNLN/75002007/connected", "msg": "true"}
+{"topic": "LNLN/75002002/connected", "msg": "true"}

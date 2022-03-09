@@ -1,0 +1,2 @@
+{"IP": "66.30.19.16"}
+{"topic": "csiot/loraReader/6844a94f8", "msg": "0\n"}

@@ -1,0 +1,5 @@
+{"IP": "35.80.134.26"}
+{"topic": "bms/34133/bms/cur", "msg": "{\"ts\":1646792488,\"ver\":3,\"id\":\"00000000\",\"data\":\"AQAABGIAAAAA\"}"}
+{"topic": "bms/200064/bms/cur", "msg": "{\"ts\":1646792509,\"ver\":3,\"id\":\"00000000\",\"data\":\"AQAARGIAAAAA\"}"}
+{"topic": "bms/34133/pack/cur", "msg": "{\"ts\":1646792488,\"ver\":3,\"id\":\"00000000\",\"data\":\"AQAAUwwRDgcAVQ==\"}"}
+{"topic": "bms/36429/bms/cur", "msg": "{\"ts\":1646792505,\"ver\":3,\"id\":\"00000000\",\"data\":\"AQAAQGYAAAAA\"}"}

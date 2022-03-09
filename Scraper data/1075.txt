@@ -1,0 +1,21 @@
+{"IP": "73.140.245.132"}
+{"topic": "tele/jc_tasmota/2A3B7C/LWT", "msg": "Offline"}
+{"topic": "tele/jc_tasmota/666DA2/LWT", "msg": "Online"}
+{"topic": "tele/jc_tasmota/104E01/LWT", "msg": "Online"}
+{"topic": "tele/jc_tasmota/D23FEA/LWT", "msg": "Offline"}
+{"topic": "tele/jc_tasmota/467F37/LWT", "msg": "Offline"}
+{"topic": "tele/jc_tasmota/1049AC/LWT", "msg": "Offline"}
+{"topic": "tele/jc_tasmota/2AE861/LWT", "msg": "Offline"}
+{"topic": "tele/18FE34D23FEA/LWT", "msg": "Offline"}
+{"topic": "remoteAlarm", "msg": "{\"MARGINS\":{"}
+{"topic": "powerMaxOut", "msg": "0123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789"}
+{"topic": "oledOut", "msg": "Page3~refresh"}
+{"topic": "/WiFi/ESPRouter_2ae861/system/status", "msg": "offline"}
+{"topic": "/Test//status", "msg": "offline"}
+{"topic": "/ESP_AP//status", "msg": "offline"}
+{"topic": "oledIn", "msg": "JSON~CE:50:E3:46:7F:37~{\"PAGE1\":{\"ROW1\":\"11:28:2\"}}"}
+{"topic": "oledIn", "msg": "JSON~CE:50:E3:46:7F:37~{\"PAGE1\":{\"ROW4\":\"Outside Temp:48\"}}"}
+{"topic": "oledIn", "msg": "JSON~CE:50:E3:46:7F:37~{\"PAGE1\":{\"ROW6\":\"Mom Power:1 0\"}}"}
+{"topic": "remoteAlarm", "msg": "PING~~ce:50:e3:46:7f:37~41696~192.168.1.64~\u0000"}
+{"topic": "oledOut", "msg": "Page2~ce:50:e3:46:7f:37~\u0000"}
+{"topic": "tele/jc_tasmota/666DA2/STATE", "msg": "{\"Time\":\"2022-03-08T20:28:05\",\"Uptime\":\"8T23:45:47\",\"UptimeSec\":776747,\"Heap\":30,\"SleepMode\":\"Dynamic\",\"Sleep\":50,\"LoadAvg\":19,\"MqttCount\":48,\"POWER\":\"ON\",\"Wifi\":{\"AP\":2,\"SSId\":\"jc-wireless2.4\",\"BSSId\":\"DC:FE:07:F9:F3:A8\",\"Channel\":11,\"RSSI\":68,\"Signal\":-66,\"LinkCount\":1,\"Downtime\":\"0T00:00:03\"}}"}

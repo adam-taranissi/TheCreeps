@@ -1,0 +1,6 @@
+{"IP": "198.211.106.246"}
+{"topic": "/sensors/sensor02/status", "msg": "ONLINE sent; Office Testbench 1 has gained connection, bootreason:2,6"}
+{"topic": "/sensors/sensor02/data", "msg": "light:15,temp:12.6,humidity:13.8,msoff:29550.518"}
+{"topic": "/sensors/sensor03/status", "msg": "ONLINE sent; Office Testbench 2 has gained connection, bootreason:2,6"}
+{"topic": "/sensors/sensor04/data", "msg": "light:564.2,temp:27.045349121094,humidity:41,msoff:29484.333"}
+{"topic": "/sensors/sensor04/status", "msg": "ONLINE sent; Office Testbench 3 has gained connection, bootreason:2,3"}

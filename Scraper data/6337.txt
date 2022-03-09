@@ -1,0 +1,11 @@
+{"IP": "73.209.140.232"}
+{"topic": "rhatcher/watson/state", "msg": "0000"}
+{"topic": "rhatcher/watson/Watson-0764", "msg": "client disconnected"}
+{"topic": "rhatcher/watson/Watson-0764/brightness", "msg": "64 64 64 64"}
+{"topic": "rhatcher/watson/Watson-CF5C", "msg": "client disconnected"}
+{"topic": "rhatcher/watson/Watson-CF5C/brightness", "msg": "64 64 64 64"}
+{"topic": "rhatcher/heartbeat", "msg": "2022-03-08 21:06:40"}
+{"topic": "rhatcher/watson/Watson-0764", "msg": "currently connected"}
+{"topic": "rhatcher/watson/Watson-CF5C", "msg": "currently connected"}
+{"topic": "rhatcher/home/dining/ldr", "msg": "{ \"ldr\":  936.83, \"light\": 9 }"}
+{"topic": "rhatcher/home/basement/ldr", "msg": "{ \"ldr\":  465.44, \"light\": 54 }"}

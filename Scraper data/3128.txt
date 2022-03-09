@@ -1,0 +1,4 @@
+{"IP": "3.81.68.140"}
+{"topic": "$SYS/brokers", "msg": "emqx@172.31.35.158"}
+{"topic": "$SYS/brokers/emqx@172.31.35.158/version", "msg": "4.3.5"}
+{"topic": "$SYS/brokers/emqx@172.31.35.158/sysdescr", "msg": "EMQ X Broker"}

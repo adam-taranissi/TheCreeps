@@ -1,0 +1,5 @@
+{"IP": "3.135.206.23"}
+{"topic": "abc/123", "msg": "XYZ"}
+{"topic": "fae19811-d1d2-4e12-8229-16858e9dbbc8/combine/log/error", "msg": "{\"message\": \"combine:ERROR:CAN errors: GPS Failed, CAN0 Failed\", \"time\": 1646785974.09511, \"timestamp\": 1646785974.0952334}"}
+{"topic": "fae19811-d1d2-4e12-8229-16858e9dbbc8/combine/log/error", "msg": "{\"message\": \"combine:ERROR:Waiting for machine.ready()...\", \"time\": 1646785974.0964355, \"timestamp\": 1646785974.0965428}"}
+{"topic": "vision/camera/status", "msg": "\n\u0013\u001a\u0011Hi I am a camera!\u0012\u00121646785974.1185014"}

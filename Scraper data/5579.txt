@@ -1,0 +1,37 @@
+{"IP": "54.235.114.156"}
+{"topic": "tele/everblue_5A48FC/LWT", "msg": "Offline"}
+{"topic": "tele/tasmota_C3213B/LWT", "msg": "Offline"}
+{"topic": "tele/everblue_C3213B/LWT", "msg": "Online"}
+{"topic": "tele/tasmota_2971DC/LWT", "msg": "Offline"}
+{"topic": "tele/everblue_2971DC/LWT", "msg": "Online"}
+{"topic": "tele/tasmota_8582EB/LWT", "msg": "Offline"}
+{"topic": "tele/margot_8582EB/LWT", "msg": "Offline"}
+{"topic": "tele/everblue_48E72E/LWT", "msg": "Offline"}
+{"topic": "tele/everblue_0640C4/LWT", "msg": "Offline"}
+{"topic": "tele/everblue_5A47AF/LWT", "msg": "Offline"}
+{"topic": "tele/everblue_E16E2D/LWT", "msg": "Offline"}
+{"topic": "tele/everblue_0CF942/LWT", "msg": "Offline"}
+{"topic": "tele/tasmota_2F74ED/LWT", "msg": "Offline"}
+{"topic": "tele/everblue_2F74ED/LWT", "msg": "Offline"}
+{"topic": "tele/tasmota_2F7699/LWT", "msg": "Offline"}
+{"topic": "tele/everblue_2F7699/LWT", "msg": "Offline"}
+{"topic": "tele/everblue_0C73AC/LWT", "msg": "Offline"}
+{"topic": "tele/everblue_E2814C/LWT", "msg": "Offline"}
+{"topic": "cmnd/everblue_5A48FC/POWER", "msg": "toggle"}
+{"topic": "cmnd/everblue_C3213B/POWER", "msg": "toggle"}
+{"topic": "cmnd/everblue_C3213B/ButtonRetain", "msg": "ON"}
+{"topic": "cmnd/everblue_C3213B/PowerRetain", "msg": "ON"}
+{"topic": "cmnd/margot_8582EB/POWER", "msg": "0"}
+{"topic": "cmnd/margot_8582EB/POWER1", "msg": "1"}
+{"topic": "cmnd/margot_8582EB/Relay2", "msg": "toggle"}
+{"topic": "cmnd/margot_8582EB/gpi04", "msg": "toggle"}
+{"topic": "cmnd/margot_8582EB/LedPower", "msg": "0"}
+{"topic": "cmnd/margot_8582EB/Power", "msg": "0"}
+{"topic": "cmnd/margot_8582EB/POWER0", "msg": "0"}
+{"topic": "stat/everblue_C3213B/POWER", "msg": "ON"}
+{"topic": "tasmota/discovery/ECFABC8582EB/config", "msg": "{\"ip\":\"172.16.11.225\",\"dn\":\"Tasmota\",\"fn\":[\"Tasmota\",\"\",null,null,null,null,null,null],\"hn\":\"margot_8582EB-0747\",\"mac\":\"ECFABC8582EB\",\"md\":\"Generic\",\"ty\":0,\"if\":0,\"ofln\":\"Offline\",\"onln\":\"Online\",\"state\":[\"OFF\",\"ON\",\"TOGGLE\",\"HOLD\"],\"sw\":\"9.5.0\",\"t\":\"margot_8582EB\",\"ft\":\"%prefix%/%topic%/\",\"tp\":[\"cmnd\",\"stat\",\"tele\"],\"rl\":[1,1,0,0,0,0,0,0],\"swc\":[-1,-1,-1,-1,-1,-1,-1,-1],\"swn\":[null,null,null,null,null,null,null,null],\"btn\":[0,0,0,0,0,0,0,0],\"so\":{\"4\":0,\"11\":0,\"13\":0,\"17\":0,\"20\":0,\"30\":0,\"68\":0,\"73\":0,\"82\":0,\"114\":0,\"117\":0},\"lk\":1,\"lt_st\":0,\"sho\":[0,0,0,0],\"ver\":1}"}
+{"topic": "tasmota/discovery/ECFABC8582EB/sensors", "msg": "{\"sn\":{\"Time\":\"2021-09-29T17:28:17\"},\"ver\":1}"}
+{"topic": "tasmota/discovery/70039F48E72E/config", "msg": "{\"ip\":\"172.16.11.208\",\"dn\":\"Tasmota\",\"fn\":[\"Tasmota\",null,null,null,null,null,null,null],\"hn\":\"everblue-48E72E-1838\",\"mac\":\"70039F48E72E\",\"md\":\"Sonoff Mini\",\"ty\":0,\"if\":0,\"ofln\":\"Offline\",\"onln\":\"Online\",\"state\":[\"OFF\",\"ON\",\"TOGGLE\",\"HOLD\"],\"sw\":\"10.1.0\",\"t\":\"everblue_48E72E\",\"ft\":\"%prefix%/%topic%/\",\"tp\":[\"cmnd\",\"stat\",\"tele\"],\"rl\":[1,0,0,0,0,0,0,0],\"swc\":[-1,-1,-1,-1,-1,-1,-1,-1],\"swn\":[null,null,null,null,null,null,null,null],\"btn\":[0,0,0,0,0,0,0,0],\"so\":{\"4\":0,\"11\":0,\"13\":0,\"17\":0,\"20\":0,\"30\":0,\"68\":0,\"73\":0,\"82\":0,\"114\":0,\"117\":0},\"lk\":0,\"lt_st\":0,\"sho\":[0,0,0,0],\"ver\":1}"}
+{"topic": "tasmota/discovery/70039F48E72E/sensors", "msg": "{\"sn\":{\"Time\":\"2022-02-04T20:28:56\",\"Switch1\":\"ON\"},\"ver\":1}"}
+{"topic": "tasmota/discovery/E09806C3213B/config", "msg": "{\"ip\":\"172.16.3.3\",\"dn\":\"Tasmota\",\"fn\":[\"Tasmota\",null,null,null,null,null,null,null],\"hn\":\"everblue-C3213B-0315\",\"mac\":\"E09806C3213B\",\"md\":\"Sonoff Mini\",\"ty\":0,\"if\":0,\"ofln\":\"Offline\",\"onln\":\"Online\",\"state\":[\"OFF\",\"ON\",\"TOGGLE\",\"HOLD\"],\"sw\":\"10.1.0\",\"t\":\"everblue_C3213B\",\"ft\":\"%prefix%/%topic%/\",\"tp\":[\"cmnd\",\"stat\",\"tele\"],\"rl\":[1,0,0,0,0,0,0,0],\"swc\":[-1,-1,-1,-1,-1,-1,-1,-1],\"swn\":[null,null,null,null,null,null,null,null],\"btn\":[0,0,0,0,0,0,0,0],\"so\":{\"4\":0,\"11\":0,\"13\":0,\"17\":0,\"20\":0,\"30\":0,\"68\":0,\"73\":0,\"82\":0,\"114\":0,\"117\":0},\"lk\":0,\"lt_st\":0,\"sho\":[0,0,0,0],\"ver\":1}"}
+{"topic": "tasmota/discovery/E09806C3213B/sensors", "msg": "{\"sn\":{\"Time\":\"2022-03-08T05:38:44\",\"Switch1\":\"ON\"},\"ver\":1}"}

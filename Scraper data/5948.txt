@@ -1,0 +1,2 @@
+{"IP": "147.182.192.107"}
+{"topic": "rtk//connected", "msg": "True"}

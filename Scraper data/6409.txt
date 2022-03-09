@@ -1,0 +1,5 @@
+{"IP": "70.98.111.77"}
+{"topic": "/Test/Fast50/CurrentItem/Simple", "msg": "{\"ItemKey\":68541,\"ItemId\":\"CONFETTI_CHRIST\",\"Price\":9.0,\"WholesalePrice\":18.0,\"Quantity\":25,\"StartDate\":\"2022-03-07T13:13:52.8513259+05:00\",\"TimeLimit\":180}"}
+{"topic": "/Fast50/CurrentItem/Simple", "msg": "{\"ItemKey\":51373,\"ItemId\":\"DVDREELMAGIC_33\",\"Price\":0.6,\"WholesalePrice\":7.2,\"Quantity\":150,\"StartDate\":\"2022-03-08T16:20:02.3103896-08:00\",\"TimeLimit\":180,\"ItemType\":\"DVD\"}"}
+{"topic": "/QA/Fast50/CurrentItem/Simple", "msg": "{\"ItemKey\":68647,\"ItemId\":\"CHAMELEONSKIN\",\"Price\":3.81,\"WholesalePrice\":18.0,\"Quantity\":50,\"StartDate\":\"2022-02-02T13:56:16.2815808-08:00\",\"TimeLimit\":180}"}
+{"topic": "/Fast50/CurrentItem/Quantity", "msg": "{\"ItemKey\":51373,\"ItemId\":\"DVDREELMAGIC_33\",\"QtyRemaining\":136}"}

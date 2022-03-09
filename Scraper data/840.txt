@@ -1,0 +1,2 @@
+{"IP": "52.247.14.119"}
+{"topic": "STATE/scadadata01", "msg": "ONLINE"}

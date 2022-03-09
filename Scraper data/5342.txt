@@ -1,0 +1,8 @@
+{"IP": "31.220.52.4"}
+{"topic": "door/status", "msg": ""}
+{"topic": "door/status", "msg": ""}
+{"topic": "door/status", "msg": ""}
+{"topic": "door/status", "msg": ""}
+{"topic": "door/status", "msg": ""}
+{"topic": "door/status", "msg": ""}
+{"topic": "door/status", "msg": ""}

@@ -1,0 +1,2 @@
+{"IP": "18.207.70.219"}
+{"topic": "owntracks/jj/iphone", "msg": "{\"_type\":\"encrypted\",\"data\":\"uig\\/Y1\\/DTrO+FS9pKq+ShjB4OS5p4SF5\\/sYx6BeYU\\/TeCNBRmI\\/UHGp8CJq1IY2Ezr3dqReN2HtcY+gSwbS9AQAVrWQtxKqK+u0d880dFS8Azz\\/VUFFwv2nTE8N+IDhK740lHmALoL4BlGIpiySjwm\\/ubEW0huX00SOrb0zSNTLqFq6EKjfbOaIWJlHCUwQEmOtuNsA3bE0zxBfAgYZsLxASzE\\/9BJvkajZxxA9Ka1czkOm3vbuKLQJbL3dn0R6O5w==\"}"}

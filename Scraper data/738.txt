@@ -1,0 +1,35 @@
+{"IP": "140.192.22.178"}
+{"topic": "/Space/FCM/57543/has_started", "msg": "{}"}
+{"topic": "/Space/FCM/57543/has_started", "msg": "{\"started\": true}"}
+{"topic": "/Space/ftpd/67507/has_started", "msg": "{}"}
+{"topic": "/Space/ftpd/67507/has_started", "msg": "{\"started\": true}"}
+{"topic": "/Space/Cloud/38110/has_started", "msg": "{}"}
+{"topic": "/Space/Cloud/38110/has_started", "msg": "{\"started\": true}"}
+{"topic": "/Space/AFP/96575/has_started", "msg": "{}"}
+{"topic": "/Space/AFP/96575/has_started", "msg": "{\"started\": true}"}
+{"topic": "/Space/SMB/16168/has_started", "msg": "{}"}
+{"topic": "/Space/SMB/16168/has_started", "msg": "{\"started\": true}"}
+{"topic": "/Space/Firewall/25135/has_started", "msg": "{}"}
+{"topic": "/Space/Firewall/25135/has_started", "msg": "{\"started\": true}"}
+{"topic": "/Space/RedRed/67762/has_started", "msg": "{}"}
+{"topic": "/Space/RedRed/67762/has_started", "msg": "{\"started\": true}"}
+{"topic": "/Space/LVM/14101/has_started", "msg": "{}"}
+{"topic": "/Space/LVM/14101/has_started", "msg": "{\"started\": true}"}
+{"topic": "/Space/NetD/49358/has_started", "msg": "{}"}
+{"topic": "/Space/NetD/49358/has_started", "msg": "{\"started\": true}"}
+{"topic": "/Space/HTTPTransfer/27776/has_started", "msg": "{}"}
+{"topic": "/Space/HTTPTransfer/27776/has_started", "msg": "{\"started\": true}"}
+{"topic": "/Space/Failover/93732/has_started", "msg": "{}"}
+{"topic": "/Space/Failover/93732/has_started", "msg": "{\"started\": true}"}
+{"topic": "/Space/Bucket/44818/has_started", "msg": "{}"}
+{"topic": "/Space/Bucket/44818/has_started", "msg": "{\"started\": true}"}
+{"topic": "/Space/UPS/82841/has_started", "msg": "{}"}
+{"topic": "/Space/UPS/82841/has_started", "msg": "{\"started\": true}"}
+{"topic": "/Space/UserDirectory/44653/has_started", "msg": "{}"}
+{"topic": "/Space/UserDirectory/44653/has_started", "msg": "{\"started\": true}"}
+{"topic": "/Space/Logger/14973/has_started", "msg": "{}"}
+{"topic": "/Space/Logger/14973/has_started", "msg": "{\"started\": true}"}
+{"topic": "/Space/IPMI/68159/has_started", "msg": "{}"}
+{"topic": "/Space/IPMI/68159/has_started", "msg": "{\"started\": true}"}
+{"topic": "/Space/Monitor/66588/has_started", "msg": "{}"}
+{"topic": "/Space/Monitor/66588/has_started", "msg": "{\"started\": true}"}

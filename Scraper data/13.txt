@@ -1,0 +1,3 @@
+{"IP": "3.128.10.167"}
+{"topic": "current/occ", "msg": "{\"time\":1646762055256,\"area1\":{\"count\":0,\"occ\":20},\"area2\":{\"count\":0,\"occ\":0},\"area3\":{\"count\":0,\"occ\":0}}"}
+{"topic": "current/plan", "msg": "{\"f1\":\"p3\",\"f2\":\"p1\",\"f3\":\"p1\"}"}

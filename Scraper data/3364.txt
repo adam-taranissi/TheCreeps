@@ -1,0 +1,46 @@
+{"IP": "134.209.120.208"}
+{"topic": "CallsAvailability/5e48bc0ac7254d7ecd2adca8", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/5edaf5d42c59e51084b99ae9", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/5ee1326d40c624510c225bbc", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/5f0d92d213462e0906f83418", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/5fc000f4033bdf60a6ca564c", "msg": "{\"status\":1}"}
+{"topic": "CallsAvailability/5fd145da8434232a00212257", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/5fe01c9d9411ef4abf3e691e", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/5fe0639cdaa50670f5416f11", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/5fe8768d5fddaf1f0e6973c6", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/5fed23f1109db0475d7008f7", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/5fff3e02b8c7420654d2141e", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/600822babf0d317d81aaee55", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/602b729bc8416d54de1f057b", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/602bb96ac8416d54de1f058d", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/602c815e156c556035cafda4", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/602f0cf876b4a70d6a0d2fe8", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/6037e3d8008d4e60a706b6a0", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/603ae1ce6fc3cf6f58bdc57e", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/603d281456dc0d05c22f83ce", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/603d480b56dc0d05c22f83d5", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/604630ac416ad43f621c3f14", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/6046706e8d09e56fddf57020", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/604b3239121e67069101e478", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/604dbc1943f0f96bca335073", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/60503e70aaae9756309f9535", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/6050bea356dade69298ed6c1", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/6052a8a221e926039129313d", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/60565f0b203d5363c295a4a4", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/60566529c121ac643cca21f2", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/60568518c889f2752f941d3e", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/6056854eaaf2987936da52ea", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/6056c6d90937ac14e8633f5a", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/6057353667e2a84674686671", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/6057ba08b2bbe1704f6e77af", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/6058d39af90ed36b163548c1", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/6058e02c4bc3b06a4a3c7266", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/60590b161edd9974ec2d0de8", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/605913a19b59cd7d7be788d7", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/6059178eb6526f02e43e260f", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/6059519a674034114a9806f4", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/6059ac747ac57930a0e6b1ff", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/6059bfeaaca8544775e8c8e6", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/605a07a7ca9dda6611920067", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/605bb57aed9228371e776170", "msg": "{\n  \"status\" : 1\n}"}
+{"topic": "CallsAvailability/605cc8c184b3644707e2d7f9", "msg": "{\n  \"status\" : 1\n}"}

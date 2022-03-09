@@ -1,0 +1,26 @@
+{"IP": "98.43.188.134"}
+{"topic": "status/media_library/window", "msg": "{\"from\":\"2022-03-08T00:00:00\", \"timestamp\":\"2022-03-08T03:31:13Z\", \"to\":\"2022-03-09T00:00:00\"}"}
+{"topic": "status/media_library/stats", "msg": "{\"base\":0, \"count\":0, \"timestamp\":\"2022-03-08T03:31:42Z\", \"total\":0}"}
+{"topic": "status/media_library/stats/schedule", "msg": "{\"base\":0, \"count\":0, \"timestamp\":\"2022-03-08T03:31:42Z\", \"total\":0}"}
+{"topic": "status/media_library/stats/default", "msg": "{\"base\":0, \"count\":0, \"timestamp\":\"2022-03-08T03:31:42Z\", \"total\":0}"}
+{"topic": "status/media_library/stats/library", "msg": "{\"base\":0, \"count\":0, \"timestamp\":\"2022-03-08T03:31:42Z\", \"total\":0}"}
+{"topic": "player/status/volume", "msg": "1.000000"}
+{"topic": "player/status/zone/0/volume", "msg": "1.000000"}
+{"topic": "player/status/error", "msg": "Exception while requesting updated content, Error Code : 4016, Exception : Server returned nothing (no headers, no data), Exception Code : curl_easy:52"}
+{"topic": "config/banned_list_revision", "msg": "174"}
+{"topic": "config/checkin_interval", "msg": "180"}
+{"topic": "config/download_hours/from", "msg": "\"00:00:00\""}
+{"topic": "config/download_hours/to", "msg": "\"24:00:00\""}
+{"topic": "config/grrid_player_service_uri", "msg": "\"https:\\/\\/sprint.retailradio.biz\""}
+{"topic": "config/max_used_space", "msg": "512000"}
+{"topic": "config/media_key_code", "msg": "\"A6uB\""}
+{"topic": "config/media_library_path", "msg": "\"\\/storage\\/A688-A0E1\\/Android\\/data\\/com.ciere.rr_player\\/files\\/media\""}
+{"topic": "config/min_free_space", "msg": "500"}
+{"topic": "config/network/network_psk", "msg": "\"\""}
+{"topic": "config/network/network_type", "msg": "\"wep\""}
+{"topic": "config/network/ssid", "msg": "\"SENDemo\""}
+{"topic": "config/network/wired", "msg": "\"false\""}
+{"topic": "config/network_throttle", "msg": "0"}
+{"topic": "config/rackspace_cloud_service_auth_uri", "msg": "\"https:\\/\\/auth.api.rackspacecloud.com\\/v1.1\\/auth\""}
+{"topic": "config/revision", "msg": "759"}
+{"topic": "config/timezone", "msg": "\"America\\/Denver\""}

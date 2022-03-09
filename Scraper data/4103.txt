@@ -1,0 +1,3 @@
+{"IP": "173.164.188.232"}
+{"topic": "test", "msg": "test"}
+{"topic": "/0000", "msg": "tester"}

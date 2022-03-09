@@ -1,0 +1,10 @@
+{"IP": "138.197.213.72"}
+{"topic": "halloween/fog/2/ready", "msg": "READY"}
+{"topic": "halloween/fog/1/ready", "msg": "READY"}
+{"topic": "frigate/back/recordings/state", "msg": "OFF"}
+{"topic": "frigate/back/snapshots/state", "msg": "OFF"}
+{"topic": "frigate/back/detect/state", "msg": "ON"}
+{"topic": "frigate/available", "msg": "offline"}
+{"topic": "frigate/table/recordings/state", "msg": "OFF"}
+{"topic": "frigate/table/snapshots/state", "msg": "OFF"}
+{"topic": "frigate/table/detect/state", "msg": "ON"}

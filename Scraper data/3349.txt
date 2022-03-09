@@ -1,0 +1,7 @@
+{"IP": "34.83.142.77"}
+{"topic": "0/lastwill", "msg": "I am disconnected !!!"}
+{"topic": "5/102", "msg": "1"}
+{"topic": "3/102", "msg": "0"}
+{"topic": "3/101", "msg": "0"}
+{"topic": "3/103", "msg": "0"}
+{"topic": "3/104", "msg": "0"}

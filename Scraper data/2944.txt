@@ -1,0 +1,2 @@
+{"IP": "54.88.95.70"}
+{"topic": "/company/1604", "msg": "{\"status\": 0, \"battery\": \"39\", \"new_status\": 0, \"longitude\": \"27.2675167\", \"id\": 3477, \"old_status\": 0, \"lat\": \"31.3537043\", \"lng\": \"27.2675167\", \"accuracy\": \"9\", \"speed\": \"0.0\", \"heading\": \"90.05603\", \"mock\": false, \"last_seen\": \"09-03-2022 00:12:06\"}"}

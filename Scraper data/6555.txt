@@ -1,0 +1,5 @@
+{"IP": "104.131.218.207"}
+{"topic": "device/2C:F4:32:66:6A:AA/100X", "msg": "[{\"bn\":\"666AAA\",\"bver\":\"4.0.8\"},{\"n\":\"rssi\",\"v\":\"-66\"}]"}
+{"topic": "device/2C:F4:32:66:6A:AAL1/levelInfo", "msg": "{\"sensor_id\":\"1\",\"valor\":\"523\"}"}
+{"topic": "system/info", "msg": "{\"uuid\":\"2C:F4:32:66:6A:AA\",\"rssi\":\"-66\"}"}
+{"topic": "device/CC:50:E3:DE:0C:75/levelInfo", "msg": "{\"sensor_id\":\"1\",\"valor\":\"131.6145\"}"}

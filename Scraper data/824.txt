@@ -1,0 +1,38 @@
+{"IP": "3.138.202.84"}
+{"topic": "/client/wb_SERIAL/bridge_status", "msg": "0"}
+{"topic": "/client/wb_SERIAL/devices/wb-adc/controls/5Vout", "msg": "5.00"}
+{"topic": "/client/wb_SERIAL/devices/wb-adc/controls/A1", "msg": "0.01"}
+{"topic": "/client/wb_SERIAL/devices/wb-adc/controls/A2", "msg": "0.01"}
+{"topic": "/client/wb_SERIAL/devices/wb-adc/controls/A3", "msg": "0.01"}
+{"topic": "/client/wb_SERIAL/devices/wb-adc/controls/A4", "msg": "0.01"}
+{"topic": "/client/wb_SERIAL/devices/wb-adc/controls/Vin", "msg": "23.81"}
+{"topic": "/client/wb_SERIAL/devices/wbrules/meta/name", "msg": "Rule Engine Settings"}
+{"topic": "/client/wb_SERIAL/devices/wbrules/meta/driver", "msg": "wb-rules"}
+{"topic": "/client/wb_SERIAL/devices/wbrules/controls/Rule debugging", "msg": "0"}
+{"topic": "/client/wb_SERIAL/devices/wbrules/controls/Rule debugging/meta/order", "msg": "1"}
+{"topic": "/client/wb_SERIAL/devices/wbrules/controls/Rule debugging/meta/readonly", "msg": "0"}
+{"topic": "/client/wb_SERIAL/devices/wbrules/controls/Rule debugging/meta/type", "msg": "switch"}
+{"topic": "/client/wb_SERIAL/devices/buzzer/meta/name", "msg": "Buzzer"}
+{"topic": "/client/wb_SERIAL/devices/buzzer/meta/driver", "msg": "wb-rules"}
+{"topic": "/client/wb_SERIAL/devices/buzzer/controls/enabled", "msg": "0"}
+{"topic": "/client/wb_SERIAL/devices/buzzer/controls/enabled/meta/type", "msg": "switch"}
+{"topic": "/client/wb_SERIAL/devices/buzzer/controls/enabled/meta/order", "msg": "1"}
+{"topic": "/client/wb_SERIAL/devices/buzzer/controls/enabled/meta/readonly", "msg": "0"}
+{"topic": "/client/wb_SERIAL/devices/buzzer/controls/frequency", "msg": "954"}
+{"topic": "/client/wb_SERIAL/devices/buzzer/controls/frequency/meta/readonly", "msg": "0"}
+{"topic": "/client/wb_SERIAL/devices/buzzer/controls/frequency/meta/type", "msg": "range"}
+{"topic": "/client/wb_SERIAL/devices/buzzer/controls/frequency/meta/max", "msg": "7000"}
+{"topic": "/client/wb_SERIAL/devices/buzzer/controls/frequency/meta/order", "msg": "2"}
+{"topic": "/client/wb_SERIAL/devices/buzzer/controls/volume", "msg": "27"}
+{"topic": "/client/wb_SERIAL/devices/buzzer/controls/volume/meta/readonly", "msg": "0"}
+{"topic": "/client/wb_SERIAL/devices/buzzer/controls/volume/meta/type", "msg": "range"}
+{"topic": "/client/wb_SERIAL/devices/buzzer/controls/volume/meta/max", "msg": "100"}
+{"topic": "/client/wb_SERIAL/devices/buzzer/controls/volume/meta/order", "msg": "3"}
+{"topic": "/client/wb_SERIAL/devices/network/meta/name", "msg": "Network"}
+{"topic": "/client/wb_SERIAL/devices/network/meta/driver", "msg": "wb-rules"}
+{"topic": "/client/wb_SERIAL/devices/network/controls/Ethernet 2 IP/meta/type", "msg": "text"}
+{"topic": "/client/wb_SERIAL/devices/network/controls/Ethernet 2 IP/meta/order", "msg": "1"}
+{"topic": "/client/wb_SERIAL/devices/network/controls/Ethernet 2 IP/meta/readonly", "msg": "1"}
+{"topic": "/client/wb_SERIAL/devices/network/controls/Ethernet IP", "msg": "192.168.1.104\n"}
+{"topic": "/client/wb_SERIAL/devices/network/controls/Ethernet IP/meta/type", "msg": "text"}
+{"topic": "/client/wb_SERIAL/devices/network/controls/Ethernet IP/meta/order", "msg": "2"}

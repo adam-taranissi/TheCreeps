@@ -1,0 +1,9 @@
+{"IP": "3.234.119.197"}
+{"topic": "Tink/shelf/heartbeat/8002", "msg": "{\"id\": 8002, \"time\": \"2021-08-20 14:02:38\", \"sequenceNum\": 208, \"sram\": 1,  \"framing\": 283043, \"checksum\": 112}"}
+{"topic": "Tink/shelf/heartbeat/8001", "msg": "{\"id\": 8001, \"time\": \"2021-07-01 12:32:49\", \"sequenceNum\": 16975}"}
+{"topic": "Tink/shelf/heartbeat/7000", "msg": "{\"id\": 7000, \"time\": \"2021-07-01 15:12:38\", \"sequenceNum\": 1}"}
+{"topic": "Tink/shelf/heartbeat/8003", "msg": "{\"id\": 8003, \"time\": \"2021-07-09 13:39:27\", \"sequenceNum\": 2350}"}
+{"topic": "Tink/shelf/heartbeat/8004", "msg": "{\"id\": 8004, \"time\": \"2021-07-09 13:54:58\", \"sequenceNum\": 176, \"sram\": 1,  \"framing\": 579, \"checksum\": 7}"}
+{"topic": "Tink/shelf/heartbeat/8005", "msg": "{\"id\": 8005, \"time\": \"2021-07-09 15:22:28\", \"sequenceNum\": 732}"}
+{"topic": "Tink/shelf/heartbeat/8011", "msg": "{\"id\": 8011, \"time\": \"2021-08-19 14:31:52\", \"sequenceNum\": 437, \"sram\": 1,  \"framing\": 191669, \"checksum\": 70}"}
+{"topic": "Tink/shelf/heartbeat/8888", "msg": "{\"id\": 8888, \"time\": \"2021-08-20 13:21:17\", \"sequenceNum\": 196}"}

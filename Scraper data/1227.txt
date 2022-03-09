@@ -1,0 +1,3 @@
+{"IP": "144.202.21.127"}
+{"topic": "sourcemqtt/temperature", "msg": "{\n\u00a0\u00a0\u00a0\u00a0\u201cname\u201d: \u201ctemperature\u201d,\n\u00a0\u00a0\u00a0\u00a0\u201cformat\u201d: \u201cCustom JSON\u201d,\n\u00a0\u00a0\u00a0\u00a0\u201cdateFormat\u201d: \u201cyyyy-MM-ddTHH:mm:ss\u201d,\n\u00a0\u00a0\u00a0\u00a0\u201ctag\u201d: \u201ctemperature\u201d,\n\u00a0\u00a0\u00a0\u00a0\u201cvalue\u201d: 0.5,\n\u00a0\u00a0\u00a0\u00a0\u201ctimestamp\u201d: \u201c2021-01-20T01:02:03\u201d\n}"}
+{"topic": "/duke/tag1", "msg": "{\"tagname\":\"tag1\",\"tagvalue\":0.5325349075556196,\"timestamp\":\"2022-02-24T23:13:20\"}"}

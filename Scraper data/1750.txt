@@ -1,0 +1,11 @@
+{"IP": "164.90.255.48"}
+{"topic": "BlueIris/status", "msg": "signal=1\nprofile=2\nlock=0\nschedule=Default\n"}
+{"topic": "BlueIris/app", "msg": "running"}
+{"topic": "amcrest2mqtt/Z17DCA1BA4138/status", "msg": "offline"}
+{"topic": "amcrest2mqtt/Z17DCA1BA4138/config", "msg": "{\"version\": \"1.0.15\", \"device_type\": \"AD410\", \"device_name\": \"Front Door Doorbell\", \"sw_version\": \"1.000.0000000.7.R\", \"serial_number\": \"Z17DCA1BA4138\", \"host\": \"192.168.254.126\"}"}
+{"topic": "amcrest2mqtt/Z17DCA1BA4138/storage/used_percent", "msg": "99.16"}
+{"topic": "amcrest2mqtt/Z17DCA1BA4138/storage/used", "msg": "118.03"}
+{"topic": "amcrest2mqtt/Z17DCA1BA4138/storage/total", "msg": "119.04"}
+{"topic": "amcrest2mqtt/Z17DCA1BA4138/event", "msg": "{\"Code\": \"NTPAdjustTime\", \"action\": \"Pulse\", \"index\": \"0\", \"data\": {\"Address\": \"200.160.0.8\", \"Before\": \"2022-02-27 08:14:42\", \"result\": \"true\"}}"}
+{"topic": "amcrest2mqtt/Z17DCA1BA4138/motion", "msg": "off"}
+{"topic": "amcrest2mqtt/Z17DCA1BA4138/doorbell", "msg": "off"}

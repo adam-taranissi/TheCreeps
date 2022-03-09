@@ -1,0 +1,2 @@
+{"IP": "162.240.14.217"}
+{"topic": "gateway/24:62:ab:d7:31:68/sub", "msg": "{\"Code\":111,\"Gateway\":\"24:62:ab:d7:31:68\",\"EndDevice\":1,\"Cmd\":121,\"Adress\":1, \"Origin\": 0, \"N\":0}"}

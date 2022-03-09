@@ -1,0 +1,12 @@
+{"IP": "35.223.226.193"}
+{"topic": "FIC/SerialNumber/CP28117645/Station", "msg": "{\"StationID\": \"893\",\"DT\" : \"2021-01-13 07:00:00\",\"UpgradeReady\" : true,\"SessionKey\":\"0123vqucDH5mRbUd\"}"}
+{"topic": "FIC/SerialNumber/CP28117645/Status", "msg": "{\"SerialNo\":\"CP28117645\",\"Status\":\"Offline\"}"}
+{"topic": "FIC/SerialNumber/2M0025-19/Status", "msg": "{\"DT\":\"2022-01-10 14:02:04\",\"SerialNo\":\"2M0025-19\",\"Status\":\"online\"}"}
+{"topic": "FIC/SerialNumber/2M0006-16/Station", "msg": "{\"StationID\": \"904\",\"DT\" : \"2021-10-26 07:00:00\",\"UpgradeReady\" : true,\"SessionKey\":\"0123vqucDH5mRbUd\"}"}
+{"topic": "FIC/SerialNumber/2M0006-16/Status", "msg": "{\"SerialNo\":\"2M0006-16\",\"Status\":\"offline\"}"}
+{"topic": "FIC/SerialNumber/2M0224-18/Status", "msg": "{\"SerialNo\":\"2M0224-18\",\"Status\":\"offline\"}"}
+{"topic": "FIC/SerialNumber/2M0224-18/Station", "msg": "{\"StationID\": \"893\",\"DT\" : \"2022-01-18 07:00:00\",\"UpgradeReady\" : true,\"SessionKey\":\"0123vqucDH5mRbUd\"}"}
+{"topic": "FIC/SerialNumber/3M0170-21/Station", "msg": "{\"StationID\": \"798\",\"DT\" : \"2021-09-23 07:00:00\",\"UpgradeReady\" : true,\"SessionKey\":\"0123vqucDH5mRbUd\"}"}
+{"topic": "FIC/SerialNumber/3M0170-21/Status", "msg": "{\"SerialNo\":\"3M0170-21\",\"Status\":\"offline\"}"}
+{"topic": "FIC/SerialNumber/CP28117111/Station", "msg": "{\"StationID\": \"756\",\"DT\" : \"2021-09-21 07:00:00\",\"UpgradeReady\" : true,\"SessionKey\":\"0123vqucDH5mRbUd\"}"}
+{"topic": "FIC/SerialNumber/EZ0562-19/Station", "msg": "{\"StationID\": \"104\",\"DT\" : \"2021-10-07 07:00:00\",\"UpgradeReady\" : true,\"SessionKey\":\"0123vqucDH5mRbUd\"}"}

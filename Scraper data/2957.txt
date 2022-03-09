@@ -1,0 +1,38 @@
+{"IP": "135.180.135.130"}
+{"topic": "tele/ceiling_lights/LWT", "msg": "Online"}
+{"topic": "tele/flourbox/LWT", "msg": "Online"}
+{"topic": "tele/accentlights/LWT", "msg": "Online"}
+{"topic": "tele/sensor/door/LWT", "msg": "Online"}
+{"topic": "tele/musiclight/LWT", "msg": "Online"}
+{"topic": "tele/macramelight/LWT", "msg": "Offline"}
+{"topic": "tele/growlights/LWT", "msg": "Online"}
+{"topic": "tele/pooltablelight/LWT", "msg": "Offline"}
+{"topic": "cmnd/front_door/POWER1", "msg": "OFF"}
+{"topic": "home/livingroom/light/gascan", "msg": "{\"state\":\"OFF\",\"brightness\":255,\"white_value\":14,\"color_temp\":250,\"color\":{\"r\":0,\"g\":0,\"b\":0},\"gamma\":true}"}
+{"topic": "home/livingroom/light/gascan/set", "msg": "{\"state\": \"OFF\", \"transition\": 3.0}"}
+{"topic": "home/livingroom/light/gascan/status", "msg": "online"}
+{"topic": "home/livingroom/light/sculpture", "msg": "{\"state\":\"OFF\",\"brightness\":255,\"white_value\":14,\"color_temp\":250,\"color\":{\"r\":0,\"g\":0,\"b\":0},\"gamma\":true}"}
+{"topic": "home/livingroom/light/sculpture/set", "msg": "{\"state\": \"OFF\", \"transition\": 3.0}"}
+{"topic": "home/livingroom/light/sculpture/status", "msg": "online"}
+{"topic": "home/livingroom/light/orb", "msg": "{\"state\":\"OFF\",\"brightness\":255,\"white_value\":0,\"color_temp\":100,\"color\":{\"r\":0,\"g\":0,\"b\":0},\"gamma\":true}"}
+{"topic": "home/livingroom/light/orb/set", "msg": "{\"state\": \"OFF\", \"transition\": 3.0}"}
+{"topic": "home/livingroom/light/orb/status", "msg": "online"}
+{"topic": "home/kitchen/light/gascan/main", "msg": "{\"state\":\"OFF\",\"brightness\":255,\"white_value\":14,\"color_temp\":250,\"color\":{\"r\":0,\"g\":0,\"b\":0},\"gamma\":true}"}
+{"topic": "home/kitchen/light/gascan/main/set", "msg": "{\"state\": \"OFF\", \"transition\": 3.0}"}
+{"topic": "home/kitchen/light/gascan/main/status", "msg": "online"}
+{"topic": "home/kitchen/light/gascan/nozzle", "msg": "{\"state\":\"OFF\",\"brightness\":255,\"white_value\":14,\"color_temp\":250,\"color\":{\"r\":0,\"g\":0,\"b\":0},\"gamma\":true}"}
+{"topic": "home/kitchen/light/gascan/nozzle/set", "msg": "{\"state\": \"OFF\", \"transition\": 3.0}"}
+{"topic": "home/kitchen/light/gascan/nozzle/status", "msg": "online"}
+{"topic": "home/shop/light/gascan", "msg": "{\"state\":\"OFF\",\"brightness\":255,\"white_value\":14,\"color_temp\":250,\"color\":{\"r\":0,\"g\":0,\"b\":0},\"gamma\":true}"}
+{"topic": "home/shop/light/gascan/set", "msg": "{\"state\": \"OFF\", \"transition\": 3.0}"}
+{"topic": "home/shop/light/gascan/status", "msg": "online"}
+{"topic": "room-assistant/switch/pi-monitor-entry-bluetooth-classic-inquiries-switch/status", "msg": "offline"}
+{"topic": "room-assistant/switch/pi-monitor-entry-bluetooth-classic-inquiries-switch/state", "msg": "true"}
+{"topic": "room-assistant/switch/poolpi-bluetooth-classic-inquiries-switch/status", "msg": "online"}
+{"topic": "room-assistant/switch/poolpi-bluetooth-classic-inquiries-switch/state", "msg": "true"}
+{"topic": "room-assistant/switch/6e66619d-room-assistant-bluetooth-classic-inquiries-switch/status", "msg": "online"}
+{"topic": "room-assistant/switch/6e66619d-room-assistant-bluetooth-classic-inquiries-switch/state", "msg": "true"}
+{"topic": "room-assistant/switch/hideout-bluetooth-classic-inquiries-switch/status", "msg": "online"}
+{"topic": "room-assistant/switch/hideout-bluetooth-classic-inquiries-switch/state", "msg": "true"}
+{"topic": "room-assistant/sensor/pi-monitor-entry-status-cluster-size/status", "msg": "offline"}
+{"topic": "room-assistant/sensor/pi-monitor-entry-status-cluster-size/state", "msg": "2"}

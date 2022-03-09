@@ -1,0 +1,4 @@
+{"IP": "35.197.19.54"}
+{"topic": "/v1/device/730678784/rawdata", "msg": "timestamp=1631171371&deviceid=730678788&value1=0.00&value2=0.00&value3=0&value4=0"}
+{"topic": "/v1/device/3788045312/rawdata", "msg": "timestamp=33&deviceid=3788045316&value1=0.00&value2=0.00&value3=0&value4=0"}
+{"topic": "/v1/device/bh1745", "msg": "deviceid=5&red=54&green=154&blue=67&clear=17"}

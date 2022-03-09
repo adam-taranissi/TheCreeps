@@ -1,0 +1,40 @@
+{"IP": "52.53.169.155"}
+{"topic": "debug", "msg": "3820"}
+{"topic": "pressure", "msg": "102.6"}
+{"topic": "status", "msg": "PUMP STARTED NO SCENT"}
+{"topic": "whittle1/debug", "msg": "4095"}
+{"topic": "whittle1/pressure", "msg": "111.4"}
+{"topic": "whittle1/status", "msg": "PUMP STARTED"}
+{"topic": "whittle1/goFlag", "msg": "stop"}
+{"topic": "whittle1/completedTime", "msg": "2021-01-02T22:27:14.403Z"}
+{"topic": "whittle2/debug", "msg": "4095"}
+{"topic": "whittle2/status", "msg": "PUMP STOPPED"}
+{"topic": "whittle2/pressure", "msg": "105.3"}
+{"topic": "whittle2/goFlag", "msg": "stop"}
+{"topic": "whittle2/completedTime", "msg": "2021-10-20T13:21:01.617Z"}
+{"topic": "whittle2/running", "msg": "false"}
+{"topic": "whittle2pressure", "msg": "81.7"}
+{"topic": "show1/debug", "msg": "3801"}
+{"topic": "show1/pressure", "msg": "102.0"}
+{"topic": "show1/status", "msg": "PUMP STOPPED"}
+{"topic": "show1/de1\u0014", "msg": "\u000esho"}
+{"topic": "whit1\u0017", "msg": "1/press"}
+{"topic": "w1\u0014", "msg": "ebug318"}
+{"topic": "wh1\u0014", "msg": "debug31"}
+{"topic": "show2/status", "msg": "PUMP STOPPED"}
+{"topic": "show2/pressure", "msg": "102.0"}
+{"topic": "show2/debug", "msg": "3800"}
+{"topic": "apollo3/debug", "msg": "3804"}
+{"topic": "apollo3/pressure", "msg": "102.1"}
+{"topic": "apollo3/status", "msg": "PUMP STOPPED"}
+{"topic": "apollo3/goFlag", "msg": "stop"}
+{"topic": "apollo3/completedTime", "msg": "2021-03-04T21:08:14.039Z"}
+{"topic": "apollo3/running", "msg": "false"}
+{"topic": "apollo3/,5e9b520b040c775dd97ff043,2.5completedTime", "msg": "2020-06-21T05:53:30.109Z"}
+{"topic": "apollo1/debug", "msg": "3759"}
+{"topic": "apollo1/pressure", "msg": "101.7"}
+{"topic": "apollo1/status", "msg": "PUMP STOPPED"}
+{"topic": "apollo5/debug", "msg": "3800"}
+{"topic": "apollo5/pressure", "msg": "102.0"}
+{"topic": "apollo5/status", "msg": "PUMP STOPPED"}
+{"topic": "apollo5/running", "msg": "false"}

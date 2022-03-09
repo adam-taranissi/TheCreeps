@@ -1,0 +1,5 @@
+{"IP": "74.208.182.248"}
+{"topic": "uno", "msg": "uno"}
+{"topic": "tele/sonoff/LWT", "msg": "Offline"}
+{"topic": "stat/sonoff/POWER", "msg": "OFF"}
+{"topic": "abc/123", "msg": "XYZ"}

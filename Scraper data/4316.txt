@@ -1,0 +1,4 @@
+{"IP": "3.137.221.144"}
+{"topic": "$SYS/brokers/e7a2dcd7c393@172.17.0.7/sysdescr", "msg": "EMQ X Broker"}
+{"topic": "$SYS/brokers", "msg": "e7a2dcd7c393@172.17.0.7"}
+{"topic": "$SYS/brokers/e7a2dcd7c393@172.17.0.7/version", "msg": "4.2.2"}

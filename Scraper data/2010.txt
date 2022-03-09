@@ -1,0 +1,4 @@
+{"IP": "100.26.224.231"}
+{"topic": "RickErichChat", "msg": "ok, this one of the lasts messages"}
+{"topic": "/bob", "msg": "emoji testing \ud83d\ude0e\ud83d\udc4d\ud83c\udf7a"}
+{"topic": "/bob/LIVINGROOM", "msg": "this is another test"}

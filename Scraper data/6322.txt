@@ -1,0 +1,3 @@
+{"IP": "52.53.144.214"}
+{"topic": "nortek/panels", "msg": "{\"panels\":[{\"macAddress\":\"b8b7d7000365\",\"accountNumber\":\"30 30 30 30\",\"panelDefinition\":{\"panel_type\":20,\"zone_count\":75,\"access_code_count\":64,\"access_code_max_length\":4,\"hardware_type\":6,\"apn_carrier\":1},\"gatewayDefinition\":\"19 41 01 00 00 00\",\"expansionSlots\":\"\",\"lastResponse\":1468443625,\"address\":\"190.29.19.93:4449\"}]}"}
+{"topic": "local/connected", "msg": "1"}

@@ -1,0 +1,5 @@
+{"IP": "52.14.39.65"}
+{"topic": "ANF/device/status", "msg": "ANF11303,24,closed"}
+{"topic": "ANF/system/status", "msg": "ANF11303,down"}
+{"topic": "anf/device/status", "msg": "anf10450,2,idle"}
+{"topic": "anf/system/status", "msg": "anf10450,down"}

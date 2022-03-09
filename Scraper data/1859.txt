@@ -1,0 +1,2 @@
+{"IP": "47.50.165.82"}
+{"topic": "Altizon/Datonis/mqtt_cddecf565f7dc54f/event", "msg": "{\n  \"data\": { \"Instant_FlowRate\": 40.7},\n  \"thing_key\": \"f7d3cd1a66\",\n  \"access_key\": \"cddecf565f7dc54fdbet5727et7e4f683bcb26a9\",\n  \"timestamp\": 1555059945\n}"}

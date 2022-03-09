@@ -1,0 +1,16 @@
+{"IP": "174.138.56.58"}
+{"topic": "/server/client", "msg": "Client started"}
+{"topic": "/server/login/", "msg": "Client started"}
+{"topic": "/server/status", "msg": "Hlola server de nuevi"}
+{"topic": "abc/123", "msg": "XYZ"}
+{"topic": "test", "msg": "hola"}
+{"topic": "user_17adb1d3f3e", "msg": "whta"}
+{"topic": "user_17adb1e245c", "msg": "jkewjlrew"}
+{"topic": "user_17adb2016c7", "msg": "bsshs"}
+{"topic": "user_17adb21e9db", "msg": "Client started"}
+{"topic": "user_17adb21ee45", "msg": "Client started"}
+{"topic": "user_17adb221fa7", "msg": "Client started"}
+{"topic": "user_17adb33a97b", "msg": "d"}
+{"topic": "4points/realtime/humi", "msg": "{\"timestamp\":1646775431197,\"value\":-553}"}
+{"topic": "4points/realtime/temp", "msg": "{\"timestamp\":1646775434199,\"value\":643}"}
+{"topic": "4points/realtime/humi", "msg": "{\"timestamp\":1646775436202,\"value\":-551}"}

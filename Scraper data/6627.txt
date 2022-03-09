@@ -1,0 +1,25 @@
+{"IP": "173.82.126.229"}
+{"topic": "rc/sab/wfs/1/set", "msg": "{\n  \"rt\": \"RC_IoTT_Engine\",\n  \"pk\": \"sabuniwaterflowmeter1\",\n  \"a\": \"get\",\n  \"pn\": \"wfs.301.1\"\n}"}
+{"topic": "RC_IoTT_Engine", "msg": "{\"a\":\"get\",\"pk\":\"sabuniwaterflowmeter1\",\"pn\":\"wfs.301.1\",\"iv\":\"1\",\"v\":\"0.00\",\"e\":\"\"}"}
+{"topic": "rc/sab/loadcell/1/set", "msg": "{\n  \"rt\": \"RC_IoTT_Engine\",\n  \"pk\": \"sabuniloadcell2\",\n  \"a\": \"get\",\n  \"pn\": \"lc.401.2\"\n}"}
+{"topic": "RC_IoTT_Engine", "msg": "{\"a\":\"get\",\"pk\":\"sabuniloadcell2\",\"pn\":\"lc.401.2\",\"iv\":\"1\",\"v\":\"11.1\",\"e\":\"\"}"}
+{"topic": "rc/sab/generator/1/set", "msg": "{\n  \"rt\": \"RC_IoTT_Engine\",\n  \"pk\": \"sabunidieseltanklevel1\",\n  \"a\": \"get\",\n  \"pn\": \"fls.201.2\"\n}"}
+{"topic": "RC_IoTT_Engine", "msg": "{\"a\":\"get\",\"pk\":\"sabunidieseltanklevel1\",\"pn\":\"fls.201.2\",\"iv\":\"1\",\"v\":\"47\",\"e\":\"\"}"}
+{"topic": "rc/sab/loadcell/1/set", "msg": "{\n  \"rt\": \"RC_IoTT_Engine\",\n  \"pk\": \"sabuniloadcell1\",\n  \"a\": \"get\",\n  \"pn\": \"lc.401.1\"\n}"}
+{"topic": "RC_IoTT_Engine", "msg": "{\"a\":\"get\",\"pk\":\"sabuniloadcell1\",\"pn\":\"lc.401.1\",\"iv\":\"1\",\"v\":\"10.7\",\"e\":\"\"}"}
+{"topic": "RC_IoTT_Engine", "msg": "{\"a\":\"demand\",\"units\":\"poweranalyzer1A,poweranalyzer1B,poweranalyzer1C,poweranalyzer2A,poweranalyzer2B,poweranalyzer2C,poweranalyzer3A,poweranalyzer3B,poweranalyzer3C,poweranalyzer4A,poweranalyzer4B,poweranalyzer4C,poweranalyzer6A,poweranalyzer6B,poweranalyzer6C,sabunidieseltanklevel1,sabuniloadcell1,sabuniloadcell2,sabuniloadcell3,sabuniwaterflowmeter1,sabuniwaterflowmeter2,\",\"rt\":\"rc_iot_web/197c9003644\"}"}
+{"topic": "rc/sab/poweranalyzer/1/set", "msg": "{\n  \"rt\": \"RC_IoTT_Engine\",\n  \"pk\": \"poweranalyzer1A\",\n  \"a\": \"get\",\n  \"pn\": \"pa.101.1\"\n}"}
+{"topic": "RC_IoTT_Engine", "msg": "{\"a\":\"get\",\"pk\":\"poweranalyzer1A\",\"pn\":\"pa.101.1\",\"iv\":\"1\",\"v\":\"1.14\",\"e\":\"\"}"}
+{"topic": "rc/sab/poweranalyzer/1/set", "msg": "{\n  \"rt\": \"RC_IoTT_Engine\",\n  \"pk\": \"poweranalyzer1B\",\n  \"a\": \"get\",\n  \"pn\": \"pa.101.2\"\n}"}
+{"topic": "RC_IoTT_Engine", "msg": "{\"a\":\"get\",\"pk\":\"poweranalyzer1B\",\"pn\":\"pa.101.2\",\"iv\":\"1\",\"v\":\"0.86\",\"e\":\"\"}"}
+{"topic": "rc/sab/poweranalyzer/1/set", "msg": "{\n  \"rt\": \"RC_IoTT_Engine\",\n  \"pk\": \"poweranalyzer1C\",\n  \"a\": \"get\",\n  \"pn\": \"pa.101.3\"\n}"}
+{"topic": "RC_IoTT_Engine", "msg": "{\"a\":\"get\",\"pk\":\"poweranalyzer1C\",\"pn\":\"pa.101.3\",\"iv\":\"1\",\"v\":\"9.44\",\"e\":\"\"}"}
+{"topic": "rc/sab/poweranalyzer/2/set", "msg": "{\n  \"rt\": \"RC_IoTT_Engine\",\n  \"pk\": \"poweranalyzer2A\",\n  \"a\": \"get\",\n  \"pn\": \"pa.102.1\"\n}"}
+{"topic": "RC_IoTT_Engine", "msg": "{\"a\":\"get\",\"pk\":\"poweranalyzer2A\",\"pn\":\"pa.102.1\",\"iv\":\"1\",\"v\":\"0.37\",\"e\":\"\"}"}
+{"topic": "rc/sab/poweranalyzer/2/set", "msg": "{\n  \"rt\": \"RC_IoTT_Engine\",\n  \"pk\": \"poweranalyzer2B\",\n  \"a\": \"get\",\n  \"pn\": \"pa.102.2\"\n}"}
+{"topic": "RC_IoTT_Engine", "msg": "{\"a\":\"get\",\"pk\":\"poweranalyzer2B\",\"pn\":\"pa.102.2\",\"iv\":\"1\",\"v\":\"0.40\",\"e\":\"\"}"}
+{"topic": "rc/sab/poweranalyzer/2/set", "msg": "{\n  \"rt\": \"RC_IoTT_Engine\",\n  \"pk\": \"poweranalyzer2C\",\n  \"a\": \"get\",\n  \"pn\": \"pa.102.3\"\n}"}
+{"topic": "RC_IoTT_Engine", "msg": "{\"a\":\"get\",\"pk\":\"poweranalyzer2C\",\"pn\":\"pa.102.3\",\"iv\":\"1\",\"v\":\"0.40\",\"e\":\"\"}"}
+{"topic": "rc/sab/poweranalyzer/3/set", "msg": "{\n  \"rt\": \"RC_IoTT_Engine\",\n  \"pk\": \"poweranalyzer3A\",\n  \"a\": \"get\",\n  \"pn\": \"pa.103.1\"\n}"}
+{"topic": "RC_IoTT_Engine", "msg": "{\"a\":\"get\",\"pk\":\"poweranalyzer3A\",\"pn\":\"pa.103.1\",\"iv\":\"1\",\"v\":\"3.20\",\"e\":\"\"}"}
+{"topic": "rc/sab/poweranalyzer/3/set", "msg": "{\n  \"rt\": \"RC_IoTT_Engine\",\n  \"pk\": \"poweranalyzer3B\",\n  \"a\": \"get\",\n  \"pn\": \"pa.103.2\"\n}"}

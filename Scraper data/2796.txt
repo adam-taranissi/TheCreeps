@@ -1,0 +1,2 @@
+{"IP": "207.244.238.242"}
+{"topic": "PublishTest", "msg": "{\"code\":0,\"msg\":\"Upload Person Info!\",\"device_id\":\"7101612534817\",\"dev_cur_pts\":1646756485,\"tag\":\"UploadPersonInfo\",\"datas\":{\n\t\"msgType\":\t\"1\",\n\t\"similar\":\t\"0.58\",\n\t\"user_id\":\t\"80654484\",\n\t\"name\":\t\"HOGUELINO BERNAL MONROY\",\n\t\"time\":\t\"2022-03-08 16:21:25\",\n\t\"temperature\":\t\"0.00\",\n\t\"mask\":\t1,\n\t\"matched\":\t\"1\"\n}}"}

@@ -1,0 +1,46 @@
+{"IP": "71.66.183.227"}
+{"topic": "ActiveMQ/Advisory/Consumer/Topic/2/ntr/notifications", "msg": ""}
+{"topic": "1/ntr/notifications", "msg": "{\"mode\":\"00\",\"totalCount\":0,\"totalAmount\":\"0\",\"offers\":[],\"messageId\":\"E\",\"laneId\":1,\"transactionId\":2419,\"timeStamp\":\"2022-03-08T16:38:05.093\"}"}
+{"topic": "1/ntr/notifications", "msg": "{\"mode\":\"00\",\"cashierId\":500,\"suspendedRegisterId\":0,\"suspendedTransactionId\":0,\"suspendedTotal\":null,\"suspendedTax\":null,\"messageId\":\"B\",\"laneId\":1,\"transactionId\":2420,\"timeStamp\":\"2022-03-08T16:38:29.796\"}"}
+{"topic": "1/ntr/notifications", "msg": "{\"messageId\":\"T\",\"laneId\":1,\"transactionId\":2420,\"timeStamp\":\"2022-03-08T16:38:44.266\"}"}
+{"topic": "1/ntr/notifications", "msg": "{\"mode\":\"00\",\"totalCount\":0,\"totalAmount\":\"0\",\"offers\":[],\"messageId\":\"E\",\"laneId\":1,\"transactionId\":2420,\"timeStamp\":\"2022-03-08T16:38:47.217\"}"}
+{"topic": "1/ntr/notifications", "msg": "{\"mode\":\"00\",\"cashierId\":500,\"suspendedRegisterId\":0,\"suspendedTransactionId\":0,\"suspendedTotal\":null,\"suspendedTax\":null,\"messageId\":\"B\",\"laneId\":1,\"transactionId\":2421,\"timeStamp\":\"2022-03-08T16:40:08.152\"}"}
+{"topic": "jbrain/notifications", "msg": "{\"loyaltyId\":\"40004302902\",\"mode\":\"00\",\"laneId\":\"1\",\"messageId\":\"A\",\"timeStamp\":\"2022-03-08T16:01:28.486000\",\"transactionId\":\"2403\"}"}
+{"topic": "jbrain/notifications", "msg": "{\"loyaltyId\":\"40004778807\",\"mode\":\"00\",\"laneId\":\"1\",\"messageId\":\"A\",\"timeStamp\":\"2022-03-08T16:04:26.186000\",\"transactionId\":\"2404\"}"}
+{"topic": "jbrain/notifications", "msg": "{\"loyaltyId\":\"40004263740\",\"mode\":\"00\",\"laneId\":\"1\",\"messageId\":\"A\",\"timeStamp\":\"2022-03-08T16:11:48.352000\",\"transactionId\":\"2409\"}"}
+{"topic": "jbrain/notifications", "msg": "{\"loyaltyId\":\"40005387622\",\"mode\":\"00\",\"laneId\":\"3\",\"messageId\":\"A\",\"timeStamp\":\"2022-03-08T16:12:01.197000\",\"transactionId\":\"9946\"}"}
+{"topic": "jbrain/notifications", "msg": "{\"loyaltyId\":\"40004253701\",\"mode\":\"00\",\"laneId\":\"8\",\"messageId\":\"A\",\"timeStamp\":\"2022-03-08T16:25:21.463000\",\"transactionId\":\"1663\"}"}
+{"topic": "4/ntr/notifications", "msg": "{\"mode\":\"00\",\"totalCount\":0,\"totalAmount\":\"0\",\"offers\":[],\"messageId\":\"E\",\"laneId\":4,\"transactionId\":8721,\"timeStamp\":\"2022-03-08T16:35:41.770\"}"}
+{"topic": "4/ntr/notifications", "msg": "{\"mode\":\"00\",\"cashierId\":219,\"suspendedRegisterId\":0,\"suspendedTransactionId\":0,\"suspendedTotal\":null,\"suspendedTax\":null,\"messageId\":\"B\",\"laneId\":4,\"transactionId\":8722,\"timeStamp\":\"2022-03-08T16:37:38.884\"}"}
+{"topic": "4/ntr/notifications", "msg": "{\"messageId\":\"T\",\"laneId\":4,\"transactionId\":8722,\"timeStamp\":\"2022-03-08T16:38:15.419\"}"}
+{"topic": "4/ntr/notifications", "msg": "{\"mode\":\"00\",\"totalCount\":0,\"totalAmount\":\"0\",\"offers\":[],\"messageId\":\"E\",\"laneId\":4,\"transactionId\":8722,\"timeStamp\":\"2022-03-08T16:38:40.054\"}"}
+{"topic": "4/ntr/notifications", "msg": "{\"mode\":\"00\",\"cashierId\":219,\"suspendedRegisterId\":0,\"suspendedTransactionId\":0,\"suspendedTotal\":null,\"suspendedTax\":null,\"messageId\":\"B\",\"laneId\":4,\"transactionId\":8723,\"timeStamp\":\"2022-03-08T16:39:11.759\"}"}
+{"topic": "ActiveMQ/Advisory/Producer/Topic/6/ntr/notifications", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Producer/Topic/6/ntr/notifications", "msg": ""}
+{"topic": "3/ntr/notifications", "msg": "{\"messageId\":\"T\",\"laneId\":3,\"transactionId\":9960,\"timeStamp\":\"2022-03-08T16:36:42.134\"}"}
+{"topic": "3/ntr/notifications", "msg": "{\"mode\":\"00\",\"totalCount\":0,\"totalAmount\":\"0\",\"offers\":[],\"messageId\":\"E\",\"laneId\":3,\"transactionId\":9960,\"timeStamp\":\"2022-03-08T16:36:58.679\"}"}
+{"topic": "3/ntr/notifications", "msg": "{\"mode\":\"00\",\"cashierId\":915,\"suspendedRegisterId\":0,\"suspendedTransactionId\":0,\"suspendedTotal\":null,\"suspendedTax\":null,\"messageId\":\"B\",\"laneId\":3,\"transactionId\":9961,\"timeStamp\":\"2022-03-08T16:37:39.594\"}"}
+{"topic": "3/ntr/notifications", "msg": "{\"messageId\":\"T\",\"laneId\":3,\"transactionId\":9961,\"timeStamp\":\"2022-03-08T16:37:53.414\"}"}
+{"topic": "3/ntr/notifications", "msg": "{\"mode\":\"00\",\"totalCount\":0,\"totalAmount\":\"0\",\"offers\":[],\"messageId\":\"E\",\"laneId\":3,\"transactionId\":9961,\"timeStamp\":\"2022-03-08T16:38:04.875\"}"}
+{"topic": "8/ntr/notifications", "msg": "{\"messageId\":\"T\",\"laneId\":8,\"transactionId\":1663,\"timeStamp\":\"2022-03-08T16:26:54.699\"}"}
+{"topic": "8/ntr/notifications", "msg": "{\"mode\":\"00\",\"totalCount\":0,\"totalAmount\":\"0\",\"offers\":[],\"messageId\":\"E\",\"laneId\":8,\"transactionId\":1663,\"timeStamp\":\"2022-03-08T16:27:21.605\"}"}
+{"topic": "8/ntr/notifications", "msg": "{\"mode\":\"00\",\"cashierId\":151,\"suspendedRegisterId\":0,\"suspendedTransactionId\":0,\"suspendedTotal\":null,\"suspendedTax\":null,\"messageId\":\"B\",\"laneId\":8,\"transactionId\":1664,\"timeStamp\":\"2022-03-08T16:31:52.373\"}"}
+{"topic": "8/ntr/notifications", "msg": "{\"messageId\":\"T\",\"laneId\":8,\"transactionId\":1664,\"timeStamp\":\"2022-03-08T16:34:00.233\"}"}
+{"topic": "8/ntr/notifications", "msg": "{\"mode\":\"00\",\"totalCount\":0,\"totalAmount\":\"0\",\"offers\":[],\"messageId\":\"E\",\"laneId\":8,\"transactionId\":1664,\"timeStamp\":\"2022-03-08T16:34:12.547\"}"}
+{"topic": "ActiveMQ/Advisory/Producer/Topic/3/ntr/notifications", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Producer/Topic/3/ntr/notifications", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Connection", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Connection", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Connection", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Connection", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Connection", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Producer/Topic/1/ntr/notifications", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Producer/Topic/1/ntr/notifications", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Producer/Topic/2/ntr/notifications", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Producer/Topic/2/ntr/notifications", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Consumer/Topic/3/ntr/notifications", "msg": ""}
+{"topic": "6/ntr/notifications", "msg": "{\"offers\":[{\"itemCode\":7047018119,\"itemPrice\":\"60\",\"itemQuantity\":1,\"promotionId\":3033996,\"promotionDesc\":\"when you buy FIVE CUPS any variety Yoplait  #43381\",\"startDate\":\"2022-02-01T00:00:00.000\",\"endDate\":\"2022-03-14T23:59:59.000\",\"benefitFunction\":\"currencyOffByItem\",\"creditAmount\":\"50\"}],\"messageId\":\"O\",\"laneId\":6,\"transactionId\":1055,\"timeStamp\":\"2022-03-08T16:22:25.636\"}"}
+{"topic": "6/ntr/notifications", "msg": "{\"offers\":[{\"itemCode\":7047018119,\"itemPrice\":\"60\",\"itemQuantity\":1,\"promotionId\":3033996,\"promotionDesc\":\"when you buy FIVE CUPS any variety Yoplait  #43381\",\"startDate\":\"2022-02-01T00:00:00.000\",\"endDate\":\"2022-03-14T23:59:59.000\",\"benefitFunction\":\"currencyOffByItem\",\"creditAmount\":\"50\"}],\"messageId\":\"O\",\"laneId\":6,\"transactionId\":1055,\"timeStamp\":\"2022-03-08T16:22:25.851\"}"}
+{"topic": "6/ntr/notifications", "msg": "{\"offers\":[{\"itemCode\":7047018119,\"itemPrice\":\"60\",\"itemQuantity\":1,\"promotionId\":3033996,\"promotionDesc\":\"when you buy FIVE CUPS any variety Yoplait  #43381\",\"startDate\":\"2022-02-01T00:00:00.000\",\"endDate\":\"2022-03-14T23:59:59.000\",\"benefitFunction\":\"currencyOffByItem\",\"creditAmount\":\"50\"}],\"messageId\":\"O\",\"laneId\":6,\"transactionId\":1055,\"timeStamp\":\"2022-03-08T16:22:25.993\"}"}
+{"topic": "6/ntr/notifications", "msg": "{\"messageId\":\"T\",\"laneId\":6,\"transactionId\":1055,\"timeStamp\":\"2022-03-08T16:24:30.261\"}"}
+{"topic": "6/ntr/notifications", "msg": "{\"mode\":\"00\",\"totalCount\":0,\"totalAmount\":\"0\",\"offers\":[],\"messageId\":\"E\",\"laneId\":6,\"transactionId\":1055,\"timeStamp\":\"2022-03-08T16:25:04.559\"}"}

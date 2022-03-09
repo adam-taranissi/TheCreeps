@@ -1,0 +1,36 @@
+{"IP": "71.95.54.158"}
+{"topic": "insteon/4a.32.18/scene", "msg": "off"}
+{"topic": "insteon/4a.32.18/state", "msg": "OFF"}
+{"topic": "insteon/4d.a1.ed/state", "msg": "{ \"state\" : \"OFF\", \"brightness\" : 0 }"}
+{"topic": "insteon/55.cf.5a/state", "msg": "{ \"state\" : \"OFF\", \"brightness\" : 0 }"}
+{"topic": "insteon/49.ce.9b/state", "msg": "OFF"}
+{"topic": "insteon/49.2d.40/state", "msg": "OFF"}
+{"topic": "insteon/4b.b4.fa/state", "msg": "OFF"}
+{"topic": "insteon/53.7f.c3/state", "msg": "OFF"}
+{"topic": "insteon/48.d9.f2/state/3", "msg": "OFF"}
+{"topic": "insteon/48.d9.f2/state/1", "msg": "{ \"state\" : \"off\", \"brightness\" : 0 }"}
+{"topic": "insteon/48.d9.f2/state/6", "msg": "OFF"}
+{"topic": "insteon/48.d9.f2/state/4", "msg": "OFF"}
+{"topic": "insteon/48.d9.f2/state/7", "msg": "ON"}
+{"topic": "insteon/48.d9.f2/state/8", "msg": "ON"}
+{"topic": "insteon/48.d9.f2/state/5", "msg": "OFF"}
+{"topic": "insteon/4c.a3.84/state", "msg": "ON"}
+{"topic": "insteon/54.ee.de/state/1", "msg": "OFF"}
+{"topic": "insteon/54.ee.de/state/2", "msg": "ON"}
+{"topic": "insteon/54.ee.de/state/7", "msg": "ON"}
+{"topic": "insteon/54.ee.de/state/4", "msg": "OFF"}
+{"topic": "insteon/54.ee.de/state/8", "msg": "OFF"}
+{"topic": "insteon/54.ee.de/state/6", "msg": "ON"}
+{"topic": "insteon/54.ee.de/state/5", "msg": "OFF"}
+{"topic": "insteon/54.ee.de/state/3", "msg": "ON"}
+{"topic": "insteon/4b.1b.02/state", "msg": "OFF"}
+{"topic": "insteon/55.91.be/state", "msg": "{ \"state\" : \"OFF\", \"brightness\" : 0 }"}
+{"topic": "insteon/88.b8.5a/state", "msg": "{ \"state\" : \"OFF\", \"brightness\" : 0 }"}
+{"topic": "abc/123", "msg": "XYZ"}
+{"topic": "zwave/_CLIENTS/ZWAVE_GATEWAY-Hass/status", "msg": "{\"value\":true,\"time\":1646414311821}"}
+{"topic": "zwave/_CLIENTS/ZWAVE_GATEWAY-Hass/version", "msg": "{\"value\":\"6.4.1\",\"time\":1646414311819}"}
+{"topic": "zwave/1/32/1/0", "msg": "{\"value_id\":\"1-32-1-0\",\"node_id\":1,\"class_id\":32,\"type\":\"byte\",\"genre\":\"basic\",\"instance\":1,\"index\":0,\"label\":\"Basic\",\"units\":\"\",\"help\":\"Basic status of the node\",\"read_only\":false,\"write_only\":false,\"min\":0,\"max\":255,\"is_polled\":false,\"value\":0,\"lastUpdate\":1642487739977}"}
+{"topic": "zwave/1/112/1/81", "msg": "{\"value_id\":\"1-112-1-81\",\"node_id\":1,\"class_id\":112,\"type\":\"list\",\"genre\":\"config\",\"instance\":1,\"index\":81,\"label\":\"LED indicator configuration\",\"units\":\"\",\"help\":\"Enable/Disable LED indicator when plugged in\",\"read_only\":false,\"write_only\":false,\"min\":0,\"max\":1,\"is_polled\":false,\"values\":[\"Disable\",\"Enable\"],\"value\":1,\"lastUpdate\":1642487739979}"}
+{"topic": "zwave/1/112/1/220", "msg": "{\"value_id\":\"1-112-1-220\",\"node_id\":1,\"class_id\":112,\"type\":\"list\",\"genre\":\"config\",\"instance\":1,\"index\":220,\"label\":\"Configuration of the RF power level\",\"units\":\"\",\"help\":\"1~10, other= ignore. A total of 10 levels, level 1 as the weak output power, and so on, 10 for most output power level\",\"read_only\":false,\"write_only\":false,\"min\":1,\"max\":10,\"is_polled\":false,\"values\":[\"1\",\"2\",\"3\",\"4\",\"5\",\"6\",\"7\",\"8\",\"9\",\"10\"],\"value\":9,\"lastUpdate\":1642487739980}"}
+{"topic": "zwave/1/112/1/242", "msg": "{\"value_id\":\"1-112-1-242\",\"node_id\":1,\"class_id\":112,\"type\":\"list\",\"genre\":\"config\",\"instance\":1,\"index\":242,\"label\":\"Security network enabled\",\"units\":\"\",\"help\":\"\",\"read_only\":false,\"write_only\":false,\"min\":0,\"max\":1,\"is_polled\":false,\"values\":[\"Disable\",\"Enable\"],\"value\":0,\"lastUpdate\":1642487739981}"}
+{"topic": "zwave/1/112/1/243", "msg": "{\"value_id\":\"1-112-1-243\",\"node_id\":1,\"class_id\":112,\"type\":\"int\",\"genre\":\"config\",\"instance\":1,\"index\":243,\"label\":\"Security network key\",\"units\":\"\",\"help\":\"\",\"read_only\":false,\"write_only\":false,\"min\":-2147483648,\"max\":2147483647,\"is_polled\":false,\"value\":0,\"lastUpdate\":1642487739981}"}

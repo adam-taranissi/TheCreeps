@@ -1,0 +1,20 @@
+{"IP": "142.93.182.24"}
+{"topic": "csgba/wind_speed", "msg": "16"}
+{"topic": "csgba/sensor", "msg": "[2, [16, 16, 15]]"}
+{"topic": "csgba/wind_direction", "msg": "0"}
+{"topic": "csgba/sensor", "msg": "[3, [0, 1, 0]]"}
+{"topic": "csgba/temperature1", "msg": "26.6"}
+{"topic": "csgba/temperature2", "msg": "26.56"}
+{"topic": "csgba/humidity1", "msg": "34"}
+{"topic": "csgba/sensor", "msg": "[11, [2656, 2660, 34]]"}
+{"topic": "csgba/wind_speed", "msg": "16"}
+{"topic": "csgba/sensor", "msg": "[2, [16, 16, 16]]"}
+{"topic": "csgba/wind_speed", "msg": "16"}
+{"topic": "csgba/sensor", "msg": "[2, [16, 16, 16]]"}
+{"topic": "csgba/wind_direction", "msg": "1"}
+{"topic": "csgba/sensor", "msg": "[3, [1, 1, 0]]"}
+{"topic": "csgba/wind_speed", "msg": "17"}
+{"topic": "csgba/sensor", "msg": "[2, [17, 16, 16]]"}
+{"topic": "csgba/rain", "msg": "6553"}
+{"topic": "csgba/sensor", "msg": "[4, [6553, 0, 0]]"}
+{"topic": "csgba/wind_speed", "msg": "17"}

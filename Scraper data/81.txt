@@ -1,0 +1,2 @@
+{"IP": "216.236.200.37"}
+{"topic": "link/linkVTPBWE", "msg": "{\"interface_name\": \"eno4\", \"rate\": 11878991, \"rtt\": 703, \"rise\": 36, \"name\": \"linkVTPBWE\", \"timeStamp\": \"2022-03-08T18:00:54.152068\", \"vesselId\": \"MY-Satori\"}"}

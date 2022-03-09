@@ -1,0 +1,2 @@
+{"IP": "54.212.136.32"}
+{"topic": "share/testname/testtopic", "msg": "HelloWorld"}

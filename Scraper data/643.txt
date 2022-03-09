@@ -1,0 +1,34 @@
+{"IP": "128.1.41.224"}
+{"topic": "/led/f4606c4702700b73/ping", "msg": "{\n  \"did\": \"f4606c4702700b73\",\n  \"uptime\": \"180682\",\n  \"rssi\": \"-33\"\n}"}
+{"topic": "/led/f4606c4702700b73/tsup/ping", "msg": "{\n  \"did\": \"f4606c4702700b73\",\n  \"uptime\": \"180682\",\n  \"rssi\": \"-33\"\n}"}
+{"topic": "/led/4851755979bbf878/tsup/watt", "msg": "23.4375,1707.22004145099"}
+{"topic": "/srv/js/notify/4851755979bbf878", "msg": "\u0013\u0017\u0000"}
+{"topic": "/led/41b56588de6b572b/tsup/watt", "msg": "10.44776119402985,801.1248897178049"}
+{"topic": "/srv/js/notify/41b56588de6b572b", "msg": "\u0013\n\u0000"}
+{"topic": "/led/4851755979bbf878/tsup/watt", "msg": "25,1707.2265518676566"}
+{"topic": "/srv/js/notify/4851755979bbf878", "msg": "\u0013\u0019\u0000"}
+{"topic": "/led/2c3fa21916a41768/tsup/watt", "msg": "10.9375,708.9121332465361"}
+{"topic": "/srv/js/notify/2c3fa21916a41768", "msg": "\u0013\n\u0000"}
+{"topic": "/led/b4e6f6708d3c4384/tsup/watt", "msg": "9.09090909090909,962.0433945689165"}
+{"topic": "/srv/js/notify/b4e6f6708d3c4384", "msg": "\u0013\t\u0000"}
+{"topic": "/led/bd7d0e8a2bfe95d0/status/up", "msg": "{\"did\": \"bd7d0e8a2bfe95d0\", \"uptime\":\"852487195\", \"rssi\":\"-64\"}"}
+{"topic": "/led/4851755979bbf878/tsup/watt", "msg": "22.65625,1707.2334963121011"}
+{"topic": "/srv/js/notify/4851755979bbf878", "msg": "\u0013\u0016\u0000"}
+{"topic": "/led/2c3fa21916a41768/tsup/watt", "msg": "12.5,708.9151714409807"}
+{"topic": "/srv/js/notify/2c3fa21916a41768", "msg": "\u0013\f\u0000"}
+{"topic": "/led/b39025ab05cc12f5/status/up", "msg": "{\"did\": \"b39025ab05cc12f5\", \"uptime\":\"378394937\", \"rssi\":\"-60\"}"}
+{"topic": "/led/bd7d0e8a2bfe95d0/tsup/watt", "msg": "0,1.0415807692307708"}
+{"topic": "/led/b4e6f6708d3c4384/tsup/watt", "msg": "7.575757575757575,962.0459172961891"}
+{"topic": "/srv/js/notify/b4e6f6708d3c4384", "msg": "\u0013\u0007\u0000"}
+{"topic": "/led/b39025ab05cc12f5/tsup/watt", "msg": "1.5384615384615383,1345.2627435889308"}
+{"topic": "/led/4851755979bbf878/tsup/watt", "msg": "25,1707.239789714879"}
+{"topic": "/srv/js/notify/4851755979bbf878", "msg": "\u0013\u0019\u0000"}
+{"topic": "/led/7aa3016d70b317cf/status/up", "msg": "{\"did\": \"7aa3016d70b317cf\", \"uptime\":\"510175637\", \"rssi\":\"-50\"}"}
+{"topic": "/led/fd4d63ee112f833c/status/up", "msg": "{\"did\": \"fd4d63ee112f833c\", \"uptime\":\"319223437\", \"rssi\":\"-50\"}"}
+{"topic": "/led/ecea3f33d921ea04/status/up", "msg": "{\"did\": \"ecea3f33d921ea04\", \"uptime\":\"346287606\", \"rssi\":\"-65\"}"}
+{"topic": "/led/7aa3016d70b317cf/tsup/watt", "msg": "0,0.6666928104575012"}
+{"topic": "/led/fd4d63ee112f833c/tsup/watt", "msg": "0,11.019771043772325"}
+{"topic": "/led/ecea3f33d921ea04/tsup/watt", "msg": "0,0.36196717171717163"}
+{"topic": "/led/4851755979bbf878/tsup/watt", "msg": "23.4375,1707.2467341593235"}
+{"topic": "/srv/js/notify/4851755979bbf878", "msg": "\u0013\u0017\u0000"}
+{"topic": "/led/514db99923dcdf10/status/up", "msg": "{\"did\": \"514db99923dcdf10\", \"uptime\":\"1448742307\", \"rssi\":\"-45\"}"}

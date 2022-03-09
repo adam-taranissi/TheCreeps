@@ -1,0 +1,10 @@
+{"IP": "209.239.123.217"}
+{"topic": "@", "msg": "Connected"}
+{"topic": "SBKC2/SYS/TIME", "msg": "16:56"}
+{"topic": "/SBKC2/DR/State", "msg": "-1"}
+{"topic": "/SBKC2/C1/State", "msg": "-1"}
+{"topic": "/SBKC2/C2/State", "msg": "-1"}
+{"topic": "/SBKC2/H1/State", "msg": "-1"}
+{"topic": "/SBKC2/H2/State", "msg": "-1"}
+{"topic": "/SBKC2/S1/State", "msg": "-1"}
+{"topic": "/SBKC2/S2/State", "msg": "-1"}

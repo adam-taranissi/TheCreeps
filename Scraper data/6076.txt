@@ -1,0 +1,2 @@
+{"IP": "69.64.32.108"}
+{"topic": "flespi/state/gw/devices/2464453/telemetry", "msg": "hh"}

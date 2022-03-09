@@ -1,0 +1,2 @@
+{"IP": "66.42.126.186"}
+{"topic": "STATE/ignition-azure", "msg": "OFFLINE"}

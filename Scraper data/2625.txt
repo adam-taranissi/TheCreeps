@@ -1,0 +1,2 @@
+{"IP": "40.71.123.155"}
+{"topic": "/gw/scanpub/gateway2", "msg": "[ { \"TimeStamp\": \"2022-01-26T13:12:36.006Z\", \"Format\": \"Gateway\", \"GatewayMAC\": \"0CCF89666007\" }, { \"BLEMAC\": \"C88D7A4C7175\", \"RSSI\": -70 } ]"}

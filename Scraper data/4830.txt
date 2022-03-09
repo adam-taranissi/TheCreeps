@@ -1,0 +1,38 @@
+{"IP": "165.227.241.9"}
+{"topic": "MACDIR/", "msg": "{\"DeviceId\": \"RTK_000007\", \"Type\": \"Factory\", \"Site\": \"MACDIR/\", \"Organisation\": \"MACDIR/\", \"S106_Q\": 0, \"timestamp\": 1623313827008}"}
+{"topic": "MACDIR/connected", "msg": "True"}
+{"topic": "gen_nm/connected", "msg": "True"}
+{"topic": "macadamias/connected", "msg": "True"}
+{"topic": "macdir/connected", "msg": "True"}
+{"topic": "rtk/DRYER1", "msg": "{\"DeviceId\": \"DRYER1\", \"Type\": \"CUSTOM\", \"Site\": \"DUTTON\", \"Organisation\": \"DUTTON\", \"SCODE\": \"MOD_FAN\", \"MOD_FAN\": 0, \"timestamp\": 1645751813868}"}
+{"topic": "rtk/OWM_000001", "msg": "{\"DeviceId\": \"OWM_000001\", \"Type\": \"OWM\", \"Site\": \"Adelaide,AU\", \"Organisation\": \"OWM\", \"timestamp\": 1634954116964, \"pressure\": 10210, \"rh%\": 49, \"drybulbC\": 17.68}"}
+{"topic": "rtk/OWM_000001/connected", "msg": "True"}
+{"topic": "rtk/OWM_000001_Kununurra_AU", "msg": "{\"DeviceId\": \"OWM_000001_Kununurra_AU\", \"Type\": \"OWM\", \"Site\": \"Kununurra,AU\", \"Organisation\": \"OWM\", \"timestamp\": 1646787244199, \"pressure\": 10100, \"rh%\": 70, \"drybulbC\": 28.99}"}
+{"topic": "rtk/OWM_000001_Kununurra_AU/connected", "msg": "True"}
+{"topic": "rtk/RTK_000002", "msg": "{\"DeviceId\": \"RTK_000002\", \"OnlineStatus\": 0, \"Organisation\": \"PACSEEDS\", \"Site\": \"KUNUNURRA\", \"Type\": \"TEMP\", \"timestamp\": 1634349435433}"}
+{"topic": "rtk/RTK_000003", "msg": "{\"DeviceId\": \"RTK_000003\", \"Organisation\": \"PHILWISHART\", \"RSSIPct\": 19, \"Site\": \"WA\", \"Type\": \"WTANK\", \"timestamp\": 1646787202116}"}
+{"topic": "rtk/RTK_000004/SET/wakeup", "msg": "0"}
+{"topic": "rtk/RTK_000005/SET/wakeup", "msg": "1"}
+{"topic": "rtk/RTK_000006/SET/wakeup", "msg": "1"}
+{"topic": "rtk/RTK_000007", "msg": "{\"DeviceId\": \"RTK_000007\", \"Type\": \"CUSTOM\", \"Site\": \"TWBM\", \"Organisation\": \"MACCA\", \"SCODE\": \"S106_MOD_AB_RH\", \"S106_MOD_AB_RH\": 52, \"timestamp\": 1629769285138}"}
+{"topic": "rtk/RTK_000008", "msg": "{\"DeviceId\": \"RTK_000008\", \"Type\": \"CUSTOM\", \"Site\": \"DUTTON\", \"Organisation\": \"DUTTON\", \"SCODE\": \"MOD_TIMESTAMP\", \"MOD_TIMESTAMP\": 80478233, \"timestamp\": 1645754543524}"}
+{"topic": "rtk/RTK_SAL_000001", "msg": "{\"DeviceId\": \"RTK_SAL_000001\", \"Type\": \"SALINITY01\", \"Site\": \"PHILWISHART\", \"Organisation\": \"PHILWISHART\", \"SCODE\": \"SALINITY\", \"SALINITY\": 183, \"timestamp\": 1635080086883}"}
+{"topic": "rtk/SITE_000001", "msg": "{\"\": 0, \"DeviceId\": \"SITE_000001\", \"timestamp\": 1623046751674, \"Organisation\": \"TEST\", \"Type\": \"SITE\", \"Site\": \"Brisbane,AU\", \"cpu.temperature\": 39.433}"}
+{"topic": "rtk/SITE_000001/connected", "msg": "True"}
+{"topic": "rtk/rtk_000005/SET/wakeup", "msg": "1"}
+{"topic": "rtkconnected", "msg": "True"}
+{"topic": "ss_factory/", "msg": "{\"DeviceId\": \"MasterPLC\", \"Type\": \"Factory\", \"Site\": \"ss_factory/\", \"Organisation\": \"ss_factory/\", \"C4_CURR_SEED_NETT_WEIGHT\": 4005, \"timestamp\": 1646787385854}"}
+{"topic": "ss_factory/connected", "msg": "True"}
+{"topic": "ss_factory/", "msg": "{\"DeviceId\": \"MasterPLC\", \"Type\": \"Factory\", \"Site\": \"ss_factory/\", \"Organisation\": \"ss_factory/\", \"C4_CURR_SEED_HOPPER\": 4010, \"timestamp\": 1646787386914}"}
+{"topic": "ss_factory/", "msg": "{\"DeviceId\": \"MasterPLC\", \"Type\": \"Factory\", \"Site\": \"ss_factory/\", \"Organisation\": \"ss_factory/\", \"C3_CURR_SEED_HOPPER\": 3960, \"timestamp\": 1646787386914}"}
+{"topic": "ss_factory/", "msg": "{\"DeviceId\": \"MasterPLC\", \"Type\": \"Factory\", \"Site\": \"ss_factory/\", \"Organisation\": \"ss_factory/\", \"C3_CURR_SEED_GROSS_WEIGHT\": 8635, \"timestamp\": 1646787386914}"}
+{"topic": "ss_factory/", "msg": "{\"DeviceId\": \"MasterPLC\", \"Type\": \"Factory\", \"Site\": \"ss_factory/\", \"Organisation\": \"ss_factory/\", \"C3_CURR_SEED_NETT_WEIGHT\": 3960, \"timestamp\": 1646787386914}"}
+{"topic": "ss_factory/", "msg": "{\"DeviceId\": \"MasterPLC\", \"Type\": \"Factory\", \"Site\": \"ss_factory/\", \"Organisation\": \"ss_factory/\", \"C4_CURR_SEED_GROSS_WEIGHT\": 7070, \"timestamp\": 1646787386914}"}
+{"topic": "ss_factory/", "msg": "{\"DeviceId\": \"MasterPLC\", \"Type\": \"Factory\", \"Site\": \"ss_factory/\", \"Organisation\": \"ss_factory/\", \"C4_CURR_SEED_NETT_WEIGHT\": 4010, \"timestamp\": 1646787386914}"}
+{"topic": "ss_factory/", "msg": "{\"DeviceId\": \"MasterPLC\", \"Type\": \"Factory\", \"Site\": \"ss_factory/\", \"Organisation\": \"ss_factory/\", \"C4_CURR_SEED_HOPPER\": 4000, \"timestamp\": 1646787387974}"}
+{"topic": "ss_factory/", "msg": "{\"DeviceId\": \"MasterPLC\", \"Type\": \"Factory\", \"Site\": \"ss_factory/\", \"Organisation\": \"ss_factory/\", \"C3_CURR_SEED_HOPPER\": 3975, \"timestamp\": 1646787387974}"}
+{"topic": "ss_factory/", "msg": "{\"DeviceId\": \"MasterPLC\", \"Type\": \"Factory\", \"Site\": \"ss_factory/\", \"Organisation\": \"ss_factory/\", \"C3_CURR_SEED_GROSS_WEIGHT\": 8650, \"timestamp\": 1646787387974}"}
+{"topic": "ss_factory/", "msg": "{\"DeviceId\": \"MasterPLC\", \"Type\": \"Factory\", \"Site\": \"ss_factory/\", \"Organisation\": \"ss_factory/\", \"C3_CURR_SEED_NETT_WEIGHT\": 3975, \"timestamp\": 1646787387974}"}
+{"topic": "ss_factory/", "msg": "{\"DeviceId\": \"MasterPLC\", \"Type\": \"Factory\", \"Site\": \"ss_factory/\", \"Organisation\": \"ss_factory/\", \"C4_CURR_SEED_GROSS_WEIGHT\": 7060, \"timestamp\": 1646787387974}"}
+{"topic": "ss_factory/", "msg": "{\"DeviceId\": \"MasterPLC\", \"Type\": \"Factory\", \"Site\": \"ss_factory/\", \"Organisation\": \"ss_factory/\", \"C4_CURR_SEED_NETT_WEIGHT\": 4000, \"timestamp\": 1646787387974}"}
+{"topic": "ss_factory/", "msg": "{\"DeviceId\": \"MasterPLC\", \"Type\": \"Factory\", \"Site\": \"ss_factory/\", \"Organisation\": \"ss_factory/\", \"C3_CURR_SEED_HOPPER\": 3965, \"timestamp\": 1646787389034}"}

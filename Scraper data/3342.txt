@@ -1,0 +1,28 @@
+{"IP": "50.46.116.159"}
+{"topic": "149/Attic/NTH", "msg": "55 F\n68 %"}
+{"topic": "149/Time", "msg": " 2:46:40 PM  Mar 08 2022"}
+{"topic": "149/GR Temp", "msg": "69.9 F"}
+{"topic": "149/OSA Temp", "msg": " 47 F"}
+{"topic": "149/OSA HighLow", "msg": "48 / 41 F"}
+{"topic": "149/Garage Door", "msg": "Closed"}
+{"topic": "149/Wind Speed", "msg": "  0 mph"}
+{"topic": "149/Average Wind", "msg": " 0.0 mph"}
+{"topic": "149/Peak Day Wind", "msg": "  4 mph @  2:10 AM"}
+{"topic": "149/MS Temp", "msg": "68.3 F"}
+{"topic": "149/AHU Mode", "msg": "  Off  "}
+{"topic": "149/Lake Filter", "msg": " 5.9 psi"}
+{"topic": "149/SunriseSet", "msg": " 6:34  6:05"}
+{"topic": "149/Wall Switch", "msg": "Heating"}
+{"topic": "149/Solar", "msg": "270"}
+{"topic": "149/Sunrise", "msg": " 6:34 AM"}
+{"topic": "149/Sunset", "msg": " 6:05 PM"}
+{"topic": "Boat/TempHum", "msg": " 47F   47F\n81%"}
+{"topic": "Boat/HeartBeat", "msg": "Beat"}
+{"topic": "Boat/DB Status", "msg": "NA"}
+{"topic": "Boat/DB Next Run", "msg": "NA\nNA"}
+{"topic": "Boat/Tabs", "msg": "NA"}
+{"topic": "Boat/ER Temp", "msg": "NA F"}
+{"topic": "Boat/BattVolt", "msg": "NA V"}
+{"topic": "149/Time", "msg": " 2:46:50 PM  Mar 08 2022"}
+{"topic": "149/Garage Door", "msg": "Closed"}
+{"topic": "149/Wind Speed", "msg": "  0 mph"}

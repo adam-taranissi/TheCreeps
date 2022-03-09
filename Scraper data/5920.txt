@@ -1,0 +1,39 @@
+{"IP": "54.163.200.29"}
+{"topic": "rodrigo-test/", "msg": "4554;4424;645;1609;646;1614;642;1610;671;460;618;509;644554;4424;645;1609;4554;4424;645;1609;646;1614;642;1610;671;460;618;509;644554;4424;645;1609;4554;4424;645;1609;4554;4424;645;1609;4554;4424;645;1609;4554;4424;645;1609;4554;4424;645;1609;4554;4424;645;1609;4554;4424;645;1609;4554;4424;645;1609;4554;4424;645;1609;4554;4424;645;1609;4554;4424;645;1609;4554;4424;645;1609;646;1614;642;1610;671;460;618;509;64646;1614;642;1610;671;460;618;509;64646;1614;642;1610;671;460;618;509;64646;1614;642;1610;671;460;618;509;64646;1614;642;1610;671;460;618;509;64646;1614;642;1610;671;460;618;509;64646;1614;642;1610;671;460;618;509;64646;1614;642;1610;671;460;618;509;64646;1614;642;1610;671;460;618;509;64646;1614;642;1610;671;460;618;509;64646;1614;642;1610;671;460;618;509;64646;1614;642;1610;671;460;618;509;64646;1614;642;1610;671;460;618;509;64646;1614;642;1610;671;460;618;509;646;482;645;482;671;456;645;1614;646;1612;643;1614;641;486;646;482;645;482;671;461;641;489;643;482;645;1614;638;1614;642;486;648;483;668;1589;641;1615;645;1610;648;1612;645;482;671;456;645;1614;641;1617;668;456;646;486;642;486;642;4554;4424;645;1609;646;1614;642;1610;671;460;618;509;646;482;645;482;671;456;645;1614;646;1612;643;1614;641;486;646;482;645;482;671;461;641;489;643;482;645;1614;638;1614;642;486;648;483;668;1589;641;1615;645;1610;648;1612;645;482;671;456;645;1614;641;1617;668;456;646;486;642;486;642;4554;4424;645;1609;646;1614;642;1610;671;460;618;509;646;482;645;482;671;456;645;1614;646;1612;643;1614;641;486;646;482;645;482;671;461;641;489;643;482;645;1614;638;1614;642;486;648;483;668;1589;641;1615;645;1610;648;1612;645;482;671;456;645;1614;641;1617;668;456;646;486;642;486;642;4554;4424;645;1609;646;1614;642;1610;671;460;618;509;646;482;645;482;671;456;645;1614;646;1612;643;1614;641;486;646;482;645;482;671;461;641;489;643;482;645;1614;638;1614;642;486;648;483;668;1589;641;1615;645;1610;648;1612;645;482;671;456;645;1614;641;1617;668;456;646;486;642;486;642;4554;4424;645;1609;646;1614;642;1610;671;460;618;509;646;482;645;482;671;456;645;1614;646;1612;643;1614;641;486;646;482;645;482;671;461;641;489;643;482;645;1614;638;1614;642;486;648;483;668;1589;641;1615;645;1610;648;1612;645;482;671;456;645;1614;641;1617;668;456;646;486;642;486;642;Fim Mensagem"}
+{"topic": "cmd/470757", "msg": "{\"cmd\":\"CMDBEGINset_temperature_enable=0&CMDEND\",\"token\":\"de9741fb97dab7fc275a422ecaf00f93\"}"}
+{"topic": "cmd/0", "msg": "{\"cmd\":\"CMDBEGINset_temperature_enable=1&CMDEND\"}"}
+{"topic": "cmd/470834", "msg": "{\"cmd\":\"CMDBEGINset_temperature_enable=1&CMDEND\",\"token\":\"3b2d37e5e74549cfb3737979839ed92b\"}"}
+{"topic": "cmd/471066", "msg": "{\"cmd\":\"CMDBEGINset_temperature_enable=0&CMDEND\",\"token\":\"62cec22be571fc5e1ec879a4fe012826\"}"}
+{"topic": "cmd/471269", "msg": "{\"cmd\":\"CMDBEGINset_temperature_enable=0&CMDEND\",\"token\":\"b3536920a65088a3a853bb1179d9a746\"}"}
+{"topic": "cmd/471154", "msg": "{\"cmd\":\"CMDBEGINset_temperature_enable=0&CMDEND\",\"token\":\"6bc5acae03241e22646e944c87a5b842\"}"}
+{"topic": "cmd/471441", "msg": "{\"cmd\":\"CMDBEGINset_temperature_enable=0&CMDEND\",\"token\":\"edd8cf4c8465489bc8242c6eddc88070\"}"}
+{"topic": "cmd/471514", "msg": "{\"cmd\":\"CMDBEGINset_temperature_enable=0&CMDEND\",\"token\":\"cb951b78f26af862594137e1734fe303\"}"}
+{"topic": "cmd/471487", "msg": "{\"cmd\":\"CMDBEGINset_temperature_enable=0&CMDEND\",\"token\":\"754541e118e5130d831d94494ca08549\"}"}
+{"topic": "cmd/471590", "msg": "{\"cmd\":\"CMDBEGINset_temperature_enable=0&CMDEND\",\"token\":\"02251478e9b6709c895595d462e4b324\"}"}
+{"topic": "cmd/471598", "msg": "{\"cmd\":\"CMDBEGINset_temperature_enable=0&CMDEND\",\"token\":\"4180a37ebe6c56665ecc0c09f97749bc\"}"}
+{"topic": "cmd/471439", "msg": "{\"cmd\":\"CMDBEGINset_temperature_enable=0&CMDEND\",\"token\":\"919670da32eebd7278f07f8cf9a1af33\"}"}
+{"topic": "cmd/471430", "msg": "{\"cmd\":\"CMDBEGINset_temperature_enable=0&CMDEND\",\"token\":\"336ad62556f86ba29b81b7f2c4284abd\"}"}
+{"topic": "cmd/471544", "msg": "{\"cmd\":\"CMDBEGINset_temperature_enable=0&CMDEND\",\"token\":\"c9bc3b9c1f34200d851d6b1066067872\"}"}
+{"topic": "cmd/471714", "msg": "{\"cmd\":\"CMDBEGINset_temperature_enable=0&CMDEND\",\"token\":\"66e4a437e15b7b7d14d763a107360137\"}"}
+{"topic": "cmd/473292", "msg": "{\"cmd\":\"CMDBEGINset_temperature_enable=0&CMDEND\",\"token\":\"2fa985028c4594ac449295130a55ccff\"}"}
+{"topic": "cmd/473522", "msg": "{\"cmd\":\"CMDBEGINset_temperature_enable=0&CMDEND\",\"token\":\"17123b363edbab084a4bdce03f521ddb\"}"}
+{"topic": "cmd/473911", "msg": "{\"cmd\":\"CMDBEGINset_temperature_enable=0&CMDEND\",\"token\":\"76414dfb304fed96a300f7f2f1d63bfe\"}"}
+{"topic": "cmd/470144", "msg": "{\"cmd\":\"CMDBEGINset_temperature_enable=0&CMDEND\",\"token\":\"23ca2ac4f954919d6ddcb1aeba0b49d3\"}"}
+{"topic": "cmd/471110", "msg": "{\"cmd\":\"CMDBEGINset_temperature_enable=0&CMDEND\",\"token\":\"f2d122440d8beeee64be5dac8f27a363\"}"}
+{"topic": "cmd/473211", "msg": "{\"cmd\":\"CMDBEGINset_temperature_enable=0&CMDEND\",\"token\":\"17c4d15dac5e277e2ac89c5903e1ab7c\"}"}
+{"topic": "cmd/-1", "msg": "{\"cmd\":\"CMDBEGINset_temperature_enable=0&CMDEND\",\"token\":\"\"}"}
+{"topic": "cmd/473959", "msg": "{\"cmd\":\"CMDBEGINset_temperature_enable=1&CMDEND\",\"token\":\"9229b0d68abc52886f8480f739bf241e\"}"}
+{"topic": "cmd/474630", "msg": "{\"cmd\":\"CMDBEGINset_temperature_enable=0&CMDEND\",\"token\":\"0190b55534acfceb86399346f4990268\"}"}
+{"topic": "cmd/472653", "msg": "{\"cmd\":\"CMDBEGINset_temperature_enable=0&CMDEND\",\"token\":\"ed78fa280d5fa80092978dbb8dee41c4\"}"}
+{"topic": "cmd/474653", "msg": "{\"cmd\":\"CMDBEGINset_temperature_enable=0&CMDEND\",\"token\":\"a94ec5011d89d4f2e3062916094c0081\"}"}
+{"topic": "cmd/473049", "msg": "{\"cmd\":\"CMDBEGINset_temperature_enable=0&CMDEND\",\"token\":\"72688f4f2c128bae1da2673bf30b796c\"}"}
+{"topic": "wow-schedule-manager-notification", "msg": "{\"acao\": \"updateScheduleToDatabase\", \"daysToUpdate\": \"7,1,2,3,4,5,6\"}"}
+{"topic": "cmd/472704", "msg": "{\"token\":\"63f78c93c7aba820de182cb864148191\",\"cmd\":\"CMDBEGINset_load11=off&CMDEND\"}"}
+{"topic": "cmd/469117", "msg": "{\"cmd\":\"CMDBEGINset_load2=off&CMDEND\",\"token\":\"21d56103ad90e9a053511842b454b0be\"}"}
+{"topic": "cmd/472704", "msg": "{\"token\":\"63f78c93c7aba820de182cb864148191\",\"cmd\":\"CMDBEGINset_load12=off&CMDEND\"}"}
+{"topic": "cmd/472703", "msg": "{\"token\":\"2de2797af58ae01e405fc17edfdd4383\",\"cmd\":\"CMDBEGINset_load9=off&CMDEND\"}"}
+{"topic": "cmd/472704", "msg": "{\"token\":\"63f78c93c7aba820de182cb864148191\",\"cmd\":\"CMDBEGINset_load13=off&CMDEND\"}"}
+{"topic": "cmd/472703", "msg": "{\"token\":\"2de2797af58ae01e405fc17edfdd4383\",\"cmd\":\"CMDBEGINset_load10=off&CMDEND\"}"}
+{"topic": "cmd/-1", "msg": "{\"cmd\":\"CMDBEGINset_load15=off&CMDEND\",\"token\":\"\"}"}
+{"topic": "cmd/472703", "msg": "{\"token\":\"2de2797af58ae01e405fc17edfdd4383\",\"cmd\":\"CMDBEGINset_load12=off&CMDEND\"}"}
+{"topic": "feedback_alexa/473911", "msg": "Module_ID=191&InputNum=2&InputState=1&mac=B4:E6:2D:88:09:DD &\n"}

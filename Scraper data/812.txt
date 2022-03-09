@@ -1,0 +1,36 @@
+{"IP": "23.28.208.68"}
+{"topic": "abc/123", "msg": "XYZ"}
+{"topic": "/sensors/DF3", "msg": "sensors,dbname=SN2038-0005-24 SensorValue=129.30"}
+{"topic": "/sensors/DF4", "msg": "sensors,dbname=SN2038-0005-24 SensorValue=14.00"}
+{"topic": "/sensors/DF5", "msg": "sensors,dbname=SN2038-0005-24 SensorValue=26916.74"}
+{"topic": "/sensors/DF6", "msg": "sensors,dbname=SN2038-0005-24 SensorValue=0.00"}
+{"topic": "/sensors/DF7", "msg": "sensors,dbname=SN2038-0005-24 SensorValue=1.69"}
+{"topic": "/sensors/DF11", "msg": "sensors,dbname=SN2038-0005-24 SensorValue=284.80"}
+{"topic": "/sensors/DF12", "msg": "sensors,dbname=SN2038-0005-24 SensorValue=38.60"}
+{"topic": "/sensors/DF1", "msg": "sensors,dbname=SN1907-0152-24 SensorValue=1.00"}
+{"topic": "/sensors/DF2", "msg": "sensors,dbname=SN1907-0152-24 SensorValue=0.47"}
+{"topic": "/sensors/DF3", "msg": "sensors,dbname=SN1907-0152-24 SensorValue=0.17"}
+{"topic": "/sensors/DF4", "msg": "sensors,dbname=SN1907-0152-24 SensorValue=12.48"}
+{"topic": "/sensors/DF7", "msg": "sensors,dbname=SN1907-0152-24 SensorValue=0.00"}
+{"topic": "/sensors/DF8", "msg": "sensors,dbname=SN1907-0152-24 SensorValue=0"}
+{"topic": "/sensors/DF11", "msg": "sensors,dbname=SN1907-0152-24 SensorValue=77.30"}
+{"topic": "/sensors/DF12", "msg": "sensors,dbname=SN1907-0152-24 SensorValue=6.80"}
+{"topic": "/sensors/DF13", "msg": "sensors,dbname=SN1907-0152-24 SensorValue=104.70"}
+{"topic": "/sensors/DF3", "msg": "sensors,dbname=SN2038-0005-24 SensorValue=129.43"}
+{"topic": "/sensors/DF4", "msg": "sensors,dbname=SN2038-0005-24 SensorValue=14.00"}
+{"topic": "/sensors/DF5", "msg": "sensors,dbname=SN2038-0005-24 SensorValue=27298.25"}
+{"topic": "/sensors/DF6", "msg": "sensors,dbname=SN2038-0005-24 SensorValue=0.00"}
+{"topic": "/sensors/DF7", "msg": "sensors,dbname=SN2038-0005-24 SensorValue=1.67"}
+{"topic": "/sensors/DF11", "msg": "sensors,dbname=SN2038-0005-24 SensorValue=284.80"}
+{"topic": "/sensors/DF12", "msg": "sensors,dbname=SN2038-0005-24 SensorValue=38.80"}
+{"topic": "/sensors/DF1", "msg": "sensors,dbname=SN1907-0152-24 SensorValue=1.00"}
+{"topic": "/sensors/DF2", "msg": "sensors,dbname=SN1907-0152-24 SensorValue=0.47"}
+{"topic": "/sensors/DF3", "msg": "sensors,dbname=SN1907-0152-24 SensorValue=0.17"}
+{"topic": "/sensors/DF4", "msg": "sensors,dbname=SN1907-0152-24 SensorValue=12.51"}
+{"topic": "/sensors/DF7", "msg": "sensors,dbname=SN1907-0152-24 SensorValue=0.00"}
+{"topic": "/sensors/DF8", "msg": "sensors,dbname=SN1907-0152-24 SensorValue=0"}
+{"topic": "/sensors/DF11", "msg": "sensors,dbname=SN1907-0152-24 SensorValue=78.10"}
+{"topic": "/sensors/DF12", "msg": "sensors,dbname=SN1907-0152-24 SensorValue=7.10"}
+{"topic": "/sensors/DF13", "msg": "sensors,dbname=SN1907-0152-24 SensorValue=106.90"}
+{"topic": "/sensors/DF3", "msg": "sensors,dbname=SN2038-0005-24 SensorValue=129.55"}
+{"topic": "/sensors/DF4", "msg": "sensors,dbname=SN2038-0005-24 SensorValue=14.00"}

@@ -1,0 +1,37 @@
+{"IP": "174.130.71.81"}
+{"topic": "tele/Bathlight/LWT", "msg": "Offline"}
+{"topic": "tele/feitlight2/LWT", "msg": "Online"}
+{"topic": "tele/light1/LWT", "msg": "Offline"}
+{"topic": "tele/tasmota/LWT", "msg": "Offline"}
+{"topic": "tele/feitlight5/LWT", "msg": "Online"}
+{"topic": "tele/feitlight4/LWT", "msg": "Online"}
+{"topic": "tele/feitlight3/LWT", "msg": "Offline"}
+{"topic": "tele/attic_stairs/LWT", "msg": "Online"}
+{"topic": "tele/driveway_overhead/LWT", "msg": "Online"}
+{"topic": "tele/attic_sc_down/LWT", "msg": "Online"}
+{"topic": "tele/attic_sc_up/LWT", "msg": "Online"}
+{"topic": "tele/Attic_Cans/LWT", "msg": "Online"}
+{"topic": "tele/dinning_cans/LWT", "msg": "Offline"}
+{"topic": "tele/dinning_over/LWT", "msg": "Offline"}
+{"topic": "tele/fiet_light_2/LWT", "msg": "Offline"}
+{"topic": "tele/Fan_light2/LWT", "msg": "Offline"}
+{"topic": "tele/Porch_Light/LWT", "msg": "Offline"}
+{"topic": "tele/Fan_light1/LWT", "msg": "Offline"}
+{"topic": "tele/Back_Porch_Light/LWT", "msg": "Online"}
+{"topic": "tele/wallsw1/LWT", "msg": "Offline"}
+{"topic": "tele/wallsw2/LWT", "msg": "Offline"}
+{"topic": "tele/Basement/LWT", "msg": "Online"}
+{"topic": "tele/wallsw3/LWT", "msg": "Offline"}
+{"topic": "tele/Attic_lounge/LWT", "msg": "Online"}
+{"topic": "tele/office_over/LWT", "msg": "Online"}
+{"topic": "tele/tasmota_D45968/LWT", "msg": "Offline"}
+{"topic": "tele/fanlight1/LWT", "msg": "Offline"}
+{"topic": "tele/front_porch/LWT", "msg": "Offline"}
+{"topic": "tele/tasmota_7ACC1C/LWT", "msg": "Offline"}
+{"topic": "tele/Front_Porch_Light/LWT", "msg": "Online"}
+{"topic": "tele/Office_cans/LWT", "msg": "Online"}
+{"topic": "tasmota/discovery/2CF43204757E/config", "msg": "{\"ip\":\"192.168.1.149\",\"dn\":\"Basement\",\"fn\":[\"Basement\",null,null,null,null,null,null,null],\"hn\":\"Basement-5502\",\"mac\":\"2CF43204757E\",\"md\":\"MJ-S01 Switch\",\"ty\":0,\"if\":0,\"ofln\":\"Offline\",\"onln\":\"Online\",\"state\":[\"OFF\",\"ON\",\"TOGGLE\",\"HOLD\"],\"sw\":\"9.2.0\",\"t\":\"Basement\",\"ft\":\"%prefix%/%topic%/\",\"tp\":[\"cmnd\",\"stat\",\"tele\"],\"rl\":[1,0,0,0,0,0,0,0],\"swc\":[-1,-1,-1,-1,-1,-1,-1,-1],\"swn\":[null,null,null,null,null,null,null,null],\"btn\":[0,0,0,0],\"so\":{\"4\":0,\"11\":0,\"13\":0,\"17\":0,\"20\":0,\"30\":0,\"68\":0,\"73\":0,\"82\":0,\"114\":0},\"lk\":1,\"lt_st\":0,\"sho\":[0,0,0,0],\"ver\":1}"}
+{"topic": "tasmota/discovery/2CF43204757E/sensors", "msg": "{\"sn\":{\"Time\":\"2022-03-03T15:21:11\"},\"ver\":1}"}
+{"topic": "tasmota/discovery/2CF432697FD3/config", "msg": "{\"ip\":\"192.168.1.172\",\"dn\":\"Office Cans\",\"fn\":[\"Office Cans\",null,null,null,null,null,null,null],\"hn\":\"Office_cans-8147\",\"mac\":\"2CF432697FD3\",\"md\":\"MJ-SD02\",\"ty\":0,\"if\":0,\"ofln\":\"Offline\",\"onln\":\"Online\",\"state\":[\"OFF\",\"ON\",\"TOGGLE\",\"HOLD\"],\"sw\":\"9.2.0\",\"t\":\"Office_cans\",\"ft\":\"%prefix%/%topic%/\",\"tp\":[\"cmnd\",\"stat\",\"tele\"],\"rl\":[2,0,0,0,0,0,0,0],\"swc\":[-1,-1,-1,-1,-1,-1,-1,-1],\"swn\":[null,null,null,null,null,null,null,null],\"btn\":[0,0,0,0],\"so\":{\"4\":0,\"11\":0,\"13\":0,\"17\":0,\"20\":0,\"30\":0,\"68\":0,\"73\":0,\"82\":0,\"114\":0},\"lk\":1,\"lt_st\":1,\"sho\":[0,0,0,0],\"ver\":1}"}
+{"topic": "tasmota/discovery/2CF432697FD3/sensors", "msg": "{\"sn\":{\"Time\":\"2022-03-08T01:50:33\"},\"ver\":1}"}
+{"topic": "tasmota/discovery/2CF43240214D/config", "msg": "{\"ip\":\"192.168.1.134\",\"dn\":\"Attic_SC_DOWN\",\"fn\":[\"Attic_SC_DOWN\",null,null,null,null,null,null,null],\"hn\":\"attic_sc_down-0333\",\"mac\":\"2CF43240214D\",\"md\":\"KHSUIN\",\"ty\":0,\"if\":0,\"ofln\":\"Offline\",\"onln\":\"Online\",\"state\":[\"OFF\",\"ON\",\"TOGGLE\",\"HOLD\"],\"sw\":\"9.2.0\",\"t\":\"attic_sc_down\",\"ft\":\"%prefix%/%topic%/\",\"tp\":[\"cmnd\",\"stat\",\"tele\"],\"rl\":[2,0,0,0,0,0,0,0],\"swc\":[-1,-1,-1,-1,-1,-1,-1,-1],\"swn\":[null,null,null,null,null,null,null,null],\"btn\":[0,0,0,0],\"so\":{\"4\":0,\"11\":0,\"13\":0,\"17\":0,\"20\":0,\"30\":0,\"68\":0,\"73\":0,\"82\":0,\"114\":0},\"lk\":1,\"lt_st\":5,\"sho\":[0,0,0,0],\"ver\":1}"}

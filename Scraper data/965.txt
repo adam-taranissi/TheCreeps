@@ -1,0 +1,5 @@
+{"IP": "167.172.227.98"}
+{"topic": "checkOn", "msg": "{}"}
+{"topic": "command/DOROTI-A001", "msg": "{\"messageId\":544361195,\"command\":\"solicitarInventario\"}"}
+{"topic": "command/IPTA-E-A027", "msg": "{\"messageId\":544361175,\"command\":\"acuDia\",\"day\":\"7\",\"month\":\"3\",\"year\":\"2022\"}"}
+{"topic": "checkOn", "msg": "{}"}

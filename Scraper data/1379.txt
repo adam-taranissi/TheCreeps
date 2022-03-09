@@ -1,0 +1,3 @@
+{"IP": "18.119.50.57"}
+{"topic": "DefaultMainTopic/PlcStream1/Desc", "msg": "{\n    \"Timestamp\": \"2022-03-08T18:59:51.191Z\",\n    \"Online\": true,\n    \"Location\": {\n\t\"Address\": \"650 N Dekora Woods Blvd, Saukville, WI 53080\",\n\t\"Longitude\": \"\",\n\t\"Latitude\": \"\"\n\t}\n}"}
+{"topic": "DefaultMainTopic/PlcStream1/Bin/Tx/Desc", "msg": "{\n    \"source\": \"TwinCAT Analytics Logger\",\n    \"layout\": \"{10329B9B-0FDF-84C6-9B42-B707A02DFA25}\",\n    \"cycleTime\": 100000,\n    \"dataSize\": 177,\n    \"systemId\": \"{C229617D-894E-0522-29A2-C2A33A177178}\"\n}"}

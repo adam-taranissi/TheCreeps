@@ -1,0 +1,23 @@
+{"IP": "52.91.28.220"}
+{"topic": "web/dc:a6:32:31:ac:b5/device-data", "msg": "[storage/10113]772 5 48 126.290001 287.778015 0 0 0 2022/03/08/19/21/26"}
+{"topic": "web/dc:a6:32:31:ac:67/device-data", "msg": "[storage/12920]730 5 48 194.460007 287.778015 0 0 0 2022/03/08/19/21/25"}
+{"topic": "web/log", "msg": "#754:4:INO_POLL:RESTART"}
+{"topic": "web/dc:a6:32:3a:4b:92/device-data", "msg": "[storage/18356]808 3 46 53.849998 60.000000 1 0 0 2022/03/08/19/21/26"}
+{"topic": "web/dc:a6:32:31:ac:b5/device-data", "msg": "[storage/10114]772 6 18 0.000000 0.500000 0 0 0 2022/03/08/19/21/27"}
+{"topic": "web/log", "msg": "#745:4:INO_POLL:RESTART"}
+{"topic": "web/dc:a6:32:31:ac:67/device-data", "msg": "[storage/12921]730 5 48 182.169998 287.778015 0 0 0 2022/03/08/19/21/26"}
+{"topic": "web/dc:a6:32:31:ac:b5/device-data", "msg": "[storage/10115]772 11 43 24.090000 23.299999 0 1 32 2022/03/08/19/21/27"}
+{"topic": "web/dc:a6:32:31:af:87/device-data", "msg": "[storage/17490]794 11 43 24.770000 22.777800 0 1 32 2022/03/08/19/21/28"}
+{"topic": "web/dc:a6:32:4e:26:e8/ping", "msg": "[ui/1190]"}
+{"topic": "web/dc:a6:32:31:ac:67/device-data", "msg": "[storage/12922]730 5 48 194.330002 287.778015 0 0 0 2022/03/08/19/21/27"}
+{"topic": "web/dc:a6:32:31:b0:9d/device-data", "msg": "[storage/15209]788 18 52 0.000000 0.000000 0 0 0 2022/03/08/19/21/29"}
+{"topic": "web/dc:a6:32:3a:4d:29/device-data", "msg": "[storage/6255]827 13 43 25.840000 22.222200 0 1 32 2022/03/08/19/21/29"}
+{"topic": "web/dc:a6:32:53:4c:f2/device-data", "msg": "[storage/2349]848 3 46 59.340000 48.888901 0 0 0 2022/03/08/19/21/28"}
+{"topic": "web/00:00:10:01:c2:11/ping", "msg": "[ui/1122]"}
+{"topic": "web/dc:a6:32:4e:26:e8/ping", "msg": "[ui/1191]"}
+{"topic": "web/dc:a6:32:31:ac:67/device-data", "msg": "[storage/12923]730 5 48 182.110001 287.778015 0 0 0 2022/03/08/19/21/28"}
+{"topic": "web/dc:a6:32:84:ec:ad/ping", "msg": "[ui/4438]"}
+{"topic": "web/dc:a6:32:53:5a:42/device-data", "msg": "[storage/2659]850 5 48 104.459999 315.000000 0 0 0 2022/03/08/19/21/29"}
+{"topic": "web/dc:a6:32:31:ab:fa/device-data", "msg": "[storage/6654]813 2 46 58.799999 71.111099 1 0 0 2022/03/08/19/21/28"}
+{"topic": "web/dc:a6:32:31:ac:1b/device-data", "msg": "[storage/2709]759 14 25 23.666309 22.222200 0 1 32 2022/03/08/19/21/29"}
+{"topic": "web/dc:a6:32:3a:4c:cd/device-data", "msg": "[storage/10172]812 2 46 52.529999 71.111099 1 0 0 2022/03/08/19/21/30"}

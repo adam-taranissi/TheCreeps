@@ -1,0 +1,5 @@
+{"IP": "54.184.89.125"}
+{"topic": "oee/log/TGPO00219", "msg": "setting time on RTC(24 hour format):2022/03/08 19:52:42"}
+{"topic": "oee/log/TGPO00219", "msg": "time from RTC:2022/03/08 19:52:42"}
+{"topic": "oee/log/TGPO00219", "msg": "FREE RAM:255492"}
+{"topic": "oee/log/TGPO00219", "msg": "time var:19:52:42"}

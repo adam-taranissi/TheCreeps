@@ -1,0 +1,6 @@
+{"IP": "104.131.34.185"}
+{"topic": "sitio/shelter1/ledin", "msg": "0"}
+{"topic": "cuevas/user01/cesar", "msg": "{\"_type\":\"location\",\"acc\":18,\"alt\":539,\"batt\":98,\"bs\":1,\"conn\":\"m\",\"created_at\":1646736817,\"inregions\":[\"casa\"],\"lat\":-29.4665296,\"lon\":-66.8682586,\"m\":1,\"t\":\"p\",\"tid\":\"ce\",\"tst\":1646735014,\"vac\":2,\"vel\":2}"}
+{"topic": "cuevas/user01/aldana", "msg": "{\"_type\":\"location\",\"BSSID\":\"90:9a:4a:96:3d:d9\",\"SSID\":\"hh3\",\"acc\":2300,\"alt\":0,\"batt\":96,\"bs\":1,\"conn\":\"w\",\"created_at\":1646721595,\"lat\":-29.3956786,\"lon\":-66.8143396,\"m\":1,\"tid\":\"AL\",\"tst\":1646649520,\"vac\":0,\"vel\":0}"}
+{"topic": "cuevas/user01/uriel", "msg": "{\"_type\":\"location\",\"BSSID\":\"4c:c5:3e:53:30:40\",\"SSID\":\"ultra2\",\"acc\":20,\"alt\":539,\"batt\":51,\"bs\":1,\"conn\":\"w\",\"created_at\":1646773490,\"lat\":-29.4666801,\"lon\":-66.8680898,\"m\":2,\"tid\":\"ur\",\"tst\":1646773489,\"vac\":1,\"vel\":0}"}
+{"topic": "owntracks/cesar/uriel", "msg": "{\"_type\":\"location\",\"acc\":46,\"alt\":536,\"batt\":6,\"bs\":1,\"conn\":\"m\",\"created_at\":1641259785,\"lat\":-29.4474712,\"lon\":-66.8582472,\"tid\":\"02\",\"tst\":1641259717,\"vac\":1,\"vel\":0}"}

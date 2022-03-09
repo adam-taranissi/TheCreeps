@@ -1,0 +1,15 @@
+{"IP": "20.185.89.21"}
+{"topic": "/sls/johnsr700/tagread", "msg": "{\"Type\":\"Tag Read\",\"Reader\":{\"Name\":\"5DACEC26-6691-48|5101E916-884C-4A|2|24\"},\"Tag\":{\"Antenna\":1,\"RSSI\":-58,\"TID\":\"\",\"EPC\":\"33105E30A701348000000058\",\"UTCTime\":\"2020-06-16 07:36:08\"}}"}
+{"topic": "/sls/4033964B-621A-4A|C5C8748D-D902-44|16|27/heartbeat", "msg": "{\"Reader\":{\"Name\":\"4033964B-621A-4A|C5C8748D-D902-44|16|27\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/4033964B-621A-4A|C5C8748D-D902-44|16|27/tagread", "msg": "{\"Type\":\"Tag Read\",\"Reader\":{\"Name\":\"4033964B-621A-4A|C5C8748D-D902-44|16|27\"},\"Tag\":{\"Antenna\":4,\"RSSI\":-62,\"TID\":\"\",\"EPC\":\"002851571247000000000000\",\"UTCTime\":\"2020-10-11 14:47:26\"}}"}
+{"topic": "/sls/4033964B-621A-4A|C5C8748D-D902-44|17|27/tagread", "msg": "{\"Type\":\"Tag Read\",\"Reader\":{\"Name\":\"4033964B-621A-4A|C5C8748D-D902-44|17|27\"},\"Tag\":{\"Antenna\":4,\"RSSI\":-50,\"TID\":\"\",\"EPC\":\"000000000000000000089872\",\"UTCTime\":\"2020-10-09 14:42:53\"}}"}
+{"topic": "/sls/4033964B-621A-4A|C5C8748D-D902-44|17|27/heartbeat", "msg": "{\"Reader\":{\"Name\":\"4033964B-621A-4A|C5C8748D-D902-44|17|27\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/5DACEC26-6691-48|5101E916-884C-4A|14|24/tagread", "msg": "{\"Reader\":{\"Name\":\"5DACEC26-6691-48|5101E916-884C-4A|14|24\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/5DACEC26-6691-48|5101E916-884C-4A|13|24/tagread", "msg": "{\"Reader\":{\"Name\":\"5DACEC26-6691-48|5101E916-884C-4A|13|24\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/5DACEC26-6691-48|5101E916-884C-4A|12|24/tagread", "msg": "{\"Reader\":{\"Name\":\"5DACEC26-6691-48|5101E916-884C-4A|12|24\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:13:44:BB/tagread", "msg": "{\"Reader\":{\"Name\":\"5DACEC26-6691-48|5101E916-884C-4A|13|24\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:13:44:BD/tagread", "msg": "{\"Reader\":{\"Name\":\"5DACEC26-6691-48|5101E916-884C-4A|14|24\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:13:47:93/tagread", "msg": "{\"Reader\":{\"Name\":\"5DACEC26-6691-48|5101E916-884C-4A|12|24\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/costco/00:16:25:13:F9:69/geolocation", "msg": "{\n\t\"Latitude\": null,\n\t\"Longitude\": null,\n\t\"UTCTime\":\"2021-05-27T13:47:38.387Z\"\n}"}
+{"topic": "abc/123", "msg": "XYZ"}
+{"topic": "/sls/costco/00:16:25:13:F9:D2/geolocation", "msg": "{\"Latitude\":\"47.220146719666666\",\"Longitude\":\"-122.24486338516667\",\"UTCTime\":\"2022-03-08T19:43:13.7155867Z\",\"GPSTime\":\"2022-03-03T13:25:30.0900522Z\",\"9003\":true}"}

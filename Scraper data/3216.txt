@@ -1,0 +1,41 @@
+{"IP": "40.117.126.245"}
+{"topic": "/sls/HighVolume700/", "msg": "{\"Type\":\"Tag Read\",\"Reader\":{\"Name\":\"72ACEC0A-7015-42|3E65AEE4-ABC7-4F|27|9\"},\"Tag\":{\"Antenna\":1,\"RSSI\":-55,\"TID\":\"\",\"EPC\":\"E28011606002020B6B79AD8B\",\"UTCTime\":\"2020-06-22 15:46:06\"}}"}
+{"topic": "/sls/HighVolume700/tagread", "msg": "{\"Type\":\"Tag Read\",\"Reader\":{\"Name\":\"72ACEC0A-7015-42|3E65AEE4-ABC7-4F|24|20\"},\"Tag\":{\"Antenna\":1,\"RSSI\":-52,\"TID\":\"\",\"EPC\":\"330762E1D57CF00000091919\",\"UTCTime\":\"2020-06-24 18:47:30\"}}"}
+{"topic": "/sls/LowVolume700/tagread", "msg": "{\"Type\":\"Tag Read\",\"Reader\":{\"Name\":\"72ACEC0A-7015-42|3E65AEE4-ABC7-4F|32|15\"},\"Tag\":{\"Antenna\":1,\"RSSI\":-61,\"TID\":\"\",\"EPC\":\"E28311535609061B6BC4644D\",\"UTCTime\":\"2020-06-22 20:58:56\"}}"}
+{"topic": "/sls/LowVolume700/", "msg": "{\"Type\":\"Tag Read\",\"Reader\":{\"Name\":\"72ACEC0A-7015-42|3E65AEE4-ABC7-4F|32|15\"},\"Tag\":{\"Antenna\":1,\"RSSI\":-54,\"TID\":\"\",\"EPC\":\"E28911606000020F6B890AAD\",\"UTCTime\":\"2020-06-23 13:32:53\"}}"}
+{"topic": "/sls/00:16:25:13:bb:18/tagread", "msg": "{\"Type\":\"Tag Read\",\"Reader\":{\"Name\":\"DF31A3FD-1589-43|73A9586E-924B-4B|14|32\"},\"Tag\":{\"Antenna\":1,\"RSSI\":-65,\"TID\":\"\",\"EPC\":\"E2801190A502006016C4CB1F\",\"UTCTime\":\"2020-09-23 19:09:06\"}}"}
+{"topic": "/sls/00:16:25:13:ba:98/tagread", "msg": "{\"Type\":\"Tag Read\",\"Reader\":{\"Name\":\"A2675E24-F4A3-48|71CEFC24-329D-48|4|32\"},\"Tag\":{\"Antenna\":1,\"RSSI\":-63,\"TID\":\"\",\"EPC\":\"33105E30A7058B8000000006\",\"UTCTime\":\"2020-09-29 14:00:10\"}}"}
+{"topic": "/sls/00:16:25:13:bb:26/tagread", "msg": "{\"Reader\":{\"Name\":\"00:16:25:13:bb:26\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:13:ba:95/tagread", "msg": "{\"Reader\":{\"Name\":\"zapple\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:13:bb:05/tagread", "msg": "{\"Reader\":{\"Name\":\"72ACEC0A-7015-42|3E65AEE4-ABC7-4F|67|51\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:13:b8:c0/tagread", "msg": "{\"Reader\":{\"Name\":\"72ACEC0A-7015-42|3E65AEE4-ABC7-4F|66|44\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:11:cd:60/tagread", "msg": "{\"Type\":\"Tag Read\",\"Reader\":{\"Name\":\"72ACEC0A-7015-42|3E65AEE4-ABC7-4F|26|12\"},\"Tag\":{\"Antenna\":4,\"RSSI\":-53,\"TID\":\"\",\"EPC\":\"300D59661051F8000021E123\",\"UTCTime\":\"2021-03-15 19:17:30\"}}"}
+{"topic": "/sls/00:16:25:13:b8:c1/tagread", "msg": "{\"Reader\":{\"Name\":\"72ACEC0A-7015-42|3E65AEE4-ABC7-4F|32|33\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:13:34:cf/tagread", "msg": "{\"Reader\":{\"Name\":\"72ACEC0A-7015-42|3E65AEE4-ABC7-4F|46|37\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:11:a2:ac/tagread", "msg": "{\"Reader\":{\"Name\":\"72ACEC0A-7015-42|3E65AEE4-ABC7-4F|46|37\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:13:9a:93/tagread", "msg": "{\"Reader\":{\"Name\":\"\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:13:9B:68/tagread", "msg": "{\"Type\":\"Tag Read\",\"Reader\":{\"Name\":\"B3FCA17E-DA8E-4B|5B83937E-100C-42|42|35\"},\"Tag\":{\"Antenna\":1,\"RSSI\":-59,\"TID\":\"\",\"EPC\":\"AAAA000000001111CCCC0003\",\"UTCTime\":\"2020-12-19 00:29:28\"}}"}
+{"topic": "/sls/00:16:25:13:42:76/tagread", "msg": "{\"Reader\":{\"Name\":\"B3FCA17E-DA8E-4B|5B83937E-100C-42|10|4\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:13:45:00/tagread", "msg": "{\"Reader\":{\"Name\":\"B3FCA17E-DA8E-4B|5B83937E-100C-42|12|2\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:13:9b:68/tagread", "msg": "{\"Reader\":{\"Name\":\"\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/mystery/tagread", "msg": "{\"Reader\":{\"Name\":\"xxxxxxxx\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:13:f9:2b/tagread", "msg": "{\"Reader\":{\"Name\":\"\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:13:f9:26/tagread", "msg": "{\"Reader\":{\"Name\":\"\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:13:f7:e3/tagread", "msg": "{\"Reader\":{\"Name\":\"\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:13:f9:9b/tagread", "msg": "{\"Reader\":{\"Name\":\"\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:13:f9:1c/tagread", "msg": "{\"Reader\":{\"Name\":\"\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:13:31:c0/tagread", "msg": "{\"Reader\":{\"Name\":\"72ACEC0A-7015-42|3E65AEE4-ABC7-4F|19|22\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:11:f3:f1/tagread", "msg": "{\"Reader\":{\"Name\":\"72ACEC0A-7015-42|3E65AEE4-ABC7-4F|19|22\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/test/00:16:25:11:a2:ac/tagread", "msg": "{\"Reader\":{\"Name\":\"B3FCA17E-DA8E-4B|5B83937E-100C-42|24|8\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/test/00:16:25:13:bb:05/tagread", "msg": "{\"Reader\":{\"Name\":\"\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/test/00:16:25:11:cd:60/tagread", "msg": "{\"Reader\":{\"Name\":\"B3FCA17E-DA8E-4B|5B83937E-100C-42|26|8\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:13:f9:99/tagread", "msg": "{\"Type\":\"Tag Read\",\"Reader\":{\"Name\":\"B3FCA17E-DA8E-4B|5B83937E-100C-42|164|8\"},\"Tag\":{\"Antenna\":3,\"RSSI\":-62,\"TID\":\"\",\"EPC\":\"302440134DCEC2400000006C\",\"UTCTime\":\"2021-05-06 16:24:22\"}}"}
+{"topic": "/sls/00:16:25:13:BE:9E/tagread", "msg": "{\"Reader\":{\"Name\":\"58BAF7BD-D15D-45|2A5DA5BC-BC17-4C|16|31\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/demo/00:16:25:13:bb:05/tagread", "msg": "{\"Reader\":{\"Name\":\"\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/demo/00:16:25:12:9B:6B/tagread", "msg": "{\"Reader\":{\"Name\":\"72ACEC0A-7015-42|3E65AEE4-ABC7-4F|143|4\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/demo/00:16:25:11:df:f6/tagread", "msg": "{\"Reader\":{\"Name\":\"72ACEC0A-7015-42|3E65AEE4-ABC7-4F|146|4\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/demo/00:16:25:13:42:76/tagread", "msg": "{\"Reader\":{\"Name\":\"72ACEC0A-7015-42|3E65AEE4-ABC7-4F|148|5\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:14:0c:c9/tagread", "msg": "{\"Reader\":{\"Name\":\"00:16:25:14:0c:c9\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "/sls/00:16:25:11:df:f6/tagread", "msg": "{\"Reader\":{\"Name\":\"B3FCA17E-DA8E-4B|5B83937E-100C-42|175|13\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "test", "msg": "{\"Reader\":{\"Name\":\"\"\n},\"Type\":\"Heartbeat\"}"}
+{"topic": "abc/123", "msg": "XYZ"}

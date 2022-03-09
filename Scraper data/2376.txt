@@ -1,0 +1,6 @@
+{"IP": "129.236.160.240"}
+{"topic": "isx/imu/status/info/set", "msg": "null"}
+{"topic": "isx/imu/status/info/get", "msg": "{\"connected\":true,\"initialized\":true,\"lastpayload\":15,\"recording\":false}"}
+{"topic": "isx/stream/manager/status/get", "msg": "{\"status\":2}"}
+{"topic": "isx/stream/manager/status/get", "msg": "{\"status\":2}"}
+{"topic": "isx/stream/manager/status/get", "msg": "{\"status\":2}"}

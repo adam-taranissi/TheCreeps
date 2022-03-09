@@ -1,0 +1,38 @@
+{"IP": "63.142.251.64"}
+{"topic": "ucevadhmg/tiempo", "msg": "vie nov  1 17:39:09 -05 2019\n"}
+{"topic": "mensajedhmg/inicio", "msg": "online"}
+{"topic": "mensaje/inicio11", "msg": "online11"}
+{"topic": "mensaje/inicio", "msg": "offline"}
+{"topic": "uceva012/tiempo", "msg": "vie nov  1 17:08:23 -05 2019\n"}
+{"topic": "012/mensaje/inicio", "msg": "office"}
+{"topic": "strivino/tiempo", "msg": "Fri  1 Nov 22:51:35 GMT 2019\n"}
+{"topic": "strivino/mensaje/inicio", "msg": "offline"}
+{"topic": "uceva/tiempoo", "msg": "jue nov  7 22:24:20 -05 2019\n"}
+{"topic": "jfreddy/mensaje/inicio", "msg": "online"}
+{"topic": "ucevajfreddy/tiempo", "msg": "offline"}
+{"topic": "uceva001/tiempo", "msg": "Fri  8 Nov 22:53:39 GMT 2019\n"}
+{"topic": "abc/123", "msg": "XYZ"}
+{"topic": "rasp4/estado", "msg": "1"}
+{"topic": "casa/habitacion/lampara", "msg": "1"}
+{"topic": "casa/habitacion/estado_lampara", "msg": "1"}
+{"topic": "casa/habitacion/temperatura", "msg": "25.5"}
+{"topic": "casa/esp32/andres/habitacion/lampara", "msg": "1"}
+{"topic": "casa/esp32/alejandro/habitacion/lampara", "msg": "0"}
+{"topic": "casa/esp32/alvaro/habitacion/lampara", "msg": "1"}
+{"topic": "casa/esp32/mestizo/habitacion", "msg": "0"}
+{"topic": "casa/esp32/mestizo/habitacion/lampara", "msg": "1"}
+{"topic": "casa/esp32/mestizo/secuencia/led1", "msg": "1"}
+{"topic": "casa/esp32/mestizo/interhabitacion", "msg": "1"}
+{"topic": "casa/esp32/mestizo/intercocina", "msg": "0"}
+{"topic": "casa/esp32/mestizo/interbano", "msg": "0"}
+{"topic": "tema", "msg": "Un simple mensaje desde mi aplicacion java!"}
+{"topic": "aqs/mqtt2db/estado", "msg": "offline"}
+{"topic": "raspGian/mensaje", "msg": "Estoy online"}
+{"topic": "raspGian/msgEstado", "msg": "Estoy offline"}
+{"topic": "test/estado", "msg": "1"}
+{"topic": "raspi/estado", "msg": "0"}
+{"topic": "raspberian/estado", "msg": "OFFLINE"}
+{"topic": "raspi0/estado", "msg": "0"}
+{"topic": "tiempo/tempyhume", "msg": "{\"mensaje\":\"El clima se considera\",\"valor\":\"Frio parcial\"}\n"}
+{"topic": "rasp3estado", "msg": "online"}
+{"topic": "home/habitacion/gian/lampara", "msg": "{\"usuario\":\"angieD_apagar\",\"valor\":0}"}

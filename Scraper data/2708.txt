@@ -1,0 +1,4 @@
+{"IP": "3.92.135.132"}
+{"topic": "abc/123", "msg": "XYZ"}
+{"topic": "cmd", "msg": "Message Received"}
+{"topic": "874a74d0-779c-11ec-b934-b3f479a2cff2", "msg": "ActiveStatus_Updated"}

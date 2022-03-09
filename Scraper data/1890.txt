@@ -1,0 +1,16 @@
+{"IP": "35.202.72.22"}
+{"topic": "scox/v1/all/all/all/applications/visualverify/194e0978-561a-4d54-ae31-2fbe996b84f8/events", "msg": "{\"event\":\"stateChanged\",\"params\":{\"state\":\"online\",\"name\":\"visualverify\",\"master\":false}}"}
+{"topic": "scox/v1/all/all/all/applications/tb/b09511dc-e7f2-4346-8073-828a16c3b850/events", "msg": "{\"event\":\"stateChanged\",\"params\":{\"state\":\"online\",\"name\":\"tb\",\"master\":false}}"}
+{"topic": "scox/v1/all/all/all/applications/intervention/df54edc7-3aa0-4adb-8ff3-3a9b55874426/events", "msg": "{\"event\":\"stateChanged\",\"params\":{\"state\":\"online\",\"name\":\"intervention\",\"master\":false}}"}
+{"topic": "scox/v1/all/all/all/applications/authentication/18fbb1e6-3812-46a0-9ef9-99cf1bdb4c67/events", "msg": "{\"event\":\"stateChanged\",\"params\":{\"state\":\"online\",\"name\":\"authentication\",\"master\":false}}"}
+{"topic": "scox/v1/all/all/all/applications/picklist/3cf64488-b8fa-4755-8010-d3f0cca875d7/events", "msg": "{\"event\":\"stateChanged\",\"params\":{\"state\":\"online\",\"name\":\"picklist\",\"master\":false}}"}
+{"topic": "scox/v1/all/all/all/applications/weightsecurity/16901aa8-fb45-431f-b3f1-9b6725e1d984/events", "msg": "{\"event\":\"stateChanged\",\"params\":{\"state\":\"online\",\"name\":\"weightsecurity\",\"master\":false}}"}
+{"topic": "scox/v1/all/all/all/applications/inputsequencer/d5cb9932-8252-4a2b-9b51-141a9c1a74ee/events", "msg": "{\"event\":\"stateChanged\",\"params\":{\"state\":\"online\",\"name\":\"inputsequencer\",\"master\":false}}"}
+{"topic": "scox/v1/all/all/all/applications/printerservice/780a40b9-e85b-497d-befb-3b86731705e3/events", "msg": "{\"event\":\"stateChanged\",\"params\":{\"state\":\"online\",\"name\":\"printerservice\",\"master\":false}}"}
+{"topic": "scox/v1/all/all/all/applications/resources/8d148d49-d12d-4a2a-9b0a-65f97f9033c0/events", "msg": "{\"event\":\"stateChanged\",\"params\":{\"state\":\"online\",\"name\":\"resources\",\"master\":false}}"}
+{"topic": "scox/v1/all/all/all/applications/weightlearning/777b6db2-e4ed-4bbd-8e27-32ba38925271/events", "msg": "{\"event\":\"stateChanged\",\"params\":{\"state\":\"online\",\"name\":\"weightlearning\",\"master\":false}}"}
+{"topic": "scox/v1/all/all/all/applications/coupon/c01c5a1c-397d-40fa-878c-c60141035cff/events", "msg": "{\"event\":\"stateChanged\",\"params\":{\"state\":\"online\",\"name\":\"coupon\",\"master\":false}}"}
+{"topic": "scox/v1/all/all/all/applications/core/7888932a-e18f-4dbf-858c-f8839f9213d3/events", "msg": "{\"event\":\"stateChanged\",\"params\":{\"state\":\"online\",\"name\":\"core\",\"master\":false}}"}
+{"topic": "scox/v1/all/all/all/applications/scoxdocservice/bf571261-f6e7-4bef-ada5-4ab186d895b3/events", "msg": "{\"event\":\"stateChanged\",\"params\":{\"state\":\"online\",\"name\":\"scoxdocservice\",\"master\":false}}"}
+{"topic": "scox/v1/all/all/all/applications/config/e72811f0-8aea-4001-b525-f10fe70f84a9/events", "msg": "{\"event\":\"stateChanged\",\"params\":{\"state\":\"online\",\"name\":\"config\",\"master\":false}}"}
+{"topic": "scox/v1/all/all/all/applications/trilight/b7d234e3-7ca7-4326-ad36-e22adfaa65a2/events", "msg": "{\"event\":\"stateChanged\",\"params\":{\"state\":\"online\",\"name\":\"trilight\",\"master\":false}}"}

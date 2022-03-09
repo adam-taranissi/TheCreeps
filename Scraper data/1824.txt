@@ -1,0 +1,24 @@
+{"IP": "166.165.92.79"}
+{"topic": "v1/device/pwr/override", "msg": "0"}
+{"topic": "v1/device/pwr/updates", "msg": "{\"BCAST\":{\"SYSTEM\":\"MAX\"},\"SESSION\":1,\"TS\":1646771626,\"WAKE\":0}\n"}
+{"topic": "v1/device/pwr/periph", "msg": "{\"BCAST\":{\"5V\":true,\"BATT\":false,\"BT\":false,\"CAN1\":false,\"CAN2\":false,\"CAN3\":false,\"CELL\":true,\"DR\":true,\"ETH\":true,\"GPS\":false,\"INPUT\":true,\"LED\":true,\"SERIAL\":true,\"USBOTG\":false,\"WIFI\":false},\"SESSION\":1,\"TS\":1646771626,\"WAKE\":0}\n"}
+{"topic": "v1/device/gps/assist/enable/update", "msg": "false"}
+{"topic": "v1/device/gpio/output/1/ack", "msg": "{\"message\":\"Successfully set output 1 to 0\",\"rc\":200,\"session\":1227,\"ts\":31,\"value\":0}\n"}
+{"topic": "v1/device/gpio/output/1/apply", "msg": "{\"session\":1227,\"ts\":31,\"value\":0}\n"}
+{"topic": "v1/device/gpio/output/1/update", "msg": "0"}
+{"topic": "v1/device/gpio/output/2/ack", "msg": "{\"message\":\"Successfully set output 2 to 0\",\"rc\":200,\"session\":1227,\"ts\":31,\"value\":0}\n"}
+{"topic": "v1/device/gpio/output/2/apply", "msg": "{\"session\":1227,\"ts\":31,\"value\":0}\n"}
+{"topic": "v1/device/gpio/output/2/update", "msg": "0"}
+{"topic": "v1/device/gpio/output/3/ack", "msg": "{\"message\":\"Successfully set output 3 to 0\",\"rc\":200,\"session\":1227,\"ts\":31,\"value\":0}\n"}
+{"topic": "v1/device/gpio/output/3/apply", "msg": "{\"session\":1227,\"ts\":31,\"value\":0}\n"}
+{"topic": "v1/device/gpio/output/3/update", "msg": "0"}
+{"topic": "v1/device/gpio/output/4/ack", "msg": "{\"message\":\"Successfully set output 4 to 0\",\"rc\":200,\"session\":1227,\"ts\":32,\"value\":0}\n"}
+{"topic": "v1/device/gpio/output/4/apply", "msg": "{\"session\":1227,\"ts\":32,\"value\":0}\n"}
+{"topic": "v1/device/gpio/output/4/update", "msg": "0"}
+{"topic": "v1/device/gps/location/sat/update", "msg": "{\"class\":\"SKY\",\"device\":\"/dev/ttyUSB1\",\"hdop\":500,\"pdop\":8.4,\"satellites\":[{\"PRN\":10,\"az\":0,\"el\":0,\"gnssid\":0,\"ss\":28,\"svid\":10,\"used\":false},{\"PRN\":7,\"az\":172,\"el\":29,\"gnssid\":0,\"ss\":0,\"svid\":7,\"used\":false},{\"PRN\":15,\"az\":300,\"el\":2,\"gnssid\":0,\"ss\":0,\"svid\":15,\"used\":false}],\"ts\":87110.15429791,\"vdop\":1}\n"}
+{"topic": "v1/device/watchdog/kick/cypress-iot/apply", "msg": "{\"ts\":1646771634,\"value\":true}\n"}
+{"topic": "v1/device/gps/location/sat/update", "msg": "{\"class\":\"SKY\",\"device\":\"/dev/ttyUSB1\",\"hdop\":500,\"pdop\":8.4,\"satellites\":[{\"PRN\":10,\"az\":0,\"el\":0,\"gnssid\":0,\"ss\":28,\"svid\":10,\"used\":false},{\"PRN\":7,\"az\":172,\"el\":29,\"gnssid\":0,\"ss\":0,\"svid\":7,\"used\":false},{\"PRN\":15,\"az\":300,\"el\":2,\"gnssid\":0,\"ss\":0,\"svid\":15,\"used\":false}],\"ts\":87111.151945911,\"vdop\":1}\n"}
+{"topic": "v1/device/gps/location/sat/update", "msg": "{\"class\":\"SKY\",\"device\":\"/dev/ttyUSB1\",\"hdop\":500,\"pdop\":8.4,\"satellites\":[{\"PRN\":10,\"az\":0,\"el\":0,\"gnssid\":0,\"ss\":28,\"svid\":10,\"used\":false},{\"PRN\":7,\"az\":172,\"el\":29,\"gnssid\":0,\"ss\":0,\"svid\":7,\"used\":false},{\"PRN\":15,\"az\":300,\"el\":2,\"gnssid\":0,\"ss\":0,\"svid\":15,\"used\":false}],\"ts\":87112.153213411,\"vdop\":1}\n"}
+{"topic": "v1/device/gps/location/sat/update", "msg": "{\"class\":\"SKY\",\"device\":\"/dev/ttyUSB1\",\"hdop\":500,\"pdop\":8.4,\"satellites\":[{\"PRN\":10,\"az\":0,\"el\":0,\"gnssid\":0,\"ss\":28,\"svid\":10,\"used\":false},{\"PRN\":7,\"az\":172,\"el\":29,\"gnssid\":0,\"ss\":0,\"svid\":7,\"used\":false},{\"PRN\":15,\"az\":300,\"el\":2,\"gnssid\":0,\"ss\":0,\"svid\":15,\"used\":false}],\"ts\":87113.153710202,\"vdop\":1}\n"}
+{"topic": "v1/device/gps/location/sat/update", "msg": "{\"class\":\"SKY\",\"device\":\"/dev/ttyUSB1\",\"hdop\":500,\"pdop\":8.4,\"satellites\":[{\"PRN\":10,\"az\":0,\"el\":0,\"gnssid\":0,\"ss\":28,\"svid\":10,\"used\":false},{\"PRN\":7,\"az\":172,\"el\":29,\"gnssid\":0,\"ss\":0,\"svid\":7,\"used\":false},{\"PRN\":15,\"az\":300,\"el\":2,\"gnssid\":0,\"ss\":0,\"svid\":15,\"used\":false}],\"ts\":87114.157818953,\"vdop\":1}\n"}
+{"topic": "v1/device/gps/location/sat/update", "msg": "{\"class\":\"SKY\",\"device\":\"/dev/ttyUSB1\",\"hdop\":500,\"pdop\":8.4,\"satellites\":[{\"PRN\":10,\"az\":0,\"el\":0,\"gnssid\":0,\"ss\":28,\"svid\":10,\"used\":false},{\"PRN\":7,\"az\":172,\"el\":29,\"gnssid\":0,\"ss\":0,\"svid\":7,\"used\":false},{\"PRN\":15,\"az\":300,\"el\":2,\"gnssid\":0,\"ss\":0,\"svid\":15,\"used\":false}],\"ts\":87115.153190828,\"vdop\":1}\n"}

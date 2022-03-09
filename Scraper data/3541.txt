@@ -1,0 +1,4 @@
+{"IP": "142.93.21.79"}
+{"topic": "STATE/VTSCADA[67d2a0a8-50c6-47e7-8be7-536e2efeb5bf]", "msg": "OFFLINE"}
+{"topic": "STATE/VTSCADA[667ca89c-9431-4990-beb4-69f8aa57f865]", "msg": "OFFLINE"}
+{"topic": "STATE/VTSCADA[9ab70356-735c-4f71-a995-a755c2b5aa4a]", "msg": "OFFLINE"}

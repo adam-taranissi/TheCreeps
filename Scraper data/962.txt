@@ -1,0 +1,39 @@
+{"IP": "20.64.88.224"}
+{"topic": "WindowsTest", "msg": "Windows has published"}
+{"topic": "TCU_36I/Tubing", "msg": "-4.99945E+02"}
+{"topic": "All_Tags", "msg": "{\"Email_ALM\":{\"value\":0,\"context\":{\"key1\":\"Stopped\"}},\"P_225.Running\":{\"value\":1,\"context\":{\"key1\":\"Running\"}},\"P_225.permissive\":{\"value\":1,\"context\":{\"key1\":\"Running\"}},\"P_200.Running\":{\"value\":0,\"context\":{\"key1\":\"Stopped\"}},\"P_200.permissive\":{\"value\":1,\"context\":{\"key1\":\"Running\"}},\"P_375.Running\":{\"value\":0,\"context\":{\"key1\":\"Stopped\"}},\"P_375.permissive\":{\"value\":1,\"context\":{\"key1\":\"Running\"}},\"P_1000.Running\":{\"value\":1,\"context\":{\"key1\":\"Running\"}},\"P_1000.permissive\":{\"value\":1,\"context\":{\"key1\":\"Running\"}},\"P_1001.Running\":{\"value\":1,\"context\":{\"key1\":\"Running\"}},\"P_1001.permissive\":{\"value\":1,\"context\":{\"key1\":\"Running\"}},\"P_1002.Running\":{\"value\":1,\"context\":{\"key1\":\"Running\"}},\"P_1002.permissive\":{\"value\":1,\"context\":{\"key1\":\"Running\"}},\"P_1003.Running\":{\"value\":1,\"context\":{\"key1\":\"Running\"}},\"P_1003.permissive\":{\"value\":1,\"context\":{\"key1\":\"Running\"}},\"P_1004.Running\":{\"value\":1,\"context\":{\"key1\":\"Running\"}},\"P_1004.permissive\":{\"value\":1,\"context\":{\"key1\":\"Running\"}},\"P_1005.Running\":{\"value\":1,\"context\":{\"key1\":\"Running\"}},\"P_1005.permissive\":{\"value\":1,\"context\":{\"key1\":\"Running\"}},\"P_1006.Running\":{\"value\":1,\"context\":{\"key1\":\"Running\"}},\"P_1006.permissive\":{\"value\":1,\"context\":{\"key1\":\"Running\"}},\"P_1007.Running\":{\"value\":1,\"context\":{\"key1\":\"Running\"}},\"P_1007.permissive\":{\"value\":1,\"context\":{\"key1\":\"Running\"}},\"P_1008.Running\":{\"value\":1,\"context\":{\"key1\":\"Running\"}},\"P_1008.permissive\":{\"value\":1,\"context\":{\"key1\":\"Running\"}},\"P_1009.Running\":{\"value\":1,\"context\":{\"key1\":\"Running\"}},\"P_1009.permissive\":{\"value\":1,\"context\":{\"key1\":\"Running\"}},\"P_1010.Running\":{\"value\":1,\"context\":{\"key1\":\"Running\"}},\"P_1010.permissive\":{\"value\":1,\"context\":{\"key1\":\"Running\"}},\"P_1011.Running\":{\"value\":1,\"context\":{\"key1\":\"Running\"}},\"P_1011.permissive\":{\"value\":1,\"context\":{\"key1\":\"Running\"}},\"P_1012.Running\":{\"value\":0,\"context\":{\"key1\":\"Stopped\"}},\"P_1012.permissive\":{\"value\":1,\"context\":{\"key1\":\"Running\"}},\"LT_300.value\":56.339759826660156,\"LT_325.value\":39.22177505493164,\"T_300.State\":11,\"T_325.State\":11,\"RTC.Min\":11,\"P_1000.Calculated_Flow\":0.664884090423584,\"P_1001.Calculated_Flow\":0.7605745792388916,\"P_1002.Calculated_Flow\":1.9006116390228271,\"P_1003.Calculated_Flow\":6.079648017883301,\"P_1004.Calculated_Flow\":4.370416641235352,\"P_1005.Calculated_Flow\":4.749879360198975,\"P_1006.Calculated_Flow\":3.7995734214782715,\"P_1007.Calculated_Flow\":0.9503058195114136,\"P_1008.Calculated_Flow\":4.749879360198975,\"P_1009.Calculated_Flow\":4.749879360198975,\"P_1010.Calculated_Flow\":0.4751529097557068,\"P_1011.Calculated_Flow\":0.4751529097557068,\"P_1012.Calculated_Flow\":0,\"PIT_1000.Value\":276.515380859375,\"PIT_1001.Value\":258.515869140625,\"PIT_1002.Value\":124.97357177734375,\"PIT_1003.Value\":152.4986572265625,\"PIT_1004.Value\":250.49688720703125,\"PIT_1005.Value\":151.8260498046875,\"PIT_1006.Value\":222.3262939453125,\"PIT_1007.Value\":181.5048828125,\"PIT_1008.Value\":213.517822265625,\"PIT_1009.Value\":171.509521484375,\"PIT_1010.Value\":237.73968505859375,\"PIT_1011.Value\":28.33441162109375,\"PIT_1012.Value\":0,\"FIT_400.Value\":38.8509407043457,\"FIT_376.Value\":0,\"Woodbine_Well_Pump.Running\":{\"value\":0,\"context\":{\"key1\":\"Stopped\"}},\"Woodbine_Well_Pump.Fault_Status\":{\"value\":0,\"context\":{\"key1\":\"Stopped\"}},\"Woodbine_Well_VFDData.Out_Freq\":0,\"LIT_010.Value\":140.16665649414062,\"Mix_water_Filter_State\":0,\"Polymer_Filter_State\":0,\"DPI_402.Value\":3.1026387214660645,\"Compressor_Running\":{\"value\":1,\"context\":{\"key1\":\"Running\"}},\"Air_Compressor_Press.Value\":100,\"Nitrogen_Tank_Pressure\":87.0199966430664,\"N2_Generator_Running_Standby\":{\"value\":0,\"context\":{\"key1\":\"Stopped\"}},\"N2_Generator_Common_Alarm\":{\"value\":0,\"context\":{\"key1\":\"Stopped\"}}}"}
+{"topic": "LT-300", "msg": "56.339759826660156"}
+{"topic": "LT-325", "msg": "39.22177505493164"}
+{"topic": "FIT-400", "msg": "38.8509407043457"}
+{"topic": "FIT-376", "msg": "0"}
+{"topic": "P-200 Running", "msg": "{\"value\":0,\"context\":{\"key1\":\"Stopped\"}}"}
+{"topic": "P-225 Running", "msg": "{\"value\":1,\"context\":{\"key1\":\"Running\"}}"}
+{"topic": "P-1000 Running", "msg": "{\"value\":1,\"context\":{\"key1\":\"Running\"}}"}
+{"topic": "P-1001 Running", "msg": "{\"value\":1,\"context\":{\"key1\":\"Running\"}}"}
+{"topic": "P-1002 Running", "msg": "{\"value\":1,\"context\":{\"key1\":\"Running\"}}"}
+{"topic": "P-1003 Running", "msg": "{\"value\":1,\"context\":{\"key1\":\"Running\"}}"}
+{"topic": "P-1004 Running", "msg": "{\"value\":1,\"context\":{\"key1\":\"Running\"}}"}
+{"topic": "P-1005 Running", "msg": "{\"value\":1,\"context\":{\"key1\":\"Running\"}}"}
+{"topic": "P-1006 Running", "msg": "{\"value\":1,\"context\":{\"key1\":\"Running\"}}"}
+{"topic": "P-1007 Running", "msg": "{\"value\":1,\"context\":{\"key1\":\"Running\"}}"}
+{"topic": "P-1008 Running", "msg": "{\"value\":1,\"context\":{\"key1\":\"Running\"}}"}
+{"topic": "P-1009 Running", "msg": "{\"value\":1,\"context\":{\"key1\":\"Running\"}}"}
+{"topic": "P-1010 Running", "msg": "{\"value\":1,\"context\":{\"key1\":\"Running\"}}"}
+{"topic": "P-1011 Running", "msg": "{\"value\":1,\"context\":{\"key1\":\"Running\"}}"}
+{"topic": "P-200 Permissive", "msg": "Ready"}
+{"topic": "TCU_72I/Tubing", "msg": "-4.99947E+02"}
+{"topic": "TCU_163I/Tubing", "msg": "-5.00000E+02"}
+{"topic": "SH_21/High_Discharge_Murphy_ALM", "msg": "FALSE"}
+{"topic": "FED_43_9/Status", "msg": "1"}
+{"topic": "FED_10_11/Number_of_Starts", "msg": "0"}
+{"topic": "TCU_93/Number_of_Starts_Yesterday", "msg": "0"}
+{"topic": "SH_10/Speed", "msg": "411"}
+{"topic": "TCU_40I/Low_Suction_Murphy_ALM", "msg": "FALSE"}
+{"topic": "TCU_72I/Flowline", "msg": "6.52625E+02"}
+{"topic": "TCU_140/Speed", "msg": "1803"}
+{"topic": "TCU_162I/Speed", "msg": "0"}
+{"topic": "FED_43_9/Current", "msg": "463"}
+{"topic": "TCU_163I/Flowline", "msg": "8.52869E+02"}
+{"topic": "TCU_45I/Flowline", "msg": "5.09768E+02"}
+{"topic": "SH_21/Tubing", "msg": "1.80098E+02"}
+{"topic": "TCU_72I/Status", "msg": "1"}

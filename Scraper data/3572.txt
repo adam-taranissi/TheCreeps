@@ -1,0 +1,21 @@
+{"IP": "98.246.236.6"}
+{"topic": "WUNDERLAND/Milwaukie Cinemas/Admissions1", "msg": "Milwaukie Cinemas/Admissions1: Connected"}
+{"topic": "WUNDERLAND/Milwaukie Cinemas/Snackbar1", "msg": "Milwaukie Cinemas/Snackbar1: Connected"}
+{"topic": "WUNDERLAND/Milwaukie Cinemas/Admissions2", "msg": "Milwaukie Cinemas/Admissions2: Connected"}
+{"topic": "WUNDERLAND/Milwaukie Cinemas/Snackbar2", "msg": "Milwaukie Cinemas/Snackbar2: Connected"}
+{"topic": "WUNDERLAND/Avalon Theatres/Snackbar2", "msg": "Avalon Theatres/Snackbar2: Connected"}
+{"topic": "WUNDERLAND/Avalon Theatres/Snackbar1", "msg": "Avalon Theatres/Snackbar1: Connected"}
+{"topic": "WUNDERLAND/Avalon Theatres/Admissions2", "msg": "Avalon Theatres/Admissions2: Connected"}
+{"topic": "WUNDERLAND/Avalon Theatres/Admissions1", "msg": "Avalon Theatres/Admissions1: Connected"}
+{"topic": "WUNDERLAND/Gresham Cinemas/Admissions1", "msg": "Gresham Cinemas/Admissions1: Connected"}
+{"topic": "WUNDERLAND/Gresham Cinemas/Consolidations", "msg": "Gresham Cinemas/Consolidations: Connected"}
+{"topic": "WUNDERLAND/Gresham Cinemas/Admissions2", "msg": "Gresham Cinemas/Admissions2: Connected"}
+{"topic": "WUNDERLAND/Gresham Cinemas/Snackbar1", "msg": "Gresham Cinemas/Snackbar1: Connected"}
+{"topic": "WUNDERLAND/Gresham Cinemas/Snackbar2", "msg": "Gresham Cinemas/Snackbar2: Connected"}
+{"topic": "WUNDERLAND/Salem Wunderland/Admissions1", "msg": "Salem Wunderland/Admissions1: Connected"}
+{"topic": "WUNDERLAND/Salem Wunderland/Admissions2", "msg": "Salem Wunderland/Admissions2: Connected"}
+{"topic": "WUNDERLAND/Beaverton Cinemas/Snackbar1", "msg": "Beaverton Cinemas/Snackbar1: Connected"}
+{"topic": "WUNDERLAND/Beaverton Cinemas/Consolidations", "msg": "Beaverton Cinemas/Consolidations: Connected"}
+{"topic": "WUNDERLAND/Beaverton Cinemas/Admissions2", "msg": "Beaverton Cinemas/Admissions2: Connected"}
+{"topic": "WUNDERLAND/Beaverton Cinemas/Admissions1", "msg": "Beaverton Cinemas/Admissions1: Connected"}
+{"topic": "WUNDERLAND/Beaverton Cinemas/Snackbar2", "msg": "Beaverton Cinemas/Snackbar2: Connected"}

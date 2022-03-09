@@ -1,0 +1,28 @@
+{"IP": "147.135.1.95"}
+{"topic": "/sensors/AC:23:3F:A3:77:BB/temperature", "msg": "  -1.0"}
+{"topic": "/sensors/AC:23:3F:A3:77:BB/voltage", "msg": "2976"}
+{"topic": "/sensors/AC:23:3F:A2:53:C2/temperature", "msg": "   4.7"}
+{"topic": "/sensors/AC:23:3F:A2:53:C2/voltage", "msg": "3012"}
+{"topic": "/sensors/AC:23:3F:A3:D5:AB/door_state", "msg": "0"}
+{"topic": "/sensors/AC:23:3F:A3:D5:AB/battery_percent", "msg": "50"}
+{"topic": "/sensors/AC:23:3F:A3:77:BB/temperature", "msg": "  -1.0"}
+{"topic": "/sensors/AC:23:3F:A3:77:BB/voltage", "msg": "2976"}
+{"topic": "/sensors/AC:23:3F:A2:53:C5/temperature", "msg": " -19.7"}
+{"topic": "/sensors/AC:23:3F:A2:53:C5/voltage", "msg": "3021"}
+{"topic": "/sensors/AC:23:3F:A2:53:C2/temperature", "msg": "   4.7"}
+{"topic": "/sensors/AC:23:3F:A2:53:C2/voltage", "msg": "3012"}
+{"topic": "/sensors/AC:23:3F:A3:D5:68/door_state", "msg": "0"}
+{"topic": "/sensors/AC:23:3F:A3:D5:68/battery_percent", "msg": "100"}
+{"topic": "/sensors/AC:23:3F:A3:D5:52/door_state", "msg": "0"}
+{"topic": "/sensors/AC:23:3F:A3:D5:52/battery_percent", "msg": "100"}
+{"topic": "/sensors/AC:23:3F:A3:77:BB/temperature", "msg": "  -1.0"}
+{"topic": "/sensors/AC:23:3F:A3:77:BB/voltage", "msg": "2976"}
+{"topic": "/sensors/AC:23:3F:A3:D5:AB/door_state", "msg": "0"}
+{"topic": "/sensors/AC:23:3F:A3:D5:AB/battery_percent", "msg": "50"}
+{"topic": "/sensors/AC:23:3F:A2:53:C2/temperature", "msg": "   4.7"}
+{"topic": "/sensors/AC:23:3F:A2:53:C2/voltage", "msg": "3012"}
+{"topic": "/sensors/AC:23:3F:A2:53:C2/temperature", "msg": "   4.7"}
+{"topic": "/sensors/AC:23:3F:A2:53:C2/voltage", "msg": "3012"}
+{"topic": "/sensors/AC:23:3F:A3:D5:52/door_state", "msg": "0"}
+{"topic": "/sensors/AC:23:3F:A3:D5:52/battery_percent", "msg": "100"}
+{"topic": "/sensors/AC:23:3F:A3:77:BB/temperature", "msg": "  -1.0"}

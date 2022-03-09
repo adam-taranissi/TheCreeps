@@ -1,0 +1,4 @@
+{"IP": "98.194.206.199"}
+{"topic": "tele/sonoff/LWT", "msg": "Online"}
+{"topic": "tele/kitchen/LWT", "msg": "Offline"}
+{"topic": "tele/sonoff-light/LWT", "msg": "Online"}

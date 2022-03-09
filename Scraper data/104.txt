@@ -1,0 +1,2 @@
+{"IP": "54.202.132.250"}
+{"topic": "STATE/ACM", "msg": "OFFLINE"}

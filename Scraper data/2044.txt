@@ -1,0 +1,40 @@
+{"IP": "162.243.97.152"}
+{"topic": "FweepNet/Status/MBR2", "msg": "OFFLINE"}
+{"topic": "FweepNet/Status/LED1", "msg": "OFFLINE"}
+{"topic": "weatherNet/Heartbeat", "msg": "phonePing"}
+{"topic": "weatherNet/Cmd", "msg": "cmd1"}
+{"topic": "weatherNet/Status", "msg": "OFFLINE"}
+{"topic": "weatherNet/Report", "msg": "0.0.0.0 : 40 2733 -1 -1 -1 5814 -56 2970"}
+{"topic": "AresLog/DDMA-1b/Add", "msg": "272"}
+{"topic": "weatherNet / Status", "msg": "OFFLINE"}
+{"topic": "octoprint/temperature/tool0", "msg": "{\"actual\": 15.6, \"target\": 0.0}"}
+{"topic": "octoprint/temperature/bed", "msg": "{\"actual\": 15.6, \"target\": 0.0}"}
+{"topic": "octoprint/progress/printing", "msg": "{\"progress\": 99, \"location\": \"local\", \"path\": \"raftCC_din_rail_base.gcode\"}"}
+{"topic": "octoPrint/mqtt", "msg": "disconnected"}
+{"topic": "octoPrint/event/UserLoggedIn", "msg": "{\"username\": \"mark\", \"_event\": \"UserLoggedIn\", \"_timestamp\": 1643493481}"}
+{"topic": "octoPrint/event/ConnectivityChanged", "msg": "{\"_timestamp\": 1642440780, \"old\": false, \"_event\": \"ConnectivityChanged\", \"connection\": true, \"new\": true, \"resolution\": true}"}
+{"topic": "octoPrint/event/ClientOpened", "msg": "{\"_timestamp\": 1643493481, \"_event\": \"ClientOpened\", \"remoteAddress\": \"::ffff:192.168.1.64\"}"}
+{"topic": "octoPrint/event/ClientAuthed", "msg": "{\"username\": \"mark\", \"_event\": \"ClientAuthed\", \"_timestamp\": 1643493481, \"remoteAddress\": \"::ffff:192.168.1.64\"}"}
+{"topic": "octoPrint/event/Connecting", "msg": "{\"_event\": \"Connecting\", \"_timestamp\": 1642544266}"}
+{"topic": "octoPrint/event/PrinterStateChanged", "msg": "{\"_timestamp\": 1643380984, \"state_id\": \"OPERATIONAL\", \"_event\": \"PrinterStateChanged\", \"state_string\": \"Operational\"}"}
+{"topic": "octoPrint/event/Connected", "msg": "{\"baudrate\": 115200, \"_event\": \"Connected\", \"port\": \"/dev/ttyUSB0\", \"_timestamp\": 1642544272}"}
+{"topic": "octoPrint/event/FirmwareData", "msg": "{\"_event\": \"FirmwareData\", \"data\": {\"EXTRUDER_COUNT\": \"1\", \"UUID\": \"00000000-0000-0000-0000-000000000000\", \"FIRMWARE_NAME\": \"Marlin V1; Sprinter/grbl mashup for gen6\", \"MACHINE_TYPE\": \"3D Printer Ready\", \"PROTOCOL_VERSION\": \"1.0\", \"FIRMWARE_URL\": \"http://www.mendel-parts.com\"}, \"name\": \"Marlin V1; Sprinter/grbl mashup for gen6\", \"_timestamp\": 1642544273}"}
+{"topic": "octoPrint/event/plugin_softwareupdate_update_succeeded", "msg": "{\"to_version\": \"0.8.12\", \"from_version\": \"0.8.9\", \"_event\": \"plugin_softwareupdate_update_succeeded\", \"target\": \"mqtt\", \"_timestamp\": 1641680177}"}
+{"topic": "octoPrint/event/Shutdown", "msg": "{\"_event\": \"Shutdown\", \"_timestamp\": 1641680179}"}
+{"topic": "octoPrint/event/ClientClosed", "msg": "{\"_timestamp\": 1643482408, \"_event\": \"ClientClosed\", \"remoteAddress\": \"::ffff:192.168.1.64\"}"}
+{"topic": "octoPrint/event/Error", "msg": "{\"_timestamp\": 1641680797, \"reason\": \"firmware\", \"_event\": \"Error\", \"error\": \"0: Extruder switched off. MINTEMP triggered !\"}"}
+{"topic": "octoPrint/event/EStop", "msg": "{\"_event\": \"EStop\", \"_timestamp\": 1641680797}"}
+{"topic": "octoPrint/event/UpdatedFiles", "msg": "{\"_event\": \"UpdatedFiles\", \"type\": \"printables\", \"_timestamp\": 1643373627}"}
+{"topic": "octoPrint/event/Disconnected", "msg": "{\"_event\": \"Disconnected\", \"_timestamp\": 1642544264}"}
+{"topic": "octoPrint/event/plugin_backup_backup_created", "msg": "{\"_timestamp\": 1642359183, \"path\": \"/home/pi/.octoprint/data/backup/octoprint-backup-20220116-135124.zip\", \"_event\": \"plugin_backup_backup_created\", \"name\": \"octoprint-backup-20220116-135124.zip\", \"excludes\": []}"}
+{"topic": "octoPrint/event/FileSelected", "msg": "{\"origin\": \"local\", \"_event\": \"FileSelected\", \"name\": \"CCR10M_top.gcode\", \"_timestamp\": 1643373870, \"owner\": \"mark\", \"path\": \"CCR10M_top.gcode\", \"size\": null, \"user\": \"mark\"}"}
+{"topic": "octoPrint/event/FileAdded", "msg": "{\"_timestamp\": 1643373626, \"name\": \"CCR10M_top.gcode\", \"_event\": \"FileAdded\", \"storage\": \"local\", \"path\": \"CCR10M_top.gcode\", \"type\": [\"machinecode\", \"gcode\"]}"}
+{"topic": "octoPrint/event/MetadataAnalysisStarted", "msg": "{\"origin\": \"local\", \"_timestamp\": 1643373627, \"name\": \"CCR10M_top.gcode\", \"_event\": \"MetadataAnalysisStarted\", \"path\": \"CCR10M_top.gcode\", \"type\": \"gcode\"}"}
+{"topic": "octoPrint/event/Upload", "msg": "{\"_timestamp\": 1643373627, \"name\": \"CCR10M_top.gcode\", \"_event\": \"Upload\", \"print\": false, \"path\": \"CCR10M_top.gcode\", \"select\": false, \"target\": \"local\"}"}
+{"topic": "octoPrint/event/FileDeselected", "msg": "{\"_event\": \"FileDeselected\", \"_timestamp\": 1643373092}"}
+{"topic": "octoPrint/event/FileRemoved", "msg": "{\"_timestamp\": 1643373092, \"name\": \"CCR10M_bottom.gcode\", \"_event\": \"FileRemoved\", \"storage\": \"local\", \"path\": \"CCR10M_bottom.gcode\", \"type\": [\"machinecode\", \"gcode\"]}"}
+{"topic": "octoPrint/event/MetadataAnalysisFinished", "msg": "{\"origin\": \"local\", \"_timestamp\": 1643373632, \"name\": \"CCR10M_top.gcode\", \"_event\": \"MetadataAnalysisFinished\", \"result\": {\"estimatedPrintTime\": 6515.144446885841, \"printingArea\": {\"maxZ\": 3.0, \"minX\": 10.1, \"maxX\": 215.963, \"maxY\": 200.0, \"minY\": 20.0, \"minZ\": 0.0}, \"dimensions\": {\"width\": 205.863, \"depth\": 180.0, \"height\": 3.0}, \"filament\": {\"tool0\": {\"volume\": 0.0, \"length\": 5794.3788000000095}}}, \"path\": \"CCR10M_top.gcode\"}"}
+{"topic": "octoPrint/event/Disconnecting", "msg": "{\"_event\": \"Disconnecting\", \"_timestamp\": 1642544260}"}
+{"topic": "octoPrint/event/PrintStarted", "msg": "{\"origin\": \"local\", \"_event\": \"PrintStarted\", \"name\": \"CCR10M_top.gcode\", \"_timestamp\": 1643373870, \"owner\": \"mark\", \"path\": \"CCR10M_top.gcode\", \"size\": 621549, \"user\": \"mark\"}"}
+{"topic": "octoPrint/event/GcodeScriptBeforePrintStartedRunning", "msg": "{\"origin\": \"local\", \"_event\": \"GcodeScriptBeforePrintStartedRunning\", \"name\": \"CCR10M_top.gcode\", \"_timestamp\": 1643373870, \"owner\": \"mark\", \"path\": \"CCR10M_top.gcode\", \"size\": 621549, \"user\": \"mark\"}"}
+{"topic": "octoPrint/event/GcodeScriptBeforePrintStartedFinished", "msg": "{\"origin\": \"local\", \"_event\": \"GcodeScriptBeforePrintStartedFinished\", \"name\": \"CCR10M_top.gcode\", \"_timestamp\": 1643373870, \"owner\": \"mark\", \"path\": \"CCR10M_top.gcode\", \"size\": 621549, \"user\": \"mark\"}"}

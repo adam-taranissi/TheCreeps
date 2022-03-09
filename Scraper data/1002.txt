@@ -1,0 +1,2 @@
+{"IP": "18.119.41.100"}
+{"topic": "nikini/solar", "msg": "{\"stateName\":\"none\",\"eventName\":\"Peripheral_Data\",\"eventParameters\":{\"ioid20\":\"0.0\",\"ioid4\":\"0\",\"ioid3\":\"0\",\"ioid2\":\"0\",\"ioid1\":\"0\",\"ioid8\":\"0\",\"ioid7\":\"0\",\"ioid6\":\"0\",\"ioid5\":\"0\",\"ioid18\":\"0.0\",\"ioid19\":\"0\",\"ioid23\":\"0\",\"ioid24\":\"0.0\",\"ioid21\":\"0\",\"ioid115\":\"0\",\"ioid116\":\"0\",\"ioid22\":\"0.0\",\"ioid27\":\"0\",\"ioid17\":\"0\",\"ioid28\":\"0\",\"ioid25\":\"0\",\"ioid26\":\"0\"},\"deviceId\":\"30611\"}"}

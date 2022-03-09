@@ -1,0 +1,7 @@
+{"IP": "137.184.41.141"}
+{"topic": "data/trade/binance/solusdt", "msg": "{\"Id\":241571379,\"Symbol\":\"\",\"Price\":\"81.64\",\"Quantity\":\"0.41\",\"Time\":\"2022-03-08T21:36:25.385Z\"}"}
+{"topic": "data/trade/binance/solusdt", "msg": "{\"Id\":241571380,\"Symbol\":\"\",\"Price\":\"81.63\",\"Quantity\":\"10\",\"Time\":\"2022-03-08T21:36:27.173Z\"}"}
+{"topic": "data/trade/binance/solusdt", "msg": "{\"Id\":241571381,\"Symbol\":\"\",\"Price\":\"81.63\",\"Quantity\":\"0.32\",\"Time\":\"2022-03-08T21:36:27.173Z\"}"}
+{"topic": "data/trade/binance/solusdt", "msg": "{\"Id\":241571382,\"Symbol\":\"\",\"Price\":\"81.62\",\"Quantity\":\"1.3\",\"Time\":\"2022-03-08T21:36:27.192Z\"}"}
+{"topic": "data/trade/binance/solusdt", "msg": "{\"Id\":241571383,\"Symbol\":\"\",\"Price\":\"81.62\",\"Quantity\":\"1\",\"Time\":\"2022-03-08T21:36:28.162Z\"}"}
+{"topic": "data/trade/binance/solusdt", "msg": "{\"Id\":241571384,\"Symbol\":\"\",\"Price\":\"81.62\",\"Quantity\":\"2\",\"Time\":\"2022-03-08T21:36:28.748Z\"}"}

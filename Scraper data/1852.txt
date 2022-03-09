@@ -1,0 +1,3 @@
+{"IP": "34.67.120.1"}
+{"topic": "sensors", "msg": "{\"device\":\"TCAN1\",\"Temperature\":23.97726,\"Humidity\":55.34753,\"Level\":326.536}"}
+{"topic": "health", "msg": "{\"device\":\"TCAN1\",\"Bootcount\":270,\"Battery\":83}"}

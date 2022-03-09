@@ -1,0 +1,13 @@
+{"IP": "40.83.206.159"}
+{"topic": "Temperature0", "msg": "20.63"}
+{"topic": "Mod1", "msg": "15.87"}
+{"topic": "TankOil", "msg": "4.25"}
+{"topic": "TankWater", "msg": "1.75"}
+{"topic": "TankTemp", "msg": "66.00"}
+{"topic": "Temperature0", "msg": "20.63"}
+{"topic": "Temperature0", "msg": "20.63"}
+{"topic": "TankError", "msg": "0"}
+{"topic": "TankWarning", "msg": "0"}
+{"topic": "Temperature0", "msg": "20.63"}
+{"topic": "Pressure0", "msg": "0.43"}
+{"topic": "Temperature0", "msg": "20.63"}

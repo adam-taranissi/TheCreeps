@@ -1,0 +1,7 @@
+{"IP": "35.160.16.221"}
+{"topic": "firmware", "msg": "{\n    \"cmd\": \"1002\",\n    \"mac\": \"74e182394f6d\",\n    \"origin\": \"firmware\"\n}\n"}
+{"topic": "web_ang", "msg": "{\"cmd\":\"1002\",\"origin\":\"firmware\",\"mac\":\"74e182394f6d\",\"uuid\":\"1234\",\"status\":\"online\",\"deviceName\":\"Desai\",\"livestream\":\"false\"}"}
+{"topic": "firmware", "msg": "{\n    \"cmd\": \"1002\",\n    \"livestream\": \"false\",\n    \"mac\": \"74e1822fe46a\",\n    \"origin\": \"firmware\"\n}\n"}
+{"topic": "web_ang", "msg": "{\"cmd\":\"1002\",\"origin\":\"firmware\",\"mac\":\"74e1822fe46a\",\"uuid\":\"1234\",\"status\":\"online\",\"deviceName\":\"DEMO11\",\"livestream\":\"false\"}"}
+{"topic": "firmware", "msg": "{\n    \"cmd\": \"1002\",\n    \"mac\": \"c8df844d9f10\",\n    \"origin\": \"firmware\"\n}\n"}
+{"topic": "web_ang", "msg": "{\"cmd\":\"1002\",\"origin\":\"firmware\",\"mac\":\"c8df844d9f10\",\"uuid\":\"1234\",\"status\":\"online\",\"deviceName\":\"REC_DEV1\",\"livestream\":\"false\"}"}

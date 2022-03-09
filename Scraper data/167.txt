@@ -1,0 +1,23 @@
+{"IP": "52.25.126.4"}
+{"topic": "KSHS/Fronius_inv_01", "msg": "{\"Fronius_inv_01:UserDataBlock1_PPVphBC\": [{\"DeviceID\": \"Fronius_inv_01\"}, 1646762830948, -0.01]}"}
+{"topic": "KSHS/Fronius_inv_02", "msg": "{\"Fronius_inv_02:UserDataBlock1_PPVphAB\": [{\"DeviceID\": \"Fronius_inv_02\"}, 1646762830214, -0.01]}"}
+{"topic": "KSHS/Fronius_inv_03", "msg": "{\"Fronius_inv_03:UserDataBlock1_PPVphCA\": [{\"DeviceID\": \"Fronius_inv_03\"}, 1646762820956, -0.01]}"}
+{"topic": "KSHS/Fronius_inv_04", "msg": "{\"Fronius_inv_04:UserDataBlock1_PPVphCA\": [{\"DeviceID\": \"Fronius_inv_04\"}, 1645421090550, -243.16]}"}
+{"topic": "KSHS/Fronius_inv_05", "msg": "{\"Fronius_inv_05:UserDataBlock1_PPVphBC\": [{\"DeviceID\": \"Fronius_inv_05\"}, 1645421086461, -243.96]}"}
+{"topic": "KSHS/Fronius_inv_06", "msg": "{\"Fronius_inv_06:UserDataBlock1_PPVphCA\": [{\"DeviceID\": \"Fronius_inv_06\"}, 1646762830609, -0.01]}"}
+{"topic": "KSHS/Fronius_inv_07", "msg": "{\"Fronius_inv_07:UserDataBlock1_PPVphAB\": [{\"DeviceID\": \"Fronius_inv_07\"}, 1646762827417, -0.01]}"}
+{"topic": "KSHS/Fronius_inv_08", "msg": "{\"Fronius_inv_08:UserDataBlock1_PPVphBC\": [{\"DeviceID\": \"Fronius_inv_08\"}, 1646762818405, -0.01]}"}
+{"topic": "KSHS/Fronius_inv_09", "msg": "{\"Fronius_inv_09:UserDataBlock1_PPVphBC\": [{\"DeviceID\": \"Fronius_inv_09\"}, 1646762824069, -0.01]}"}
+{"topic": "SCH/Schneider_meter_01", "msg": "{\"Schneider_meter_01:UserDataBlock2_CurrentPh3\": [{\"DeviceID\": \"Schneider_meter_01\"}, 1646762865276, 0.0]}"}
+{"topic": "onslowIGA/gmuData", "msg": "2022-03-08T18:08:29.077165Z,0.0,-0.08,0.0,90,"}
+{"topic": "coralBay/BatteryData2", "msg": "2022-03-08T18:08:25.971034Z,397.90000000000003,-1.01,96,100,4098,0,3.319,3.311,0,0,34.0,0,0,0,0,1000,-2500,"}
+{"topic": "onslowMPC/FIMData", "msg": "2022-03-08T18:08:29.790780Z,3834,2,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,100.0,"}
+{"topic": "derby60/gmuData", "msg": "2022-03-08T18:08:32.480188Z,0.0,0.02,0.0,90,"}
+{"topic": "onslowAP/FIMData", "msg": "2022-03-08T18:08:32.997391Z,5039,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50.0,0.0,0.0,0.0,0,0,0.0,0.0,"}
+{"topic": "coralBay/FIMData", "msg": "2022-03-08T18:08:26.373376Z,17095,0,100.0,3.0,0.0,0.0,0.0,0.0,0.41,0.0,0.0,0.0,0.0,16492,740071,30.26,0.0,"}
+{"topic": "onslowPS/gmuData", "msg": "2022-03-08T18:08:34.208720Z,0.0,-0.1,0.0,89,"}
+{"topic": "onslowIGA/BatteryData", "msg": "2022-03-08T18:08:32.425750Z,399.1,0.0,90,100,1027,0,3.3280000000000003,3.3200000000000003,18.0,25.0,35.0,4.99,5,4.99,3,10.0,-25.0,"}
+{"topic": "larry/BatteryData", "msg": "2022-03-08T18:08:30.774960Z,336.70000000000005,-0.1,17,100,4098,0,3.213,3.1990000000000003,36.0,2500,-2500,"}
+{"topic": "onslowMPC/gmuData", "msg": "2022-03-08T18:08:31.144835Z,0.0,-0.09,0.0,91,"}
+{"topic": "SCH/Schneider_meter_01", "msg": "{\"Schneider_meter_01:UserDataBlock3_ReactivePw\": [{\"DeviceID\": \"Schneider_meter_01\"}, 1646762865276, 18.359790802001953]}"}
+{"topic": "KSHS/Fronius_inv_01", "msg": "{\"Fronius_inv_01:UserDataBlock1_PPVphCA\": [{\"DeviceID\": \"Fronius_inv_01\"}, 1646762830948, -0.01]}"}

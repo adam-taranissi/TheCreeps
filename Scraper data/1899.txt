@@ -1,0 +1,3 @@
+{"IP": "64.227.99.96"}
+{"topic": "/home/00001/data", "msg": "<msg><src>CC128-v1.31</src><dsb>02515</dsb><time>08:40:43</time><tmpr>25.5</tmpr><sensor>0</sensor><id>00077</id><type>1</type><ch1><watts>00472</watts></ch1></msg>"}
+{"topic": "/v2/data", "msg": "{\"Sensor\":{\"CreatedAt\":\"0001-01-01T00:00:00Z\",\"ID\":0,\"Device\":\"\",\"Sensor\":0,\"Radio\":77,\"Channel\":1,\"Type\":1,\"Firmware\":\"CC128-v1.31\",\"Identifier\":\"-0-77-1\"},\"Data\":{\"Sensor\":0,\"Timestamp\":\"2022-03-09T07:40:34+11:00\",\"Usage\":472,\"Temperature\":25.5,\"Counter\":1}}"}

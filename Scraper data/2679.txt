@@ -1,0 +1,43 @@
+{"IP": "54.241.60.165"}
+{"topic": "planning_manager_streaming_7", "msg": "standby,running"}
+{"topic": "remoteav_status", "msg": "{\"tractor\": {\"id\": 7, \"pm_status\": \"standby,running\", \"cm_fbk\": {\"command_uuid\": null, \"feedback\": null, \"reason\": null, \"time_stamp\": 1646776131833}}}"}
+{"topic": "PoseModel_streaming_7", "msg": "-87796.202965,65594.4232551,-802.077087411,0.12220033721804478,0.30054953339709367,0.11610092475670125,-149.68536124851187,0.0,-1,-1,-1,0.0,0,37.711039653461484,-121.7057774672697"}
+{"topic": "PoseModel", "msg": "{\"sourcenode\": \"posemodel\", \"string\": \"-87796.202965,65594.4232551,-802.077087411,0.12220033721804478,0.30054953339709367,0.11610092475670125,-149.68536124851187,0.0,-1,-1,-1,0.0,0\", \"datetime\": \"2022-03-08 13:48:51.865535\", \"tractor_serial_no\": \"PS1054\", \"tractor_id\": 7, \"date_timestamp\": 1646776131809, \"UUID\": \"16467761318097\"}"}
+{"topic": "localization_streaming_7", "msg": "65594.4232551,-87796.202965,-802.077087411,0.30054953339709367,0.11610092475670125,-149.68536124851187,0.0,0.12220033721804478,2.7454400152026777,0.0,FIX,0,True"}
+{"topic": "WeatherModel_streaming_7", "msg": "wind_speed: 0.1, wind_direction: 10.0, Barometric: 1023.03, Humidity: 61.0, Temperature: 24.0"}
+{"topic": "planning_manager_streaming_7", "msg": "standby,running"}
+{"topic": "remoteav_status", "msg": "{\"tractor\": {\"id\": 7, \"pm_status\": \"standby,running\", \"cm_fbk\": {\"command_uuid\": null, \"feedback\": null, \"reason\": null, \"time_stamp\": 1646776131933}}}"}
+{"topic": "PoseModel_streaming_7", "msg": "-87796.2033325,65594.4247857,-802.079085846,0.12281692811253843,0.23966690194427007,0.08184777538389991,-149.74351054713642,0.0,-1,-1,-1,0.0,0,37.71103964979136,-121.70577744971649"}
+{"topic": "PoseModel", "msg": "{\"sourcenode\": \"posemodel\", \"string\": \"-87796.2033325,65594.4247857,-802.079085846,0.12281692811253843,0.23966690194427007,0.08184777538389991,-149.74351054713642,0.0,-1,-1,-1,0.0,0\", \"datetime\": \"2022-03-08 13:48:51.966235\", \"tractor_serial_no\": \"PS1054\", \"tractor_id\": 7, \"date_timestamp\": 1646776131910, \"UUID\": \"16467761319107\"}"}
+{"topic": "localization_streaming_7", "msg": "65594.4247857,-87796.2033325,-802.079085846,0.23966690194427007,0.08184777538389991,-149.74351054713642,0.0,0.12281692811253843,2.449105277070854,0.0,FIX,0,True"}
+{"topic": "WeatherModel_streaming_7", "msg": "wind_speed: 0.1, wind_direction: 10.0, Barometric: 1023.03, Humidity: 61.0, Temperature: 24.0"}
+{"topic": "planning_manager_streaming_7", "msg": "standby,running"}
+{"topic": "PoseModel_streaming_7", "msg": "-87796.2035924,65594.426292,-802.080564816,0.1231916481839072,0.2214236100749767,0.11091858054142821,-149.72975311984246,0.0,-1,-1,-1,0.0,0,37.711039647157264,-121.70577743248883"}
+{"topic": "remoteav_status", "msg": "{\"tractor\": {\"id\": 7, \"pm_status\": \"standby,running\", \"cm_fbk\": {\"command_uuid\": null, \"feedback\": null, \"reason\": null, \"time_stamp\": 1646776132033}}}"}
+{"topic": "PoseModel", "msg": "{\"sourcenode\": \"posemodel\", \"string\": \"-87796.2035924,65594.426292,-802.080564816,0.1231916481839072,0.2214236100749767,0.11091858054142821,-149.72975311984246,0.0,-1,-1,-1,0.0,0\", \"datetime\": \"2022-03-08 13:48:52.065927\", \"tractor_serial_no\": \"PS1054\", \"tractor_id\": 7, \"date_timestamp\": 1646776132010, \"UUID\": \"16467761320107\"}"}
+{"topic": "localization_streaming_7", "msg": "65594.426292,-87796.2035924,-802.080564816,0.2214236100749767,0.11091858054142821,-149.72975311984246,0.0,0.1231916481839072,2.7733454091007066,0.0,FIX,0,True"}
+{"topic": "WeatherModel_streaming_7", "msg": "wind_speed: 0.1, wind_direction: 10.0, Barometric: 1023.03, Humidity: 61.0, Temperature: 24.0"}
+{"topic": "planning_manager_streaming_7", "msg": "standby,running"}
+{"topic": "remoteav_status", "msg": "{\"tractor\": {\"id\": 7, \"pm_status\": \"standby,running\", \"cm_fbk\": {\"command_uuid\": null, \"feedback\": null, \"reason\": null, \"time_stamp\": 1646776132133}}}"}
+{"topic": "PoseModel_streaming_7", "msg": "-87796.2039563,65594.4276916,-802.082079444,0.12376335273295704,0.2343512371122375,0.07862531437782565,-149.75238729720064,0.0,-1,-1,-1,0.0,0,37.71103964358947,-121.70577741647656"}
+{"topic": "PoseModel", "msg": "{\"sourcenode\": \"posemodel\", \"string\": \"-87796.2039563,65594.4276916,-802.082079444,0.12376335273295704,0.2343512371122375,0.07862531437782565,-149.75238729720064,0.0,-1,-1,-1,0.0,0\", \"datetime\": \"2022-03-08 13:48:52.166078\", \"tractor_serial_no\": \"PS1054\", \"tractor_id\": 7, \"date_timestamp\": 1646776132110, \"UUID\": \"16467761321107\"}"}
+{"topic": "localization_streaming_7", "msg": "65594.4276916,-87796.2039563,-802.082079444,0.2343512371122375,0.07862531437782565,-149.75238729720064,0.0,0.12376335273295704,2.619359652459531,0.0,FIX,0,True"}
+{"topic": "WeatherModel_streaming_7", "msg": "wind_speed: 0.1, wind_direction: 10.0, Barometric: 1023.03, Humidity: 61.0, Temperature: 24.0"}
+{"topic": "planning_manager_streaming_7", "msg": "standby,running"}
+{"topic": "remoteav_status", "msg": "{\"tractor\": {\"id\": 7, \"pm_status\": \"standby,running\", \"cm_fbk\": {\"command_uuid\": null, \"feedback\": null, \"reason\": null, \"time_stamp\": 1646776132233}}}"}
+{"topic": "PoseModel_streaming_7", "msg": "-87796.2039547,65594.4289316,-802.084762337,0.12427012181076919,0.30364274095532745,0.12057253027473126,-149.73845676136563,0.0,-1,-1,-1,0.0,0,37.71103964317948,-121.70577740210598"}
+{"topic": "PoseModel", "msg": "{\"sourcenode\": \"posemodel\", \"string\": \"-87796.2039547,65594.4289316,-802.084762337,0.12427012181076919,0.30364274095532745,0.12057253027473126,-149.73845676136563,0.0,-1,-1,-1,0.0,0\", \"datetime\": \"2022-03-08 13:48:52.266218\", \"tractor_serial_no\": \"PS1054\", \"tractor_id\": 7, \"date_timestamp\": 1646776132210, \"UUID\": \"16467761322107\"}"}
+{"topic": "localization_streaming_7", "msg": "65594.4289316,-87796.2039547,-802.084762337,0.30364274095532745,0.12057253027473126,-149.73845676136563,0.0,0.12427012181076919,2.9324530195648157,0.0,FIX,0,True"}
+{"topic": "WeatherModel_streaming_7", "msg": "wind_speed: 0.1, wind_direction: 10.0, Barometric: 1023.03, Humidity: 61.0, Temperature: 24.0"}
+{"topic": "planning_manager_streaming_7", "msg": "standby,running"}
+{"topic": "response_from_giles", "msg": "5,1646775056927,COMPLETED,Images are upload to the atom. count: 7,7,126,GUARD_RAILS,16467726935880,65594.6696345|-87795.6293398|-802.900314565|-149.656|0.1122,None,1646775943144"}
+{"topic": "PoseModel_streaming_7", "msg": "-87796.2039711,65594.4304186,-802.08781648,0.12468619966286644,0.24087266555164136,0.13434441967147087,-149.75697488660373,0.0,-1,-1,-1,0.0,0,37.711039642543255,-121.70577738489338"}
+{"topic": "PoseModel", "msg": "{\"sourcenode\": \"posemodel\", \"string\": \"-87796.2039711,65594.4304186,-802.08781648,0.12468619966286644,0.24087266555164136,0.13434441967147087,-149.75697488660373,0.0,-1,-1,-1,0.0,0\", \"datetime\": \"2022-03-08 13:48:52.365652\", \"tractor_serial_no\": \"PS1054\", \"tractor_id\": 7, \"date_timestamp\": 1646776132309, \"UUID\": \"16467761323097\"}"}
+{"topic": "localization_streaming_7", "msg": "65594.4304186,-87796.2039711,-802.08781648,0.24087266555164136,0.13434441967147087,-149.75697488660373,0.0,0.12468619966286644,2.748612307850433,0.0,FIX,0,True"}
+{"topic": "WeatherModel_streaming_7", "msg": "wind_speed: 0.1, wind_direction: 10.0, Barometric: 1023.03, Humidity: 61.0, Temperature: 24.0"}
+{"topic": "atom_events_5", "msg": "{\"topic\": \"camera_snapshot\"}"}
+{"topic": "remoteav_status", "msg": "{\"tractor\": {\"id\": 7, \"pm_status\": \"standby,running\", \"cm_fbk\": {\"command_uuid\": null, \"feedback\": null, \"reason\": null, \"time_stamp\": 1646776132333}}}"}
+{"topic": "planning_manager_streaming_7", "msg": "standby,running"}
+{"topic": "PoseModel_streaming_7", "msg": "-87796.20381,65594.431627,-802.090526607,0.125599087625474,0.18317833428241928,0.1302165284365015,-149.74280877300407,0.0,-1,-1,-1,0.0,0,37.71103964356896,-121.70577737086337"}
+{"topic": "remoteav_status", "msg": "{\"tractor\": {\"id\": 7, \"pm_status\": \"standby,running\", \"cm_fbk\": {\"command_uuid\": null, \"feedback\": null, \"reason\": null, \"time_stamp\": 1646776132433}}}"}
+{"topic": "PoseModel", "msg": "{\"sourcenode\": \"posemodel\", \"string\": \"-87796.20381,65594.431627,-802.090526607,0.125599087625474,0.18317833428241928,0.1302165284365015,-149.74280877300407,0.0,-1,-1,-1,0.0,0\", \"datetime\": \"2022-03-08 13:48:52.467090\", \"tractor_serial_no\": \"PS1054\", \"tractor_id\": 7, \"date_timestamp\": 1646776132411, \"UUID\": \"16467761324117\"}"}

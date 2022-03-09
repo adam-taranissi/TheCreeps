@@ -1,0 +1,6 @@
+{"IP": "50.126.95.18"}
+{"topic": "remote/Van", "msg": "Van,123,H,8245,T,-115,4"}
+{"topic": "remote/Van2", "msg": "Van,123,\ufffd,389,T,-134,-8"}
+{"topic": "remote/Fal", "msg": "Fal,9,C,116765,T,-102,5"}
+{"topic": "remote/Gle", "msg": "Gle,26,C,209331,T,-101,8"}
+{"topic": "remote/Van2", "msg": "ERR: sendtoWait failed ACK, SERVER_ID: Van"}

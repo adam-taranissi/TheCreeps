@@ -1,0 +1,5 @@
+{"IP": "35.192.191.86"}
+{"topic": "MB_node/ctrl/LWT", "msg": "Connected"}
+{"topic": "MB_node/MB_Temp_Humidity/Temperature", "msg": "31.80"}
+{"topic": "MB_node/MB_Temp_Humidity/Humidity", "msg": "29.77"}
+{"topic": "MB_node/MB_Level/MB_Level", "msg": "0"}

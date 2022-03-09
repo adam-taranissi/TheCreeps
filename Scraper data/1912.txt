@@ -1,0 +1,9 @@
+{"IP": "148.74.187.254"}
+{"topic": "tele/showerlightswitch/LWT", "msg": "Online"}
+{"topic": "tele/brlightswitch/LWT", "msg": "Online"}
+{"topic": "tele/tasmota_47A079/LWT", "msg": "Offline"}
+{"topic": "tele/kswitch/LWT", "msg": "Online"}
+{"topic": "tele/bedroomswitch/LWT", "msg": "Online"}
+{"topic": "stat/kswitch/POWER", "msg": "ON"}
+{"topic": "stat/showerlightswitch/POWER", "msg": "ON"}
+{"topic": "stat/brlightswitch/POWER", "msg": "ON"}

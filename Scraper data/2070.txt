@@ -1,0 +1,2 @@
+{"IP": "54.145.124.221"}
+{"topic": "/railpod/status/s3-util-mqtt", "msg": "{\"_value\": \"OK\", \"_token\": \"PING\", \"_program\": \"s3-util-mqtt\", \"_module\": \"main\"}"}

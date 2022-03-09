@@ -1,0 +1,6 @@
+{"IP": "149.28.201.49"}
+{"topic": "fridge/tempoutside", "msg": "73.263"}
+{"topic": "fridge/activity", "msg": "-4.337"}
+{"topic": "watersoftener/level", "msg": "50.040"}
+{"topic": "watersoftener/activity", "msg": "-4.983"}
+{"topic": "watersoftener/rssi", "msg": "-57.210"}

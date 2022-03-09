@@ -1,0 +1,27 @@
+{"IP": "3.131.20.255"}
+{"topic": "color", "msg": "#1EAB16"}
+{"topic": "salaTemp", "msg": "16"}
+{"topic": "audioDevice", "msg": "PCT2785 (2- Intel(R) Display Audio)"}
+{"topic": "abc/123", "msg": "XYZ"}
+{"topic": "autobus", "msg": "Ruta 1"}
+{"topic": "TempCH1-Horno-1", "msg": "21.6"}
+{"topic": "TempCH2-Horno-1", "msg": "18.5"}
+{"topic": "TempCH3-Horno-1", "msg": "29.8"}
+{"topic": "TempCH4-Horno-1", "msg": "23.6"}
+{"topic": "TempCH1-Horno-1", "msg": "21.6"}
+{"topic": "TempCH2-Horno-1", "msg": "18.6"}
+{"topic": "TempCH3-Horno-1", "msg": "29.8"}
+{"topic": "TempCH4-Horno-1", "msg": "23.6"}
+{"topic": "TempCH1-Horno-1", "msg": "21.6"}
+{"topic": "TempCH2-Horno-1", "msg": "18.6"}
+{"topic": "TempCH3-Horno-1", "msg": "29.8"}
+{"topic": "TempCH4-Horno-1", "msg": "23.6"}
+{"topic": "TempCH1-Horno-1", "msg": "21.6"}
+{"topic": "TempCH2-Horno-1", "msg": "18.6"}
+{"topic": "TempCH3-Horno-1", "msg": "29.8"}
+{"topic": "TempCH4-Horno-1", "msg": "23.6"}
+{"topic": "TempCH1-Horno-1", "msg": "21.6"}
+{"topic": "TempCH2-Horno-1", "msg": "18.6"}
+{"topic": "TempCH3-Horno-1", "msg": "29.8"}
+{"topic": "TempCH4-Horno-1", "msg": "23.6"}
+{"topic": "TempCH1-Horno-1", "msg": "21.6"}

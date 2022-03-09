@@ -1,0 +1,7 @@
+{"IP": "54.153.9.189"}
+{"topic": "abc/123", "msg": "1234"}
+{"topic": "fortem/hangar/HANGAR_PROTOTYPE_02/cmd/door", "msg": "o"}
+{"topic": "fortem/hangar/HANGAR_PROTOTYPE_02/cmb/door", "msg": "c"}
+{"topic": "fortem/hangar/HANGAR_PROTOTYPE/cmd/door", "msg": "c"}
+{"topic": "tear", "msg": "sdsdsd\ns\ndsdsdsd\n"}
+{"topic": "testtttt", "msg": "xyzzzzz'"}

@@ -1,0 +1,9 @@
+{"IP": "23.23.127.0"}
+{"topic": "gbug/cbkma/display/status", "msg": "3/8/2022 9:00:42 PM,s=CBKMA&h=display&v=2.6.13.0&l=&b=2022-03-02+19%3a00%3a27Z&t=1&q=1"}
+{"topic": "gbug/hpsl/dpserver/status", "msg": "3/8/2022 9:00:44 PM,s=HPSL&h=DPSERVER&v=2.6.8.0&l=&b=2021-08-06+18%3a00%3a46Z&t=1&q=1"}
+{"topic": "gbug/hsylv/perfectproduct/status", "msg": "3/8/2022 6:00:40 PM,s=HSYLV&h=PerfectProduct&v=2.6.9.0&l=&b=2022-03-05+19%3a00%3a47Z&t=1&q=1"}
+{"topic": "gbug/jmsoh/dpserver/status", "msg": "3/8/2022 9:00:43 PM,s=JMSOH&h=DPSERVER&v=2.6.7.0&l=&b=2022-03-04+19%3a01%3a15Z&t=1&q=1"}
+{"topic": "CamLNX/gwlnf/nrcam/Logging", "msg": "CamLNX T2  ridecamthreadmain() unable to locate photo on camera\u0000"}
+{"topic": "gbug/wispwa/display1/status", "msg": "3/8/2022 9:00:43 PM,s=WISPWA&h=Display1&v=2.6.7.0&l=&b=2022-02-17+19%3a00%3a31Z&t=1&q=1"}
+{"topic": "gbug/hpsr/grab/status", "msg": "3/8/2022 9:00:41 PM,s=HPSR&h=grab&v=2.6.8.0&l=&b=2022-02-17+19%3a00%3a57Z&t=0&q=1"}
+{"topic": "gbug/knflume/dpserver/status", "msg": "3/8/2022 9:00:46 PM,s=KNFLUME&h=DPSERVER&v=2.6.13.0&l=&b=2022-03-07+19%3a04%3a25Z&t=1&q=1"}

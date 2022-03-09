@@ -1,0 +1,4 @@
+{"IP": "54.225.175.48"}
+{"topic": "Tink/shelf/heartbeat/7003", "msg": "{\"id\": 7003, \"time\": \"2020-11-18 14:07:42\", \"sequenceNum\": 16664, \"sram\": 1,  \"framing\": 0, \"checksum\": 0}"}
+{"topic": "Tink/shelf/heartbeat/7004", "msg": "{\"id\": 7004, \"time\": \"2021-11-19 12:22:15\", \"sequenceNum\": 59, \"sram\": 1,  \"framing\": 0, \"checksum\": 0}"}
+{"topic": "abc/123", "msg": "XYZ"}

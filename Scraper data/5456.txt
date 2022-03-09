@@ -1,0 +1,8 @@
+{"IP": "173.15.160.90"}
+{"topic": "remote/printerUseRequest", "msg": ""}
+{"topic": "remote/printerUseResponse", "msg": "true"}
+{"topic": "system/state", "msg": "online"}
+{"topic": "remote/loggedOnUser", "msg": "Dayna Neris"}
+{"topic": "system/state", "msg": "online"}
+{"topic": "system/getTimeZone/request/9999", "msg": ""}
+{"topic": "system/bridgeStatus", "msg": "\u0004\b\u0000\u0001"}

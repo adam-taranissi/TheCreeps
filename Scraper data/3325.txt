@@ -1,0 +1,2 @@
+{"IP": "166.155.231.80"}
+{"topic": "/equs/Plunger02/status", "msg": "{ \"lastPoll\":{\"at\": \"2022-03-08T22:45:18Z\",\"elapsedMS\": 0,\"requestCount\": 260,\"requestSuccess\": 0,\"readingCount\": 260},\"lastSuccessAt\": \"2022-03-08T22:45:18Z\",\"totalRequestCount\": 435564,\"totalRequestSuccess\": 0,\"totalReadingCount\": 435564,\"connection\": false}"}

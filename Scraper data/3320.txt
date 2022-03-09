@@ -1,0 +1,39 @@
+{"IP": "104.236.23.182"}
+{"topic": "owntracks/landon/landon-phone", "msg": "{\"_type\":\"location\",\"acc\":4,\"alt\":134,\"batt\":28,\"conn\":\"w\",\"inregions\":[\"st_lous\"],\"lat\":38.805585,\"lon\":-90.2986846,\"t\":\"p\",\"tid\":\"lb\",\"tst\":1572115008,\"vac\":6,\"vel\":15}"}
+{"topic": "stat/stairLight/POWER", "msg": "ON"}
+{"topic": "stat/christmasLights/POWER", "msg": "OFF"}
+{"topic": "stat/landonBrightLight/POWER", "msg": "OFF"}
+{"topic": "stat/growLight/POWER", "msg": "ON"}
+{"topic": "tele/stairLight/LWT", "msg": "Online"}
+{"topic": "tele/growLight/LWT", "msg": "Online"}
+{"topic": "tele/washer/LWT", "msg": "Online"}
+{"topic": "cmnd/stairLight/power", "msg": "OFF"}
+{"topic": "cmnd/christmasLights/power", "msg": "ON"}
+{"topic": "cmnd/landonBrightLight/power", "msg": "OFF"}
+{"topic": "cmnd/growLight/power", "msg": "ON"}
+{"topic": "/switches/ESP-Kendon-Room/app", "msg": "ESPURNA"}
+{"topic": "/switches/ESP-Kendon-Room/version", "msg": "1.13.3"}
+{"topic": "/switches/ESP-Kendon-Room/board", "msg": "ITEAD_SONOFF_BASIC"}
+{"topic": "/switches/ESP-Kendon-Room/host", "msg": "ESP-Kendon-Room"}
+{"topic": "/switches/ESP-Kendon-Room/ip", "msg": "192.168.1.232"}
+{"topic": "/switches/ESP-Kendon-Room/mac", "msg": "EC:FA:BC:06:5D:42"}
+{"topic": "/switches/ESP-Kendon-Room/rssi", "msg": "-33"}
+{"topic": "/switches/ESP-Kendon-Room/uptime", "msg": "1459"}
+{"topic": "/switches/ESP-Kendon-Room/datetime", "msg": "2018-12-19 15:03:38"}
+{"topic": "/switches/ESP-Kendon-Room/freeheap", "msg": "22552"}
+{"topic": "/switches/ESP-Kendon-Room/relay/0", "msg": "0"}
+{"topic": "/switches/ESP-Kendon-Room/vcc", "msg": "3174"}
+{"topic": "/switches/ESP-Kendon-Room/status", "msg": "0"}
+{"topic": "/switches/ESP-Kendon-Room/loadavg", "msg": "1"}
+{"topic": "/smartthings/Justin Bed Light/switch", "msg": "on"}
+{"topic": "/smartthings/Living Room Lamp/switch", "msg": "on"}
+{"topic": "/smartthings/Outdoor Tree/switch", "msg": "on"}
+{"topic": "/smartthings/Christmas Tree/switch", "msg": "on"}
+{"topic": "/smartthings/Daphne Bed Lamp/switch", "msg": "on"}
+{"topic": "/smartthings/Living Room Wall Light Right/switch", "msg": "on"}
+{"topic": "/smartthings/Living Room Wall Light Left/switch", "msg": "on"}
+{"topic": "/smartthings/Kitchen Sink Light/switch", "msg": "on"}
+{"topic": "/smartthings/Front Porch 2/switch", "msg": "on"}
+{"topic": "/smartthings/Front Porch 1/switch", "msg": "on"}
+{"topic": "lights/ESP-Kendon-Room/app", "msg": "ESPURNA"}
+{"topic": "lights/ESP-Kendon-Room/version", "msg": "1.13.3"}

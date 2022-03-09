@@ -1,0 +1,3 @@
+{"IP": "52.87.233.189"}
+{"topic": "sensors/humidity", "msg": "{\"uid\":1517453789315,\"timeStamp\":\"2018/02/01 <11:56:29>\",\"coord\":{\"lat\":43.03,\"lon\":-87.9},\"company\":\"NTT Communications Corp\",\"avgTemp\":\"28.3\"}"}
+{"topic": "sensors/nodered", "msg": "{\"uid\":1517796173354,\"timeStamp\":\"2018/02/05 <11:02:53>\",\"coord\":{\"lat\":36.37,\"lon\":-94.2},\"company\":\"NTT Communications Corp\",\"avgTemp\":\"-27.5\"}"}

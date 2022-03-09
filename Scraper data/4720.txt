@@ -1,0 +1,4 @@
+{"IP": "54.203.119.154"}
+{"topic": "ESP32/led", "msg": "Ciao da mqtt lens"}
+{"topic": "ESP32/ATRequest", "msg": "ciao pippo1"}
+{"topic": "ESP32/Request", "msg": "1"}

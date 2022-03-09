@@ -1,0 +1,14 @@
+{"IP": "97.87.77.183"}
+{"topic": "tele/smartplugbn3/LWT", "msg": "Offline"}
+{"topic": "tele/RF_Bridge/LWT", "msg": "Online"}
+{"topic": "tele/lowerlights/LWT", "msg": "Online"}
+{"topic": "tele/smartplug1/LWT", "msg": "Online"}
+{"topic": "tele/smartplug2/LWT", "msg": "Offline"}
+{"topic": "tele/smartplugbn1/LWT", "msg": "Online"}
+{"topic": "tele/smartplugbn2/LWT", "msg": "Online"}
+{"topic": "tele/ceil_fan/LWT", "msg": "Online"}
+{"topic": "tele/tasmota_garage/LWT", "msg": "Offline"}
+{"topic": "tele/tasmota_86E225/LWT", "msg": "Offline"}
+{"topic": "tele/tasmota_sensor1/LWT", "msg": "Online"}
+{"topic": "tele/tasmota_508E9F/LWT", "msg": "Offline"}
+{"topic": "tele/tasmota_2ndfloor/LWT", "msg": "Online"}

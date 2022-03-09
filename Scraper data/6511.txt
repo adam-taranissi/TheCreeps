@@ -1,0 +1,4 @@
+{"IP": "138.197.208.93"}
+{"topic": "YUBOX/SOLCATermostato/YUBOX-7CDFA1061854", "msg": "{\"temp\":19.85160828,\"hum\":47.3403511}"}
+{"topic": "YUBOX/SOLCATermostato/YUBOX-7CDFA1061FBA", "msg": "{\"temp\":19.97444153,\"hum\":46.84519577}"}
+{"topic": "gateway/ac1f09fffe0165d6/event/up", "msg": "{\"phyPayload\":\"QL6NmwCCOQMDB59JrdKwZRc=\",\"txInfo\":{\"frequency\":905100000,\"modulation\":\"LORA\",\"loRaModulationInfo\":{\"bandwidth\":125,\"spreadingFactor\":10,\"codeRate\":\"4/5\",\"polarizationInversion\": false}},\"rxInfo\":{\"gatewayID\":\"rB8J//4BZdY=\",\"time\":\"2022-03-09T03:21:35.925388Z\",\"timeSinceGPSEpoch\":\"1330831232.000s\",\"rssi\":-127,\"loRaSNR\":-14.3,\"channel\":6,\"rfChain\":1,\"board\":0,\"antenna\":0,\"location\":{\"latitude\":-2.190950,\"longitude\":-79.882610,\"altitude\":208,\"source\":\"GPS\",\"accuracy\":0},\"fineTimestampType\":\"NONE\",\"context\":\"dEYksA==\",\"uplinkID\":\"5W8tbuKpR52aERLIWRWkmg==\",\"crcStatus\":\"CRC_OK\"}}"}

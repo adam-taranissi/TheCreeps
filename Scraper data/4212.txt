@@ -1,0 +1,3 @@
+{"IP": "65.254.219.28"}
+{"topic": "/", "msg": "test"}
+{"topic": "/broker/timestamp", "msg": "test"}

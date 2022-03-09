@@ -1,0 +1,35 @@
+{"IP": "167.172.217.67"}
+{"topic": "abc/123", "msg": "XYZ"}
+{"topic": "/merakimv/Q2FV-Z56K-TKNX/raw_detections", "msg": "{\"ts\":1646766509179,\"objects\":[]}"}
+{"topic": "/merakimv/Q2FV-Z56K-TKNX/0", "msg": "{\"ts\":1646766509179, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2FV-Z56K-TKNX/657525545596092670", "msg": "{\"ts\":1646766509179, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2FV-Z56K-TKNX/light", "msg": "{\"lux\": 395.3}"}
+{"topic": "/merakimv/Q2FV-Z56K-TKNX/raw_detections", "msg": "{\"ts\":1646766509382,\"objects\":[]}"}
+{"topic": "/merakimv/Q2FV-Z56K-TKNX/0", "msg": "{\"ts\":1646766509382, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2FV-Z56K-TKNX/657525545596092670", "msg": "{\"ts\":1646766509382, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2FV-Z56K-TKNX/light", "msg": "{\"lux\": 396.0}"}
+{"topic": "/merakimv/Q2FV-Z56K-TKNX/raw_detections", "msg": "{\"ts\":1646766509490,\"objects\":[]}"}
+{"topic": "/merakimv/Q2FV-Z56K-TKNX/0", "msg": "{\"ts\":1646766509490, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2FV-Z56K-TKNX/657525545596092670", "msg": "{\"ts\":1646766509490, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2FV-Z56K-TKNX/raw_detections", "msg": "{\"ts\":1646766509586,\"objects\":[]}"}
+{"topic": "/merakimv/Q2FV-Z56K-TKNX/light", "msg": "{\"lux\": 395.8}"}
+{"topic": "/merakimv/Q2FV-Z56K-TKNX/0", "msg": "{\"ts\":1646766509586, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2FV-Z56K-TKNX/657525545596092670", "msg": "{\"ts\":1646766509586, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2FV-Z56K-TKNX/raw_detections", "msg": "{\"ts\":1646766509777,\"objects\":[]}"}
+{"topic": "/merakimv/Q2FV-Z56K-TKNX/light", "msg": "{\"lux\": 395.5}"}
+{"topic": "/merakimv/Q2FV-Z56K-TKNX/0", "msg": "{\"ts\":1646766509777, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2FV-Z56K-TKNX/657525545596092670", "msg": "{\"ts\":1646766509777, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2FV-Z56K-TKNX/raw_detections", "msg": "{\"ts\":1646766509979,\"objects\":[]}"}
+{"topic": "/merakimv/Q2FV-Z56K-TKNX/light", "msg": "{\"lux\": 396.2}"}
+{"topic": "/merakimv/Q2FV-Z56K-TKNX/0", "msg": "{\"ts\":1646766509979, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2FV-Z56K-TKNX/657525545596092670", "msg": "{\"ts\":1646766509979, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2FV-Z56K-TKNX/raw_detections", "msg": "{\"ts\":1646766510083,\"objects\":[]}"}
+{"topic": "/merakimv/Q2FV-Z56K-TKNX/0", "msg": "{\"ts\":1646766510083, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2FV-Z56K-TKNX/657525545596092670", "msg": "{\"ts\":1646766510083, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2FV-Z56K-TKNX/light", "msg": "{\"lux\": 397.1}"}
+{"topic": "/merakimv/Q2FV-Z56K-TKNX/raw_detections", "msg": "{\"ts\":1646766510283,\"objects\":[]}"}
+{"topic": "/merakimv/Q2FV-Z56K-TKNX/0", "msg": "{\"ts\":1646766510283, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2FV-Z56K-TKNX/657525545596092670", "msg": "{\"ts\":1646766510283, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2FV-Z56K-TKNX/light", "msg": "{\"lux\": 398.4}"}
+{"topic": "/merakimv/Q2FV-Z56K-TKNX/raw_detections", "msg": "{\"ts\":1646766510479,\"objects\":[]}"}
+{"topic": "/merakimv/Q2FV-Z56K-TKNX/0", "msg": "{\"ts\":1646766510479, \"counts\":{\"person\":0}}"}

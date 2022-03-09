@@ -1,0 +1,10 @@
+{"IP": "104.236.0.154"}
+{"topic": "/online/TPZGZ6FF", "msg": "online\u0000"}
+{"topic": "/online/WXWZRN0S", "msg": "online\u0000"}
+{"topic": "/online/USJVQFF5", "msg": "online\u0000"}
+{"topic": "/online/XYZADFG123", "msg": "offline\u0000"}
+{"topic": "/online/QR70LV8B", "msg": "online\u0000"}
+{"topic": "/online/FrmCtr006", "msg": "offline\u0000"}
+{"topic": "/online/FrmCtr007", "msg": "offline\u0000"}
+{"topic": "/online/FrmCtr008", "msg": "offline\u0000"}
+{"topic": "/online/FrmCtr009", "msg": "offline\u0000"}

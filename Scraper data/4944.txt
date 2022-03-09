@@ -1,0 +1,4 @@
+{"IP": "100.14.187.56"}
+{"topic": "frigate/cam_1/clips/state", "msg": "ON"}
+{"topic": "frigate/cam_1/snapshots/state", "msg": "ON"}
+{"topic": "frigate/cam_1/detect/state", "msg": "OFF"}

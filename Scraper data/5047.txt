@@ -1,0 +1,14 @@
+{"IP": "209.145.61.101"}
+{"topic": "msg/41978f64df94a74b0e62d5e68ecf679e/pos/imprimir/comanda/genesis_laptop", "msg": "52"}
+{"topic": "msg/58400d8c9f110e6f415f5b3cd2c25cdb/usuarios", "msg": "35"}
+{"topic": "msg/58400d8c9f110e6f415f5b3cd2c25cdb/actualiza/lista", "msg": "Usuarios"}
+{"topic": "msg/58400d8c9f110e6f415f5b3cd2c25cdb/pos/imprimir/cocina/genesis_pc", "msg": "27"}
+{"topic": "msg/58400d8c9f110e6f415f5b3cd2c25cdb/pos/imprimir/cocina/desktop-67qolqv", "msg": "30"}
+{"topic": "msg/58400d8c9f110e6f415f5b3cd2c25cdb/pos/imprimir/cocina/caja", "msg": "30"}
+{"topic": "msg/58400d8c9f110e6f415f5b3cd2c25cdb/pos/imprimir/cocina/cajab2", "msg": "31"}
+{"topic": "msg/58400d8c9f110e6f415f5b3cd2c25cdb/pos/imprimir/comanda/genesis_pc", "msg": "23"}
+{"topic": "msg/58400d8c9f110e6f415f5b3cd2c25cdb/pos/imprimir/comanda/desktop-67qolqv", "msg": "30"}
+{"topic": "msg/58400d8c9f110e6f415f5b3cd2c25cdb/pos/imprimir/comanda/cajab2", "msg": "31"}
+{"topic": "msg/58400d8c9f110e6f415f5b3cd2c25cdb/pos/imprimir/factura/genesis_pc", "msg": "18"}
+{"topic": "msg/58400d8c9f110e6f415f5b3cd2c25cdb/pos/imprimir/factura/desktop-67qolqv", "msg": "19"}
+{"topic": "msg/58400d8c9f110e6f415f5b3cd2c25cdb/pos/pedido/caja/1", "msg": "31"}

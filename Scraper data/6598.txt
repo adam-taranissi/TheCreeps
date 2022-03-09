@@ -1,0 +1,2 @@
+{"IP": "2604:a880:800:a1::a0:c001"}
+{"topic": "v1/devices/me/telemetry", "msg": "{\"ambient_room_temperature\":71.62,\"watertemp\":72.72,\"ambient_room_pressure\":100285.02,\"ambient_room_humidity\":41.69,\"wifi\":-75}"}

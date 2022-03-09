@@ -1,0 +1,8 @@
+{"IP": "54.245.205.102"}
+{"topic": "last_will/4C-72-B9-4F-B5-14", "msg": "IT_IS_DEAD_JIM"}
+{"topic": "last_will/48-5B-39-08-DF-F8", "msg": "IT_IS_DEAD_JIM"}
+{"topic": "last_will/8C-A9-82-40-54-4E", "msg": "IT_IS_DEAD_JIM"}
+{"topic": "last_will/02-42-AC-12-00-02", "msg": "IT_IS_DEAD_JIM"}
+{"topic": "last_will/cloud/", "msg": "IT_IS_DEAD_JIM"}
+{"topic": "abc/123", "msg": "XYZ"}
+{"topic": "connection/24:6f:28:a6:06:70", "msg": "IT_IS_DEAD_JIM"}

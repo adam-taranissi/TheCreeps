@@ -1,0 +1,16 @@
+{"IP": "23.152.32.242"}
+{"topic": "rvsp/site11/water", "msg": "1"}
+{"topic": "rvsp/site11/water_setglobal", "msg": "false"}
+{"topic": "rvsp/outdoor-temp", "msg": "42.08"}
+{"topic": "rvsp/site8/parking", "msg": "0-66370"}
+{"topic": "rvsp/site21/parking", "msg": "0-27276"}
+{"topic": "rvsp/site22/lights", "msg": "GREEN-ON"}
+{"topic": "rvsp/site21/whtemp", "msg": " nan"}
+{"topic": "rvsp/site11/lights", "msg": "GREEN-ON"}
+{"topic": "rvsp/site15/lights", "msg": "GREEN-ON"}
+{"topic": "rvsp/site2/ac-current", "msg": "0-61382"}
+{"topic": "rvsp/site22/lights", "msg": "GREEN-ON"}
+{"topic": "rvsp/site2/parking", "msg": "0-24978"}
+{"topic": "rvsp/site11/lights", "msg": "GREEN-ON"}
+{"topic": "rvsp/site15/lights", "msg": "GREEN-ON"}
+{"topic": "rvsp/site22/lights", "msg": "GREEN-ON"}

@@ -1,0 +1,6 @@
+{"IP": "44.192.63.111"}
+{"topic": "iaqData", "msg": "{\"requestType\" : \"SensorInTH\", \"sendval\" : \"560\", \"sendval2\" : \"795\",\"sendval3\" : \"2\",\"sendval4\" : \"729\",\"sendval5\" : \"0.26\", \"sendval6\" : \"50.00\", \"sendval7\" : \"73.40\", \"sendval8\" : \"10.00\"}"}
+{"topic": "iaqData", "msg": "{\"requestType\" : \"SensorInTH\", \"sendval\" : \"559\", \"sendval2\" : \"786\",\"sendval3\" : \"3\",\"sendval4\" : \"706\",\"sendval5\" : \"0.31\", \"sendval6\" : \"55.50\", \"sendval7\" : \"74.84\", \"sendval8\" : \"10.00\"}"}
+{"topic": "iaqData", "msg": "{\"requestType\" : \"SensorInTH\", \"sendval\" : \"531\", \"sendval2\" : \"801\",\"sendval3\" : \"2\",\"sendval4\" : \"577\",\"sendval5\" : \"0.41\", \"sendval6\" : \"49.00\", \"sendval7\" : \"73.40\", \"sendval8\" : \"10.00\"}"}
+{"topic": "iaqData", "msg": "{\"requestType\" : \"SensorInTH\", \"sendval\" : \"561\", \"sendval2\" : \"796\",\"sendval3\" : \"183\",\"sendval4\" : \"487\",\"sendval5\" : \"0.27\", \"sendval6\" : \"36.00\", \"sendval7\" : \"77.00\", \"sendval8\" : \"5.00\"}"}
+{"topic": "iaqData", "msg": "{\"requestType\" : \"SensorInTH\", \"sendval\" : \"531\", \"sendval2\" : \"794\",\"sendval3\" : \"0\",\"sendval4\" : \"965\",\"sendval5\" : \"0.30\", \"sendval6\" : \"45.00\", \"sendval7\" : \"75.20\", \"sendval8\" : \"10.00\"}"}

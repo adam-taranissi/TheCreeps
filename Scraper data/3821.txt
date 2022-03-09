@@ -1,0 +1,11 @@
+{"IP": "206.72.32.201"}
+{"topic": "madison/arduinocurrent", "msg": "8.513"}
+{"topic": "madison/arduinocurrent2", "msg": "2.119"}
+{"topic": "madison/generatorL1", "msg": "17.321"}
+{"topic": "madison/generatorL2", "msg": "17.305"}
+{"topic": "madison/arduinocurrent", "msg": "8.539"}
+{"topic": "madison/arduinocurrent2", "msg": "1.924"}
+{"topic": "madison/generatorL1", "msg": "17.272"}
+{"topic": "madison/generatorL2", "msg": "17.265"}
+{"topic": "madison/arduinocurrent", "msg": "8.352"}
+{"topic": "madison/arduinocurrent2", "msg": "2.133"}

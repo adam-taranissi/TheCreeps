@@ -1,0 +1,5 @@
+{"IP": "162.212.152.83"}
+{"topic": "/reports/ngc-20/1234", "msg": "Hello"}
+{"topic": "/reports/ngc-20/", "msg": "hi\n\n"}
+{"topic": "1234", "msg": "hi\ndd\n"}
+{"topic": "abc/123", "msg": "XYZ"}

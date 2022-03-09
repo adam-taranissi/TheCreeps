@@ -1,0 +1,2 @@
+{"IP": "3.217.164.254"}
+{"topic": "eScout/GetaliveStatus", "msg": "{\"status\":\"online\",\"gwMacAddress\":\"d8:c0:a6:0a:57:ec\"}"}

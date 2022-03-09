@@ -1,0 +1,6 @@
+{"IP": "45.15.24.143"}
+{"topic": "button", "msg": "0"}
+{"topic": "Advantech/74FE48569D76/Device_Status", "msg": "{\"status\":\"connect\",\"name\":\"WISE-4012\",\"macid\":\"74FE48569D76\",\"ipaddr\":\"192.168.183.35\"}"}
+{"topic": "Advantech/74FE48569D76/data", "msg": "{\"s\":8,\"t\":\"2022-02-22T13:46:50Z\",\"q\":192,\"c\":0,\"di2\":18,\"di3\":false,\"di4\":18,\"ai1\":3288.700,\"ai_st1\":1}"}
+{"topic": "Advantech/00D0C9E32F78/Device_Status", "msg": "{\"status\":\"disconnect\",\"name\":\"WISE-4050\",\"macid\":\"00D0C9E32F78\",\"ipaddr\":\"192.168.43.68\"}"}
+{"topic": "Advantech/00D0C9E32F78/data", "msg": "{\"s\":1,\"t\":\"2021-07-13T15:03:32Z\",\"q\":192,\"c\":0,\"di1\":true,\"di2\":182,\"di3\":false,\"di4\":11,\"do1\":false,\"do2\":false,\"do3\":false,\"do4\":false}"}

@@ -1,0 +1,6 @@
+{"IP": "71.12.78.65"}
+{"topic": "home-assistant-1/blinds1", "msg": "close"}
+{"topic": "home-assistant-1/blinds2", "msg": "close"}
+{"topic": "home-assistant-1/blinds3", "msg": "open"}
+{"topic": "BlueIris/status", "msg": "signal=1\nprofile=1\nlock=0\nschedule=Default\n"}
+{"topic": "BlueIris/app", "msg": "unexpected stop"}

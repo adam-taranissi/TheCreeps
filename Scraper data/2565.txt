@@ -1,0 +1,37 @@
+{"IP": "18.191.10.107"}
+{"topic": "/client/wb_SERIAL/bridge_status", "msg": "0"}
+{"topic": "/client/wb_SERIAL/devices/wb-adc/controls/Vin", "msg": "11.84"}
+{"topic": "/client/wb_SERIAL/devices/wb-adc/controls/5Vout", "msg": "5.01"}
+{"topic": "/client/wb_SERIAL/devices/wb-adc/controls/A1", "msg": "0.01"}
+{"topic": "/client/wb_SERIAL/devices/wb-adc/controls/A2", "msg": "0.01"}
+{"topic": "/client/wb_SERIAL/devices/wb-adc/controls/A3", "msg": "0.01"}
+{"topic": "/client/wb_SERIAL/devices/wb-adc/controls/A4", "msg": "0.02"}
+{"topic": "/client/wb_SERIAL/devices/power_status/controls/Vin", "msg": "11.84"}
+{"topic": "/client/wb_SERIAL/devices/power_status/controls/Vin/meta/type", "msg": "voltage"}
+{"topic": "/client/wb_SERIAL/devices/power_status/controls/Vin/meta/order", "msg": "1"}
+{"topic": "/client/wb_SERIAL/devices/power_status/controls/working on battery", "msg": "0"}
+{"topic": "/client/wb_SERIAL/devices/power_status/controls/working on battery/meta/type", "msg": "switch"}
+{"topic": "/client/wb_SERIAL/devices/power_status/controls/working on battery/meta/readonly", "msg": "1"}
+{"topic": "/client/wb_SERIAL/devices/power_status/controls/working on battery/meta/order", "msg": "2"}
+{"topic": "/client/wb_SERIAL/devices/power_status/meta/name", "msg": "Power status"}
+{"topic": "/client/wb_SERIAL/devices/hwmon/controls/CPU Temperature", "msg": "58.165"}
+{"topic": "/client/wb_SERIAL/devices/hwmon/controls/CPU Temperature/meta/type", "msg": "temperature"}
+{"topic": "/client/wb_SERIAL/devices/hwmon/controls/CPU Temperature/meta/order", "msg": "2"}
+{"topic": "/client/wb_SERIAL/devices/hwmon/controls/Board Temperature", "msg": "32.375"}
+{"topic": "/client/wb_SERIAL/devices/hwmon/controls/Board Temperature/meta/type", "msg": "temperature"}
+{"topic": "/client/wb_SERIAL/devices/hwmon/controls/Board Temperature/meta/order", "msg": "1"}
+{"topic": "/client/wb_SERIAL/devices/hwmon/meta/name", "msg": "HW Monitor"}
+{"topic": "/client/wb_SERIAL/devices/network/controls/Ethernet 2 IP/meta/type", "msg": "text"}
+{"topic": "/client/wb_SERIAL/devices/network/controls/Ethernet 2 IP/meta/order", "msg": "1"}
+{"topic": "/client/wb_SERIAL/devices/network/controls/Ethernet IP", "msg": "192.168.1.249\n"}
+{"topic": "/client/wb_SERIAL/devices/network/controls/Ethernet IP/meta/type", "msg": "text"}
+{"topic": "/client/wb_SERIAL/devices/network/controls/Ethernet IP/meta/order", "msg": "2"}
+{"topic": "/client/wb_SERIAL/devices/network/controls/Wi-Fi 2 IP/meta/type", "msg": "text"}
+{"topic": "/client/wb_SERIAL/devices/network/controls/Wi-Fi 2 IP/meta/order", "msg": "4"}
+{"topic": "/client/wb_SERIAL/devices/network/controls/Wi-Fi IP", "msg": "192.168.1.16\n"}
+{"topic": "/client/wb_SERIAL/devices/network/controls/Wi-Fi IP/meta/type", "msg": "text"}
+{"topic": "/client/wb_SERIAL/devices/network/controls/Wi-Fi IP/meta/order", "msg": "5"}
+{"topic": "/client/wb_SERIAL/devices/network/controls/GPRS IP/meta/type", "msg": "text"}
+{"topic": "/client/wb_SERIAL/devices/network/controls/GPRS IP/meta/order", "msg": "3"}
+{"topic": "/client/wb_SERIAL/devices/network/meta/name", "msg": "Network"}
+{"topic": "/client/wb_SERIAL/devices/system/controls/Current uptime", "msg": "0d 12h 27m\n"}

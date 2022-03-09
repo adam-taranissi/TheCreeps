@@ -1,0 +1,38 @@
+{"IP": "52.27.59.196"}
+{"topic": "LASS/Test/PM25", "msg": "|ver_format=3|FAKE_GPS=1|app=PM25|ver_app=0.8.3|device_id=FTM_3109950000|tick=713806978|date=2021-01-04|time=09:23:09|device=LinkItONE|s_0=23879|s_1=92|s_2=1|s_3=0|s_4=2|s_d0=31|s_t0=22|s_h0=47|s_d1=38|gps_lat=24.156592|gps_lon=120.701702|gps_fix=1|gps_num=9|gps_alt=60"}
+{"topic": "LASS/Test/Pm25Ameba/FT1_018", "msg": "ON"}
+{"topic": "LASS/Test/Pm25Ameba/sub_huyph2", "msg": "hello Huy"}
+{"topic": "LASS/Test/Pm25Ameba/11", "msg": "qwertyyukokkpo1"}
+{"topic": "LASS/Test/test", "msg": "hello"}
+{"topic": "LASS/Test/kcc", "msg": "test5"}
+{"topic": "LASS/TEST", "msg": "test"}
+{"topic": "LASS/TEST/1345", "msg": "test"}
+{"topic": "null", "msg": "null"}
+{"topic": "home/garden/fountain", "msg": "ON"}
+{"topic": "outTopic1234", "msg": "failure!!"}
+{"topic": "mydel", "msg": "bye!"}
+{"topic": "metrics/exchange", "msg": "[]"}
+{"topic": "test", "msg": "hello!"}
+{"topic": "nchc/fslab/ceasar", "msg": "{'hello':'world'}"}
+{"topic": "random_456443336", "msg": "hello!"}
+{"topic": "random_225631491", "msg": "hello!"}
+{"topic": "random_", "msg": "hello!"}
+{"topic": "random_13098901", "msg": "hello!"}
+{"topic": "random_754556943", "msg": "hello!"}
+{"topic": "random_164995233", "msg": "hello!"}
+{"topic": "random_397957969", "msg": "hello!"}
+{"topic": "random_748140102", "msg": "hello!"}
+{"topic": "random_974059847", "msg": "hello!"}
+{"topic": "random_927271890", "msg": "hello!"}
+{"topic": "random_586515539", "msg": "hello!"}
+{"topic": "random_434140070", "msg": "hello!"}
+{"topic": "random_928805077", "msg": "hello!"}
+{"topic": "random_21273963", "msg": "hello!"}
+{"topic": "random_583248532", "msg": "hello!"}
+{"topic": "testnow", "msg": "test8"}
+{"topic": "channels/666564/publish/F5EGVUR8BE9WJBKQ", "msg": "field1=30"}
+{"topic": "random_729093712", "msg": "hello!"}
+{"topic": "random_521188699", "msg": "hello!"}
+{"topic": "random_topick", "msg": "helloq!"}
+{"topic": "test qos=0", "msg": "|ver_format=3|fmt_opt=1|app=PiM25|ver_app=0.1.0|device_id=b827ebb44454|device=PiM25Box mylass|gps_lat=25.033661|gps_num=0|gps_fix=0|s_t0=23.7|gps_alt=550|gps_lon=121.564841|s_d2=26|time=22:24:32|s_d0=25|s_d1=19|date=2019-01-12|s_h0=92.0|s_0=1|s_1=100.0|s_2=1.0|s_3=0.0|s_4=6.7|"}
+{"topic": "test qos=1", "msg": "|ver_format=3|fmt_opt=1|app=PiM25|ver_app=0.1.0|device_id=b827ebb44454|device=PiM25Box mylass|gps_lat=25.033661|gps_num=0|gps_fix=0|s_t0=23.7|gps_alt=550|gps_lon=121.564841|s_d2=26|time=22:24:32|s_d0=25|s_d1=19|date=2019-01-12|s_h0=92.0|s_0=1|s_1=100.0|s_2=1.0|s_3=0.0|s_4=6.7|"}

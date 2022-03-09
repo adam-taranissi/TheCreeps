@@ -1,0 +1,3 @@
+{"IP": "76.247.0.57"}
+{"topic": "weather/loop", "msg": "{\"dateTime\": \"1646786666.0\", \"windSpeed_mph\": \"4.004125914971355\", \"windDir\": \"34.0\", \"usUnits\": \"1.0\", \"beaufort_count\": \"1.0\", \"rainRate_inch_per_hour\": \"0.0\", \"hourRain_in\": \"0.0\", \"rain24_in\": \"0.5688392125984252\", \"dayRain_in\": \"0.5688392125984252\"}"}
+{"topic": "weather/loop", "msg": "{\"dateTime\": \"1646786669.0\", \"windSpeed_mph\": \"2.9975020815986677\", \"windDir\": \"45.0\", \"usUnits\": \"1.0\", \"beaufort_count\": \"1.0\", \"rainRate_inch_per_hour\": \"0.0\", \"hourRain_in\": \"0.0\", \"rain24_in\": \"0.5688392125984252\", \"dayRain_in\": \"0.5688392125984252\"}"}

@@ -1,0 +1,3 @@
+{"IP": "13.68.175.197"}
+{"topic": "jwx/nodes/24223243/In", "msg": "!01130000JWXT00000000*"}
+{"topic": "jwx/nodes/137299924950822/In", "msg": "!00150000JWXTDDDDCRC199*"}

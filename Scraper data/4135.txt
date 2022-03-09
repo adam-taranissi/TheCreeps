@@ -1,0 +1,39 @@
+{"IP": "34.67.25.156"}
+{"topic": "instructor/start", "msg": "0"}
+{"topic": "instructor_start", "msg": "0"}
+{"topic": "hello_pruthvi", "msg": "0"}
+{"topic": "truniversity/Course1/instructor/start", "msg": "0"}
+{"topic": "truniversity/Course1/instructor/taskname", "msg": "ClassI"}
+{"topic": "truniversity/Course1/instructor/taskcomplete", "msg": "1"}
+{"topic": "truniversity/Course1/sensor/pedal", "msg": "0"}
+{"topic": "truniversity/Nodd/instructor/taskname", "msg": "dcscvds"}
+{"topic": "truniversity/NoCourse/instructor/start", "msg": "0"}
+{"topic": "truniversity/NoCourse/instructor/taskcomplete", "msg": "1"}
+{"topic": "truniversity/No Course/instructor/taskname", "msg": "No task"}
+{"topic": "truniversity/No Course/instructor/start", "msg": "0"}
+{"topic": "truniversity/No Course/instructor/taskcomplete", "msg": "1"}
+{"topic": "truniversity/testCourse/instructor/taskname", "msg": "No task"}
+{"topic": "truniversity/New Course/instructor/taskname", "msg": "ClassI"}
+{"topic": "truniversity/New Course/instructor/start", "msg": "0"}
+{"topic": "truniversity/New Course/instructor/taskcomplete", "msg": "1"}
+{"topic": "truniversity/test_course/instructor/start", "msg": "0"}
+{"topic": "truniversity/test_course/instructor/taskcomplete", "msg": "1"}
+{"topic": "truniversity/test-course/instructor/start", "msg": "0"}
+{"topic": "truniversity/test-course/instructor/taskcomplete", "msg": "1"}
+{"topic": "truniversity/test-course/audio", "msg": "1"}
+{"topic": "truniversity/test-course/mute", "msg": "1"}
+{"topic": "truniversity/Operative 1A/instructor/taskname", "msg": "ClassII"}
+{"topic": "truniversity/Operative 1A/instructor/start", "msg": "0"}
+{"topic": "truniversity/Operative 1A/instructor/taskcomplete", "msg": "1"}
+{"topic": "truniversity/Operative 1A/mute", "msg": "1"}
+{"topic": "truniversity/Course 3/instructor/start", "msg": "0"}
+{"topic": "truniversity/Course 3/instructor/taskcomplete", "msg": "1"}
+{"topic": "truniversity/Course 3/mute", "msg": "1"}
+{"topic": "university_of_saskatchewan/Course1/instructor/start", "msg": "0"}
+{"topic": "university_of_saskatchewan/Course1/instructor/taskcomplete", "msg": "1"}
+{"topic": "university_of_saskatchewan/Course1/instructor/taskName", "msg": "newest"}
+{"topic": "university_of_saskatchewan/Course1/instructor/taskname", "msg": "ClassIV"}
+{"topic": "university_of_saskatchewan/NoCourse/instructor/start", "msg": "0"}
+{"topic": "university_of_saskatchewan/NoCourse/instructor/taskcomplete", "msg": "1"}
+{"topic": "university_of_saskatchewan/NoCourse/instructor/taskname", "msg": "jnty"}
+{"topic": "university_of_saskatchewan/TestCourse/instructor/start", "msg": "0"}

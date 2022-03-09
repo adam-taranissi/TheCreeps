@@ -1,0 +1,2 @@
+{"IP": "3.136.112.114"}
+{"topic": "LWT", "msg": "CLICK PLUS is offline"}

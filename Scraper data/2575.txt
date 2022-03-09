@@ -1,0 +1,4 @@
+{"IP": "107.181.112.16"}
+{"topic": "LIVING_ROOM", "msg": "S00"}
+{"topic": "TEST", "msg": "S00"}
+{"topic": "toilet", "msg": "S21"}

@@ -1,0 +1,14 @@
+{"IP": "54.202.207.33"}
+{"topic": "/biofi/status/praes-hardcoded-server", "msg": "dead-meat"}
+{"topic": "/biofi/praes-hardcoded-server/status", "msg": "dead-meat"}
+{"topic": "/biofi/praes-server/status", "msg": "Offline"}
+{"topic": "/biofi/praes-prod/status", "msg": "Offline"}
+{"topic": "/biofi/server-praes-prod/status", "msg": "Offline"}
+{"topic": "/biofi/server-praes-for-mqtt-router/status", "msg": "Online"}
+{"topic": "/biofi/easy-mqtt/status", "msg": "Online"}
+{"topic": "/biofi/31a/processed/combo-fb", "msg": "{\"hr\": 60, \"emptybed\": false, \"calibration\": false, \"rr\": 10, \"timestamp\": \"1646769227\", \"time_last_event\": \"1646769123\", \"id\": \"31a\"}"}
+{"topic": "/biofi/31a/processed/combo-fb", "msg": "{\"hr\": 56, \"emptybed\": false, \"calibration\": false, \"rr\": 10, \"timestamp\": \"1646769228\", \"time_last_event\": \"1646769123\", \"id\": \"31a\"}"}
+{"topic": "/biofi/31a/processed/combo-fb", "msg": "{\"hr\": 56, \"emptybed\": false, \"calibration\": false, \"rr\": 7, \"timestamp\": \"1646769229\", \"time_last_event\": \"1646769123\", \"id\": \"31a\"}"}
+{"topic": "/biofi/31a/processed/combo-fb", "msg": "{\"hr\": 0, \"emptybed\": true, \"calibration\": false, \"rr\": 0, \"timestamp\": \"1646769230\", \"time_last_event\": \"1646769230\", \"id\": \"31a\"}"}
+{"topic": "/biofi/31a/processed/combo-fb", "msg": "{\"hr\": 0, \"emptybed\": true, \"calibration\": false, \"rr\": 0, \"timestamp\": \"1646769231\", \"time_last_event\": \"1646769230\", \"id\": \"31a\"}"}
+{"topic": "/biofi/31a/processed/combo-fb", "msg": "{\"hr\": 0, \"emptybed\": true, \"calibration\": false, \"rr\": 0, \"timestamp\": \"1646769232\", \"time_last_event\": \"1646769230\", \"id\": \"31a\"}"}

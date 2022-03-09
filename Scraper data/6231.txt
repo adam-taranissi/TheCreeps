@@ -1,0 +1,5 @@
+{"IP": "104.238.119.82"}
+{"topic": "/1696/status", "msg": "1696,True,True,False"}
+{"topic": "/26/status", "msg": "26,True,True,False"}
+{"topic": "/1565/status", "msg": "1565,True,True,False"}
+{"topic": "/582/status", "msg": "582,True,True,False"}

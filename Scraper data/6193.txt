@@ -1,0 +1,37 @@
+{"IP": "35.235.119.92"}
+{"topic": "/merakimv/Q2EV-XZR2-NLEH/light", "msg": "{\"lux\": 28.4}"}
+{"topic": "/merakimv/Q2GV-LBTK-7XXD/0", "msg": "{\"ts\":1646794444836, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2GV-LBTK-7XXD/580401401977372867", "msg": "{\"ts\":1646794444836, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2GV-LBTK-7XXD/light", "msg": "{\"lux\": 33.1}"}
+{"topic": "/merakimv/Q2EV-XZR2-NLEH/raw_detections", "msg": "{\"ts\":1646794444809,\"objects\":[]}"}
+{"topic": "/merakimv/Q2EV-XZR2-NLEH/0", "msg": "{\"ts\":1646794444809, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2EV-XZR2-NLEH/580401401977372866", "msg": "{\"ts\":1646794444809, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2GV-LBTK-7XXD/raw_detections", "msg": "{\"ts\":1646794444937,\"objects\":[]}"}
+{"topic": "/merakimv/Q2GV-LBTK-7XXD/0", "msg": "{\"ts\":1646794444937, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2GV-LBTK-7XXD/580401401977372867", "msg": "{\"ts\":1646794444937, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2EV-XZR2-NLEH/raw_detections", "msg": "{\"ts\":1646794444917,\"objects\":[]}"}
+{"topic": "/merakimv/Q2EV-XZR2-NLEH/0", "msg": "{\"ts\":1646794444917, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2EV-XZR2-NLEH/580401401977372866", "msg": "{\"ts\":1646794444917, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2EV-XZR2-NLEH/light", "msg": "{\"lux\": 28.6}"}
+{"topic": "/merakimv/Q2GV-LBTK-7XXD/light", "msg": "{\"lux\": 33.1}"}
+{"topic": "/merakimv/Q2GV-LBTK-7XXD/raw_detections", "msg": "{\"ts\":1646794445038,\"objects\":[]}"}
+{"topic": "/merakimv/Q2GV-LBTK-7XXD/0", "msg": "{\"ts\":1646794445038, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2GV-LBTK-7XXD/580401401977372867", "msg": "{\"ts\":1646794445038, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2EV-XZR2-NLEH/raw_detections", "msg": "{\"ts\":1646794445124,\"objects\":[]}"}
+{"topic": "/merakimv/Q2EV-XZR2-NLEH/0", "msg": "{\"ts\":1646794445124, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2EV-XZR2-NLEH/580401401977372866", "msg": "{\"ts\":1646794445124, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2GV-LBTK-7XXD/raw_detections", "msg": "{\"ts\":1646794445139,\"objects\":[]}"}
+{"topic": "/merakimv/Q2EV-XZR2-NLEH/light", "msg": "{\"lux\": 28.8}"}
+{"topic": "/merakimv/Q2GV-LBTK-7XXD/0", "msg": "{\"ts\":1646794445139, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2GV-LBTK-7XXD/580401401977372867", "msg": "{\"ts\":1646794445139, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2GV-LBTK-7XXD/light", "msg": "{\"lux\": 33.1}"}
+{"topic": "/merakimv/Q2EV-XZR2-NLEH/raw_detections", "msg": "{\"ts\":1646794445208,\"objects\":[]}"}
+{"topic": "/merakimv/Q2EV-XZR2-NLEH/0", "msg": "{\"ts\":1646794445208, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2EV-XZR2-NLEH/580401401977372866", "msg": "{\"ts\":1646794445208, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2GV-LBTK-7XXD/raw_detections", "msg": "{\"ts\":1646794445337,\"objects\":[]}"}
+{"topic": "/merakimv/Q2GV-LBTK-7XXD/0", "msg": "{\"ts\":1646794445337, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2GV-LBTK-7XXD/580401401977372867", "msg": "{\"ts\":1646794445337, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2EV-XZR2-NLEH/light", "msg": "{\"lux\": 28.8}"}
+{"topic": "/merakimv/Q2EV-XZR2-NLEH/raw_detections", "msg": "{\"ts\":1646794445329,\"objects\":[]}"}
+{"topic": "/merakimv/Q2EV-XZR2-NLEH/0", "msg": "{\"ts\":1646794445329, \"counts\":{\"person\":0}}"}
+{"topic": "/merakimv/Q2EV-XZR2-NLEH/580401401977372866", "msg": "{\"ts\":1646794445329, \"counts\":{\"person\":0}}"}

@@ -1,0 +1,10 @@
+{"IP": "161.35.102.118"}
+{"topic": "abc/123", "msg": "XYZ"}
+{"topic": "gateway/647fdafffe0057d0/state/conn", "msg": "{\"gatewayID\":\"ZH/a//4AV9A=\",\"state\":\"ONLINE\"}"}
+{"topic": "gateway/c0ee40ffff294252/state/conn", "msg": "{\"gatewayID\":\"wO5A//8pQlI=\",\"state\":\"ONLINE\"}"}
+{"topic": "gateway/647fdafffe0057cf/state/conn", "msg": "{\"gatewayID\":\"ZH/a//4AV88=\",\"state\":\"ONLINE\"}"}
+{"topic": "gateway/24e124fffef24129/state/conn", "msg": "{\"gatewayID\":\"JOEk//7yQSk=\",\"state\":\"OFFLINE\"}"}
+{"topic": "gateway/ffffffffffffffff/state/conn", "msg": "{\"gatewayID\":\"//////////8=\",\"state\":\"OFFLINE\"}"}
+{"topic": "gateway/0000000000000000/state/conn", "msg": "{\"gatewayID\":\"AAAAAAAAAAA=\",\"state\":\"OFFLINE\"}"}
+{"topic": "gateway/fe80639cad4cf030/state/conn", "msg": "{\"gatewayID\":\"/oBjnK1M8DA=\",\"state\":\"ONLINE\"}"}
+{"topic": "gateway/c0ee40ffff2a8609/state/conn", "msg": "{\"gatewayID\":\"wO5A//8qhgk=\",\"state\":\"ONLINE\"}"}

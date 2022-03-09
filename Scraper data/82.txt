@@ -1,0 +1,40 @@
+{"IP": "18.118.186.97"}
+{"topic": "/client/wb_SERIAL/bridge_status", "msg": "1"}
+{"topic": "/client/wb_SERIAL/devices/wb-map12h_20/controls/Ch 3 Phase angle L1", "msg": "9.3"}
+{"topic": "/client/wb_SERIAL/devices/wb-map12h_20/controls/Ch 3 Phase angle L2", "msg": "14.1"}
+{"topic": "/client/wb_SERIAL/devices/wb-map12h_20/controls/Ch 3 Phase angle L3", "msg": "24"}
+{"topic": "/client/wb_SERIAL/devices/wb-map12h_20/controls/Ch 4 PF L1", "msg": "-0"}
+{"topic": "/client/wb_SERIAL/devices/wb-map12h_20/controls/Ch 4 THDN I L1", "msg": "0"}
+{"topic": "/client/wb_SERIAL/devices/wb-map12h_20/controls/Ch 4 Phase angle L1", "msg": "16.9"}
+{"topic": "/client/wb_SERIAL/devices/wb-map12h_20/controls/Ch 4 Phase angle L2", "msg": "12.1"}
+{"topic": "/client/wb_SERIAL/devices/wb-map12h_20/controls/Ch 4 Phase angle L3", "msg": "36.1"}
+{"topic": "/client/wb_SERIAL/devices/wb-map12h_20/controls/Ch 4 Irms L1", "msg": "0.0289"}
+{"topic": "/client/wb_SERIAL/devices/wb-map12h_20/controls/Frequency", "msg": "41.87"}
+{"topic": "/client/wb_SERIAL/devices/wb-map12h_20/controls/Ch 1 Phase angle L1", "msg": "108.3"}
+{"topic": "/client/wb_SERIAL/devices/wb-map12h_20/controls/Ch 1 Phase angle L2", "msg": "65.2"}
+{"topic": "/client/wb_SERIAL/devices/wb-map12h_20/controls/Ch 1 Phase angle L3", "msg": "33.3"}
+{"topic": "/client/wb_SERIAL/devices/wb-map12h_20/controls/Voltage angle L2", "msg": "85"}
+{"topic": "/client/wb_SERIAL/devices/wb-map12h_20/controls/Voltage angle L3", "msg": "41.2"}
+{"topic": "/client/wb_SERIAL/devices/wb-map12h_20/controls/Ch 2 Phase angle L1", "msg": "22.8"}
+{"topic": "/client/wb_SERIAL/devices/wb-map12h_20/controls/Ch 2 Phase angle L2", "msg": "43.5"}
+{"topic": "/client/wb_SERIAL/devices/wb-map12h_20/controls/Ch 2 Phase angle L3", "msg": "22.1"}
+{"topic": "/client/wb_SERIAL/devices/wb-map12h_20/controls/Ch 4 THDN I L3", "msg": "0"}
+{"topic": "/client/wb_SERIAL/devices/wb-map12h_20/controls/Ch 4 Irms L3", "msg": "0.0289"}
+{"topic": "/client/wb_SERIAL/devices/wb-map12h_20/controls/THDN U L2", "msg": "9.09"}
+{"topic": "/client/wb_SERIAL/devices/wb-map12h_20/controls/Urms L3", "msg": "0.018"}
+{"topic": "/client/wb_SERIAL/devices/wb-map12h_20/controls/Urms L2", "msg": "0.018"}
+{"topic": "/client/wb_SERIAL/devices/wb-map12h_20/controls/Urms L1", "msg": "0.018"}
+{"topic": "/client/wb_SERIAL/devices/wb-map12h_20/controls/THDN U L1", "msg": "9.09"}
+{"topic": "/client/wb_SERIAL/devices/wb-map12h_20/controls/THDN U L3", "msg": "9.09"}
+{"topic": "/client/wb_SERIAL/devices/wb-map12h_20/controls/Ch 1 Total PF", "msg": "-0"}
+{"topic": "/client/wb_SERIAL/devices/wb-map12h_20/controls/Ch 4 THDN I L2", "msg": "0"}
+{"topic": "/client/wb_SERIAL/devices/wb-map12h_20/controls/Ch 4 Irms L2", "msg": "0.0289"}
+{"topic": "/client/wb_SERIAL/devices/wb-map12h_20/controls/Ch 3 Total PF", "msg": "-0"}
+{"topic": "/client/wb_SERIAL/devices/wb-map12h_20/controls/Ch 4 Total PF", "msg": "-0"}
+{"topic": "/client/wb_SERIAL/devices/wb-map12h_20/controls/Ch 2 Total PF", "msg": "-0"}
+{"topic": "/client/wb_SERIAL/devices/wb-adc/controls/5Vout", "msg": "5.02"}
+{"topic": "/client/wb_SERIAL/devices/wb-adc/controls/A1", "msg": "0.02"}
+{"topic": "/client/wb_SERIAL/devices/wb-adc/controls/A2", "msg": "0.02"}
+{"topic": "/client/wb_SERIAL/devices/wb-adc/controls/A3", "msg": "0.01"}
+{"topic": "/client/wb_SERIAL/devices/wb-adc/controls/A4", "msg": "0.02"}
+{"topic": "/client/wb_SERIAL/devices/wb-adc/controls/Vin", "msg": "19.91"}

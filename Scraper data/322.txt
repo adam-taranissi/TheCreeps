@@ -1,0 +1,3 @@
+{"IP": "52.55.247.58"}
+{"topic": "nortek/panels", "msg": "{\"panels\":[]}"}
+{"topic": "local/connected", "msg": "1"}

@@ -1,0 +1,2 @@
+{"IP": "40.71.98.37"}
+{"topic": "faircomAdmin/connections", "msg": "{\n  \"connectionList\":[\n    {\n      \"clientID\":\"0dQbumAsxwNaJwr8fC6lN8\",\n      \"connectionTime\":\"2022-03-08T21:31:15\",\n      \"subscriberList\":[\n        {\n          \"topicExpression\":\"#\",\n          \"qos\":0\n        }\n      ]\n    },\n    {\n      \"clientID\":\"ctmqtt_0x7f3f3400c920\",\n      \"connectionTime\":\"2021-08-22T00:38:23\",\n      \"subscriberList\":[\n      ]\n    }\n  ]\n}"}

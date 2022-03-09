@@ -1,0 +1,7 @@
+{"IP": "207.246.122.43"}
+{"topic": "ts/agent/state/18fe34fe035f", "msg": "{\"roomId\":null,\"ready\":false,\"isVacant\":true}"}
+{"topic": "ts/agent/state/18fe34fe035f", "msg": "{\"roomId\":null,\"ready\":false,\"isVacant\":true}"}
+{"topic": "ts/agent/state/18fe34fe035f", "msg": "{\"roomId\":null,\"ready\":false,\"isVacant\":true}"}
+{"topic": "ts/agent/state/18fe34fe035f", "msg": "{\"roomId\":null,\"ready\":false,\"isVacant\":true}"}
+{"topic": "ts/agent/state/18fe34fe035f", "msg": "{\"roomId\":null,\"ready\":false,\"isVacant\":true}"}
+{"topic": "ts/agent/state/18fe34fe035f", "msg": "{\"roomId\":null,\"ready\":false,\"isVacant\":true}"}

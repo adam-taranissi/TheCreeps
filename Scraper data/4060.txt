@@ -1,0 +1,2 @@
+{"IP": "3.33.250.87"}
+{"topic": "stw/iot/controller/PROVA_CONTROLLER_SCANNER/keepAlive", "msg": "{\"deviceControllerCode\":\"PROVA_CONTROLLER_SCANNER\",\"timestamp\":\"2021-12-23T14:11:34+0000\",\"requestConfigurations\":true}"}

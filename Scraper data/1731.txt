@@ -1,0 +1,3 @@
+{"IP": "13.59.200.24"}
+{"topic": "abc/123", "msg": "XYZ"}
+{"topic": "T1/Gateway2", "msg": "{\"Sensor1_Battery\": 4.21, \"Sensor1_CO2\": 0, \"Sensor1_Humidity\": 16.73, \"Sensor1_Solar\": 14.75, \"Sensor1_Temperature\": 74.89, \"Sensor1_pH\": 51968, \"date\": \"2022-03-08\", \"mac\": \"fa:36:36:0d:fc:42\", \"time\": \"15:25:55\", \"ts\": 1646771155310.0}"}

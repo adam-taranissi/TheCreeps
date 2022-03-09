@@ -1,0 +1,3 @@
+{"IP": "173.79.172.86"}
+{"topic": "owntracks/user2/j7topltetmo", "msg": "{\"_type\":\"location\",\"acc\":172,\"alt\":38,\"batt\":94,\"bs\":1,\"conn\":\"m\",\"created_at\":1646763934,\"lat\":39.0429303,\"lon\":-77.4394919,\"m\":1,\"tid\":\"KK\",\"tst\":1646763934,\"vac\":1,\"vel\":0}"}
+{"topic": "owntracks/user1/E579BDB2-42DD-4CD9-AE0E-DD00EDEDA750", "msg": "{\"_type\":\"location\",\"acc\":35,\"alt\":76,\"batt\":93,\"bs\":1,\"conn\":\"m\",\"lat\":39.04245,\"lon\":-77.439375,\"m\":1,\"tid\":\"BK\",\"tst\":1646760762,\"vac\":17}"}

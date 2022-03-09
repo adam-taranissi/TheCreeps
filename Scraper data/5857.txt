@@ -1,0 +1,7 @@
+{"IP": "207.153.16.207"}
+{"topic": "lorawan/gateways/samgate/status", "msg": "Online"}
+{"topic": "lorawan/gateways/cabingate/status", "msg": "Online"}
+{"topic": "lorawan/gateways/odingate/status", "msg": "Online"}
+{"topic": "lorawan/gateways/milogate/status", "msg": "Offline"}
+{"topic": "lorawan/gateways/millygate/status", "msg": "Offline"}
+{"topic": "hass/status", "msg": "online"}

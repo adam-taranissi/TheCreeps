@@ -1,0 +1,8 @@
+{"IP": "162.253.176.47"}
+{"topic": "sensor/BL1HT", "msg": "H:54.8:T:44.6:OFF"}
+{"topic": "sensor/BL2HT", "msg": "H:55.1:T:45.9:OFF"}
+{"topic": "sensor/HT1", "msg": "H:46.6:T:59.5:OFF"}
+{"topic": "sensor/SHHT1Outlet", "msg": "H:49.9:T:59.4:OFF"}
+{"topic": "sensor/BL1MotionCrawl", "msg": "OFF"}
+{"topic": "sensor/SHHT1Outlet", "msg": "H:49.9:T:59.4:OFF"}
+{"topic": "sensor/BL2HT", "msg": "H:55.1:T:45.7:OFF"}

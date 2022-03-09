@@ -1,0 +1,2 @@
+{"IP": "34.227.17.217"}
+{"topic": "iaqData", "msg": "{\"requestType\" : \"SensorIn\", \"sendval\" : \"0\", \"sendval2\" : \"558\",\"sendval3\" : \"0.35\",\"sendval4\" : \"10.00\",\"sendval5\" : \"470\", \"sendval6\" : \"780\"}"}

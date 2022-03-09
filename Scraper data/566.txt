@@ -1,0 +1,2 @@
+{"IP": "166.155.231.117"}
+{"topic": "/system/log-uploader/1-Plunger01/status", "msg": "{\"lastAttempt\":{\"name\":\"/media/mmcblk0p1/1-Plunger01/20220308-170000.log\",\"at\":\"2022-03-08T18:00:02.489Z\",\"status\":\"success\"},\"lastSuccess\":{\"name\":\"/media/mmcblk0p1/1-Plunger01/20220308-170000.log\",\"at\":\"2022-03-08T18:00:02.489Z\"},\"fileUploadCount\":1834}"}

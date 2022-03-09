@@ -1,0 +1,3 @@
+{"IP": "190.103.186.101"}
+{"topic": "reg/4C4E-552E-83C4-153E", "msg": "{\"modules\":[{\"id\":\"launcher-agent\",\"launcher\":{\"expire_at\":1574443685876,\"id\":\"launcher-agent\",\"name\":\"Launching Agent on bde.ampath.net\",\"queue_name\":\"rpc/4C4E-552E-83C4-153E\",\"queues\":{\"bde_server_queue\":\"bdeserver\",\"mdtm_listen_queue\":\"mdtm-listen-launcher\",\"mdtm_report_queue\":\"mdtm-report-launcher\"},\"type\":\"Launcher\"},\"name\":\"Launching Agent on bde.ampath.net\",\"queue\":\"rpc/4C4E-552E-83C4-153E\",\"type\":\"Launcher\"}],\"online\":true,\"queue\":\"rpc/4C4E-552E-83C4-153E\"}\n"}
+{"topic": "abc/123", "msg": "XYZ"}

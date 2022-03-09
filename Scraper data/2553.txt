@@ -1,0 +1,4 @@
+{"IP": "50.206.235.195"}
+{"topic": "ActiveMQ/Advisory/MasterBroker", "msg": ""}
+{"topic": "ActiveMQ/Advisory/Consumer/Topic/#", "msg": ""}
+{"topic": "mq/auth/msg/topic", "msg": "{\"method\":\"vms.deleteAdminSession\",\"info\":{\"userId\":\"0\",\"sessionId\":\"46D351B39F65E2BE0E8E91DA30ECE635\"},\"id\":\"1684151\"}"}

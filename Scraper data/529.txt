@@ -1,0 +1,40 @@
+{"IP": "208.190.138.53"}
+{"topic": "Garage/temperature", "msg": " 10.95"}
+{"topic": "Garage/temperatureF", "msg": " 51.7"}
+{"topic": "Garage/humidity", "msg": " 26.33"}
+{"topic": "Garage/pressure", "msg": "986.78"}
+{"topic": "Kitchen/temperature", "msg": " 25.80"}
+{"topic": "Kitchen/temperatureF", "msg": " 78.4"}
+{"topic": "Kitchen/humidity", "msg": " 24.32"}
+{"topic": "Kitchen/pressure", "msg": "986.38"}
+{"topic": "Kitchen/moisture", "msg": "833.00"}
+{"topic": "gardenbed/soil", "msg": " 31.55"}
+{"topic": "gardenbed/light", "msg": "43397.50"}
+{"topic": "gardenbed/moisture", "msg": "860.00"}
+{"topic": "gardenbed2/temperatureF", "msg": " 46.81"}
+{"topic": "gardenbed2/humidity", "msg": " 46.37"}
+{"topic": "gardenbed2/moisture", "msg": "506.00"}
+{"topic": "gardenbed2/pressure", "msg": "985.30"}
+{"topic": "gardenbed2/soil", "msg": " 37.29"}
+{"topic": "gardenbed2/light", "msg": "3165.83"}
+{"topic": "office/temperature", "msg": " 24.09"}
+{"topic": "office/temperatureF", "msg": " 75.4"}
+{"topic": "office/humidity", "msg": " 21.78"}
+{"topic": "office/moisture", "msg": "860.00"}
+{"topic": "office/pressure", "msg": "981.08"}
+{"topic": "Rumpus/temperature", "msg": " 20.55"}
+{"topic": "Rumpus/temperatureF", "msg": " 69.0"}
+{"topic": "Rumpus/humidity", "msg": " 22.09"}
+{"topic": "Rumpus/moisture", "msg": "814.00"}
+{"topic": "Rumpus/pressure", "msg": "987.28"}
+{"topic": "Bedroom1/temperature", "msg": " 21.65"}
+{"topic": "Bedroom1/temperatureF", "msg": " 71.0"}
+{"topic": "Bedroom1/humidity", "msg": " 23.20"}
+{"topic": "Bedroom1/pressure", "msg": "986.33"}
+{"topic": "room/temperature", "msg": " 23.07"}
+{"topic": "room/humidity", "msg": " 15.82"}
+{"topic": "room/temperatureF", "msg": " 73.5"}
+{"topic": "room/pressure", "msg": "976.17"}
+{"topic": "Kitchen/temperature", "msg": " 25.80"}
+{"topic": "Kitchen/temperatureF", "msg": " 78.4"}
+{"topic": "Kitchen/humidity", "msg": " 24.30"}

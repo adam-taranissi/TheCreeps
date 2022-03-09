@@ -1,0 +1,4 @@
+{"IP": "143.198.225.145"}
+{"topic": "iot_data", "msg": "{\"data\":30}"}
+{"topic": "Temperature", "msg": "30"}
+{"topic": "TestTemperature", "msg": "91"}

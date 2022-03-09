@@ -1,0 +1,12 @@
+{"IP": "52.0.171.24"}
+{"topic": "status/HB-00063303", "msg": "{\"serial_number\":\"HB-00063303\",\"type\":\"hub_status\",\"firmware_revision\":\"177\",\"uptime\":22108,\"rssi\":-66,\"timestamp\":1646775014,\"reset_flags\":\"BOR,PIN,POR\",\"seq\":2206,\"radio_stats\":[25,1,0,3,46917],\"mqtt_stats\":[1,0],\"freq\":908000000}|0x67c6e7d4fbbe7305"}
+{"topic": "debug/ST-00044516", "msg": "{\"serial_number\":\"ST-00044516\",\"type\":\"light_debug\",\"hub_sn\":\"HB-00063303\",\"ob\":[1646775016,0,0,0,1]}|0x15576456473b9ba3"}
+{"topic": "debug/ST-00044516", "msg": "{\"serial_number\":\"ST-00044516\",\"type\":\"wind_debug\",\"hub_sn\":\"HB-00063303\",\"ob\":[1646775016,79,61,0,0,1486,1464,1342,1405,1333,1351,1238,1151,15,0,0,0]}|0x740d63d9180ea290"}
+{"topic": "rapid/ST-00044516", "msg": "{\"serial_number\":\"ST-00044516\",\"type\":\"rapid_wind\",\"hub_sn\":\"HB-00063303\",\"ob\":[1646775016,0.79,61]}|0x4ed1024d01084686"}
+{"topic": "obs", "msg": "heartbeat swdc from dev-swd"}
+{"topic": "rapid", "msg": "heartbeat swdc from dev-swd"}
+{"topic": "status", "msg": "heartbeat swdc from dev-swd"}
+{"topic": "debug", "msg": "heartbeat swdc from dev-swd"}
+{"topic": "publish", "msg": "heartbeat swdc from dev-swd"}
+{"topic": "enhanced", "msg": "heartbeat swdc from dev-swd"}
+{"topic": "debug/ST-00044516", "msg": "{\"serial_number\":\"ST-00044516\",\"type\":\"light_debug\",\"hub_sn\":\"HB-00063303\",\"ob\":[1646775019,0,0,0,1]}|0x0f6db105bd419b1e"}

@@ -1,0 +1,3 @@
+{"IP": "104.237.137.91"}
+{"topic": "/TOPIC", "msg": "HELLO"}
+{"topic": "/PUB/E8:DB:84:9D:A5:F0/JSON", "msg": "{\"MAC\":\"E8:DB:84:9D:A5:F0\",\"RPTCNT\":202848,\"TEMP\":83.3}"}

@@ -1,0 +1,15 @@
+{"IP": "68.183.119.177"}
+{"topic": "cmg/01", "msg": "lll"}
+{"topic": "cmg/02", "msg": "lll"}
+{"topic": "JonathanNauto", "msg": "hola"}
+{"topic": "test1", "msg": "0"}
+{"topic": "mcalvo", "msg": "0"}
+{"topic": "mcalvo/01", "msg": "21"}
+{"topic": "mcalvo/02", "msg": "0"}
+{"topic": "mcalvo/2", "msg": "0"}
+{"topic": "mcalvo/03", "msg": "155"}
+{"topic": "mcalvo1", "msg": "0"}
+{"topic": "mfrlcd/01", "msg": "Hola uwu"}
+{"topic": "dkdfaef/01", "msg": "TTTTTT"}
+{"topic": "mfmr/01", "msg": "hehe"}
+{"topic": "j", "msg": "uc o mais grande \n"}

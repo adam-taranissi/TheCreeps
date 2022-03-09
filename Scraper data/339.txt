@@ -1,0 +1,40 @@
+{"IP": "129.236.160.139"}
+{"topic": "glp/0/././macid", "msg": "00:d0:71:08:35:b8"}
+{"topic": "glp/0/././serial", "msg": "442036F00060"}
+{"topic": "glp/0/././sid", "msg": "\"17q5r39\""}
+{"topic": "glp/0/./=system/control/name", "msg": "\"Echelon Generic control Service\""}
+{"topic": "glp/0/./=system/control/copyright", "msg": "\"Copyright (c) Echelon Corporation 2018\""}
+{"topic": "glp/0/./=system/control/version", "msg": "\"2.40.500\""}
+{"topic": "glp/0/./=system/monitor/name", "msg": "\"Echelon Generic monitor Service\""}
+{"topic": "glp/0/./=system/monitor/copyright", "msg": "\"Copyright (c) Echelon Corporation 2018\""}
+{"topic": "glp/0/./=system/monitor/version", "msg": "\"2.40.206\""}
+{"topic": "glp/0/./=system/logger/name", "msg": "\"Echelon Generic logger Service\""}
+{"topic": "glp/0/./=system/logger/copyright", "msg": "\"Copyright (c) Echelon Corporation 2018\""}
+{"topic": "glp/0/./=system/logger/version", "msg": "\"2.40.206\""}
+{"topic": "glp/0/./=system/formatter/name", "msg": "\"Echelon Generic formatter Service\""}
+{"topic": "glp/0/./=system/formatter/copyright", "msg": "\"Copyright (c) Adesto Technologies 2019\""}
+{"topic": "glp/0/./=system/formatter/version", "msg": "\"1.00.000\""}
+{"topic": "glp/0/./=system/dpget/name", "msg": "\"Echelon Generic dpget Service\""}
+{"topic": "glp/0/./=system/dpget/copyright", "msg": "\"Copyright (c) Echelon Corporation 2018\""}
+{"topic": "glp/0/./=system/dpget/version", "msg": "\"2.40.206\""}
+{"topic": "glp/0/./=system/loader/name", "msg": "\"Echelon Generic loader Service\""}
+{"topic": "glp/0/./=system/loader/copyright", "msg": "\"Copyright (c) Echelon Corporation 2018\""}
+{"topic": "glp/0/./=system/loader/version", "msg": "\"2.40.206\""}
+{"topic": "glp/0/./=system/connection/name", "msg": "\"Echelon Generic connection Service\""}
+{"topic": "glp/0/./=system/connection/copyright", "msg": "\"Copyright (c) Echelon Corporation 2018\""}
+{"topic": "glp/0/./=system/connection/version", "msg": "\"2.40.206\""}
+{"topic": "glp/0/./=system/alarm/name", "msg": "\"Echelon Generic alarm Service\""}
+{"topic": "glp/0/./=system/alarm/copyright", "msg": "\"Copyright (c) Echelon Corporation 2018\""}
+{"topic": "glp/0/./=system/alarm/version", "msg": "\"2.60.005\""}
+{"topic": "glp/0/./=system/scheduler/name", "msg": "\"Echelon Generic scheduler Service\""}
+{"topic": "glp/0/./=system/scheduler/copyright", "msg": "\"Copyright (c) Adesto Technologies Corporation 2019\""}
+{"topic": "glp/0/./=system/scheduler/version", "msg": "\"1.01.000\""}
+{"topic": "glp/0/./=system/query/name", "msg": "\"Echelon Generic query Service\""}
+{"topic": "glp/0/./=system/query/copyright", "msg": "\"Copyright (c) Echelon Corporation 2018\""}
+{"topic": "glp/0/./=system/query/version", "msg": "\"2.40.206\""}
+{"topic": "glp/0/./=system/housekeeper/name", "msg": "\"Echelon Generic housekeeper Service\""}
+{"topic": "glp/0/./=system/housekeeper/copyright", "msg": "\"Copyright (c) Echelon Corporation 2018\""}
+{"topic": "glp/0/./=system/housekeeper/version", "msg": "\"2.40.301\""}
+{"topic": "glp/0/./=system/apollo-rp-launch/name", "msg": "\"Echelon Generic apollo-rp-launch Service\""}
+{"topic": "glp/0/./=system/apollo-rp-launch/copyright", "msg": "\"Copyright (c) Adesto Technologies 2019\""}
+{"topic": "glp/0/./=system/apollo-rp-launch/version", "msg": "\"2.00.000\""}

@@ -1,0 +1,2 @@
+{"IP": "52.151.231.77"}
+{"topic": "rtdb/check.rtdb.sync.sub", "msg": "pong"}

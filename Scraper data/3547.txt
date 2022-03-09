@@ -1,0 +1,5 @@
+{"IP": "76.28.182.46"}
+{"topic": "abc/123", "msg": "XYZ"}
+{"topic": "DAH_SZT/status/media_temp", "msg": "media_temp,device_name=30:ae:a4:bb:fd:fc value=45.95"}
+{"topic": "DAH_SZT/status/mech_temp", "msg": "mech_temp,device_name=30:ae:a4:bb:fd:fc value=55.7375"}
+{"topic": "DAH_lake/status/house_power", "msg": "house_power,device_name=30:ae:a4:bb:fd:fc value_a=2,value_b=1"}

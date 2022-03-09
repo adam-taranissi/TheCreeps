@@ -1,0 +1,41 @@
+{"IP": "162.243.9.147"}
+{"topic": "coogleiot/devices/SENSMONITOR2", "msg": "{ \"dtm\" : \"2021-11-15 23:30:38\", \"ini\" : \"1970-01-01 03:00:09\", \"ap\" : \"SuperWiFi-006939\", \"ip\" : \"192.168.1.10\", \"rssi\" : \"-76\", \"ver\" : \"1.3.0.2\", \"clid\" : \"SENSMONITOR2\" }"}
+{"topic": "coogleiot/devices/TERMOSTATO1", "msg": "{ \"timestamp\" : \"2020-05-02 17:44:46\", \"ip\" : \"192.168.1.27\", \"coogleiot_version\" : \"1.3.0.1\", \"client_id\" : \"TERMOSTATO1\" }"}
+{"topic": "coogleiot/devices/PASQUALARM", "msg": "{ \"timestamp\" : \"2019-09-13 18:08:12\", \"ip\" : \"192.168.2.131\", \"coogleiot_version\" : \"1.3.0\", \"client_id\" : \"PASQUALARM\" }"}
+{"topic": "coogleiot/devices/TEMPSENS1", "msg": "{ \"timestamp\" : \"2019-11-25 19:44:52\", \"ip\" : \"192.168.1.107\", \"coogleiot_version\" : \"1.3.0\", \"client_id\" : \"TEMPSENS1\" }"}
+{"topic": "coogleiot/devices/CALDAMONITOR", "msg": "{ \"timestamp\" : \"2022-02-08 21:47:52\", \"ip\" : \"192.168.1.54\", \"coogleiot_version\" : \"1.3.0\", \"client_id\" : \"CALDAMONITOR\" }"}
+{"topic": "coogleiot/devices/TERMOMETRO1", "msg": "{ \"timestamp\" : \"2022-02-08 21:47:30\", \"ip\" : \"192.168.1.107\", \"coogleiot_version\" : \"1.3.0.1\", \"client_id\" : \"TERMOMETRO1\" }"}
+{"topic": "coogleiot/devices/SENSMONITOR", "msg": "{ \"timestamp\" : \"2020-06-13 16:10:52\", \"ip\" : \"192.168.1.6\", \"coogleiot_version\" : \"1.3.0.1\", \"client_id\" : \"SENSMONITOR\" }"}
+{"topic": "coogleiot/devices/SALOTTO1", "msg": "{ \"timestamp\" : \"2020-05-12 17:42:21\", \"ip\" : \"192.168.1.67\", \"coogleiot_version\" : \"1.3.0.1\", \"client_id\" : \"SALOTTO1\" }"}
+{"topic": "coogleiot/devices/BEDLIGHT", "msg": "{ \"timestamp\" : \"2020-04-09 22:39:25\", \"ip\" : \"192.168.1.105\", \"coogleiot_version\" : \"1.3.0.1\", \"client_id\" : \"BEDLIGHT\" }"}
+{"topic": "coogleiot/devices/SENSMONITOR3", "msg": "{ \"dtm\" : \"2020-04-27 17:09:35\", \"ini\" : \"2020-04-27 16:18:04\", \"ap\" : \"Niagara\", \"ip\" : \"192.168.1.36\", \"rssi\" : \"-59\", \"ver\" : \"1.3.0.2\", \"clid\" : \"SENSMONITOR3\" }"}
+{"topic": "coogleiot/devices/POWERMONITOR", "msg": "{ \"dtm\" : \"2020-08-25 18:19:18\", \"ini\" : \"2020-08-24 12:00:06\", \"ap\" : \"Daytona\", \"ip\" : \"192.168.2.169\", \"rssi\" : \"-62\", \"ver\" : \"1.3.0.2\", \"clid\" : \"POWERMONITOR\" }"}
+{"topic": "coogleiot/devices/PALMAIOT_6466", "msg": "{ \"dtm\" : \"2020-04-30 17:50:35\", \"ini\" : \"2020-04-30 17:43:04\", \"ap\" : \"Copacabana\", \"ip\" : \"192.168.168.53\", \"rssi\" : \"-85\", \"ver\" : \"1.3.0.2\", \"clid\" : \"PALMAIOT_6466\" }"}
+{"topic": "coogleiot/devices/PALMAIOT_5977", "msg": "{ \"dtm\" : \"2020-05-02 23:01:20\", \"ini\" : \"2020-05-02 22:58:49\", \"ap\" : \"Copacabana\", \"ip\" : \"192.168.168.69\", \"rssi\" : \"-94\", \"ver\" : \"1.3.0.2\", \"clid\" : \"PALMAIOT_5977\" }"}
+{"topic": "coogleiot/devices/BUNKERLIGHTS", "msg": "{ \"dtm\" : \"2022-03-08 19:47:33\", \"ini\" : \"1969-12-31 23:00:07\", \"ap\" : \"Niagara\", \"ip\" : \"192.168.1.14\", \"rssi\" : \"-68\", \"ver\" : \"1.3.0.2\", \"clid\" : \"BUNKERLIGHTS\" }"}
+{"topic": "coogleiot/devices/PALMAIOT_7008", "msg": "{ \"dtm\" : \"2020-05-10 13:59:43\", \"ini\" : \"1969-12-31 21:00:08\", \"ap\" : \"Copacabana\", \"ip\" : \"192.168.168.6\", \"rssi\" : \"-85\", \"ver\" : \"1.3.0.2\", \"clid\" : \"PALMAIOT_7008\" }"}
+{"topic": "coogleiot/devices/SALA1", "msg": "{ \"dtm\" : \"2022-03-08 23:47:35\", \"ini\" : \"2022-03-08 12:00:06\", \"ap\" : \"Santana\", \"ip\" : \"192.168.1.67\", \"rssi\" : \"-66\", \"ver\" : \"1.3.0.2\", \"clid\" : \"SALA1\" }"}
+{"topic": "coogleiot/devices/PALMAIOT_9056", "msg": "{ \"dtm\" : \"2020-05-15 19:45:33\", \"ini\" : \"1969-12-31 21:00:09\", \"ap\" : \"Copacabana\", \"ip\" : \"192.168.168.18\", \"rssi\" : \"-87\", \"ver\" : \"1.3.0.2\", \"clid\" : \"PALMAIOT_9056\" }"}
+{"topic": "coogleiot/devices/CABINA1", "msg": "{ \"dtm\" : \"1970-01-07 19:22:39\", \"ini\" : \"\", \"ap\" : \"Daytona\", \"ip\" : \"192.168.2.131\", \"rssi\" : \"-63\", \"ver\" : \"1.3.0.2\", \"clid\" : \"CABINA1\" }"}
+{"topic": "coogleiot/devices/PALMAIOT_2496", "msg": "{ \"dtm\" : \"2020-05-19 09:07:41\", \"ini\" : \"2020-05-18 22:01:10\", \"ap\" : \"Copacabana\", \"ip\" : \"192.168.168.69\", \"rssi\" : \"-77\", \"ver\" : \"1.3.0.2\", \"clid\" : \"PALMAIOT_2496\" }"}
+{"topic": "coogleiot/devices/RAGA1", "msg": "{ \"dtm\" : \"2020-07-04 18:04:48\", \"ini\" : \"1969-12-31 21:00:06\", \"ap\" : \"Niagara\", \"ip\" : \"192.168.1.152\", \"rssi\" : \"-63\", \"ver\" : \"1.3.0.2\", \"clid\" : \"RAGA1\" }"}
+{"topic": "coogleiot/devices/POWERCHECK", "msg": "{ \"dtm\" : \"2020-08-23 20:39:08\", \"ini\" : \"1970-01-01 03:00:17\", \"ap\" : \"Niagara\", \"ip\" : \"192.168.1.76\", \"rssi\" : \"-96\", \"ver\" : \"1.3.0.2\", \"clid\" : \"POWERCHECK\" }"}
+{"topic": "coogleiot/devices/PASQUALARM2", "msg": "{ \"dtm\" : \"2021-05-12 00:14:38\", \"ini\" : \"1970-01-01 03:00:08\", \"ap\" : \"Niagara\", \"ip\" : \"192.168.1.112\", \"rssi\" : \"-58\", \"ver\" : \"1.3.0.2\", \"clid\" : \"PASQUALARM2\" }"}
+{"topic": "coogleiot/devices/SCALALIGHT", "msg": "{ \"dtm\" : \"2022-03-08 23:47:33\", \"ini\" : \"2022-03-06 12:00:06\", \"ap\" : \"Daytona\", \"ip\" : \"192.168.2.120\", \"rssi\" : \"-43\", \"ver\" : \"1.3.0.2\", \"clid\" : \"SCALALIGHT\" }"}
+{"topic": "coogleiot/devices/DISPLAYLED1", "msg": "{ \"dtm\" : \"2021-12-20 23:19:00\", \"ini\" : \"1970-01-01 03:00:08\", \"ap\" : \"Niagara\", \"ip\" : \"192.168.1.112\", \"rssi\" : \"-75\", \"ver\" : \"1.3.0.2\", \"clid\" : \"DISPLAYLED1\" }"}
+{"topic": "coogleiot/devices/SALA2", "msg": "{ \"dtm\" : \"2021-10-30 20:07:45\", \"ini\" : \"1970-01-01 03:00:13\", \"ap\" : \"Niagara\", \"ip\" : \"192.168.1.37\", \"rssi\" : \"-52\", \"ver\" : \"1.3.0.2\", \"clid\" : \"SALA2\" }"}
+{"topic": "coogleiot/devices/RADAR2", "msg": "{ \"dtm\" : \"2022-02-16 03:05:04\", \"ini\" : \"2022-02-15 12:00:06\", \"ap\" : \"Niagara\", \"ip\" : \"192.168.1.21\", \"rssi\" : \"-62\", \"ver\" : \"1.3.0.2\", \"clid\" : \"RADAR2\" }"}
+{"topic": "coogleiot/devices/DEVICE", "msg": "{ \"dtm\" : \"UKWN\", \"ini\" : \"UKWN\", \"ap\" : \"Daytona\", \"ip\" : \"192.168.2.138\", \"rssi\" : \"-74\", \"ver\" : \"1.3.0.2\", \"clid\" : \"DEVICE\" }"}
+{"topic": "coogleiot/devicesPASQUALARM", "msg": "{ \"timestamp\" : \"2019-07-21 08:09:33\", \"ip\" : \"192.168.1.78\", \"coogleiot_version\" : \"1.3.0\", \"client_id\" : \"PASQUALARM\" }"}
+{"topic": "Mqtt widget/online", "msg": "0"}
+{"topic": "myhome/ping", "msg": "Hello IOT!"}
+{"topic": "myhome/caldaia/palma/stat", "msg": "OFF"}
+{"topic": "myhome/caldaia/palma/hello", "msg": "OFF"}
+{"topic": "myhome/alarm/pasquali/ping", "msg": "Hello!"}
+{"topic": "myhome/alarm/pasquali/hello", "msg": "[PASQUALARM] 1970-00-01 08:00:20 - END_OF_SETUP"}
+{"topic": "myhome/alarm/pasqualix/hello", "msg": "[PASQUALARM2] 1970-01-01 03:00:10 - END_OF_SETUP"}
+{"topic": "myhome/termo/palma/hello", "msg": "[TERMOMETRO1] 2022-02-08 21:21:28 - END_OF_SETUP"}
+{"topic": "myhome/sensors/pasquali/hello", "msg": "[SENSMONITOR2] 1970-01-01 03:00:09 - END_OF_SETUP"}
+{"topic": "myhome/sensors/palma/hello", "msg": "[SENSMONITOR2] 1970-01-01 03:00:12 - END_OF_SETUP"}
+{"topic": "myhome/monitor/pasquali/hello", "msg": "[SENSMONITOR2] 2020-08-04 23:17:38 - END_OF_SETUP"}
+{"topic": "myhome/lights/sala/hello", "msg": "801;OK;SALA1;AP:Santana;IP:192.168.1.67;RSSI:-68"}

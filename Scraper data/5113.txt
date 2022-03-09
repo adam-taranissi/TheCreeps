@@ -1,0 +1,39 @@
+{"IP": "45.55.199.69"}
+{"topic": "iot-2/type/mt/id/a555f712-58bc-42e1-ad4d-cf8dbab70cf9/evt/status/fmt/json", "msg": "{\n   \"d\" : {\n      \"connected\" : false\n   }\n}\n"}
+{"topic": "iot-2/type/mt/id/a555f712-58bc-42e1-ad4d-cf8dbab70cf9/evt/topics_update/fmt/json", "msg": "{\n   \"d\" : {\n      \"topics\" : []\n   },\n   \"ts\" : \"2021-11-20T09:21:52.004007\"\n}\n"}
+{"topic": "iot-2/type/mt/id/77b5c6dc-c258-4296-a15d-3a565cb82dad/evt/status/fmt/json", "msg": "{\n   \"d\" : {\n      \"connected\" : false\n   }\n}\n"}
+{"topic": "iot-2/type/mt/id/77b5c6dc-c258-4296-a15d-3a565cb82dad/evt/topics_update/fmt/json", "msg": "{\n   \"d\" : {\n      \"topics\" : [\n         {\n            \"compression\" : \"\",\n            \"nickname\" : \"\u70cf\u4f86\",\n            \"topic\" : \"/SPA/WuLai/T_P\"\n         }\n      ]\n   },\n   \"ts\" : \"2021-11-26T16:11:58.009211\"\n}\n"}
+{"topic": "iot-2/type/mt/id/5145d8f8-41a8-40a8-a5a0-d6cf953e49ee/evt/status/fmt/json", "msg": "{\n   \"d\" : {\n      \"connected\" : false\n   }\n}\n"}
+{"topic": "iot-2/type/mt/id/5145d8f8-41a8-40a8-a5a0-d6cf953e49ee/evt/topics_update/fmt/json", "msg": "{\n   \"d\" : {\n      \"topics\" : []\n   },\n   \"ts\" : \"2021-11-27T06:02:05.008407\"\n}\n"}
+{"topic": "iot-2/type/mt/id/9dec466c-4ca4-4d54-bae3-3bff28992576/evt/status/fmt/json", "msg": "{\n   \"d\" : {\n      \"connected\" : false\n   }\n}\n"}
+{"topic": "iot-2/type/mt/id/9dec466c-4ca4-4d54-bae3-3bff28992576/evt/topics_update/fmt/json", "msg": "{\n   \"d\" : {\n      \"topics\" : []\n   },\n   \"ts\" : \"2021-12-01T11:38:33.005186\"\n}\n"}
+{"topic": "iot-2/type/mt/id/40380aba-a248-4425-a854-0cb6d5a60646/evt/status/fmt/json", "msg": "{\n   \"d\" : {\n      \"connected\" : false\n   }\n}\n"}
+{"topic": "iot-2/type/mt/id/40380aba-a248-4425-a854-0cb6d5a60646/evt/topics_update/fmt/json", "msg": "{\n   \"d\" : {\n      \"topics\" : []\n   },\n   \"ts\" : \"2021-12-10T12:13:48.006367\"\n}\n"}
+{"topic": "iot-2/type/mt/id/5df90b84-74f7-49e7-a3b4-b45a50a69c6d/evt/status/fmt/json", "msg": "{\n   \"d\" : {\n      \"connected\" : false\n   }\n}\n"}
+{"topic": "iot-2/type/mt/id/5df90b84-74f7-49e7-a3b4-b45a50a69c6d/evt/topics_update/fmt/json", "msg": "{\n   \"d\" : {\n      \"topics\" : []\n   },\n   \"ts\" : \"2021-12-11T00:53:30.011448\"\n}\n"}
+{"topic": "iot-2/type/mt/id/087d32c1-7086-476b-9946-b409bc1750f9/evt/status/fmt/json", "msg": "{\n   \"d\" : {\n      \"connected\" : true\n   },\n   \"ts\" : \"2022-03-06T07:50:06.010554\"\n}\n"}
+{"topic": "iot-2/type/mt/id/087d32c1-7086-476b-9946-b409bc1750f9/evt/topics_update/fmt/json", "msg": "{\n   \"d\" : {\n      \"topics\" : [\n         {\n            \"compression\" : \"\",\n            \"nickname\" : \"\u70cf\u4f86\",\n            \"topic\" : \"/SPA/WuLai/T_P\"\n         }\n      ]\n   },\n   \"ts\" : \"2022-03-06T07:50:06.011164\"\n}\n"}
+{"topic": "iot-2/type/mt/id/a68d590a-0499-47ba-b791-7b6f54378887/evt/status/fmt/json", "msg": "{\n   \"d\" : {\n      \"connected\" : false\n   }\n}\n"}
+{"topic": "iot-2/type/mt/id/a68d590a-0499-47ba-b791-7b6f54378887/evt/topics_update/fmt/json", "msg": "{\n   \"d\" : {\n      \"topics\" : []\n   },\n   \"ts\" : \"2022-01-12T08:10:34.003122\"\n}\n"}
+{"topic": "iot-2/type/mt/id/9f28ac37-5c0c-433b-b1e1-e847e810826b/evt/status/fmt/json", "msg": "{\n   \"d\" : {\n      \"connected\" : false\n   }\n}\n"}
+{"topic": "iot-2/type/mt/id/9f28ac37-5c0c-433b-b1e1-e847e810826b/evt/topics_update/fmt/json", "msg": "{\n   \"d\" : {\n      \"topics\" : []\n   },\n   \"ts\" : \"2022-01-13T20:48:00.006371\"\n}\n"}
+{"topic": "iot-2/type/mt/id/1a74c0b7-ef73-48e9-9bcd-e678b49d7a2b/evt/status/fmt/json", "msg": "{\n   \"d\" : {\n      \"connected\" : false\n   }\n}\n"}
+{"topic": "iot-2/type/mt/id/1a74c0b7-ef73-48e9-9bcd-e678b49d7a2b/evt/topics_update/fmt/json", "msg": "{\n   \"d\" : {\n      \"topics\" : []\n   },\n   \"ts\" : \"2022-01-26T21:45:10.006785\"\n}\n"}
+{"topic": "iot-2/type/mt/id/3b29409d-617a-4d5d-be7a-1c867808f6cb/evt/status/fmt/json", "msg": "{\n   \"d\" : {\n      \"connected\" : false\n   }\n}\n"}
+{"topic": "iot-2/type/mt/id/3b29409d-617a-4d5d-be7a-1c867808f6cb/evt/topics_update/fmt/json", "msg": "{\n   \"d\" : {\n      \"topics\" : []\n   },\n   \"ts\" : \"2022-01-28T08:49:57.006806\"\n}\n"}
+{"topic": "iot-2/type/mt/id/6db456c3-82ff-4031-b608-dda27e8dedc8/evt/status/fmt/json", "msg": "{\n   \"d\" : {\n      \"connected\" : false\n   }\n}\n"}
+{"topic": "iot-2/type/mt/id/6db456c3-82ff-4031-b608-dda27e8dedc8/evt/topics_update/fmt/json", "msg": "{\n   \"d\" : {\n      \"topics\" : []\n   },\n   \"ts\" : \"2022-02-01T13:43:56.008199\"\n}\n"}
+{"topic": "iot-2/type/mt/id/2b0f5865-5b89-4a83-bc63-85e79706bb88/evt/status/fmt/json", "msg": "{\n   \"d\" : {\n      \"connected\" : false\n   }\n}\n"}
+{"topic": "iot-2/type/mt/id/2b0f5865-5b89-4a83-bc63-85e79706bb88/evt/topics_update/fmt/json", "msg": "{\n   \"d\" : {\n      \"topics\" : []\n   },\n   \"ts\" : \"2022-02-12T20:52:12.023661\"\n}\n"}
+{"topic": "iot-2/type/mt/id/1525cc96-2e80-4270-8152-f700211abd61/evt/status/fmt/json", "msg": "{\n   \"d\" : {\n      \"connected\" : false\n   }\n}\n"}
+{"topic": "iot-2/type/mt/id/1525cc96-2e80-4270-8152-f700211abd61/evt/topics_update/fmt/json", "msg": "{\n   \"d\" : {\n      \"topics\" : []\n   },\n   \"ts\" : \"2022-02-28T02:55:23.016794\"\n}\n"}
+{"topic": "iot-2/type/mt/id/52c92b8d-a2a2-4627-a1ea-ef0be3b07d1d/evt/status/fmt/json", "msg": "{\n   \"d\" : {\n      \"connected\" : false\n   }\n}\n"}
+{"topic": "iot-2/type/mt/id/52c92b8d-a2a2-4627-a1ea-ef0be3b07d1d/evt/topics_update/fmt/json", "msg": "{\n   \"d\" : {\n      \"topics\" : []\n   },\n   \"ts\" : \"2022-03-07T17:59:10.003146\"\n}\n"}
+{"topic": "iot-2/type/mt/id/85388a3c-7c01-4ce6-93b1-4b7e6a417177/evt/status/fmt/json", "msg": "{\n   \"d\" : {\n      \"connected\" : true\n   },\n   \"ts\" : \"2022-03-08T18:24:08.007364\"\n}\n"}
+{"topic": "iot-2/type/mt/id/85388a3c-7c01-4ce6-93b1-4b7e6a417177/evt/topics_update/fmt/json", "msg": "{\n   \"d\" : {\n      \"topics\" : []\n   },\n   \"ts\" : \"2022-03-08T18:24:08.007944\"\n}\n"}
+{"topic": "/DNH/Turbidity_G02/online", "msg": "{\"online\":0}"}
+{"topic": "/DNH/Turbidity_G01/online", "msg": "{\"online\":1}"}
+{"topic": "/DNH/Turbidity_G03/online", "msg": "{\"online\":0}"}
+{"topic": "/DNH/Turbidity_G04/online", "msg": "{\"online\":0}"}
+{"topic": "/SPA/WuLai/T_P", "msg": "{\n    \"Temp\" : 58.1,\n    \"Pres\" : 25.6\n}\n"}
+{"topic": "/DNH/Turbidity_G01/data", "msg": "{\"message_id\":\"63641\",\"devices\":{\"slave1\":{\"comm_status\":1,\"variables\":{\"G01\":18}}},\"version\":\"4.0\"}"}

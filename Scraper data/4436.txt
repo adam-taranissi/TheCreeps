@@ -1,0 +1,4 @@
+{"IP": "96.224.31.247"}
+{"topic": "openevse/announce/e154", "msg": "{\"state\":\"connected\",\"id\":\"9c9c1fd9e154\",\"name\":\"openevse-e154\",\"mqtt\":\"openevse_freeport\",\"http\":\"http://172.18.197.61/\"}"}
+{"topic": "openevse/announce/d24c", "msg": "{\"state\":\"disconnected\",\"id\":\"246f28ced24c\",\"name\":\"openevse-d24c\"}"}
+{"topic": "openevse/announce/d770", "msg": "{\"state\":\"connected\",\"id\":\"9c9c1fd9d770\",\"name\":\"openevse-d770\",\"mqtt\":\"openevse\",\"http\":\"http://192.168.86.33/\"}"}

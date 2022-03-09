@@ -1,0 +1,2 @@
+{"IP": "13.58.251.20"}
+{"topic": "esp32/output", "msg": "off"}

@@ -1,0 +1,7 @@
+{"IP": "107.179.105.42"}
+{"topic": "StatusOverview", "msg": "{\"action\":\"update\",\"table\":\"variables\",\"displayvalue\":\"204.5\",\"id\":\"11\",\"value\":\"204.5\"}"}
+{"topic": "StatusDetails", "msg": "{\"action\":\"update\",\"table\":\"variables\",\"displayvalue\":\"204.5\",\"id\":\"11\",\"value\":\"204.5\"}"}
+{"topic": "ConfigurationDeviceSettings", "msg": "{\"action\":\"update\",\"table\":\"variables\",\"displayvalue\":\"204.5\",\"id\":\"11\",\"value\":\"204.5\"}"}
+{"topic": "StatusOverview", "msg": "{\"action\":\"update\",\"table\":\"variables\",\"displayvalue\":\"204.5\",\"id\":\"21\",\"value\":\"204.5\"}"}
+{"topic": "StatusDetails", "msg": "{\"action\":\"update\",\"table\":\"variables\",\"displayvalue\":\"204.5\",\"id\":\"21\",\"value\":\"204.5\"}"}
+{"topic": "ConfigurationDeviceSettings", "msg": "{\"action\":\"update\",\"table\":\"variables\",\"displayvalue\":\"204.5\",\"id\":\"21\",\"value\":\"204.5\"}"}

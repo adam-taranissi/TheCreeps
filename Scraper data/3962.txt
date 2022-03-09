@@ -1,0 +1,8 @@
+{"IP": "107.175.69.104"}
+{"topic": "tele/Felinar-terasa/LWT", "msg": "Online"}
+{"topic": "tele/Lumini-terasa/LWT", "msg": "Online"}
+{"topic": "tele/garaj/LWT", "msg": "Online"}
+{"topic": "tele/Proiector-spre-gratar/LWT", "msg": "Online"}
+{"topic": "tele/pod/LWT", "msg": "Online"}
+{"topic": "tele/Beculete-curte/LWT", "msg": "Online"}
+{"topic": "tele/Boiler/LWT", "msg": "Online"}

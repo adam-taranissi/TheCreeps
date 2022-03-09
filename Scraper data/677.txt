@@ -1,0 +1,7 @@
+{"IP": "54.213.216.119"}
+{"topic": "abc/123", "msg": "XYZ"}
+{"topic": "483fda88d2c0/user", "msg": "{\"action\":\"ReportDeviceStatus\",\"params\":{},\"source\":\"device_483fda88d2c0\"}"}
+{"topic": "bcddc252a41b/user", "msg": "{\"action\":\"ReportNetworkStatus\",\"params\":{},\"source\":\"device_bcddc252a41b\"}"}
+{"topic": "e09806a46686/user", "msg": "{\n\t\"action\":\t\"ReportDeviceStatus\",\n\t\"params\":\t{\n\t\t\"watering\":\t0,\n\t\t\"zone\":\t11,\n\t\t\"schedule\":\t175037888\n\t},\n\t\"source\":\t\"device_e09806a46686\"\n}"}
+{"topic": "807d3a27b410/user", "msg": "{\"action\":\"ReportNetworkStatus\",\"params\":{},\"source\":\"device_807d3a27b410\"}"}
+{"topic": "483fda88c9f7/user", "msg": "{\"action\":\"ReportNetworkStatus\",\"params\":{},\"source\":\"device_483fda88c9f7\"}"}

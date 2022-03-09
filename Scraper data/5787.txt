@@ -1,0 +1,33 @@
+{"IP": "73.114.91.45"}
+{"topic": "player/status/volume", "msg": "1.000000"}
+{"topic": "player/status/zone/0/volume", "msg": "1.000000"}
+{"topic": "player/status/error", "msg": "Exception while requesting updated content, Error Code : 4016, Exception : Failure when receiving data from the peer, Exception Code : curl_easy:56"}
+{"topic": "status/media_library/window", "msg": "{\"from\":\"2022-03-08T00:00:00\", \"timestamp\":\"2022-03-08T18:01:11Z\", \"to\":\"2022-03-09T00:00:00\"}"}
+{"topic": "status/media_library/stats", "msg": "{\"base\":432, \"count\":432, \"timestamp\":\"2022-03-08T22:56:14Z\", \"total\":433}"}
+{"topic": "status/media_library/stats/schedule", "msg": "{\"base\":156, \"count\":156, \"timestamp\":\"2022-03-08T22:56:14Z\", \"total\":156}"}
+{"topic": "status/media_library/stats/default", "msg": "{\"base\":278, \"count\":278, \"timestamp\":\"2022-03-08T22:56:14Z\", \"total\":279}"}
+{"topic": "status/media_library/stats/library", "msg": "{\"base\":0, \"count\":0, \"timestamp\":\"2022-03-08T22:56:14Z\", \"total\":0}"}
+{"topic": "status/media_library/current/category", "msg": "{\"timestamp\":\"2022-03-08T22:56:14Z\", \"value\":\"none\"}"}
+{"topic": "status/media_library/current/item", "msg": "{\"category\":\"(default,)\", \"location\":\"grrid\\/encrypted_mono\\/music_0\\/2152b827691e4840aa1930dbaa9be6e0_m_enc\", \"timestamp\":\"2022-03-08T22:56:14Z\"}"}
+{"topic": "status/media_library/current/retry", "msg": "{\"timestamp\":\"2022-03-08T22:56:14Z\", \"value\":\"2022-03-09T08:02:22Z\"}"}
+{"topic": "status/media_library/downloads/failed", "msg": "{\"timestamp\":\"2022-03-08T22:56:14Z\", \"value\":15}"}
+{"topic": "status/media_library/downloads/successful", "msg": "{\"timestamp\":\"2022-03-08T14:18:57Z\", \"value\":1}"}
+{"topic": "config/banned_list_revision", "msg": "174"}
+{"topic": "config/checkin_interval", "msg": "180"}
+{"topic": "config/download_hours/from", "msg": "\"00:00:00\""}
+{"topic": "config/download_hours/to", "msg": "\"24:00:00\""}
+{"topic": "config/grrid_player_service_uri", "msg": "\"https:\\/\\/sprint.retailradio.biz\""}
+{"topic": "config/max_used_space", "msg": "512000"}
+{"topic": "config/media_key_code", "msg": "\"A6uB\""}
+{"topic": "config/media_library_path", "msg": "\"\\/media\\/card\\/stage\\/music\""}
+{"topic": "config/min_free_space", "msg": "500"}
+{"topic": "config/network/network_psk", "msg": "\"\""}
+{"topic": "config/network/network_type", "msg": "\"wep\""}
+{"topic": "config/network/ssid", "msg": "\"SENDemo\""}
+{"topic": "config/network/wired", "msg": "\"false\""}
+{"topic": "config/network_throttle", "msg": "0"}
+{"topic": "config/rackspace_cloud_service_auth_uri", "msg": "\"https:\\/\\/auth.api.rackspacecloud.com\\/v1.1\\/auth\""}
+{"topic": "config/revision", "msg": "843"}
+{"topic": "config/timezone", "msg": "\"America\\/Chicago\""}
+{"topic": "config/zone0.volume", "msg": "1"}
+{"topic": "config/zone1.volume", "msg": "0"}

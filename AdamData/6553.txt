@@ -1,0 +1,1 @@
+{"topic": "clients/mqttwarn", "msg": "1"}{"topic": "events/disconnect", "msg": "Last will and testament."}

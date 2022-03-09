@@ -1,0 +1,1 @@
+{"topic": "Kimberton/state", "msg": "LWT"}{"topic": "Conrail Delair 2.07/state", "msg": "LWT"}{"topic": "bellwether/Kimberton/state", "msg": "DISCONNECTING"}

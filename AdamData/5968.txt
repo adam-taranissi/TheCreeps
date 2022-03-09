@@ -1,0 +1,1 @@
+{"topic": "12345678", "msg": "abc\r\n"}{"topic": "098/command", "msg": "star;"}{"topic": "abc/123", "msg": "XYZ"}

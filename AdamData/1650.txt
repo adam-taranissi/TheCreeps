@@ -1,0 +1,1 @@
+{"topic": "abc/123", "msg": "XYZ"}{"topic": "esp32/output13", "msg": "off"}

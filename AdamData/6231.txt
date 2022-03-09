@@ -1,0 +1,1 @@
+{"topic": "/1565/status", "msg": "1565,True,True,False"}

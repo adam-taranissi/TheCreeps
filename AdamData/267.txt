@@ -1,0 +1,1 @@
+{"topic": "POWER-WAKEUP", "msg": "da"}

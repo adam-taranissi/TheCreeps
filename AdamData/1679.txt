@@ -1,0 +1,1 @@
+{"topic": "2CF05D6D5407-DESKTOP-OGHSUIG-Nexus", "msg": "0"}{"topic": "00155D3F664C-DESKTOP-V39AIGR-Nexus", "msg": "0"}

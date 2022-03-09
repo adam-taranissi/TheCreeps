@@ -1,0 +1,1 @@
+{"topic": "Aircharge/04A316F947C9/WirelessChargingService/registry", "msg": "{\"metrics\":{\"chargers\":\"\"}}"}{"topic": "Aircharge/4C3FD351FBCF/WirelessChargingService/registry", "msg": "{\"metrics\":{\"chargers\":\"680AE2658092;000B571C4A0E;\"}}"}{"topic": "shellies/shelly1pm-F2FD3B/relay/0/command", "msg": "on"}{"topic": "abc/123", "msg": "XYZ"}

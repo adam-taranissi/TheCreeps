@@ -1,0 +1,1 @@
+{"topic": "testmqtt", "msg": "{\"val\":7,\"id\":\"1237\"}"}{"topic": "abc/123", "msg": "XYZ"}

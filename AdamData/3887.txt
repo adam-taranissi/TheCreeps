@@ -1,0 +1,1 @@
+{"topic": "owntracks/wadeb/pixel2xl", "msg": "{\"_type\":\"location\",\"acc\":16,\"alt\":1,\"batt\":100,\"conn\":\"m\",\"lat\":43.6322254,\"lon\":-70.2352781,\"tid\":\"xl\",\"tst\":1563531102,\"vac\":2,\"vel\":0}"}{"topic": "OpenZWave/1/status/", "msg": "{\n    \"Status\": \"Offline\"\n}"}

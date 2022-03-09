@@ -1,0 +1,1 @@
+{"topic": "Luis/response/login", "msg": "{\"topic\":\"login\",\"response\":\"OK\",\"code\":200,\"date\": \"08/01/2018\", \"body\": {\"id\":1, \"username\":\"Luis\", \"firstName\":\"Luis Alberto\",\"lastName\":\"Lopez\", \"addresss\":\"Av. Conchitas\", \"rfc\": \"XX0XXX0XX0\"}}\n"}

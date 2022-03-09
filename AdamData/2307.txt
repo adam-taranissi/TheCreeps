@@ -1,0 +1,1 @@
+{"topic": "raw/10327358/status", "msg": "disconnected"}{"topic": "raw/10327358/ip", "msg": "10.197.42.117"}{"topic": "raw/status", "msg": "disconnected"}{"topic": "raw/ip", "msg": "10.197.42.120"}{"topic": "GPS/status", "msg": "disconnected"}{"topic": "GPS/ip", "msg": "10.197.42.131"}{"topic": "level/status", "msg": "disconnected"}{"topic": "level/ip", "msg": "10.197.42.123"}

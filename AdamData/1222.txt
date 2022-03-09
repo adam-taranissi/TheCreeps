@@ -1,0 +1,1 @@
+{"topic": "64510631E710-DESKTOP-46L81K2-Nexus", "msg": "0"}{"topic": "0023240D39ED-DESKTOP-EMHTJ0Q-Nexus", "msg": "0"}{"topic": "90489A2DD14B-CINTHYA-Nexus", "msg": "0"}{"topic": "40167E685F38-JOHAN-Nexus", "msg": "0"}{"topic": "00090FAA0001-JOHAN-Nexus", "msg": "0"}

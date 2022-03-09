@@ -1,0 +1,1 @@
+{"topic": "Sensor_JMS", "msg": "35"}{"topic": "abc/123", "msg": "XYZ"}

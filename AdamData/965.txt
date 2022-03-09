@@ -1,0 +1,1 @@
+{"topic": "checkOn", "msg": "{}"}{"topic": "command/DOROTI-A001", "msg": "{\"messageId\":544361264,\"command\":\"solicitarInventario\"}"}{"topic": "command/IPTA-E-A027", "msg": "{\"messageId\":544361260,\"command\":\"solicitarInventario\"}"}

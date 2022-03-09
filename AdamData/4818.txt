@@ -1,0 +1,1 @@
+{"topic": "/system/log-uploader/1-Plunger01/status", "msg": "{\"lastAttempt\":{\"name\":\"/media/mmcblk0p1/1-Plunger01/20220309-080000.log\",\"at\":\"2022-03-09T09:00:06.378Z\",\"status\":\"success\"},\"lastSuccess\":{\"name\":\"/media/mmcblk0p1/1-Plunger01/20220309-080000.log\",\"at\":\"2022-03-09T09:00:06.378Z\"},\"fileUploadCount\":1680}"}

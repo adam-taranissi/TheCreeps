@@ -1,0 +1,1 @@
+{"topic": "myavailability/topic", "msg": "offline"}

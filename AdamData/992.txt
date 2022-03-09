@@ -1,0 +1,1 @@
+{"topic": "abc/123", "msg": "XYZ"}{"topic": "asohajdr/01/Di9", "msg": "1"}{"topic": "asohajdr/01/Di10", "msg": "0"}{"topic": "asohajdr/01/Di11", "msg": "0"}

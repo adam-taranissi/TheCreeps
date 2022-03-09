@@ -1,0 +1,1 @@
+{"topic": "Antonio ", "msg": "aciona=portao"}{"topic": "alarme ", "msg": "alarm=off"}{"topic": "estacao1", "msg": "message"}{"topic": "abc/123", "msg": "XYZ"}

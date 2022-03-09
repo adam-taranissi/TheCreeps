@@ -1,0 +1,1 @@
+{"topic": "fujo/tank", "msg": "9895.00"}{"topic": "fujo/tank/volume", "msg": "0.00"}{"topic": "fujo/tank/percent", "msg": "0.00"}{"topic": "flowmeter/flowrate", "msg": "0.00"}{"topic": "flowmeter/volume", "msg": "0.00"}

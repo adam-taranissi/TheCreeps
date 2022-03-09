@@ -1,0 +1,1 @@
+{"topic": "atlantico/cisterna_B", "msg": "26867.46"}{"topic": "atlantico/app/cisterna_B", "msg": "26867.783333333336"}{"topic": "nadir/cisterna_A", "msg": "33.09899"}{"topic": "nadir/app/cisterna_A", "msg": "80561.18376383765"}{"topic": "nadir/caixa", "msg": "57.79999"}{"topic": "nadir/app/caixa", "msg": "38245.16387096774"}{"topic": "atlantico/cisterna_A", "msg": "25070.548"}

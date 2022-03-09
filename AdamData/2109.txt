@@ -1,0 +1,1 @@
+{"topic": "gateway/3436323825005300/state/conn", "msg": "\n\b4628%\u0000S\u0000\u0010\u0001"}{"topic": "gateway/3436323825005200/state/conn", "msg": "\n\b4628%\u0000R\u0000\u0010\u0001"}

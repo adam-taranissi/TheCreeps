@@ -1,0 +1,1 @@
+{"topic": "teleira/test", "msg": "{\"message\":\"Hello91\"}"}{"topic": "vctest/test", "msg": "{\"message\":\"Hello 173 mqtt\"}"}{"topic": "abc/123", "msg": "XYZ"}

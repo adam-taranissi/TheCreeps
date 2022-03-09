@@ -1,0 +1,1 @@
+{"topic": "STATE/ignition-azure", "msg": "OFFLINE"}

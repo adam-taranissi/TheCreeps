@@ -1,0 +1,1 @@
+{"topic": "test", "msg": "25.75"}{"topic": "hendrix", "msg": "Status sensor 1:\n\nhendrix/home office/temp=28.56C.\nhendrix/home office/max_temp=6C.\nhendrix/home office/interval=30segundos\n\u0000"}{"topic": "hendrix/", "msg": "OFF_LINE"}{"topic": "hendrix/home office/", "msg": "OFF_LINE"}

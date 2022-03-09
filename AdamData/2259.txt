@@ -1,0 +1,1 @@
+{"topic": "alarma/testbarrial", "msg": "F"}{"topic": "alarma/shwTotoB1", "msg": "F"}{"topic": "alarma/phy-004", "msg": "F"}{"topic": "alarma/velezjulita93@gmail.com", "msg": "N"}

@@ -1,0 +1,1 @@
+{"topic": "SONO_OUT006/DATA", "msg": "{\"ruido\":45.89}"}{"topic": "SONO_OUT006/DATA", "msg": "{\"ruido\":51.13}"}{"topic": "SONO_OUT006/DATA", "msg": "{\"ruido\":46.34}"}{"topic": "SONO_OUT006/DATA", "msg": "{\"ruido\":45.69}"}

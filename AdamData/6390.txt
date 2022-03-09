@@ -1,0 +1,1 @@
+{"topic": "tasmota/discovery/84F3EB31A004/sensors", "msg": "{\"sn\":{\"Time\":\"2022-03-09T12:54:25\",\"Switch1\":\"ON\",\"AM2301\":{\"Temperature\":28.0,\"Humidity\":45.8,\"DewPoint\":15.2},\"TempUnit\":\"C\"},\"ver\":1}"}{"topic": "cmnd/319B9B/Status", "msg": "10"}

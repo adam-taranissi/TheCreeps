@@ -1,0 +1,1 @@
+{"topic": "luces/huerto/available", "msg": "online"}{"topic": "riego/pozo/available", "msg": "online"}{"topic": "movimiento/pozo", "msg": "1"}{"topic": "abc/123", "msg": "XYZ"}

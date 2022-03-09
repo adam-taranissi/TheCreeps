@@ -1,0 +1,1 @@
+{"topic": "Lobster -MQTT-Active", "msg": "Connected"}{"topic": "Lobster -MQTT-Deactive", "msg": "Bye"}{"topic": "house/s2", "msg": "98765"}

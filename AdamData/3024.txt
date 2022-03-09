@@ -1,0 +1,1 @@
+{"topic": "MK103-A84A/HDPSVICK/device_to_app", "msg": "$\bHDPSVICK\u0000\u0001\u0001"}{"topic": "MK103-6DA6/H103BTGT200/device_to_app", "msg": "$\u000bH103BTGT200\u0000\u0001\u0001"}

@@ -1,0 +1,1 @@
+{"topic": "abc/123", "msg": "XYZ"}{"topic": "farm/shed/heartbeat/sensor83", "msg": "0.2.1.0.0"}

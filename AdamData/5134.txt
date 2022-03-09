@@ -1,0 +1,1 @@
+{"topic": "dev002/buenos", "msg": "0"}{"topic": "dev002/wifi", "msg": "-52"}

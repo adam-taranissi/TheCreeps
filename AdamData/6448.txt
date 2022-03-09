@@ -1,0 +1,1 @@
+{"topic": "abc/123", "msg": "XYZ"}{"topic": "cd_dk_demo/e_fence/voltage", "msg": "t=1646622160&1=356&2=4815&3=-101&4=-123&5=0"}

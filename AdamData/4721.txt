@@ -1,0 +1,1 @@
+{"topic": "abc/123", "msg": "XYZ"}{"topic": "lab/iot", "msg": "{\"Node\":11,\"Temp\":23.40,\"Humid\":14.20,\"VBat\":4.25,\"Type\":\"T\"}"}{"topic": "lab/iot", "msg": "{\"Node\":11,\"Temp\":23.40,\"Humid\":14.20,\"VBat\":4.25,\"Type\":\"T\"}"}

@@ -1,0 +1,1 @@
+{"topic": "/Tuffduino/Brian/Temp", "msg": "68.68"}

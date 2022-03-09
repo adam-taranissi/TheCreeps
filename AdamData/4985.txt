@@ -1,0 +1,1 @@
+{"topic": "v1/devices/me/telemetry", "msg": "{\"ambient_room_temperature\":68.52,\"watertemp\":71.15,\"ambient_room_pressure\":99742.04,\"ambient_room_humidity\":42.18,\"wifi\":-75}"}

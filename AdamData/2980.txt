@@ -1,0 +1,1 @@
+{"topic": "system/resources/listen", "msg": "{\"memory_used\": 335104, \"disk_usage_data\": 5, \"uptime\": 5473710, \"cpu_total\": 4.0, \"memory_free\": \"509460\", \"disk_usage_log\": 2, \"datetime\": \"2022-03-09T07:18:24.669167Z\", \"status\": \"OK\", \"rtc_battery\": 3.074}"}

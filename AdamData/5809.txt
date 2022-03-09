@@ -1,0 +1,1 @@
+{"topic": "bxc8xc9xa3xfax051119/data", "msg": "{'x': 65.0, 'ext_temp': 24.45, 'z': 5.0, 'ext_target': 0.0, 'bed_target': 0.0, 'bed_temp': 24.22, 'printing': False, '%': None, 'y': 65.0}"}

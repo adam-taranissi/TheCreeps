@@ -1,0 +1,1 @@
+{"topic": "606500", "msg": "OFFLINE"}{"topic": "4639024", "msg": "OFFLINE"}{"topic": "10259376", "msg": "OFFLINE"}{"topic": "10038420", "msg": "OFFLINE"}{"topic": "4659561", "msg": "OFFLINE"}{"topic": "9985234", "msg": "OFFLINE"}

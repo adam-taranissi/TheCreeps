@@ -1,0 +1,1 @@
+{"topic": "abc/123", "msg": "XYZ"}{"topic": "WATCHDOG_MQTT_AWS", "msg": "70"}{"topic": "WATCHDOG_MQTT_AWS", "msg": "71"}{"topic": "WATCHDOG_MQTT_AWS", "msg": "72"}{"topic": "WATCHDOG_MQTT_AWS", "msg": "73"}{"topic": "WATCHDOG_MQTT_AWS", "msg": "74"}{"topic": "WATCHDOG_MQTT_AWS", "msg": "75"}

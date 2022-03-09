@@ -1,0 +1,1 @@
+{"topic": " DEV/baes/server/23", "msg": "111"}{"topic": "/track/gpsdevice1/gps", "msg": "{\"latitude\":0,\"longitude\":0}"}

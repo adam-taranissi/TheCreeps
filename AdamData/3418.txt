@@ -1,0 +1,1 @@
+{"topic": "ESP32_1/Status", "msg": "ESP32 #1 ONLINE"}{"topic": "Status", "msg": "LiNode NodeRed ONLINE"}{"topic": "ESP32_1/Led", "msg": "LED #1 - ON"}

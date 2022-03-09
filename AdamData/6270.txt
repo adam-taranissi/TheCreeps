@@ -1,0 +1,1 @@
+{"topic": "global/online", "msg": "{\"credentials\":\"001100b00127ac011ac99555\",\"hardwareId\":\"iVNQVk1mev\",\"isOnline\":1,\"timestamp\":1646317023,\"certSerial\":\"1571334cd32971edb01ad5eb09d513361445d688\"}"}

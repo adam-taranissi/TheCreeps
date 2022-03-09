@@ -1,0 +1,1 @@
+{"topic": "abc/123", "msg": "XYZ"}{"topic": "pqghju76d4/staging", "msg": "{\"status\":\"available\",\"slot_id\":36966}"}{"topic": "pqghju76d4/staging", "msg": "{\"status\":\"available\",\"slot_id\":36977}"}

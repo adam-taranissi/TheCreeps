@@ -1,0 +1,1 @@
+{"topic": "sensors/rtl_433/P50/C2/time", "msg": "2022-03-09T05:32:08"}{"topic": "sensors/rtl_433/P50/C2/protocol", "msg": "50"}{"topic": "sensors/rtl_433/P50/C2/id", "msg": "12"}{"topic": "sensors/rtl_433/P50/C2/channel", "msg": "2"}{"topic": "sensors/rtl_433/P50/C2/battery_ok", "msg": "1"}

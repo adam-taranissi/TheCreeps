@@ -1,0 +1,1 @@
+{"topic": "abc/123", "msg": "XYZ"}{"topic": "outTopic", "msg": "{\"tem\":25.00,\"hum\":36.00}"}

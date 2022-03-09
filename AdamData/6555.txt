@@ -1,0 +1,1 @@
+{"topic": "device/B4:E6:2D:37:74:6E/levelInfo", "msg": "{\"sensor_id\":\"1\",\"valor\":\"19.4464\"}"}{"topic": "device/B4:E6:2D:2A:74:6D/levelInfo", "msg": "{\"sensor_id\":\"1\",\"valor\":\"110.4717\"}"}

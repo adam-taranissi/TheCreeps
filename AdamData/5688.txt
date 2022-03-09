@@ -1,0 +1,1 @@
+{"topic": "abc/123", "msg": "XYZ"}{"topic": "location/parents/sensors/wineroom1", "msg": "temp 15.51 humidity 33.0"}

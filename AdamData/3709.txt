@@ -1,0 +1,1 @@
+{"topic": "test", "msg": "A0"}{"topic": "B", "msg": "B0"}{"topic": "A", "msg": "B0"}{"topic": "A", "msg": "B0"}{"topic": "A", "msg": "B0"}{"topic": "A", "msg": "B0"}{"topic": "A", "msg": "B0"}{"topic": "A", "msg": "B0"}{"topic": "A", "msg": "B0"}

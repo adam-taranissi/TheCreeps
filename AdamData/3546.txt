@@ -1,0 +1,1 @@
+{"topic": "/GTW/AB9CDC/IR/23", "msg": "65401"}{"topic": "/GTW/AB9B60/IR/8", "msg": "373"}{"topic": "/GTW/AB9C78/IR/8", "msg": "65470"}{"topic": "/GTW/AB9C78/IR/23", "msg": "65494"}

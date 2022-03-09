@@ -1,0 +1,1 @@
+{"topic": "SUCCESS", "msg": "Hello"}{"topic": "GVC003", "msg": "*VEND,1234,1000#"}{"topic": "OUT", "msg": "2\n"}{"topic": "IN", "msg": "2\n"}

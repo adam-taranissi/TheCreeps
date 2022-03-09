@@ -1,0 +1,1 @@
+{"topic": "monitor/tenant/stg-gillautogroup/dealer/1/hw/ops/0008004a1896", "msg": "{\"status\":0}"}{"topic": "abc/123", "msg": "XYZ"}

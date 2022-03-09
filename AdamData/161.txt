@@ -1,0 +1,1 @@
+{"topic": "smarthome/room1/led", "msg": "0"}

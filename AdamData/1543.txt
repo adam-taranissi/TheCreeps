@@ -1,0 +1,1 @@
+{"topic": "esp32/output1", "msg": "0"}{"topic": "esp32/output1", "msg": "0"}{"topic": "esp32/output1", "msg": "0"}{"topic": "esp32/output1", "msg": "0"}{"topic": "esp32/output1", "msg": "0"}{"topic": "esp32/output1", "msg": "0"}

@@ -1,0 +1,1 @@
+{"topic": "abc/123", "msg": "XYZ"}{"topic": "tusmart/maint/power/delhi/tpddt/21/1", "msg": "LVIoT-DT-TP-A-11/91:4174"}{"topic": "tusmart/maint/power/delhi/tpddt/21/1", "msg": "LVIoT-DT-TP-A-11/92:336"}

@@ -1,0 +1,1 @@
+{"topic": "bms/55222/bms/cur", "msg": "{\"ts\":1646824530,\"ver\":3,\"id\":\"00000000\",\"data\":\"AQAABGIAAAAB\"}"}

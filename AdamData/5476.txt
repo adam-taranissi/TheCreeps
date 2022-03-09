@@ -1,0 +1,1 @@
+{"topic": "PUMP", "msg": "{\"IMEI\":\"865006041174450\",\"CT\":\"ON\",\"CH\":\"ON\",\"ST\":\"ON\",\"M1S\":\"\r\nMOTOR 1 IS OFF MOTOR 2 IS ON\r\n\"}"}

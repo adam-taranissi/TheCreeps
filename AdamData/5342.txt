@@ -1,0 +1,1 @@
+{"topic": "door/status", "msg": ""}{"topic": "door/status", "msg": ""}{"topic": "door/status", "msg": ""}{"topic": "door/status", "msg": ""}

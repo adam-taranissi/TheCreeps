@@ -1,0 +1,1 @@
+{"topic": "tele/MyEnergy/LWT", "msg": "Offline"}{"topic": "tele/sonoff/LWT", "msg": "Online"}{"topic": "stat/MyEnergy/RESULT", "msg": "Successful. RestartingMyEnergy_B8F7C3"}{"topic": "abc/123", "msg": "XYZ"}

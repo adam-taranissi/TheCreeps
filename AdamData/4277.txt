@@ -1,0 +1,1 @@
+{"topic": "OpenZWave/1/status/", "msg": "{\n    \"Status\": \"Offline\"\n}"}

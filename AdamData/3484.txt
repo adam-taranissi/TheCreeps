@@ -1,0 +1,1 @@
+{"topic": "wled/48a23b", "msg": "68"}{"topic": "wled/48a23b/g", "msg": "0"}{"topic": "wled/48a23b/c", "msg": "#FFFFFF"}{"topic": "wled/48a23b/status", "msg": "online"}

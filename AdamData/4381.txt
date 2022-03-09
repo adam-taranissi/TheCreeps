@@ -1,0 +1,1 @@
+{"topic": "abc/123", "msg": "XYZ"}{"topic": "iotluces", "msg": "Xmh1nWGvoqdhc3F0a2loYWldbZlomqimX2NkamFkW2JmYm0="}

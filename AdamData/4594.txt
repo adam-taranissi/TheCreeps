@@ -1,0 +1,1 @@
+{"topic": "DPSG!1766", "msg": "{\"projectName\":\"DPSG\",\"m_id\":\"1766\",\"p_id\":\"1191\",\"comm\":\"06\",\"status\":\"offline\"}"}

@@ -1,0 +1,1 @@
+{"topic": "testtopic/1", "msg": "hello"}{"topic": "abc/123", "msg": "XYZ"}

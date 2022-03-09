@@ -1,0 +1,1 @@
+{"topic": "application/01/node/3930323576378104/tx", "msg": "{  \"confirmed\": true,\n  \"data\": \"0101\",\n  \"devEUI\": \"3930323576378104\",\n  \"fPort\": 0,\n  \"jsonObject\": \"\",\n  \"reference\": \"string\"\n}"}

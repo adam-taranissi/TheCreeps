@@ -1,0 +1,1 @@
+{"topic": "iris/sb00035", "msg": "{\n            \"ReadingInterval\": 21600,\n            \"SendingInterval\": 4\n        }"}{"topic": "iris/sb00055", "msg": "{\n        \"Hibernate\": 1\n        }"}{"topic": "iris/sb00066", "msg": "{\n        \"Hibernate\": 1\n        }"}

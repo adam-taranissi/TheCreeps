@@ -1,0 +1,1 @@
+{"topic": "klever/web", "msg": "{\"call_method\": \"online_data\", \"req_topic\": \"5a3544df\", \"access_key\": \"5a3544df\", \"updated_time\": \"2022-03-09 09:23:40\", \"db_name\": \"project_competence\", \"datastr\": {\"app\": \"msedge.exe\", \"title\": \"Inbox (3) - ishan.sethi@torfac.com - torfac.com Mail and 4 more pages - Personal - Microsoft  Edge\", \"url\": \"\"}}"}

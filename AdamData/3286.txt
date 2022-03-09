@@ -1,0 +1,1 @@
+{"topic": "esp8266_3/led", "msg": "off"}{"topic": "esp8266_4/temp", "msg": "73.2"}{"topic": "esp8266_4/humid", "msg": "91.1"}

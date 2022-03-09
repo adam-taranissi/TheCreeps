@@ -1,0 +1,1 @@
+{"topic": "alarm1Status", "msg": "1"}{"topic": "alarm2Status", "msg": "1"}

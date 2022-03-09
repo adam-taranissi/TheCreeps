@@ -1,0 +1,1 @@
+{"topic": "ping/aa5ebb03-7147-4b92-97bd-29e248f10d31", "msg": "\"aa5ebb03-7147-4b92-97bd-29e248f10d31\""}{"topic": "pong", "msg": "aa5ebb03-7147-4b92-97bd-29e248f10d31"}

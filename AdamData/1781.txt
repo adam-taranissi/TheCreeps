@@ -1,0 +1,1 @@
+{"topic": "ActiveMQ/Advisory/Consumer/Topic/#", "msg": ""}{"topic": "mq/auth/msg/topic", "msg": "{\"method\":\"vms.deleteAdminSession\",\"info\":{\"userId\":\"0\",\"sessionId\":\"3BABA3CFF9C42AB52AE86B8CEDC6C20B\"},\"id\":\"53\"}"}

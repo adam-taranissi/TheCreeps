@@ -1,0 +1,1 @@
+{"topic": "sensor/temperature", "msg": "69.62"}{"topic": "sensor/humidity", "msg": "24.50"}

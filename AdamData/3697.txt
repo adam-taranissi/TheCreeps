@@ -1,0 +1,1 @@
+{"topic": "KEYFOB", "msg": "\b\n"}{"topic": "ENGINE", "msg": "\b\u0001"}{"topic": "DOOR", "msg": "\b\u0001 \u0001"}{"topic": "EXTERNALCLOSURE", "msg": "\b\u0001\u0018\u0002"}{"topic": "APPSTATUS", "msg": "\b\u0001"}{"topic": "CABIN", "msg": "\b\u0003\u001d\u0000\u0000^B"}{"topic": "PETMODESTATUS", "msg": "\u0010\u001a\u0018<0\u0001"}

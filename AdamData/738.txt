@@ -1,0 +1,1 @@
+{"topic": "/Space/License/67890/getLicense", "msg": "{\"code\": \"audit\"}"}{"topic": "/Space/License/67890/getLicense", "msg": "{\"license\": null, \"success\": false}"}{"topic": "/Space/License/73879/getLicense", "msg": "{\"code\": \"audit\"}"}

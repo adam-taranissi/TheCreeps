@@ -1,0 +1,1 @@
+{"topic": "ObsidianTest", "msg": "Hello\n"}{"topic": "abc/123", "msg": "XYZ"}

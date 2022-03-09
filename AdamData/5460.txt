@@ -1,0 +1,1 @@
+{"topic": "/home/licor/device/LI-8100", "msg": "{\"hostname\": \"\"}"}{"topic": "/home/licor/usb/event", "msg": "mounted"}

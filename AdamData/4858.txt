@@ -1,0 +1,1 @@
+{"topic": "teslamate/cars/1/since", "msg": "2022-03-09T05:39:59.809202Z"}{"topic": "teslamate/cars/1/version", "msg": "2022.4.5.1"}{"topic": "teslamate/cars/1/battery_level", "msg": "92"}{"topic": "teslamate/cars/1/ideal_battery_range_km", "msg": "399.17"}{"topic": "teslamate/cars/1/trim_badging", "msg": "50"}

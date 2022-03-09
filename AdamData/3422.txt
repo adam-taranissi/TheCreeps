@@ -1,0 +1,1 @@
+{"topic": "417_148", "msg": "{\"coor\":\"-2.353797,-78.967495\",\"alt\":\"2814.4\",\"vel\":\"36.32\",\"p_ent\":\"9\",\"p_sal\":\"6\",\"p_abor\":\"4\",\"direccion\":\"Panamericana, Tinajeras, Llagos, Chunchi, Chimborazo, Ecuador\"}"}

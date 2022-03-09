@@ -1,0 +1,1 @@
+{"topic": "3/lastwill", "msg": "I am disconnected !!!"}{"topic": "4/lastwill", "msg": "I am disconnected !!!"}{"topic": "2/lastwill", "msg": "I am disconnected !!!"}

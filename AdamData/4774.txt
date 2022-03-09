@@ -1,0 +1,1 @@
+{"topic": "esptrigger/gkchod01/hb", "msg": "gkchod01 2022-03-09 10:45:14"}{"topic": "esptrigger/dev01/hb", "msg": "dev01 2021-05-01 17:38:57"}{"topic": "test/log", "msg": "test 5"}{"topic": "test/log2", "msg": "test 1"}

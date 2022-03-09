@@ -1,0 +1,1 @@
+{"topic": "retain", "msg": "6"}

@@ -1,0 +1,1 @@
+{"topic": "location/79000", "msg": "last_latitude|12.93497984902849, last_longitude|77.62480091303587, rider_id|79000, time|2022-03-09 05:11:59, accuracy|1.5981712, src|MOCKED, bearing|0.0, speed|0.0"}

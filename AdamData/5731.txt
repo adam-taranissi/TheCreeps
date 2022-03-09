@@ -1,0 +1,1 @@
+{"topic": "clients/mqttwarn", "msg": "1"}{"topic": "glseng/presidencia/470101", "msg": "38"}{"topic": "glseng/presidencia/470102", "msg": "21"}

@@ -1,0 +1,1 @@
+{"topic": "serkanin-odasi/status", "msg": "off,off"}{"topic": "serkanin-odasi/status", "msg": "off,off"}{"topic": "serkanin-odasi/status", "msg": "off,off"}

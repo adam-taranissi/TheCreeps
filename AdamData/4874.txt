@@ -1,0 +1,1 @@
+{"topic": "homeassistant/teckin_toaster/LWT", "msg": "Online"}{"topic": "leds/undercabinet", "msg": "{\"state\":\"ON\"}"}{"topic": "leds/undercabinet/set", "msg": "ON"}{"topic": "leds/undercabinet2", "msg": "{\"state\":\"OFF\"}"}

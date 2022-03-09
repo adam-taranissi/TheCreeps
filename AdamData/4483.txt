@@ -1,0 +1,1 @@
+{"topic": "tele/sonoff/LWT", "msg": "Offline"}{"topic": "cmnd/DVES_95FAC6/POWER", "msg": "1"}

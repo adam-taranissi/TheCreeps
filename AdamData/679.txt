@@ -1,0 +1,1 @@
+{"topic": "gateway/2323232323232301/state/conn", "msg": "\n\b#######\u0001"}

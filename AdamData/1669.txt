@@ -1,0 +1,1 @@
+{"topic": "casa/A/t", "msg": "21.00"}{"topic": "casa/A/h", "msg": "46.80"}{"topic": "casa/A/t", "msg": "21.00"}{"topic": "casa/A/h", "msg": "46.80"}{"topic": "casa/A/t", "msg": "21.00"}{"topic": "casa/A/h", "msg": "46.80"}

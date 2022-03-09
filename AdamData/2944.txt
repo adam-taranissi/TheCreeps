@@ -1,0 +1,1 @@
+{"topic": "/company/1594", "msg": "{\"status\": 0, \"battery\": \"100\", \"new_status\": 0, \"longitude\": \"31.3016066\", \"id\": 3436, \"old_status\": 2, \"lat\": \"30.1689108\", \"lng\": \"31.3016066\", \"accuracy\": \"12\", \"speed\": \"5.6\", \"heading\": \"0.0\", \"mock\": false, \"last_seen\": \"09-03-2022 09:14:50\"}"}

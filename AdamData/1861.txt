@@ -1,0 +1,1 @@
+{"topic": "shack/ic7610/power", "msg": "on"}

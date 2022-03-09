@@ -4,7 +4,7 @@ import json
 import time
 
 
-data = pd.read_excel("Data\shodan_query_results.xlsx")
+data = pd.read_excel("Data/shodan_query_results.xlsx")
 print(data.head(5))
 
 # The callback for when the client receives a CONNACK response from the server.
@@ -35,9 +35,9 @@ client.on_message = on_message
 # print(data['IP'][90])
 # client.connect(data['IP'][90], 1883, 60)
 # client.loop_forever()
-
+"""
 fname = ""
-for i in range(50, 100):
+for i in range(0, 50):
     fname = str(i) + ".txt"
     try:
         client.connect(data['IP'][i], 1883, 60)
@@ -57,3 +57,6 @@ for i in range(50, 100):
         
     client.loop_stop()
 
+"""
+
+print(data['IP'][1891])

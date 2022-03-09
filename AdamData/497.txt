@@ -1,0 +1,1 @@
+{"topic": "gateway/b827ebfffe0cf2da/state/conn", "msg": "{\"gatewayID\":\"uCfr//4M8to=\",\"state\":\"OFFLINE\"}"}{"topic": "gateway/a840411b7e104150/state/conn", "msg": "{\"gatewayID\":\"qEBBG34QQVA=\",\"state\":\"OFFLINE\"}"}

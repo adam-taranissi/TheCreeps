@@ -1,0 +1,1 @@
+{"topic": "Curent", "msg": "12.70"}{"topic": "Daya", "msg": "2733.10"}

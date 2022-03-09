@@ -1,0 +1,1 @@
+{"topic": "temperatura_ambiente_marilia_01", "msg": "Quarta-Feira - 03:04:54 ==> nan"}{"topic": "Controle_Ambiente_Marilia_01", "msg": "Fora do Ar"}

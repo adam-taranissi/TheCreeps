@@ -1,0 +1,1 @@
+{"topic": "/", "msg": "test"}{"topic": "/broker/timestamp", "msg": "test"}

@@ -1,0 +1,1 @@
+{"topic": "arduino/uno/co", "msg": "A1:0\r\n"}{"topic": "arduino/uno/analog", "msg": "{\"A0\":606,\"A1\":533,\"A2\":424,\"A3\":356,\"A4\":194,\"A5\":137}\r\n"}{"topic": "abc/123", "msg": "XYZ"}

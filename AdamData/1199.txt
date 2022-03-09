@@ -1,0 +1,1 @@
+{"topic": "basestation/general/alerts/00000008004baa2c", "msg": "{\"message\": \"Online\", \"serial_number\": \"00000008004baa2c\", \"event_type\": \"multitech_ap_general_alert\"}"}

@@ -1,0 +1,1 @@
+{"topic": "events/device", "msg": "{\"devEui\":\"0080000004016637\",\"name\":\"placepod001\",\"presence\":true,\"batteryLevel\":0,\"carCount\":0,\"lastReboot\":\"2022-03-09T05:31:28.806Z\",\"lastUpdated\":\"2022-03-09T05:31:28.806Z\",\"deviceStatus\":true,\"temperature\":0}"}

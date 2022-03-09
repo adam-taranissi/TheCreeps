@@ -1,0 +1,1 @@
+{"topic": "1F76E319CA494865878E9225FBF67626935", "msg": "{\"command\":\"0370\",\"sn\":\"UYCZC4666610\",\"rssi\":-75,\"speed\":0,\"armStatus\":false,\"netStatus\":\"010000\",\"netCount\":7,\"apkver\":\"4.1.23\"}"}

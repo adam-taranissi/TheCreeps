@@ -1,0 +1,1 @@
+{"topic": "tele/i-escritorio-atico1/LWT", "msg": "Online"}{"topic": "cmnd/i-escritorio-atico/POWER1", "msg": "ON"}{"topic": "cmnd/i-escritorio-atico/POWER2", "msg": "OFF"}{"topic": "stat/i-escritorio-atico1/POWER2", "msg": "OFF"}{"topic": "stat/i-escritorio-atico1/POWER1", "msg": "OFF"}

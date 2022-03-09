@@ -1,0 +1,1 @@
+{"topic": "out/wcs/v0", "msg": "0"}{"topic": "Appliances/Grill", "msg": "r"}

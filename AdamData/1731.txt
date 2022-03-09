@@ -1,0 +1,1 @@
+{"topic": "abc/123", "msg": "XYZ"}{"topic": "T1/Gateway2", "msg": "{\"Sensor1_Battery\": 4.21, \"Sensor1_CO2\": 0, \"Sensor1_Humidity\": 15.03, \"Sensor1_Solar\": 14.75, \"Sensor1_Temperature\": 79.52, \"Sensor1_pH\": 23040, \"date\": \"2022-03-09\", \"mac\": \"fa:36:36:0d:fc:42\", \"time\": \"00:31:22\", \"ts\": 1646803882903.0}"}

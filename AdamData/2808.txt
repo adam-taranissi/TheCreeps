@@ -1,0 +1,1 @@
+{"topic": "StatusOverview", "msg": "{\"action\":\"update\",\"table\":\"variables\",\"displayvalue\":\"210.7\",\"id\":\"11\",\"value\":\"210.7\"}"}{"topic": "StatusDetails", "msg": "{\"action\":\"update\",\"table\":\"variables\",\"displayvalue\":\"210.7\",\"id\":\"11\",\"value\":\"210.7\"}"}

@@ -1,0 +1,1 @@
+{"topic": "OpenZWave/1/status/", "msg": "{\n    \"OpenZWave_Version\": \"1.6.1545\",\n    \"OZWDaemon_Version\": \"0.1.180\",\n    \"QTOpenZWave_Version\": \"1.2.0\",\n    \"QT_Version\": \"5.12.9\",\n    \"Status\": \"driverRemoved\",\n    \"TimeStamp\": 1637611742,\n    \"homeID\": 0\n}"}{"topic": "abc/123", "msg": "XYZ"}

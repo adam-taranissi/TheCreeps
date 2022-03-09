@@ -1,0 +1,1 @@
+{"topic": "abc/123", "msg": "XYZ"}{"topic": "ESP_777991", "msg": "1_OFF"}{"topic": "ESP_777002/CMD", "msg": "GPIO-12-OFF"}{"topic": "ESP_777001/CMD", "msg": "GPIO-12-ON"}{"topic": "ESP_777000/CMD", "msg": "GPIO-12-OFF"}{"topic": "ESP_777003/CMD", "msg": "GPIO-12-OFF"}{"topic": "ESP_777004/CMD", "msg": "GPIO-12-OFF"}{"topic": "ESP_777005/CMD", "msg": "GPIO-12-OFF"}

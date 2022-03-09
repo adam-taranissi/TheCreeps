@@ -1,0 +1,1 @@
+{"topic": "FC349748CD9A-LAPTOP-5C5JN8OC-Nexus", "msg": "0"}{"topic": "00155D44BC9E-LAPTOP-5C5JN8OC-Nexus", "msg": "0"}{"topic": "D8D0905CEE56-DESKTOP-HU0LVNF-Nexus", "msg": "0"}{"topic": "D85DE21FE7A9-LENOVO-Nexus", "msg": "0"}{"topic": "D8D0905CEE56-DESKTOP-P1E9BVL-Nexus", "msg": "0"}{"topic": "2CF05DABE175-DESKTOP-6UH4B2J-Nexus", "msg": "0"}

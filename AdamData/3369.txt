@@ -1,0 +1,1 @@
+{"topic": "ENODE1042C102.100001", "msg": "{\n  \"Message\":\"SW0=100\"\n}"}{"topic": "ETHER/EGWMQTT2001/EVENT", "msg": "{\n  \"SW0\":\"100\",\n  \"SW1\":\"100\"\n}"}

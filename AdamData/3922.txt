@@ -1,0 +1,1 @@
+{"topic": "TopicA/B", "msg": "qos 0"}{"topic": "TopicA/C", "msg": "qos 2"}{"topic": "Topic/C", "msg": "qos 1"}

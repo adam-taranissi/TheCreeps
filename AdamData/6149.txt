@@ -1,0 +1,1 @@
+{"topic": "domoticz/out/LWT", "msg": "Connected"}{"topic": "abc/123", "msg": "XYZ"}{"topic": "domoticz/in", "msg": "{\"idx\":6,\"RSSI\":8,\"nvalue\":0,\"svalue\":\"16.7;99.9;3\"}"}

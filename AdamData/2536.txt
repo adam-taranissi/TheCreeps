@@ -1,0 +1,1 @@
+{"topic": "data/trade/binance/solusdt", "msg": "{\"Id\":241688605,\"Symbol\":\"\",\"Price\":\"88.05\",\"Quantity\":\"0.37\",\"Time\":\"2022-03-09T06:40:12.727Z\"}"}{"topic": "data/trade/binance/solusdt", "msg": "{\"Id\":241688606,\"Symbol\":\"\",\"Price\":\"88.06\",\"Quantity\":\"8.01\",\"Time\":\"2022-03-09T06:40:13.198Z\"}"}

@@ -1,0 +1,1 @@
+{"topic": "/test/PM2.5", "msg": "Mon, 08 Oct 2018 15:23:27 GMT : PM2.5 1941.31 pcs/0.01cf\r\n"}{"topic": "temperature", "msg": "11.220680720841782"}{"topic": "/sns-demo/3319/0/5700", "msg": "0"}{"topic": "/sns-demo/3346/1/5700", "msg": "0"}{"topic": "/sns-demo/3325/15/5700", "msg": "4"}{"topic": "/sns-demo/3325/17/5700", "msg": "10"}

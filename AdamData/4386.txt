@@ -1,0 +1,1 @@
+{"topic": "abc/123", "msg": "XYZ"}{"topic": "green_energy/PJ_Airport/", "msg": "{\"Actual_Output\": 0.0, \"Charge_Discharge\": 0.0, \"Shortwave_Radiation_sfc_W_m2\": 0.0, \"recorded_time\": 1646817391.0819697, \"data_category\": \"Green Enegry, PJ Airport\", \"site\": \"PJ_Airport\", \"userid\": \"-1\"}"}

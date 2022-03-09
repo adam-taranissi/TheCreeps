@@ -1,0 +1,1 @@
+{"topic": "my/publish/topic", "msg": "23/07"}{"topic": "abc/123", "msg": "XYZ"}

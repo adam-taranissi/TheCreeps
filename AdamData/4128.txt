@@ -1,0 +1,1 @@
+{"topic": "ActiveMQ/Advisory/MasterBroker", "msg": ""}{"topic": "abc/123", "msg": "XYZ"}{"topic": "ActiveMQ/Advisory/Consumer/Topic/#", "msg": ""}

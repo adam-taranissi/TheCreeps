@@ -1,0 +1,1 @@
+{"topic": "config", "msg": "BDR:500"}

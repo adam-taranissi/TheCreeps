@@ -1,0 +1,1 @@
+{"topic": "iot-2/type/dtu/id/355284081097504/evt/bridge-notification/fmt/int", "msg": "1"}

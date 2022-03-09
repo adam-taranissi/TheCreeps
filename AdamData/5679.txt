@@ -1,0 +1,1 @@
+{"topic": "iot_data", "msg": "{\"data\":30}"}{"topic": "Temperature", "msg": "30"}{"topic": "TestTemperature", "msg": "91"}

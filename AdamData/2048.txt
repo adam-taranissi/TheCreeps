@@ -1,0 +1,1 @@
+{"topic": "joi/001", "msg": "9"}{"topic": "joi/002", "msg": "9"}{"topic": "joi/002/ftemp", "msg": "75.20"}{"topic": "joi/002/ctemp", "msg": "24.00"}{"topic": "joi/002/hum", "msg": "16.90"}{"topic": "joi/001/ftemp", "msg": "33.80"}{"topic": "joi/001/ctemp", "msg": "1.00"}{"topic": "joi/001/hum", "msg": "57.10"}

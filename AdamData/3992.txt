@@ -1,0 +1,1 @@
+{"topic": "STATE/AVEVA-MQTT", "msg": "ONLINE"}

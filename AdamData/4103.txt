@@ -1,0 +1,1 @@
+{"topic": "test", "msg": "test"}{"topic": "/0000", "msg": "tester"}

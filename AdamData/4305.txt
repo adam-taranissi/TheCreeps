@@ -1,0 +1,1 @@
+{"topic": "abc/123", "msg": "XYZ"}{"topic": "powerbox/control/20C718", "msg": "CM/ON/OFF/OFF/OFF/1565200659"}{"topic": "powerbox/control/20B9F0", "msg": "CM/ON/OFF/OFF/OFF/1565200659"}{"topic": "powerbox/control/20C1B0", "msg": "CM/OFF/OFF/OFF/OFF/1565200659"}

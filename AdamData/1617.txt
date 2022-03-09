@@ -1,0 +1,1 @@
+{"topic": "esp/dht/temperature", "msg": "24.40"}{"topic": "esp/dht/humidity", "msg": "50.00"}

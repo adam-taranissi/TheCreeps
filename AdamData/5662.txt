@@ -1,0 +1,1 @@
+{"topic": "home/status", "msg": "off"}{"topic": "home/out", "msg": "on"}{"topic": "openevse/announce/ac67b205b010", "msg": "{\"state\":\"disconnected\",\"id\":\"ac67b205b010\",\"name\":\"openevse-b010\"}"}{"topic": "openevse/announce/c44f335ffad1", "msg": "{\"state\":\"disconnected\",\"id\":\"c44f335ffad1\",\"name\":\"openevse-fad1\"}"}{"topic": "abc/123", "msg": "XYZ"}

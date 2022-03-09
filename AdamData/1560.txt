@@ -1,0 +1,1 @@
+{"topic": "Kalugin/Sensors/Backdoor Keypad Sensor", "msg": "Online"}{"topic": "Kalugin/Sensors/Backdoor Keypad Sensor/Door", "msg": "Closed"}{"topic": "Kalugin/Sensors/Backdoor Keypad Sensor/Door Lock", "msg": "Locked"}{"topic": "BlueIris/status", "msg": "signal=1\nprofile=1\nlock=0\nschedule=Default\n"}{"topic": "BlueIris/app", "msg": "running"}

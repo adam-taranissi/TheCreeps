@@ -1,0 +1,1 @@
+{"topic": "ZigbeeBridge_AA4C82/tele/LWT", "msg": "Online"}{"topic": "4CHPROR3_2E70D2/tele/LWT", "msg": "Online"}{"topic": "wled/15e4e4/g", "msg": "128"}{"topic": "wled/15e4e4/c", "msg": "#FFA000"}{"topic": "wled/15e4e4/status", "msg": "offline"}{"topic": "ZigbeeBridge_9EBCCE/tele/LWT", "msg": "Offline"}{"topic": "ZigbeeBridge_Juanito/tele/LWT", "msg": "Offline"}

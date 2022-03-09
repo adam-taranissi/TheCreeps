@@ -1,0 +1,1 @@
+{"topic": "frigate/available", "msg": "offline"}

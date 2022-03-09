@@ -1,0 +1,1 @@
+{"topic": "YUBOX/SOLCATermostato/YUBOX-7CDFA1061854", "msg": "{\"temp\":20.31624603,\"hum\":61.50911713}"}

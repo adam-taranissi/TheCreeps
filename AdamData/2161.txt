@@ -1,0 +1,1 @@
+{"topic": "tele/TASMOTA_022/LWT", "msg": "Online"}{"topic": "tele/TASMOTA_033/LWT", "msg": "Online"}{"topic": "tele/TASMOTA_029/LWT", "msg": "Online"}{"topic": "tele/TASMOTA_024/LWT", "msg": "Online"}

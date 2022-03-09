@@ -1,0 +1,1 @@
+{"topic": "VersaTest99", "msg": "hello 10: Tue Jul 14 15:49:50 EDT 2020"}{"topic": "abc/123", "msg": "XYZ"}

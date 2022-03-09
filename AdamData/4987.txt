@@ -1,0 +1,1 @@
+{"topic": "tower-1/w\u000b\u0455\u027dpump/state", "msg": "0"}{"topic": "power-1/status", "msg": "OFFLINE"}{"topic": "tower-1/box/reset", "msg": "0"}{"topic": "tower-1/box/temp", "msg": "31"}{"topic": "tower-1/status", "msg": "OFFLINE"}{"topic": "tower-1/env/hum", "msg": "55"}

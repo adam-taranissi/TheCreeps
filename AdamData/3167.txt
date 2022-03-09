@@ -1,0 +1,1 @@
+{"topic": "micrometer", "msg": "-005.0433"}{"topic": "micrometer", "msg": "-005.0433"}{"topic": "micrometer", "msg": "-005.0433"}{"topic": "micrometer", "msg": "-005.0433"}{"topic": "micrometer", "msg": "-005.0433"}{"topic": "micrometer", "msg": "-005.0433"}

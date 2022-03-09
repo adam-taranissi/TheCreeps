@@ -1,0 +1,1 @@
+{"topic": "habitat1/status_out", "msg": "{\"uv\":false,\"calor\":true,\"pump\":false}"}{"topic": "habitat1/data", "msg": "{\"temp\":15.60,\"hum\":89.00,\"wlevel\":0}"}

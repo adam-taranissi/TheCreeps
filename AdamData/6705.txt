@@ -1,0 +1,1 @@
+{"topic": "test/topic", "msg": "5"}{"topic": "test1/topic", "msg": "00\u0000\u0000"}{"topic": "test/topic/m1", "msg": "5"}{"topic": "test1/topic/dash", "msg": "61"}

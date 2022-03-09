@@ -1,0 +1,1 @@
+{"topic": "house/bulbs/bulb1", "msg": "ON 70"}{"topic": "house/bulbs/bulb1/notExists", "msg": "OFF 3"}

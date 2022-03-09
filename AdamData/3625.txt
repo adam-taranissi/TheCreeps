@@ -1,0 +1,1 @@
+{"topic": "ws/bga", "msg": "{\"windspeed\":24.00,\"winddirection\":\"N\"}"}

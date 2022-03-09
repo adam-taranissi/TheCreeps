@@ -1,0 +1,1 @@
+{"topic": "test", "msg": "385"}{"topic": "out/wcs/v0", "msg": "1"}{"topic": "out/wcs/slider", "msg": "201"}{"topic": "out/wcs/rgbled_test", "msg": "#ff5555"}

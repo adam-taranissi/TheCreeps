@@ -1,0 +1,1 @@
+{"topic": "sensor/BL1HT", "msg": "H:55.5:T:44.1:OFF"}{"topic": "sensor/BL2HT", "msg": "H:55.9:T:45.5:OFF"}{"topic": "sensor/HT1", "msg": "H:44.3:T:59.2:OFF"}{"topic": "sensor/SHHT1Outlet", "msg": "H:46.9:T:59.9:OFF"}{"topic": "sensor/BL1MotionCrawl", "msg": "OFF"}

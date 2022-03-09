@@ -1,0 +1,1 @@
+{"topic": "condo/heat/set", "msg": "OFF"}{"topic": "house/front/light", "msg": "ON"}

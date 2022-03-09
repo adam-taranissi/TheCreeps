@@ -1,0 +1,1 @@
+{"topic": "sensors", "msg": "{\"device\":\"TCAN1\",\"Temperature\":20.68742,\"Humidity\":68.45808,\"Level\":375.585}"}{"topic": "health", "msg": "{\"device\":\"TCAN1\",\"Bootcount\":279,\"Battery\":83}"}

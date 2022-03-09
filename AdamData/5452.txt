@@ -1,0 +1,1 @@
+{"topic": "AIR_CLEANER/C/e8db84de58ed", "msg": "{\"command\":\"STAT\", \"h\":0, \"t\":0, \"pm\":\"25:0\", \"om\":4, \"f\":0, \"v\":0, \"p\":0}"}{"topic": "AIR_CLEANER/C/e8db84de58ed", "msg": "{\"command\":\"STAT\", \"h\":0, \"t\":0, \"pm\":\"25:0\", \"om\":4, \"f\":0, \"v\":0, \"p\":0}"}

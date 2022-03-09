@@ -1,0 +1,1 @@
+{"topic": "BlueIris/app", "msg": "running"}{"topic": "BlueIris/status", "msg": "signal=1\nprofile=1\nlock=0\nschedule=Default\n"}{"topic": "abc/123", "msg": "XYZ"}

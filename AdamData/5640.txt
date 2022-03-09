@@ -1,0 +1,1 @@
+{"topic": "cheerlightsRGB", "msg": "#ffc0cb"}{"topic": "cheerlights", "msg": "pink"}

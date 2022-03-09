@@ -1,0 +1,1 @@
+{"topic": "spBv1.0", "msg": "hello"}{"topic": "jalopi", "msg": "hi ridge"}

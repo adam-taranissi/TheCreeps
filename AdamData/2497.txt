@@ -1,0 +1,1 @@
+{"topic": "ESPURNA_83A25C/brightness", "msg": " \t\u0005"}

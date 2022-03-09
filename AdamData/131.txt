@@ -1,0 +1,1 @@
+{"topic": "test/test", "msg": "WAGOPub123456789"}

@@ -1,0 +1,1 @@
+{"topic": "my_topic", "msg": "235"}{"topic": "iot/door/humidity", "msg": "99.90"}{"topic": "iot/door/temperature", "msg": "23.80"}{"topic": "iot/door/hall", "msg": "0"}

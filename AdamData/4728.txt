@@ -1,0 +1,1 @@
+{"topic": "esp32_1/dht22/ctemperature", "msg": "26.70"}{"topic": "esp32_1/dht22/humidity", "msg": "46.80"}{"topic": "esp32_1/dht22/ftemperature", "msg": "80.06"}{"topic": "esp32/dht22/ctemperature", "msg": "26.30"}{"topic": "esp32/dht22/humidity", "msg": "70.30"}{"topic": "esp32/dht22/ftemperature", "msg": "79.34"}

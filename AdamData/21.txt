@@ -1,0 +1,1 @@
+{"topic": "homeGW-in/here", "msg": "Retained Message here"}{"topic": "topic/here", "msg": "Message here"}

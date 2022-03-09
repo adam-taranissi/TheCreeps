@@ -1,0 +1,1 @@
+{"topic": "test/topic", "msg": "{\"value\": 200988 }"}{"topic": "my/subscribe/topic", "msg": "AFV:2.0.0"}

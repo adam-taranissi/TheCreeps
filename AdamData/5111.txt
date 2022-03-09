@@ -1,0 +1,1 @@
+{"topic": "Alfalfa-X/rssi", "msg": "-72"}{"topic": "Turbo/rssi", "msg": "-62"}{"topic": "Otto/rssi", "msg": "-52"}{"topic": "Alfalfa-X/rssi", "msg": "-72"}{"topic": "Turbo/rssi", "msg": "-62"}{"topic": "Otto/rssi", "msg": "-52"}{"topic": "Alfalfa-X/rssi", "msg": "-72"}

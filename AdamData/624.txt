@@ -1,0 +1,1 @@
+{"topic": "23/heartbeat", "msg": "{\"hardwareId\":\"23\",\"text\":\"Heartbeat\"}"}{"topic": "24/heartbeat", "msg": "{\"hardwareId\":\"24\",\"text\":\"Heartbeat\"}"}{"topic": "25/heartbeat", "msg": "{\"hardwareId\":\"25\",\"text\":\"Heartbeat\"}"}

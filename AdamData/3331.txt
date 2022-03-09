@@ -1,0 +1,1 @@
+{"topic": "$SYS/brokers/emqx@127.0.0.1/sysdescr", "msg": "EMQ X Broker"}{"topic": "$SYS/brokers/emqx@127.0.0.1/version", "msg": "4.2.11"}{"topic": "$SYS/brokers", "msg": "emqx@127.0.0.1"}

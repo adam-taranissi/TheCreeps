@@ -1,0 +1,1 @@
+{"topic": "abc/123", "msg": "XYZ"}{"topic": "cmpc/santafe/status", "msg": "ClienteMqttPI killed"}

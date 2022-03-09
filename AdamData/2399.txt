@@ -1,0 +1,1 @@
+{"topic": "cloud/device/status/udc", "msg": "{\"DeviceName\":\"udc\",\"DeviceStatus\":2,\"SSHStatuses\":null}"}{"topic": "cloud/device/status/AMS", "msg": "{\"DeviceName\":\"AMS\",\"DeviceStatus\":1,\"SSHStatuses\":null}"}{"topic": "cloud/device/status/udc-server", "msg": "{\"DeviceName\":\"udc-server\",\"DeviceStatus\":1,\"SSHStatuses\":null}"}

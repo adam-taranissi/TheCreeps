@@ -1,0 +1,1 @@
+{"topic": "raspberry/realTMS", "msg": "{\"sensorID\": \"sensor1\", \"timestamp\": \"Tue Jan 11 18:14:59 2022\", \"pH\": \"7.06\", \"EC\": \"0.00\", \"temperature\": \"25.5\", \"NTU\": \"1373\", \"DO\": \"8054\"}"}

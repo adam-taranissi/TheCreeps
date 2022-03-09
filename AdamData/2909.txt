@@ -1,0 +1,1 @@
+{"topic": "firmware", "msg": "{\n    \"cmd\": \"1002\",\n    \"mac\": \"c8df844d9f10\",\n    \"origin\": \"firmware\"\n}\n"}{"topic": "web_ang", "msg": "{\"cmd\":\"1002\",\"origin\":\"firmware\",\"mac\":\"c8df844d9f10\",\"uuid\":\"1234\",\"status\":\"online\",\"deviceName\":\"REC_DEV1\",\"livestream\":\"false\"}"}

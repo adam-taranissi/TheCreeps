@@ -1,0 +1,1 @@
+{"topic": "demo10", "msg": "90"}{"topic": "wallpanel/mywallpanel/connection", "msg": "offline"}

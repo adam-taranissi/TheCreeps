@@ -1,0 +1,1 @@
+{"topic": "elabra/tpx2/primario/desgaste", "msg": "LOOP"}

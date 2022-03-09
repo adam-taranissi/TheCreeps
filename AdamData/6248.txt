@@ -1,0 +1,1 @@
+{"topic": "wfw", "msg": "WifiWall Registered now..."}{"topic": "abc/123", "msg": "XYZ"}

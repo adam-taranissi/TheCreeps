@@ -1,0 +1,1 @@
+{"topic": "STATE/ACM", "msg": "OFFLINE"}{"topic": "STATE/ACM", "msg": "OFFLINE"}{"topic": "STATE/ACM", "msg": "OFFLINE"}

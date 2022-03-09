@@ -1,0 +1,1 @@
+{"topic": "/system/b8:27:eb:3f:9a:5b/event/hb", "msg": "{}"}

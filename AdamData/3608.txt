@@ -1,0 +1,1 @@
+{"topic": "Kuzzle/request", "msg": "{\"e\":[{\"n\":\"0\", \"v\":[2550], \"o\":\"ca49dfp6idv8ltayxgf8i3pmhqv3dr9lnv5jbxi8tha69lamcqu895dzsl1k\", \"t\":\"1641642529000\"},{\"n\":\"1\", \"v\":[53.429996], \"o\":\"cgwkm8zose0vfe9yo4spx5ptzxog0wkuusc4f18gi8z4vd71x3k3tvhpyljl\", \"t\":\"1641642529000\"}],\"bn\":\"359215105261094:\"}"}

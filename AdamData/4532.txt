@@ -1,0 +1,1 @@
+{"topic": "1GCGG29W1X0ADF5JL/request", "msg": "{\"cmd\":[{\"cmdType\":\"DoorLock\",\"FDL\":1,\"FDR\":1,\"RDL\":1,\"RDR\":1}],\"reqID\":\"9bcd4b20-312f-4231-8675-ca74ce7a1b71\",\"reqTO\":120,\"reqTS\":1641335247285,\"vin\":\"1GCGG29W1X0ADF5JL\"}"}

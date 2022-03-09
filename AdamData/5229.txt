@@ -1,0 +1,1 @@
+{"topic": "init/v1.0/system/server/state", "msg": "{\"state\":\"ONLINE\"}"}

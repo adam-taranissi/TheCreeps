@@ -1,0 +1,1 @@
+{"topic": "moblab/things/860536040898563/commands", "msg": "{}"}

@@ -1,0 +1,1 @@
+{"topic": "/TOPIC", "msg": "HELLO"}{"topic": "/PUB/E8:DB:84:9D:A5:F0/JSON", "msg": "{\"MAC\":\"E8:DB:84:9D:A5:F0\",\"RPTCNT\":210822,\"TEMP\":85.8}"}{"topic": "/PUB/E8:DB:84:9D:A5:F0/JSON", "msg": "{\"MAC\":\"E8:DB:84:9D:A5:F0\",\"RPTCNT\":210823,\"TEMP\":85.8}"}

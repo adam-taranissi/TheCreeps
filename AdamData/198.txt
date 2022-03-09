@@ -1,0 +1,1 @@
+{"topic": "gateway/a840411dab044150/state/conn", "msg": "{\"gatewayID\":\"qEBBHasEQVA=\",\"state\":\"OFFLINE\"}"}

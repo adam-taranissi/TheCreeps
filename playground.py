@@ -20,11 +20,12 @@ def on_connect(client, userdata, flags, rc):
 def on_message(client, userdata, msg):
     result = {}
     result["topic"] = msg.topic
-    result["msg"] = str(msg.payload.decode("ASCII"))
+    result["msg"] = str(msg.payload.decode("utf-8"))
     output = json.dumps(result)
     global fname
     f = open(fname, "a")
     f.write(output)
+    f.write("\n")
     f.close()
 
 client = mqtt.Client()
@@ -37,10 +38,17 @@ client.on_message = on_message
 # client.loop_forever()
 
 fname = ""
-for i in range(50, 100):
+for i in range(len(data)):
     fname = str(i) + ".txt"
     try:
         client.connect(data['IP'][i], 1883, 60)
+        f = open(fname, "a")
+        result = {}
+        result["IP"] = data["IP"][i]
+        output = json.dumps(result)
+        f.write(output)
+        f.write("\n")
+        f.close()
     except:
         print("could not connect to ", data["IP"][i])
         continue
@@ -54,6 +62,6 @@ for i in range(50, 100):
                 break
     except KeyboardInterrupt:
         print('KeyboardInterrupt')
-        
+        break
     client.loop_stop()
 
